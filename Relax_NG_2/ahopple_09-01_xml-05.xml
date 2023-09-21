@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="GitHub/Intro/Relax_NG_2/Relax_NG_2.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
   <poemInfo>  
-      <metadeta>
-        <poemName>"Ballad of Booker T.,"</poemName> by <author>Langston Hughes</author>, <date>June 1,
-            1941</date></metadeta>
+      <metadata>
+        <poemName>"Ballad of Booker T.,"</poemName> <author> by Langston Hughes,</author> <date>June 1,
+            1941</date></metadata>
     
-    <title><poemName>BALLAD OF BOOKER T.</poemName> by <author>Langston Hughes</author></title>
+    <title><poemName>BALLAD OF BOOKER T.</poemName> <author>by Langston Hughes</author></title>
     
     <seal affixed= "The Library of Congress">THE LIBRARY OF CONGRESS</seal></poemInfo>
     
@@ -13,11 +15,7 @@
         and I wrote that it was affixed by the Library of Congress. -->
     
    <poem> 
-       <verse n="1"><person>Booker T.</person> Was a practical man. He said, <quote><action>Till</action> the
-        soil And <action>learn</action> from the <place>land</place>. Let down your
-        <container>bucket</container> Where you are. Your fate is here And not
-        <distance>afar</distance>. To <action>help</action> yourself And your fellow man,
-        <action>Train</action> your head, Your heart, and your hand.</quote></verse>
+       <verse n="1"><person>Booker T.</person> Was a practical man. He said, <quote> Till the soil and learn from the land. Let down your bucket Where you are. Your fate is here And not afar. To help yourself And your fellow man, Train your head, Your heart, and your hand.</quote></verse>
         <!-- This is a reference to a quote by Booker T. Washington he made while giving out a speech in Atlanta in 1895. -->
        
         <verse n="2">For smartness alone's Surely not <action>meet</action>— If you haven't at the same time Got
@@ -28,14 +26,13 @@
        
        <verse n="3">Sometimes he had Compromise in his talk— For a man must <action>crawl</action> Before he can walk— And
         in <state>Alabama</state> in <year is="1885">'85</year> A joker was <feeling>lucky</feeling>
-        To be alive. But <person>Booker T.</person> Was nobody's fool: You may <action using="tool"
-            >carve</action> a dream With an humble tool. The tallest <building>tower</building> Can
-        <action>tumble</action> down If it be not <action dest="ground">rooted</action> In solid
+        To be alive. But <person>Booker T.</person> Was nobody's fool: You may <action>carve</action> a dream With an humble tool. The tallest <building>tower</building> Can
+        <action>tumble</action> down If it be not <action>rooted</action> In solid
         ground. </verse>
        
        <verse n="4">So, being a far-seeing Practical man, He <action>said</action>, <quote>Train your
-            head, Your heart, and your hand. Your fate is here And not <distance>afar</distance>, So
-            let down your <container>bucket</container> Where you are.</quote></verse></poem>
+            head, Your heart, and your hand. Your fate is here And not afar, So
+            let down your bucket Where you are.</quote></verse></poem>
     
     <!--I divided the poem into four verses. -->
     
@@ -43,12 +40,12 @@
         
         <signature>LANGSTON HUGHES</signature>
         
-        <draft type="final">Final Draft</draft>, <location>Hollow Hills Farm, <city>Monterey</city>,
-            <state>California</state></location>, <date>June 1, 1941</date>.</publicationInfo>
+        <draft type="final">Final Draft,</draft> <city>Hollow Hills Farm, Monterey,</city>
+            <state>California,</state> <date>June 1, 1941</date>.</publicationInfo>
     
-    <source>Citation: Drafts of Langston Hughes's poem "Ballad of Booker T.," <date>30 May–1 June
-        1941</date>. <collection type="Drafts">(Langston Hughes Collection)</collection>
-        <sourceLocation><section>Manuscript Division</section>, <place>Library of Congress</place>, <city>Washington,
+    <source><citation>Citation: Drafts of Langston Hughes's poem "Ballad of Booker T.," </citation> <date>30 May–1 June
+        1941.</date> <collection type="Drafts">(Langston Hughes Collection)</collection>
+        <sourceLocation><section>Manuscript Division,</section> <city>Library of Congress, Washington,
             D.C.</city></sourceLocation></source>
     <!-- What a nice ballad explaining the importance of Booker T. Washington! -->
     <!--Here, I divided the publication info wrapping, and I also added more info about the source material for the poem,

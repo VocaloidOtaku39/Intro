@@ -1,0 +1,38 @@
+start = root
+root = element root {poemInfo, poem, publicationInfo,source}
+
+poemInfo = element poemInfo {metadata, title, seal, text}
+metadata = element metadata {poemName, author, date}
+poemName = element poemName {text}
+author = element author {text}
+date = element date {text}
+title = element title {poemName, author, text}
+seal = element seal {affixed, text}
+affixed = attribute affixed {"The Library of Congress"}
+
+poem = element poem {verse+}
+verse = element verse {n, text, mixed {(person | quote | action* | place | time | state | year | feeling | building)*}}
+person = element person {text}
+quote = element quote {text}
+action = element action {text}
+place = element place {located?, text}
+located = attribute located {"Tuskegee"}
+time = element time {text}
+state = element state {text}
+year = element year {is, text}
+is = attribute is {"1885"}
+feeling = element feeling {text}
+building = element building {text}
+n = attribute n {xsd:integer}
+
+publicationInfo = element publicationInfo {signature, draft, city, state, date, text}
+signature = element signature {text}
+draft = element draft {type, text}
+city = element city {text}
+type = attribute type {"final" | "Drafts"}
+
+source = element source {citation, date, collection, sourceLocation, text}
+citation = element citation {text}
+collection = element collection {type, text}
+sourceLocation = element sourceLocation {section, city}
+section = element section {text}

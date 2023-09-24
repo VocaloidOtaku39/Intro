@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="GitHub/Intro/Relax_NG_3/ahopple_09-25_rng-03.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <metadata>
+        <title>The Google Pixel 8’s latest leak shows off big AI camera updates</title>
+
+        <subtitle>The Pixel 8 gets new AI photo editing features as well as manual DSLR-style
+            controls, according to a leaked video. <author by="WesDavis">By Wes Davis, a weekend
+                editor who covers the latest in tech and entertainment. He has written news,
+                reviews, and more as a tech journalist since 2020.</author></subtitle>
+
+        <date from="2023-09-23">Sep 23, 2023, 1:25 PM EDT</date>
+    </metadata>
+
+    <article>
+
+        <paragraph n="1">Pixel 8 camera specs and a new AI promo video for the phone were posted by
+            91Mobiles, courtesy of leaker Kamila Wojciechowska, giving us our first real look at how
+            Google will integrate more AI into its flagship smartphones (via
+            9to5Google).</paragraph>
+
+        <paragraph n="2">Magic Editor, which the company said earlier this year would come to
+            “select” Pixel phones, is like a supercharged version of Magic Eraser. It enables you to
+            remake any picture you take so it looks like you want it to. That’s shown in a
+            demonstration where a person takes three pictures of a family on a carousel and combines
+            them into one shot so that everyone is smiling and looking at the camera at the same
+            time.</paragraph>
+
+        <paragraph n="3">The company also demonstrates Magic Editor by moving subjects around in an
+            image, pulling out background objects, and replacing the midday sky with a sunset, which
+            also changes the whole vibe of the picture’s lighting. It's all very similar to what
+            Google first showed at I/O back in May. It’s also good fodder for the debate about the
+            increasingly blurred line between what’s real and what’s not in photography.</paragraph>
+
+        <paragraph n="4">The video also shows off new DSLR-style manual camera controls that let you
+            tweak the shutter speed and ISO of an image, as well as a focus slider, rather than the
+            usual tap-to-focus fare of built-in camera apps.</paragraph>
+
+        <!-- In this area is a social media post by Za_Raczke. -->
+
+        <paragraph n="5">Specs Wojciechowska posted show the Pixel 8 Pro getting the better camera
+            system with a new 48MP ultrawide camera with a 125.5-degree field of view and a 48MP
+            telephoto, while both cameras get a 50MP wide camera. The specs also show the Pixel 8
+            getting a similar 12MP ultrawide camera to the one from the Pixel 7 Pro, increasing its
+            field of view from 114 degrees to 125.8.</paragraph>
+    </article>
+
+    <!-- original source = https://www.theverge.com/2023/9/23/23886765/google-pixel-8-pro-camera-specs-leak-ai-magic-editor -->
+
+</root>

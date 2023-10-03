@@ -1,0 +1,19 @@
+ body {
+                background: #ff00d0;
+                font-family: "Arial", "Courier New", monospace;
+            }
+            
+             figure {width:20%;
+             background: /*#EFD6F6*/ #ffffff;;
+            }
+            
+            img {width:80%;}
+            
+            img#PSB {width:10%;}
+            
+            section{
+            background: #00fbff;
+            width:80%;
+            margin:auto;
+            }
+ 

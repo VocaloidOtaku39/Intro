@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: #F1E6A7;
+}
+span.item {
+    color: #00FFFB;
+}
+
+span.mythicdawn {
+    color: #FF7FCE;
+}
+
+span.blades {
+    color: red;
+}
+
+span.daedra {
+    color: #00CC00;
+}
+
+span.character {
+    color: white;
+}

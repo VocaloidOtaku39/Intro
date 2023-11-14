@@ -1,0 +1,36 @@
+/* 2023-11-10 ebb These are just some styling properties I added on the fly as I was working. 
+ * Feel free to modify them and change the selectors / values to match your own output!  */
+body {
+    background-color: #03d7fc;
+}
+
+span.sound {
+    color: red;
+}
+
+.page {border: 4px #ff00bb solid; padding: 2em; width:80%;}
+
+div.panel {border: 4px white solid; padding: 1em; width: 90%;}
+
+table { border-collapse: collapse; width: 100%;
+border: 4px solid #ff00bb;
+
+}
+
+tr {border-collapse: collapse; border: 0}
+
+th
+{ border-collapse: collapse;
+border: 1px solid  #ffb0fa;
+background-color: #a973ff /*#7E967E*/;
+padding: 1px;
+vertical-align:top;
+}
+
+td 
+{ border-collapse: collapse;
+border: 4px solid white;
+padding: 7px;
+vertical-align:top;
+}
+ 

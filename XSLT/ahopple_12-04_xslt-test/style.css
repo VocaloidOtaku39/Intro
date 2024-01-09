@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: red;
+}
+
+span.location {
+    color: white;
+}
+
+span.tech {
+    color: #009FE8;
+}
+
+span.date{
+    color:#ffa600;
+}
+
+span.time{
+    color:#00ff1a;
+}

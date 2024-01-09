@@ -7,14 +7,6 @@
     
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" 
         include-content-type="no" indent="yes"/>
-    
-    <!-- COLLECTION VARIABLES: Uncomment one of these if you need to process a collection!  -->
- <!--   <xsl:variable name="cbml-collection" as="document-node()+" select="collection('cbml/?select=*.xml')"/>-->
-    
-    <!-- 2023-11-08 ebb: MAKE SURE THERE ARE NO EXTRA SPACES in the collection() variable!   -->
-    <!-- Alternative collection variable if your files are nested deeply below where your XSLT is saved: -->    
-   <!-- <xsl:variable name="cbml-DeepNested" as="document-node()+" select="collection('.?select=*.xml;recurse=yes')"/>-->
- 
    
    <xsl:template match="/">
        <html>
@@ -24,10 +16,37 @@
            </head>
            <body>
          
-               <h1><xsl:apply-templates select="title"/></h1> 
-               <div id="readingView">
-                   <xsl:apply-templates select="descendant::body"/>
+               <h1><xsl:apply-templates select="descendant::titleStmt/title"/></h1> 
+               <div id="table">
+                   <xsl:variable name="docTree" as="document-node()" select="current()"/>
+                   <xsl:variable name="myData" as="item()+" select=".//cbml:panel/@characters ! normalize-space() ! 
+                       tokenize(., ' ') => distinct-values() => sort()"/>
+                   <table>
+                       <tr>
+                           <th>
+                               Cast of Characters
+                           </th>
+                           <th>
+                               Pages and Links to their Panels
+                           </th>
+                       </tr>
+                       <xsl:for-each select="$myData"> 
+                           
+                           <tr>
+                               
+                               <td><xsl:value-of select="current()"/></td>
+                               <td>
+                                   <ul>
+                                       <xsl:apply-templates select="$docTree//div[@type='page' and cbml:panel[contains(@characters, current()) ]]" mode="toc"/>
+                                   </ul>
+                               </td>
+                           </tr>
+                           
+                           
+                       </xsl:for-each>
+                   </table>
                </div>
+
           <div id="characterTable">
            
               <!-- We're going to need this in the panel lookup! -->
@@ -40,20 +59,27 @@
           <div id="reading-view">        
             <!-- READING VIEW PROCESSING STARTS HERE. -->
             <xsl:apply-templates select="descendant::body"/>
-              
-              <!--  IF PROCESSING A COLLECTION of XML files, uncomment this / adapt as needed:
-              <xsl:apply-templates select="$cbml-collection//div"/>
-          -->
-          
-          
           </div>
    
            </body>
        </html>
-   </xsl:template> 
-    <xsl:template match="body">
-        <xsl:apply-templates select="./div[@type='page']"/>
+   </xsl:template>
+    
+    <xsl:template match="div[@type='page']" mode="toc">
+        
+        <li>Page <xsl:value-of select="@xml:id ! substring-after(., '_')"/>
+            
+            <ul>
+                <xsl:apply-templates select="descendant::cbml:panel" mode="toc"/>
+            </ul>   
+        </li>
     </xsl:template>
+
+<xsl:template match="cbml:panel" mode="toc">
+    <li>
+        <a href="#{parent::div/@xml:id}-panel-{@n}">Panel <xsl:value-of select="@n"/></a>
+    </li>
+</xsl:template>
     
     <xsl:template match="div[@type='page']">
         <section class="{@type}" id="{@xml:id}">
@@ -111,6 +137,12 @@
         <strong><span class="sound">
             <xsl:apply-templates/>
         </span></strong>
+    </xsl:template>
+    
+    <xsl:template match="cbml:panel">
+        <div class="panel" id="{parent::div/@xml:id}-panel-{@n}">
+          <xsl:apply-templates/>  
+        </div>
     </xsl:template>
    
     

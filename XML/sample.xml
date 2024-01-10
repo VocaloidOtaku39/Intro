@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    Hello. My name is <name>Alyssa Hopple</name>.
+    I am from <city>Wilkes-Barre</city>, <state of="USA">Pennsylvania</state>, and I am Kayla's <familyMember type="sibling">younger twin sister</familyMember>.
+    I am a <grade year="3">junior</grade> at <school campus="Behrend">Penn State University</school>. 
+    My major is <major>DIGIT</major> with a minor in <minor of="DIGIT">video game design</minor>.
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <intro> Hello, my name is <name>Alyssa Hopple</name>. </intro>
+    <explanation> As you can see, this is a sample <archive format="XML">XML file</archive> I made
+        for the first part of my <exam part="1">GitHub Test</exam>. </explanation> I have <action
+        destination="repo">git pushed</action> this to my personal GitHub repo so you can
+        <action>view</action> this and my directory too! </root>

@@ -8,7 +8,12 @@ wordStrings = str(words)
 print(wordStrings)
 
 chatWords = nlp(wordStrings)
-for token in chatWords:
-    # if token.pos_ == "VERB":
-    print(token.text, "---->", token.pos_, ":::::", token.lemma_)
+separator = ','
 
+print("Characters and Items")
+for token in chatWords:
+    if token.pos_ == "PROPN":
+        print(token.text)
+
+for token in chatWords:
+    print(token.text, "---->", token.pos_, ":::::", token.lemma_)

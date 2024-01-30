@@ -8,7 +8,6 @@ wordStrings = str(words)
 print(wordStrings)
 
 chatWords = nlp(wordStrings)
-separator = ','
 
 print("Characters and Items")
 for token in chatWords:

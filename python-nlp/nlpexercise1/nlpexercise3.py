@@ -13,7 +13,7 @@ print("inside this directory are the following files AND directories: " + str(in
 
 # use os.path.join to connect the subdirectory to the working directory:
 CollPath = os.path.join(workingDir, 'nlpexercise2')
-print(CollPath)
+print(f'{CollPath=}')
 
 def readTextFiles(filepath):
     with open(filepath, 'r', encoding='utf8') as f:
@@ -26,7 +26,7 @@ def readTextFiles(filepath):
 
         vectors = chatwords.vector
 
-        wordofinterest = nlp(u'Metroid')
+        wordofinterest = nlp(u'Ridley')
         print(wordofinterest, ' : ', wordofinterest.vector_norm)
 
         highSimilarityDict = {}

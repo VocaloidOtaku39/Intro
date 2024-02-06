@@ -5,3 +5,15 @@ C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercis
 C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-claude-results.txt
 {Metroid: 1.0, Metroids: 0.9999998876231866}
 
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-chatgpt-results.txt
+{Metroid: 1.0, Power: 0.3063930500651759}
+
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-claude-results.txt
+{Metroid: 1.0, Metroids: 0.9999998876231866}
+
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-chatgpt-results.txt
+{Ridley: 1.0, Berry: 0.5519373318332584, Hunter: 0.4553541075775308, Gouda: 0.4528940322734236, Curry: 0.37785906552463416, Ball: 0.3081466502963028}
+
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-claude-results.txt
+{Ridley: 1.0, Fry: 0.3596269007612656, Claude: 0.3392854702257895, Balls: 0.3081466502963028}
+

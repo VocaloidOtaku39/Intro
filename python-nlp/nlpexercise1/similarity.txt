@@ -1,0 +1,7 @@
+
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-chatgpt-results.txt
+{Metroid: 1.0, Power: 0.3063930500651759}
+
+C:\Users\Alyssa Hopple\Documents\GitHub\Intro\python-nlp\nlpexercise1\nlpexercise2/ahopple-claude-results.txt
+{Metroid: 1.0, Metroids: 0.9999998876231866}
+

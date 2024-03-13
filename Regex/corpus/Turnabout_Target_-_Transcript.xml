@@ -1,0 +1,3211 @@
+<xml>
+
+<title>Turnabout Target</title>
+
+<line>
+</line>
+</th></tr>
+<tr>
+<td class="navbox1rowname">
+</td>
+<td colspan="2" class="navbox1rowdata">
+<line><i>Leads to:</i>
+"What do you want?"
+</line>
+</td></tr></tbody></table>
+
+
+<line>Bodyguard:
+What do you want?
+</line><line>Edgeworth:
+You are the president's bodyguards, correct? What was the president's security detail like during the speech?
+</line><line>Bodyguard:
+The president had his two best men by his side. The rest were stationed near the stage area. We are professionals. We constantly kept our eyes on the crowd, scanning for any signs of suspicious activity.
+</line><line>Edgeworth:
+I see... In other words, security was <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Security during the speech - Security was flawless. Any suspicious people would&#39;ve been noticed.">flawless during the president's speech</textEffects></span><textEffects> (Security during the speech - Security was flawless. Any suspicious people would've been noticed.)</textEffects></span>. Let's keep going. We should talk to other people and examine anything suspicious... ...in order to collect the remaining pieces of information from the scene of the crime. ...Hm?
+</line><line>???:
+I see! So that's how ya round up yer info. So, whaddaya do with all that info after it's squared away?
+</line><line>Edgeworth:
+<textEffects>(Someone in the crowd is making quite a ruckus, but I don't have time for that now.)</textEffects>
+</line><line>???:
+Heeey, Mr. Prosecutooor! Tell me how! Please!
+</line><line>Gumshoe:
+After gathering some pieces of <textEffects>information</textEffects>, you try to find the connections between them.
+</line><line>Edgeworth:
+Detective!
+</line><line>???:
+Hey now, don't be such a stick-in-the-mud! What's this about findin' connections?
+</line><line>Gumshoe:
+You <textEffects>connect</textEffects> the two pieces of <textEffects>information</textEffects> that share a link. That's Mr. Edgeworth's specialty. It's called <textEffects>Logic</textEffects>, pal!
+</line><line>Edgeworth:
+<textEffects>(Press the <span style="color:#E16935">L Button</textEffects> to use <textEffects>Logic</textEffects>, and the <textEffects>X Button</textEffects> to <textEffects>connect my thoughts</textEffects>... I should start by pressing the <textEffects>L Button</textEffects> to use <textEffects>Logic</textEffects>.)</span>
+</line>
+
+<line>Edgeworth:
+Someone was able to fire a gun under flawless security. And they were able to avoid being spotted by professional bodyguards... This is no easy task. There had to be a certain amount of <textEffects>preparation</textEffects> beforehand. It's very likely that the <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Assassination attempt - The president was targeted during his speech. This was likely a premeditated crime.">president's assassination</textEffects></span><textEffects> (Assassination attempt - The president was targeted during his speech. This was likely a premeditated crime.)</textEffects></span> was a premeditated crime.
+</line><line>Gumshoe:
+I expected nothing less from Mr. Edgeworth. What brilliant <textEffects>Logic</textEffects>, sir!
+</line><line>Edgeworth:
+Yes, well... When you follow the <textEffects>facts</textEffects> and finds a connection, you will begin to see the truth. <textEffects>(However... If the information doesn't line up properly, I may stray farther from the truth. But if I think carefully before piecing the leads together, the <span style="color:#E16935">Logic</textEffects> should flow.)</span>
+</line>
+<captions aligned="center"><textEffects>Begin Investigation</textEffects></captions>
+<captions aligned="center"><textEffects>Gourd Lake ParkStage</textEffects></captions>
+<line>Gumshoe:
+OK! Let's start by <textEffects>examining</textEffects> everything we can!
+</line><line>Edgeworth:
+<textEffects>(To <span style="color:#E16935">Examine</textEffects>, I approach anything that looks suspicious and press the <textEffects>A Button</textEffects>. And if I want to <textEffects>consult with Gumshoe</textEffects>, I press the <textEffects>Y Button</textEffects>.)</span>
+</line>
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+<line>Edgeworth:
+There is an unusual hole in this flag.
+</line><line>Gumshoe:
+Ah! You're right!
+</line><line>Edgeworth:
+Judging from the burn marks around the hole... it appears to be a <textEffects>bullet hole</textEffects>.
+</line><line>Gumshoe:
+<textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Flag with a bullet hole - Decorated the right side of the stage. Has a bullet hole.">A bullet hole</textEffects></span><textEffects> (Flag with a bullet hole - Decorated the right side of the stage. Has a bullet hole.)</textEffects></span>? Then the bullet from the gun must've gone through the flag!
+</line>
+</td></tr></tbody></table>
+
+
+<line><i>(Examining flag and Steel Samurai leads to:)</i>
+</line><line>Edgeworth:
+<textEffects>(Hmm, I seem to have gathered a few pieces of pertinent information. Now to calmly use some <span style="color:#E16935">Logic</textEffects> and figure out if any of them are connected to each other.)</span>
+</line>
+</td></tr></tbody></table>
+<line>Edgeworth:
+As a result of the gunshots, there is a bullet hole in a flag and a ruptured balloon...
+</line><line>Gumshoe:
+That must mean two shots were fired, sir!
+</line><line>Edgeworth:
+If we include the shot that hit the president, it's possible that three shots were fired in total. No, it's also possible that the flag and the balloon were punctured by the same bullet. If only we could be certain about the <textEffects>number of gunshots</textEffects>...
+</line>
+<captions aligned="center"><textEffects>Investigation Complete</textEffects></captions>
+<line>Edgeworth:
+Now then, let's continue the investigation... Hm?
+</line><line>???:
+Heeey, Mr. Prosecutooor! If ya find anythin' new, could ya please lemme know?
+</line><line>Edgeworth:
+...I've been wondering for a while now, but who exactly is that woman?
+</line><line>Gumshoe:
+I thought she was just a nosy onlooker, but it looks like she's investigating, too.
+</line><line>???:
+Heeey! Please, I'm beggin' ya!
+</line><line>Edgeworth:
+...... In order to figure out how many shots were fired, we'll need to talk to a witness... ...It can't be helped. Let's try talking to her.
+</line><line>Nicole:
+Ah! Mr. Prosecutor! The name's Nicole Swift! Jus' between you and me, this case is gonna be my exclusive scoop.
+</line><line>Edgeworth:
+<textEffects>(Exclusive...?)</textEffects> Ms. Swift, is it? Could you tell me what you witnessed during...
+</line><line>Nicole:
+So how's yer investigation comin' along?
+</line><line>Edgeworth:
+......
+</line><line>Nicole:
+Y'all got a suspect yet? Where'd ya get that frilly doohickey 'round yer neck?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Edgeworth:
+Could you please stop talking for a moment? I will be the one asking the questions.
+</line><line>Nicole:
+What is this, an interrogation? I reckoned I was gonna get myself an interview...
+</line><line>Edgeworth:
+I'd like to know how many gunshots were fired. Can you please tell me what you saw?
+</line><line>Nicole:
+Weeeeell... I guess... I ain't tellin' ya nuthin'.
+</line><line>Edgeworth:
+What?
+</line><line>Nicole:
+My life depends on info. I ain't givin' it up that easily!
+</line><line>Gumshoe:
+Don't be selfish, pal... Won't you please cooperate with us?
+</line><line>Nicole:
+...Selfish? If ya ain't gonna share no info with me, then I'mma go get it from elsewhere.
+</line><line>Gumshoe:
+W-Wait a minute, pal!
+</line><line>Nicole:
+If I wait, are ya gonna gimme what I want? If not... Adiós amigos!
+</line><line>Gumshoe:
+...She won't budge. We're at a stalemate here.
+</line><line>Edgeworth:
+"A stalemate"... I wonder about that.
+</line><line>Gumshoe:
+Wh-What do you mean, sir?
+</line><line>Edgeworth:
+As you know, chess is one of my hobbies. How does one go on the offensive against a defensive opponent...? There are many tactics available on the chessboard.
+</line><line>Gumshoe:
+R-Really? I don't know much about chess. I prefer checkers...
+</line><line>Edgeworth:
+Even if it appears to be a flawless defense... There is always an opening. Observe, as I break down her defense with my words...!
+</line>
+<hr />
+<line>Edgeworth:
+In order to get her to talk, I'll need to use the right <textEffects>strategy</textEffects>. Using the image of a chess game, I need to stay one step ahead of my opponent...!
+</line>
+<hr />
+<line>Edgeworth:
+Now then... Let's analyze the situation.
+</line><line>Nicole:
+Until ya gimme some info, my trap's sealed shut!
+</line>
+<captions aligned="center"><b>2 CHESS PIECES</b></captions>
+<line>Edgeworth:
+<textEffects>(She has her guard up... So this is her defensive strategy. If I waste too much time, she may grow impatient. I need to pay attention to the <span style="color:#E16935">time limit</textEffects>...)</span> I must not be careless with my words. When my opponent becomes agitated or aggressive...
+</line><line>Nicole:
+I told ya I ain't talkin'! Yer stubborn as a mule!
+</line><line>Edgeworth:
+<textEffects>(For example, during times like this I should calmly <span style="color:#E16935">wait and see</textEffects> how things play out.)</span> The moment my opponent <textEffects>shows an opening</textEffects> I'll be able to strike. First, I should ask about <textEffects>her identity</textEffects>. Now... let us begin!
+</line>
+<captions aligned="center"><textEffects>Begin Logic Chess</textEffects></captions>
+
+<line>Edgeworth:
+First, could you tell me your occupation?
+</line><line>Nicole:
+No way. If I told ya, then ya might get the wrong idea.
+</line><line>Edgeworth:
+The wrong idea...? In other words, it's a job that you cannot tell others about?
+</line><line>Nicole:
+I-I never said that! I ain't some kinda suspicious person!
+</line>
+
+
+<line>Edgeworth:
+......
+</line><line>Nicole:
+I'm just yer run-of-the-mill model citizen.
+</line><line>Edgeworth:
+Please excuse my rudeness. I did not mean to offend you. I may not know the details of your job, but I'm sure that it is a reputable one.
+</line><line>Nicole:
+Eh? W-Well... Y-Ya might be givin' me too much credit, there. I ain't even done any major articles yet...
+</line>
+
+
+<line>Edgeworth:
+Heh... I heard you mention "articles" just now... Does your job involve writing articles by any chance?
+</line>
+<captions aligned="center"><b>1 PIECE BROKEN</b></captions>
+<line>Nicole:
+D-Dangnabbiiiit! ...Th-That's right. I'm an investigative reporter! A bona fide-up-and-comin' news journalist!
+</line><line>Edgeworth:
+I see... A reporter. She may already have some <textEffects>information about the case</textEffects>. This will be my next line of questioning. ...This is where the real battle begins. I'll need to draw out even more information from her.
+</line>
+
+
+</td></tr></tbody></table>
+
+
+<line>Edgeworth:
+........
+</line><line>Nicole:
+This is my livelihood here... Please, I'm beggin' ya.
+</line><line>Edgeworth:
+If you stick your head in too deep, you may putting yourself in danger.
+</line><line>Nicole:
+...I-I'm a pro after all. A few gunshots... don't scare me.
+</line>
+
+
+<line>Edgeworth:
+...Heh. I'll admit, you're dedicated to your job. However, you still have much to learn. The fact that you heard the gunshots clearly means that you were present during the incident. You must have seen something!
+</line><line>Nicole:
+...B-Busted again. I jus' happened to be here coverin' the speech, and that's when it all went south... That's all, I swear. I ain't sayin' another word!
+</line><line>Edgeworth:
+<textEffects>(So she was here to write an article about the speech... She should still have the <span style="color:green">materials she gathered for her article</textEffects>. Hmm... This could be a useful <textEffects>clue</textEffects>.)</span>
+</line><line><i>Leads back to first</i>
+</line>
+</td></tr></tbody></table>
+
+<line>Edgeworth:
+<textEffects>(Let me try using that <span style="color:#E16935">clue</textEffects>.)</span>
+</line>
+
+
+<line>Edgeworth:
+Are you telling me that you came here to gather material and you left empty-handed? You should still have materials you collected with you!
+</line><line>Nicole:
+...Th-That's... Darn tootin'! I'm a pro! I collect info with my own two feet! That's why I ain't givin' it up without a fight!
+</line><line>Edgeworth:
+As the prosecutor in charge of this case, I am making a serious plea for your cooperation...
+</line><line>Nicole:
+Don't you mess with me! I ain't handin' it over and that's final!
+</line>
+
+
+<line>Edgeworth:
+........
+</line><line>Nicole:
+Please understand where I'm comin' from, Mr. Prosecutor.
+</line><line>Edgeworth:
+Being a reporter is a tough job... isn't it?
+</line><line>Nicole:
+Ah, so yer finally gettin' it?
+</line><line>Edgeworth:
+How has your job performance been?
+</line><line>Nicole:
+Um. W-Well... I'm always tryin' to be the best reporter I can be. This here tape recorder... I always carry it by my side.
+</line>
+
+
+
+<line>Edgeworth:
+I see... If you're trying to be the best reporter that you can be... ...then it would be unnatural for you to not have collected any news materials. You recorded it on your tape recorder, didn't you? The information regarding this case...!
+</line>
+<captions aligned="center"><b>1 PIECE BROKEN</b></captions>
+<line>Nicole:
+Ugh! Doggone iiiiiit! There goes my exclusive scoop...! That's right... I have it on my tape recorder. All the information I recorded for my article is right here...
+</line><line>Edgeworth:
+Hmph... Checkmate.
+</line>
+<captions aligned="center"><textEffects>Logic Chess Complete</textEffects></captions>
+<hr />
+<line>Nicole:
+Th-That's amazing, Mr. Prosecutor... Before I knew it, ya done had me chatterin' like a chipmunk.
+</line><line>Edgeworth:
+Let me hear what you have on the tape recorder... <textEffects>(If I listen to the tape, I should be able to determine the exact <span style="color:#E16935">number of gunshots</textEffects>...)</span>
+</line><line>Nicole:
+Fine. But... I won't let ya have it for free. Other than my mentor, yer the only person to push me this far... In other words, yer gonna be my second mentor! Yup, that's how it's gonna be!
+</line><line>Gumshoe:
+I see... it's kind of like a "second home", sir!
+</line><line>Nicole:
+And I got one more request... A 24-hour exclusive interview! Please, Mr. Prosecutor! This is my first and final request as yer apprentice!
+</line><line>Edgeworth:
+<textEffects>(...This is difficult to accept, but unless I agree to it I won't be able to listen to the tape.)</textEffects> 24 hours is out of the question, but I will grant you an interview after we solve this case.
+</line><line>Nicole:
+...Wh-What about bein' my second mentor?
+</line><line>Edgeworth:
+Also out of the question.
+</line><line>Nicole:
+Awww... Don't be so ornery... W-Well, I guess ya take what ya get. It's all for the sake of my news scoop. Time to get the ball rollin'! Let's begin our exclusive coverage!
+</line><line>Edgeworth:
+Well then, Ms. Swift... Please begin the playback of the tape recorder for me.
+</line>
+<hr />
+<line><textEffects>...*CLICK*... ...*vrrrr*...</textEffects>
+</line><line>Huang:
+<textEffects>My dear friends! There is a reason for my visit! A few days ago, a smuggling ring that has long plagued my nation was exposed and crushed!</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+I see... This was the president's speech.
+</line>
+<hr />
+<line><textEffects>...*CLICK*... ...*vrrrr*...</textEffects>
+</line><line>???:
+<textEffects>The president passionately addresses the crowd! He's deflatin' the rumors flyin' 'round about a recent decline in his approval ratings!</textEffects>
+</line>
+<hr />
+<line>Nicole:
+This was my own commentary. I tried to create the feelin' of actually bein' there.
+</line><line>Edgeworth:
+...Hm?
+</line>
+<hr />
+<line>???:
+<textEffects>...According to the schedule, there's a meeting after this...? You seem quite pleased that the Yatagarasu Incident has been resolved... Well, of course... It's a great honor for us as well.</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+Whose voice is this?
+</line><line>Nicole:
+Those're from the folks standin' in front of me. I reckon it was two older men. They kept on whisperin' to each other.
+</line><line>Edgeworth:
+<textEffects>(Where have I heard this voice before?)</textEffects>
+</line><line>Nicole:
+Oh! The gunshot's comin' up!
+</line>
+<hr />
+<line><textEffects>...*CLICK*... ...*vrrrr*...</textEffects>
+</line><line>Nicole:
+<textEffects>The president raises his fist in the air! The atmosphere is boilin' to a fever pitch!</textEffects>
+</line><line>Huang:
+<textEffects>However, The battle is still not over! I declare here, and now! The Hammer of Justice shall be brought down upon all evil!</textEffects>
+</line><line>Nicole:
+<textEffects>Wh-What in tarnation!? Whoa whoa whoa whoa!</textEffects>
+</line><line><textEffects>...*click*...</textEffects>
+</line>
+<hr />
+<line><textEffects>Nicole's Tape Recorder data jotted down in my Organizer.</textEffects>
+</line><line>Edgeworth:
+It seems that... two shots were fired.
+</line><line>Nicole:
+And what do ya reckon?
+</line><line>Edgeworth:
+It's quite simple, really. Using the bullet's trajectory... we can deduce its flight path. Two shots were fired. One bullet hit the president. That means the other shot left a hole in the flag and punctured the balloon. Do you understand now? The location of the perpetrator who fired the gun... <textEffects>The bullet that stuck both the flag and the balloon was fired from here!</textEffects>
+</line>
+
+
+<line>Edgeworth:
+By connecting the bullet marks from the flag and the balloon... ...we learn the bullet's trajectory. It's likely that the bullet was fired from the left side of the audience area.
+</line><line><textEffects>Bullet's Trajectory data jotted down in my Organizer.</textEffects>
+</line><line>Gumshoe:
+Just what I'd expect from Mr. Edgeworth!
+</line><line>Edgeworth:
+Detective Gumshoe. I would like to investigate the <textEffects>left side of the audience area</textEffects>.
+</line><line>Gumshoe:
+Yes, sir... Wait, you mean we have to move all these people?
+</line><line>Edgeworth:
+Yes. There's no time. We could be losing vital evidence for every second we let slip by. We must hurry!
+</line><line>Gumshoe:
+Y-Yes sir!
+</line><line>Nicole:
+Mentor Number 2! ...Hey, Mentor Number 2!
+</line><line>Edgeworth:
+Ms. Swift. I assume you are addressing me?
+</line><line>Nicole:
+Of course, Mentor Number 2. This is my time to shine! I'm an expert at crowd dispersal! Light the torches, release the hounds, and run 'em down!
+</line><line>Edgeworth:
+...I appreciate your help, but please do not use those methods. Also, please stop addressing me as your mentor. I never agreed to that position.
+</line><line>Nicole:
+I hear ya. I'll try to keep that in mind, Mentor... I mean Mr. Prosecutor!
+</line><line>Edgeworth:
+<textEffects>(*sigh*...)</textEffects>
+</line>
+<hr />
+<line>Gumshoe:
+Mr. Edgeworth! We're ready to begin the investigation, sir! Ms. Swift here was all over the crowd helping us round 'em up, sir!
+</line><line>Nicole:
+Heh, this ain't nothin' compared to my first mentor's mob wrangling skills!
+</line><line>Edgeworth:
+<textEffects>(She seems to be used to this sort of thing...)</textEffects> However, Ms. Swift. All that running around seems to have caused your clothes... ...to be covered with mud. I'll take care of the cleaning bill, if you like.
+</line><line>Nicole:
+Eh? Oh. Yer talkin' about my parka? Don't you worry yer fancy lil' head about it! It's reversible, so I can just flip it 'round later and it's good as new!
+</line><line>Edgeworth:
+<textEffects>(...That won't do much for mud stains, though.)</textEffects>
+</line><line>Gumshoe:
+...Well, Mr. Edgeworth. Let's restart the investigation, sir!
+</line><line>Edgeworth:
+<textEffects>(The crowd has made a mess of the crime scene... I hope some <span style="color:#E16935">traces of the criminal</textEffects> are still left behind...)</span>
+</line>
+<captions aligned="center"><textEffects>Begin Investigation</textEffects></captions>
+<captions aligned="center"><textEffects>Gourd Lake ParkAudience Area</textEffects></captions>
+
+
+
+</td></tr></tbody></table>
+
+
+
+<line>Edgeworth:
+It's a document of some sort...?
+</line><line>Gumshoe:
+Let's see... "President's Security Detail"...? These are the plans for the president's security, sir!
+</line><line>Edgeworth:
+<textEffects>(It depicts the security layout.)</textEffects>
+</line><line>Gumshoe:
+The bodyguards' names are written on here, too! <textEffects>Rooke</textEffects> and <textEffects>Knightley</textEffects>...
+</line><line>Edgeworth:
+Hm? The bodyguards are not from the Republic of Zheng Fa?
+</line><line>Nicole:
+It seems that the president hired a local security firm.
+</line><line>Edgeworth:
+Why didn't he use the police force of Zheng Fa?
+</line><line>Nicole:
+Ya wanna know the reason? That's another big scoop!
+</line><line>Edgeworth:
+Do you know something about it?
+</line><line>Nicole:
+I was just at the Zheng Fa embassy the other day, fixin' to get me some news material. That's when I heard... It sounds like the president's got plenty of enemies. He also don't get along too well with the top brass of the Zheng Fa police.
+</line><line>Edgeworth:
+I see. He doesn't even trust the people of his own country. <textEffects>(This could be related to the assassination attempt.)</textEffects>
+</line><line><textEffects>Security Plans data jotted down in my Organizer.</textEffects>
+</line><line>Gumshoe:
+But why would this document be in the bag?
+</line><line>Edgeworth:
+...That is strange indeed. It concerns the safety of the president. Normally, it would be under tight security...
+</line><line>Gumshoe:
+Hm? This bag... There's something else in it, sir!
+</line><line>Edgeworth:
+Th-This is...!
+</line><line>Gumshoe:
+It's a g-gun, sir! Mr. Edgeworth! Could this bag have belonged to the...
+</line><line>Edgeworth:
+Indeed. It is possible that the <textEffects>assassin</textEffects> may have thrown it away. <textEffects>(It's a <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Six-shot revolver - Found in the trash near the audience area. A gun that is prohibited in this country.">revolver</textEffects></span><textEffects> (Six-shot revolver - Found in the trash near the audience area. A gun that is prohibited in this country.)</textEffects></span>. For something like this to appear in a place like this... Is this the work of a professional assassin?)</span>
+</line><line>Gumshoe:
+He must've used that document to carry out the crime, sir!
+</line><line>Edgeworth:
+This revolver... I will need to take a closer look at it.
+</line>
+
+
+
+
+<line><i>(Examining laser pointer and chamber leads to:)</i>
+</line><line><textEffects>Revolver data jotted down in my Organizer.</textEffects>
+</line><line>Gumshoe:
+This bag has provided us with lots of useful evidence! Dumpster diving really paid off, sir!
+</line><line>Edgeworth:
+Good work, Detective. I have one more request. Please tell the forensics team to check the gun and the bag for fingerprints.
+</line><line>Gumshoe:
+Yes, sir!
+</line><line>Edgeworth:
+<textEffects>(If we can obtain fingerprints, it would be a huge breakthrough in our investigation.)</textEffects>
+</line><line>Gumshoe:
+I've got the results back, sir!
+</line><line>Edgeworth:
+Th-That was fast...
+</line><line>Gumshoe:
+Of course! I made them double-time it. Unfortunately, we couldn't find any fingerprints, sir.
+</line><line>Edgeworth:
+Are you certain you did a thorough search?
+</line><line>Gumshoe:
+Of course, we combed every inch! We even took out the bullets and examined them, sir!
+</line><line>Edgeworth:
+<textEffects>(As expected, this won't be easy.)</textEffects>
+</line>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+You are with the television crew, are you not?
+</line><line>TV Crew:
+Oh. Umm. That's right, but...
+</line><line>Edgeworth:
+Then you must have recorded the speech. I'd like to see the footage.
+</line><line>TV Crew:
+Y-Yeah, umm, about that. That will be difficult...
+</line><line>Gumshoe:
+What was that, pal!? It's your duty as a citizen to cooperate with the investigation!
+</line><line>TV Crew:
+After the incident, the guests knocked over the TV camera in the panic. All the footage was lost...
+</line><line>Edgeworth:
+If there was any footage left, it could've been vital evidence...
+</line><line>Gumshoe:
+Yeah. It's too bad, sir.
+</line><line>???:
+Ha ha ha ha! Ha ha ha ha ha ha!
+</line><line>Edgeworth:
+Wh-What was that?
+</line><line>???:
+Looks like you're in a jam, Mr. Edgeworth!
+</line><line>Edgeworth:
+That voice! Kay!
+</line><line>Kay:
+Long time no see, Mr. Edgeworth! The Hero of Justice... ...Kay Faraday, is here to save the day!
+</line><line>Edgeworth:
+<textEffects>(Hero... I guess she wouldn't refer to herself as a heroine...)</textEffects> So, have you given up on this "Great Thief" business yet?
+</line><line>Kay:
+Nope, I haven't stopped. I'm just on vacation! I'm still in training to become the second Yatagarasu!
+</line>
+<hr />
+<line>Edgeworth:
+About two weeks ago, this girl became involved in one of my cases. The mysterious phantom thief, the "<textEffects>Yatagarasu</textEffects>". The case of a gentleman thief who steals the <textEffects>truth</textEffects> for the sake of justice. This girl is the successor to that <textEffects>Great Thief</textEffects>.
+</line><line>Kay:
+If you need to pick a lock or untie a rope, leave it to me! But... since I'm still in training, I haven't actually stolen anything yet.
+</line>
+<hr />
+<line>Edgeworth:
+Kay, what are you doing here?
+</line><line>Kay:
+Isn't it obvious? I wanted to join in the festivities!
+</line><line>Edgeworth:
+<textEffects>(She does seem to have a fondness for these kind of events...)</textEffects>
+</line><line>Kay:
+Afterwards, I thought I'd come meet up with you guys.
+</line><line>Gumshoe:
+Well, we're glad to see you! You look like you've been doing well, pal!
+</line><line>Kay:
+It's been a while, Gummy! I'm glad you're well too!
+</line><line>Edgeworth:
+Kay, you said earlier that you could help me out...?
+</line><line>Kay:
+He he he. Please don't be surprised, Mr. Edgeworth. I took a photo that captures the <textEffects>exact moment of the crime</textEffects>!
+</line><line>Edgeworth:
+I see... Could you show it to us at once?
+</line><line>Kay:
+The same as usual, I see. Can't you act even a little surprised?
+</line><line>Nicole:
+Yeah! That prosecutor's always in a sour mood. He even got annoyed when I called him my second mentor... Oh. By the way. I'm Nicole Swift, up n' comin' investigative reporter.
+</line><line>Kay:
+Nice to meet you, Nicole! Yeah, Mr. Edgeworth's really...
+</line><line>Edgeworth:
+Enough idle chatter. Can you please just show us the photo?
+</line><line>Kay:
+Tsk. Fine! Here! This is a photo I took right at the moment of the gunshot! It was awful! Everyone in the audience was running in panic.
+</line><line>Edgeworth:
+<textEffects>(This photo depicts the president and his two bodyguards. Judging from the names written on the security plan, these two must be <span style="color:#E16935">Rooke</textEffects> and <textEffects>Knightley</textEffects>... Hm? What is this...?)</span> ...Thank you, Kay. This will be a very important clue.
+</line><line>Nicole:
+Oh! Ya got that sharp look in yer eyes! Did ya find somethin', Mr. Prosecutor?
+</line><line>Edgeworth:
+In this photo... There is a <textEffects>contradiction</textEffects>.
+</line><line>Nicole:
+This photo...? I don't see nothin'...
+</line><line>Edgeworth:
+If you don't understand, then I'll show you. <textEffects>(The <span style="color:#E16935">scene</textEffects> captured in the photo and the <textEffects>evidence</textEffects> I have on hand... By comparing the two, I'll find the contradiction. It's time for my <textEffects>deductive</textEffects> skills to come into play. First, I have to find the spot that holds the contradiction...)</span>
+</line>
+
+<line>Edgeworth:
+<textEffects>(Then, I <span style="color:#E16935">Present</textEffects> the evidence that contradicts the spot!)</span>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+Ms. Swift. This newspaper contains a photograph of the president. I'd like you to compare it with the photo Kay took at the scene.
+</line><line>Nicole:
+Hm? Whaddaya mean... ......Oh!
+</line><line>Edgeworth:
+That's right... There's something on the president's forehead that wasn't there before.
+</line><line>Gumshoe:
+Is that... a mole?
+</line><line>Kay:
+Mm-hmm, it certainly looks like a <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Red mole - In the photo of the incident, a red dot can be seen on the president&#39;s forehead.">red mole</textEffects></span><textEffects> (Red mole - In the photo of the incident, a red dot can be seen on the president's forehead.)</textEffects></span>.
+</line><line>Edgeworth:
+That's foolish. It's hard to believe that a mole would pop out of thin air like that.
+</line><line>Gumshoe:
+Maybe a bug bit him, sir!
+</line><line>Nicole:
+That all? I thought you were onto somethin', turns out it's just an itty bitty bug bite. You were talkin' with such a serious look on yer face, I was gettin' all excited.
+</line><line>Edgeworth:
+Hmph. The way to the truth... ...always begins with small contradictions.
+</line><line>Nicole:
+Ooh! That's a great way of puttin' it! I'll be usin' that for my article!
+</line><line><textEffects>Kay's Camera Data jotted down in my Organizer.</textEffects>
+</line>
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Edgeworth:
+I've solved the mystery of the <textEffects>red mole</textEffects>.
+</line><line>Gumshoe:
+Eh? You mean it's not a bug bite, sir?
+</line><line>Edgeworth:
+It's nothing like a bug bite or an itchy rash. This is the light from a laser pointer.
+</line><line>Gumshoe:
+You mean a gun was aimed at the president's forehead!?
+</line><line>Edgeworth:
+And right after that, the <textEffects>second gunshot</textEffects> was heard...
+</line><line>Gumshoe:
+That's certainly more than just an itch, sir.
+</line><line>Edgeworth:
+Indeed. I'm concerned for the president's well-being... <textEffects>(It's become more and more likely that this gun was the weapon used in the attack.)</textEffects>
+</line><line><textEffects>Assassin's Revolver data updated in my Organizer.</textEffects>
+</line><line>Gumshoe:
+But why did the criminal use a laser pointer, sir?
+</line><line>Kay:
+That's right! They would've had a beam of light shining from their heads! Pew! Pew! Pew! Pew! Way too conspicuous!
+</line><line>Edgeworth:
+And if you follow the path of the laser, you will find out who fired the shot.
+</line><line>Gumshoe:
+That's not good at all.
+</line><line>Kay:
+Oh, yeah! I also took some other photos. Maybe the light from the laser pointer was captured on those!
+</line><line>Edgeworth:
+<textEffects>(It's a long shot, but there may be a chance...)</textEffects> Kay, could you show us those photos?
+</line><line>Kay:
+Coming right up! Firstly, the photo from before the incident...
+</line><line>Edgeworth:
+...Your face is taking up most of the frame.
+</line><line>Kay:
+Eheheh. I wanted to get a "two-shot" of me and the president... This was taken a little before the gunshots. And here's the one I showed you before. This was right after the first gunshot. And immediately after that, a second gunshot rang out! And then...
+</line><line>Edgeworth:
+What is this? You can't really see much in this photo...
+</line><line>Kay:
+After that last photo, one of the running guests knocked me down. It looks like the shutter clicked just then.
+</line><line>Gumshoe:
+This doesn't look too helpful, pal...
+</line><line>Kay:
+Well, those were all the photos I took.
+</line><line><textEffects>Kay's Camera Data updated in my Organizer.</textEffects>
+</line><line>Edgeworth:
+<textEffects>(I'd like to examine these in a bit more detail.)</textEffects> Investigate which photo?
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+<textEffects>Where can the light from the laser pointer be seen?</textEffects>
+</line>
+
+
+<line>Edgeworth:
+I found it...!
+</line><line>Gumshoe:
+Wh-What?
+</line><line>Edgeworth:
+Look just in front of this person in the <textEffects>red hood</textEffects>.
+</line><line>Kay:
+Ah! There!
+</line><line>Edgeworth:
+Yes. That's probably the light from the laser pointer.
+</line><line>Gumshoe:
+Th-Then! That <textEffects>red hooded</textEffects> person!
+</line><line>Edgeworth:
+Would be... the assassin.
+</line><line>Kay:
+We did it! It's all thanks to me, right?
+</line><line>Edgeworth:
+Right. As expected, the Great Thief has stolen the Truth.
+</line><line>Kay:
+He he he he.
+</line><line>Edgeworth:
+Perhaps the criminal can also be seen in the other photos. Let me examine these photos one more time. Investigate which photo?
+</line>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+<line>Edgeworth:
+Where can the <textEffects>red hooded assassin</textEffects> be seen?
+</line>
+
+
+<line>Kay:
+Ah! There!
+</line><line>Edgeworth:
+The "red hooded"... assassin.
+</line><line>Gumshoe:
+It looks like they're escaping in the panic, sir.
+</line><line>Edgeworth:
+We can see the direction they ran in...
+</line><line>Kay:
+Ah! The Samurai Dog banner!
+</line><line>Edgeworth:
+Right. The assassin escaped towards the <textEffects>right side of the audience area</textEffects>. Detective Gumshoe!
+</line><line>Gumshoe:
+Got it, sir! We'll investigate the right side of the audience area.
+</line><line>Edgeworth:
+I'm counting on you. <textEffects>(The <span style="color:#E16935">red hooded</textEffects> assassin... Since the park was sealed off, there's nowhere they could've run to... If we follow their trail, we'll definitely catch them!)</span>
+</line>
+<hr />
+<line>Edgeworth:
+Now, then. Let's continue with the investigation.
+</line><line>Kay:
+We'll definitely find some traces of the assassin!
+</line>
+
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+<line>Edgeworth:
+<textEffects>(There's something red down here...)</textEffects> Detective Gumshoe. Please check underneath the food stall.
+</line><line>Gumshoe:
+Something's stuck down here. Let's see...
+</line>
+<hr />
+<line>Edgeworth:
+It is a red raincoat...! Could this be!?
+</line><line>Kay:
+The assassin's...!
+</line><line>Edgeworth:
+It appears that he got rid of his raincoat before he ran away.
+</line><line><textEffects>Red Raincoat data jotted down in my Organizer.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+
+<line>Edgeworth:
+It looks like the fallen button came from the raincoat. It probably fell off when the assassin took off the raincoat.
+</line><line>Gumshoe:
+If you look closely, you can see that the right sleeve is inside out,
+</line><line>Edgeworth:
+It appears they took it off in a hurry... The button was probably torn off. After shooting the president, the assassin disposed of the gun and the bag in the garbage bin. Then, during the panic, they moved from the left to the right side of the audience area. The bullet's trajectory led us to suspect someone who was on the left side of the audience area. The assassin then took off the raincoat and hid it under the stand... The assassin was in a hurry to remove the raincoat. That's why there are signs that the <textEffects>right sleeve was hastily removed</textEffects>.
+</line><line>Gumshoe:
+It also explains why the button was torn off.
+</line><line>Edgeworth:
+If that's the case... <textEffects>Why is the left sleeve not in the same state?</textEffects>
+</line><line>Gumshoe:
+Ah! That sleeve isn't inside out!
+</line><line>Edgeworth:
+On the contrary, the button is still tightly fixed.
+</line><line>Gumshoe:
+What do you mean, sir!
+</line><line>Edgeworth:
+To find the answer... we must examine this raincoat in detail.
+</line>
+
+
+
+<line>Edgeworth:
+I'd like to investigate the inside of this raincoat. Detective Gumshoe!
+</line><line>Gumshoe:
+Got it!
+</line>
+
+<line>Edgeworth:
+This is... a <textEffects>bloodstain</textEffects>! Judging by the location... This is most likely the assassin's own blood.
+</line><line>Gumshoe:
+So, we're looking for someone who's injured, sir!
+</line><line>Edgeworth:
+Not just any injury, Detective. An injury on their <textEffects>left arm</textEffects>.
+</line><line>Gumshoe:
+...Wh-What do you mean, sir?
+</line><line>Edgeworth:
+The criminal was in a hurry to take off their coat. That's why the right sleeve is inside out. On the other hand, the left sleeve remained unchanged. How did this difference arise? Quite simply, the assassin couldn't get his arm through the left sleeve... If you think of it like that, it all starts to add up. Furthermore, a bloodstain was found on the left side of the raincoat.
+</line><line>Gumshoe:
+I see! He couldn't get his injured arm to fit through the sleeve!
+</line><line>Edgeworth:
+Yes, indeed. I'd say the possibility is quite high.
+</line><line><textEffects>Red Raincoat data updated in my Organizer.</textEffects>
+</line><line>Edgeworth:
+<textEffects>(It's all <span style="color:#E16935">coming together</textEffects>...!)</span>
+</line>
+<captions aligned="center"><textEffects>Investigation Complete</textEffects></captions>
+<line>Edgeworth:
+Detective Gumshoe, I want you to pull our assassin out of the crowd!
+</line>
+
+</td></tr></tbody></table>
+<line>Gumshoe:
+Roger that, sir! Someone with <textEffects>an injured left arm,</textEffects> right?
+</line><line>Nicole:
+You must have a good head on yer shoulders if ya did see through me, Mr. Prosecutor! Findin' the assassin with only that much evidence shouldn't be a problem at all!
+</line><line>Kay:
+That's our Edgeworth!
+</line><line>Edgeworth:
+<textEffects>(With everyone in the park sealed in, the assassin should still be within the crowd. I'm counting on you, Detective Gumshoe!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 25, 3:27 PMGourd Lake ParkAudience Area</textEffects></captions>
+<line>Gumshoe:
+Mr. Edgeworth! We found a suspicious person in that <textEffects>condition</textEffects>, sir!
+</line><line>Kay:
+That's gotta be the assassin!
+</line><line>Edgeworth:
+Kay. We haven't proven that this person is the assassin yet. For now, this is just a "person of interest". Don't jump to conclusions.
+</line><line>Kay:
+Got it! I'll control myself!
+</line><line>Gumshoe:
+There's no doubt that this is the guy who targeted the president, sir!
+</line><line>Edgeworth:
+<textEffects>(It takes a daring person to target someone's life in front of an audience...)</textEffects> Detective. Bring him here... courteously.
+</line><line>Gumshoe:
+Yes, sir! Hey, you guys! Bring him here!
+</line><line>???:
+........
+</line><line>Edgeworth:
+<textEffects>(He's not carrying an umbrella, and his left arm is bandaged...)</textEffects>
+</line><line>Gumshoe:
+You there! State your name!
+</line><line>Doe:
+My name is... John Doe.
+</line><line>Edgeworth:
+John Doe...? <textEffects>(That's... an unusual name.)</textEffects>
+</line><line>Doe:
+That is correct.
+</line><line>Edgeworth:
+<textEffects>(This man... Have I seen him somewhere before?)</textEffects>
+</line><line>Doe:
+Prosecutor Edgeworth.
+</line><line>Edgeworth:
+You know my name?
+</line><line>Doe:
+...Yes. I have been observing your investigation. ...May I ask why you have called me here?
+</line><line>Edgeworth:
+We are searching for the <textEffects>assassin</textEffects> who attempted to murder the president. ...Do you recognize this red raincoat?
+</line><line>Doe:
+I'm terribly sorry... but I'm afraid I do not.
+</line><line>Edgeworth:
+I believe that this raincoat belongs to the assassin.
+</line><line>Doe:
+Oh my. That is terrible indeed.
+</line><line>Edgeworth:
+This person should also have a severe injury on the left side of their body... Precisely like yours...
+</line><line>Doe:
+...I have no relation to this.
+</line><line>Nicole:
+A stare down! Mano-a-mano! It's like they're firin' laser beams outta their eyes! ...So, what happens next?
+</line><line>Gumshoe:
+Obviously, a confrontation, pal! A battle of wits between two gentleman!
+</line><line>Edgeworth:
+<textEffects>(Should I hear his explanation?)</textEffects>
+</line>
+
+
+<hr />
+<captions aligned="center"><textEffects>-- Mr. Doe's Testimony --</textEffects></captions>
+<line>Doe:
+I understand that the person in the raincoat is suspicious.
+However, that doesn't mean that he was injured. I don't suppose you have proof?
+Clearly, my left arm is injured, but I can still use my right arm.
+When it was raining, I used an umbrella. I have no need for a raincoat.
+</line>
+<hr />
+<line>Edgeworth:
+You didn't wear a raincoat... That's your claim?
+</line><line>Doe:
+Yes. Not everyone uses a raincoat for protection against the rain. I am an umbrella person after all.
+</line><line>Kay:
+I'm definitely a raincoat person. Umbrellas will hinder your movement!
+</line><line>Nicole:
+Well, I don't use raincoats or umbrellas. Come rain or snow, all I need is my trusty parka!
+</line><line>Edgeworth:
+<textEffects>(This wasn't what I wanted to talk about...)</textEffects>
+</line><line>Doe:
+I hope you understand. I am not the assassin.
+</line><line>Edgeworth:
+Unfortunately, leaving a testimony unexamined goes against my principles.
+</line><line>Doe:
+How troublesome. I am but a simple ice cream salesman... Oops. Please excuse me. In the panic earlier, my wound seems to have reopened.
+</line><line>Edgeworth:
+<textEffects>(There's no mistaking that the owner of this raincoat is the assassin. Furthermore, the owner has an <span style="color:#E16935">injured left arm</textEffects>...)</span>
+</line><line>Doe:
+........
+</line><line>Edgeworth:
+Mr. Doe, I shall reveal your true colors for all to see.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Mr. Doe's Testimony --</textEffects></captions>
+<line>Doe:
+<textEffects>I understand that the person in the raincoat is suspicious.</textEffects>
+</line>
+
+<line>Doe:
+<textEffects>However, that doesn't mean that he was injured. I don't suppose you have proof?</textEffects>
+</line>
+
+
+<line>Doe:
+<textEffects>Clearly, my left arm is injured, but I can still use my right arm.</textEffects>
+</line>
+
+<line>Doe:
+<textEffects>When it was raining, I used an umbrella. I have no need for a raincoat.</textEffects>
+</line>
+
+<line>Gumshoe:
+I guess it'd be inevitable to lose an umbrella in the panic, sir.
+</line><line>Edgeworth:
+Do you also intend to say it was inevitable his wound just happened to open?
+</line><line>Gumshoe:
+So then... it wasn't?
+</line><line>Edgeworth:
+All we know is, the assassin's <textEffects>left arm is injured.</textEffects> Mr. Doe has such an injury. His left arm is even bleeding.
+</line><line>Gumshoe:
+Very suspicious, sir!
+</line><line>Edgeworth:
+<textEffects>(The problem is, how to link this fact to Mr. Doe. I should use the <span style="color:#E16935">R Button</textEffects> to open up the <textEffects>Organizer</textEffects> and review the evidence.)</span>
+</line>
+<hr />
+<line>Edgeworth:
+Mr. Doe. You seem to be a very cautious person. However, today seems to be different. Because you left this behind.
+</line><line>Doe:
+You must be mistaken. That does not belong to me. Or perhaps... you have evidence that proves otherwise?
+</line><line>Edgeworth:
+Mr. Doe. Is your injury alright? The wound seems to have opened.
+</line><line>Doe:
+Indeed. It is... quite troublesome.
+</line><line>Edgeworth:
+Yes, I'm sure it is. You have my deepest sympathies. After all, you would have escaped had your wounds not opened up.
+</line><line>Doe:
+...What do you mean?
+</line><line>Edgeworth:
+There is no mistaking that the one who wore this raincoat was injured. And I can prove that person was you. With this...!
+</line><line>Doe:
+........
+</line><line>Edgeworth:
+On the inside of this raincoat, there is a small bloodstain. It's the blood of the assassin!
+</line><line>Doe:
+!
+</line><line>Gumshoe:
+Attacking the president is a serious crime, pal! You'll cause an international incident!
+</line><line>Edgeworth:
+...No matter how long you keep silent, your true nature will soon come to light. A blood test will settle this. The blood from the raincoat, and the blood from your bandaged arm...
+</line><line>Doe:
+........
+</line><line>Edgeworth:
+I have all the evidence I need. Why don't you just admit it? You're the assassin who attacked the president!
+</line><line>Doe:
+...I am not the assassin.
+</line><line>Edgeworth:
+You don't know when to give up. If this was a game of chess... ...you would have been checkmated a long time ago. Admit your defeat gracefully!
+</line><line>Doe:
+........
+</line><line>Edgeworth:
+<textEffects>(He seems completely unfazed...?)</textEffects>
+</line><line>Doe:
+I suppose I have no choice. I'll admit it. Indeed, the raincoat is mine.
+</line><line>Gumshoe:
+He confessed, sir! Arrest him! Arrest him!
+</line><line>Doe:
+...However, that does not mean I shot the president.
+</line><line>Gumshoe:
+What's that, pal!?
+</line><line>Doe:
+Prosecutor Edgeworth. All you have proven is that I wore the raincoat. What sort of crime is that?
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- Mr. Doe's Testimony, Pt. 2 --</textEffects></captions>
+<line>Doe:
+I am no assassin. I'm just a simple ice cream salesman.
+All I did was put on that red raincoat and listen to the president's speech.
+It surprised me to see the bodyguards take action just before the gunshot rang out.
+Everyone in the audience immediately tried to escape, creating a state of panic.
+</line>
+<hr />
+<line>Doe:
+Are you satisfied this time?
+</line><line>Kay:
+His story's getting fisher by the minute! He's really suspicious!
+</line><line>Doe:
+........
+</line><line>Kay:
+G-Glaring at me won't help! We've got evidence! Here, look at this guy in the red raincoat! That's gotta be the assassin!
+</line><line>Doe:
+...I see. That is certainly not me.
+</line><line>Kay:
+Whaaaaaa!
+</line><line>Doe:
+Prosecutor Edgeworth. Please consider this carefully. Was I really the only one who wore a red raincoat?
+</line><line>Edgeworth:
+<textEffects>(Whether he was or not, the person in the photo can only be Mr. Doe. But, why? This man's self-confidence... and intensity.)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Mr. Doe's Testimony, Pt. 2 --</textEffects></captions>
+<line>Doe:
+<textEffects>I am no assassin. I'm just a simple ice cream salesman.</textEffects>
+</line>
+
+<line>Doe:
+<textEffects>All I did was put on that red raincoat and listen to the president's speech.</textEffects>
+</line>
+
+<line>Doe:
+<textEffects>It surprised me to see the bodyguards take action just before the gunshot rang out.</textEffects>
+</line>
+
+
+<line>Doe:
+<textEffects>The man on the left side of the stage was exceptionally quick. A Mr. Ethan Rooke, as I recall.</textEffects>
+</line>
+
+
+<line>Doe:
+<textEffects>Everyone in the audience immediately tried to escape, creating a state of panic.</textEffects>
+</line>
+
+<line>Edgeworth:
+The person who wore the red raincoat is the assassin. That's very clear from the photo. However...
+</line><line>Kay:
+Mr. Doe is saying that person wasn't him.
+</line><line>Gumshoe:
+That's just some story he made up, sir! Rip off his disguise! Mr. Edgeworth!
+</line><line>Edgeworth:
+Yes. In any case, I need to start exposing his lies.
+</line><line>Kay:
+That's right! And in order to do that, we should press him for more details.
+</line>
+<hr />
+<line>Edgeworth:
+It seems you aren't just a simple ice cream salesman after all.
+</line><line>Doe:
+...You think too highly of me. Prosecutor Edgeworth.
+</line><line>Edgeworth:
+Why would a simple ice cream salesman... ...know the name of the president's bodyguard?
+</line><line>Doe:
+...The name of the bodyguard? Surely you jest. Didn't you say their names just a moment ago? Mr. Knightley and Mr. Rooke... Correct?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+This is a diagram of the security plans. We learnt their names from this. However, please look. Only their surnames are written here.
+</line><line>Doe:
+!
+</line><line>Edgeworth:
+You distinctly said <textEffects>Ethan Rooke</textEffects>. How did you know his full name when we did not?
+</line><line>Doe:
+........
+</line><line>Gumshoe:
+That's pretty weird, sir!
+</line><line>Edgeworth:
+Why do you know his name? Explain yourself!
+</line><line>Doe:
+...That was merely a slip of the tongue.
+</line><line>Kay:
+It's true! This guy is the assassin!
+</line><line>Doe:
+Young lady. You're being a little hasty. The reason I knew his name is quite simple.
+</line><line>Edgeworth:
+<textEffects>(What?)</textEffects>
+</line><line>Doe:
+I am an acquaintance of Mr. Rooke's.
+</line><line>Edgeworth:
+What!
+</line><line>Doe:
+He and I have a bit of a <textEffects>connection</textEffects>. His is a name that I will never forget.
+</line><line>Gumshoe:
+Mr. Edgeworth! He's just telling a big fat lie!
+</line><line>Doe:
+This is not a lie. I am just a simple ice cream salesman... ...and an acquaintance of Ethan Rooke's.
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+In that case, let's just ask Rooke himself about this. Whether or not he's acquainted with this dubious ice cream salesman...
+</line><line>Doe:
+As you wish. However, that may prove difficult now. He is currently busy with the president's security, after all. Besides, even if I am not an acquaintance of Mr. Rooke's... ...does that prove that I fired the gun?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+If you aren't the assassin, then why did you remove your raincoat!?
+</line><line>Doe:
+It was a little hot. And the rain had stopped. I wanted to air out the wound. Is there a problem with that?
+</line><line>Edgeworth:
+<textEffects>(Urgh... I just can't seem to corner him!)</textEffects>
+</line><line>Payne:
+Mr. Edgeworth! What are you doing! Hurry up and arrest him! That man's so suspicious, I'd even arrest him myself!
+</line><line>Edgeworth:
+<textEffects>(Arrest him without evidence? How could I do such a thing!)</textEffects>
+</line><line>Kay:
+Come on! Mr. Edgeworth! Can't you do something!
+</line><line>Nicole:
+Breaking News! The criminal is on the verge of escaping the prosecutor!
+</line><line>Doe:
+Oh dear... They're already treating me like a criminal. I understand. Since I've been suspected this far, it seems I will have to tell the truth.
+</line><line>Edgeworth:
+The truth? <textEffects>(What is he up to?)</textEffects>
+</line><line>Doe:
+I saw... another person wearing a <textEffects>red hood</textEffects>...
+</line><line>Edgeworth:
+Wha...
+</line><line>Gumshoe:
+Whaaaaaaat!?
+</line><line>Doe:
+Surely, that was the person who was in the photo. I first noticed him right before the speech when it was still raining... He caught my eye because his raincoat was the same color as mine. In his hand I saw a laser pointer with the light aimed directly at the president.
+</line><line>Edgeworth:
+<textEffects>(It can't be...! There was another person wearing a red hood?)</textEffects>
+</line><line>Doe:
+I knew that if I wore the red raincoat, I'd be mistaken for the assassin. That is why I took off the raincoat.
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+You saw an assassin wearing the same color hood as yours? Hmph. Wouldn't that be a nice coincidence?
+</line><line>Doe:
+That's what I expected you would say, which is why I did not testify as such. Prosecutors and the police are a suspicious lot. I knew that nobody would believe me... At the moment of the incident, the assassin was very close to the prosecutor...
+</line><line>Edgeworth:
+Prosecutor? I only arrived after the incident...
+</line><line>Doe:
+Not you, Prosecutor Edgeworth. That prosecutor over there.
+</line><line>Payne:
+Huh? M-Me?
+</line><line>Doe:
+Yes. You should be visible in that photo. Here. Right in front of the person in the red hood.
+</line><line>Payne:
+Th-That's me alright... What's your point?
+</line><line>Edgeworth:
+<textEffects>(What's this man driving at?)</textEffects>
+</line><line>Doe:
+I have been observing your investigation this entire time, Prosecutor Edgeworth. And I have noticed something strange.
+</line><line>Edgeworth:
+Something strange?
+</line><line>Doe:
+Hmm. It seems you still haven't noticed this contradiction yet.
+</line><line>Edgeworth:
+A contradiction...?
+</line><line>Kay:
+In this photo the people who can be seen are the <textEffects>chief</textEffects>, <textEffects>Mr. Payne</textEffects>, and the <textEffects>assassin</textEffects>... ...I don't see anything strange!
+</line><line>Doe:
+Please think back carefully. About that circumstances <textEffects>during the president's speech.</textEffects> I believe you are holding the evidence that contradicts this photo.
+</line><line>Edgeworth:
+<textEffects>(Do I have evidence that contradicts this photo?)</textEffects>
+</line>
+
+
+<line>Edgeworth:
+It can't be...! <textEffects>(There's a contradiction between the photo and the tape!)</textEffects>
+</line><line>Doe:
+It seems you've noticed.
+</line><line>Kay:
+Mr. Edgeworth! What's going on?
+</line><line>Edgeworth:
+There is a person missing from this photograph...
+</line><line>Kay:
+Huh? Wh-Who is it?
+</line><line>Doe:
+Yes... It's rather strange. Someone who should be there, but is not.
+</line><line>Edgeworth:
+<textEffects>The person who should be in this photo is...</textEffects>
+</line>
+
+
+<line>Kay:
+Huh?
+</line><line>Gumshoe:
+M-Ms. Swift?
+</line><line>Nicole:
+..........
+</line><line>Kay:
+Why would you say that?
+</line><line>Edgeworth:
+Mr. Payne's voice was recorded on Ms. Swift's tape. He was whispering quietly with the chief prosecutor...
+</line>
+<hr />
+<line>Nicole:
+Those're from the folks standin' in front of me. I reckon it was two older men. They kept on whisperin' to each other.
+</line>
+<hr />
+<line>Edgeworth:
+It seems Ms. Swift was near Mr. Payne when she recorded the speech.
+</line><line>Kay:
+Ah! But she isn't anywhere in this photo!
+</line><line>Doe:
+That is correct. ...Now, Mr. Prosecutor... Who is the one you should be pursuing?
+</line><line>Edgeworth:
+<textEffects>(Ngh...!)</textEffects> Nicole Swift. Would you mind giving us your testimony?
+</line><line>Nicole:
+...C'mon. It feels weird when you talk all formal like that. It's fine. I ain't got nothin' to hide.
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- Ms. Swift's Testimony --</textEffects></captions>
+<line>Nicole:
+It ain't like I stayed in one spot while I was recording.
+I was movin' around the audience area. Shufflin' here and there.
+I reckon this picture must'a been snapped at a different time to my tape recordin'.
+So quit makin' that scary face. It ain't what ya think.
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(Ms. Swift's tape recorded a conversation between my colleagues... Mr. Payne and the chief prosecutor.)</textEffects>
+</line><line>Kay:
+Why would Nicole be lying? That... would mean...
+</line><line>Gumshoe:
+It'd mean Nicole Swift is the assassin, pal!
+</line><line>Nicole:
+Y'all gotta be kiddin' me. I ain't done nothin' like that.
+</line><line>Edgeworth:
+Be that as it may, however, there is a contradiction in your testimony.
+</line><line>Nicole:
+H-Huh... I don't reckon so, no sir.
+</line><line>Edgeworth:
+<textEffects>(It appears I must reveal this contradiction with evidence...)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Ms. Swift's Testimony --</textEffects></captions>
+<line>Nicole:
+<textEffects>It ain't like I stayed in one spot while I was recording.</textEffects>
+</line>
+
+<line>Nicole:
+<textEffects>I was movin' around the audience area. Shufflin' here and there.</textEffects>
+</line>
+
+<line>Nicole:
+<textEffects>I reckon this picture must'a been snapped at a different time to my tape recordin'.</textEffects>
+</line>
+
+
+<line>Nicole:
+<textEffects>So quit makin' that scary face. It ain't what ya think.</textEffects>
+</line>
+
+<line>Kay:
+Nicole seems rather aloof about all of this. Still, she just doesn't seem like the kind of person to tell harmful lies.
+</line><line>Edgeworth:
+I agree that she doesn't seem like a person with ill intent, but... <textEffects>(...if that's the case, there must be something even worse troubling her. In any case, Ms. Swift's movements have been recorded on that tape. Surely I have evidence that sheds some light on this...!)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+Ms. Swift. A reporter shouldn't lie.
+</line><line>Nicole:
+I-I ain't lyin'! I'm an honest journalist!
+</line><line>Edgeworth:
+Perhaps, but there's no denying that the photo and the recording were taken at the same time.
+</line><line>Nicole:
+That so? And what makes you say that!
+</line><line>Edgeworth:
+The truth lies in these photos. This photo could only have been taken at the same time as your recording! <textEffects>Which spot shows that this was taken at the same time as the recording?</textEffects>
+</line>
+
+
+<line>Edgeworth:
+Can you see the president, with his fist raised in the air?
+</line><line>Nicole:
+...What about it?
+</line><line>Edgeworth:
+Ms. Swift, might we hear your tape one more time?
+</line><line>Nicole:
+Nuh-uh! You ain't gonna hear a word, way ya been treatin' me!
+</line><line>Edgeworth:
+Would you rather we charge you with obstruction of justice and seize it from you?
+</line><line>Nicole:
+Uh... F-Fine, you win. I'm no match for you, Mr. Prosecutor.
+</line><line>Edgeworth:
+The question is... during which part of his speech did the president raise his fist?
+</line>
+<hr />
+<line><textEffects>No matter what sort of heinous criminal organization there is, I will not allow them to exist!</textEffects>
+</line><line>Nicole:
+<textEffects>The president raises his fist in the air! The atmosphere is boilin' to a fever pitch!</textEffects>
+</line>
+<hr />
+<line>Gumshoe:
+Aha! "Raises his fist" straight from the horse's mouth, sir!
+</line><line>Edgeworth:
+This tape was recorded at the moment the president raised his fist overhead.
+</line><line>Kay:
+Th-Then that means! Nicole not being in this photo is really strange!
+</line><line>Edgeworth:
+Oh, but she is in the photo. Right here! The person in the red hood... it was you, Nicole Swift!
+</line><line>Nicole:
+Aaaaaaaaahhh!
+</line><line>Gumshoe:
+You're the real assassin, aren't you, pal?
+</line><line>Nicole:
+Th-Th-That ain't so! I... I... ...I ain't never worn that red raincoat!
+</line><line>Edgeworth:
+Hmm. This red raincoat in question belongs to...
+</line>
+
+
+
+<line>Edgeworth:
+The raincoat's owner is Mr. Doe. That much has been proven. You were wearing something else. A different <textEffects>red hood</textEffects>...
+</line><line>Gumshoe:
+Y-You mean there were two <textEffects>red hoodies</textEffects>, sir?
+</line><line>Edgeworth:
+Mr. Doe's last testimony was true.
+</line><line>Kay:
+But we didn't find any other red raincoats.
+</line><line>Edgeworth:
+What Mr. Doe saw was a <textEffects>red hood</textEffects>. Not a raincoat. Ms. Swift, what was it you told us earlier about your parka...
+</line><line>Nicole:
+Hm? Oh, ya mean when I said I ain't worried about it gettin' all dirty? It's reversible, so all I gotta do is turn it inside out and... Aaagh!
+</line><line>Edgeworth:
+<textEffects>(...As I thought.)</textEffects>
+</line><line>Kay:
+M-Mr. Edgeworth! The inside of her parka is... <textEffects>red!</textEffects>
+</line><line>Edgeworth:
+Indeed. And during the incident, she was using that side.
+</line><line>Gumshoe:
+Wh-What!? Hey, pal! What's the big idea?
+</line><line>Nicole:
+Y-Yer wrong! I've been wearin' it like this the whole day...
+</line><line>Edgeworth:
+Well then, will you allow me to examine your parka?
+</line><line>Nicole:
+Wh-What're ya expectin' to find?
+</line><line>Edgeworth:
+We know it was raining prior to the president's speech. I believe you said earlier...
+</line>
+<hr />
+<line>Nicole:
+Well, I don't use raincoats or umbrellas. Come rain or snow, all I need is my trusty parka!
+</line>
+<hr />
+<line>Edgeworth:
+If you really didn't turn your parka inside out... ...then the inside should be dry!
+</line><line>Nicole:
+H-Hang on a minute. I ain't back takin' off this heavy backpack and puttin' it back on again! S-S-Sorry... but can't we do this another time?
+</line><line>Gumshoe:
+You think you can fool Mr. Edgeworth with that, pal!?
+</line><line>Nicole:
+Uu...Uuhn... Uuuuhn...
+</line><line>Gumshoe:
+Alright then, pal! If we're really wrong, prove it. Show us the inside of the parka!
+</line><line>Nicole:
+I... It wasn't me. I ain't no assassin.
+</line><line>Edgeworth:
+Ms. Swift. If you want me to believe that, then you need to cooperate with us. Will you please tell us why you wore the red side of the parka?
+</line><line>Nicole:
+I-I'm sorry, Mr. Prosecutor. I... had my reasons, honest. I'll tell y'all everythin, jus' quit bullyin' me...
+</line><line><a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Edgeworth:
+Wh-Whose voice was that?
+</line><line>???:
+Hold on a sec, It's a little too early for the endgame.
+</line>
+<hr />
+<line>???:
+Hey, you in the fancy suit. Haven't you been jumping the gun ever since your opening move?
+</line><line>Edgeworth:
+<textEffects>(This man was in Kay's photo...)</textEffects>
+</line><line>Knightley:
+Whoa, I guess I should introduce myself first. My name is... ...Horace Knightley. The president's bodyguard. Second-in-command of his personal security unit.
+</line><line>Kay:
+Aaaah!
+</line><line>Gumshoe:
+W-Watch it, pal! That's not a toy!
+</line><line>Knightley:
+Whoa, my bad. She just wants to come out and play. I can't seem to help it.
+</line><line>Edgeworth:
+Why do you have a gun if you're not a police officer!?
+</line><line>Knightley:
+She's a lady of Zheng Fa. Only the president's bodyguards are authorized to use it. Anyway, back to business. I've got some news for you. There's good news and bad news. Which do you wanna hear first?
+</line><line>Edgeworth:
+...It makes no difference to me. Do as you wish.
+</line><line>Knightley:
+You sure? I'm giving you the first move. Alright. I got you. I'll start with my pawn.
+</line><line>Edgeworth:
+...It seems you enjoy chess.
+</line><line>Knightley:
+You play too, Mr. Fancy-Suit?
+</line><line>Edgeworth:
+It's Edgeworth. And I do have a fondness for chess.
+</line><line>Knightley:
+Is that so? Well then, Chessmaster Edgeworth, I'll start with the <textEffects>good news.</textEffects> The president's safe. Not even a scratch on him.
+</line><line>Gumshoe:
+Really? That's great, pal!
+</line><line>Doe:
+It seems that the young lady was not a murderer after all.
+</line><line>Kay:
+Good for you, Nicole!
+</line><line>Nicole:
+B-But I...
+</line><line>Knightley:
+Whoa there. Don't forget, there's still the <textEffects>bad news.</textEffects> The president is safe because his bodyguards protected him. Actually... I had nothing to do with it. It was the leader who protected him. At the cost of his own life...
+</line><line>Edgeworth:
+That would be the other bodyguard... Rooke, was it?
+</line><line>Knightley:
+Yeah. That's right. Rooke died to protect the president...
+</line><line>Edgeworth:
+!
+</line><line>Gumshoe:
+Whaaaaaat!?
+</line><line>Doe:
+Is that so... Rooke is dead. What a shame.
+</line><line>Kay:
+Th-That means... Nicole...
+</line><line>Knightley:
+It means that the little lady killed him. My brother in arms.
+</line><line>Nicole:
+Th-That ain't true! I ain't a murderer...!
+</line><line>Knightley:
+Whoa there. Pipe down, Little Miss Murderer.
+</line><line>Nicole:
+!
+</line><line>Knightley:
+Geez. Even if we had to make a sacrifice to protect the King... It was a pretty bad move. That castling...
+</line><line>Gumshoe:
+Sacrifices and castles? What's he talking about, sir?
+</line><line>Edgeworth:
+They're all chess terms. He's saying Rooke's life was exchanged for the president's.
+</line><line>Gumshoe:
+This guy sure talks funny, sir!
+</line><line>Edgeworth:
+Horace Knightley, was it?
+</line><line>Knightley:
+Hm? Whaddaya want?
+</line><line>Edgeworth:
+I'd like to examine the victim's body as soon as possible. And if it's possible, I'd like to question the president...
+</line><line>Knightley:
+Sorry, but... I can't let you do that.
+</line><line>Edgeworth:
+Wh... What?
+</line><line>Knightley:
+I got another piece of news for you. And this one's a doozy.
+</line><line>Edgeworth:
+<textEffects>(There's another piece of news?)</textEffects>
+</line><line>Knightley:
+From here on out, this investigation will be handled by the <textEffects>Zheng Fa Police.</textEffects>
+</line><line>Edgeworth:
+What!?
+</line><line>Gumshoe:
+Wh-What's going on, pal!?
+</line><line>Edgeworth:
+This case is under our jurisdiction! You have no right to interfere!
+</line><line>Knightley:
+You're Prosecutor Edgeworth, right? The president knows about you solving the <textEffects>Yatagarasu case.</textEffects>.
+</line><line>Edgeworth:
+...I'm honored.
+</line><line>Knightley:
+That's why the chief prosecutor designated you to be in charge of the case...
+</line><line>Edgeworth:
+<textEffects>(It seems the chief prosecutor made a little appeal to the president.)</textEffects>
+</line><line>Knightley:
+But... it looks like you're the wrong guy for the job. I didn't know you'd have this kind of reaction. ...It's the president's orders. If you oppose you'll cause an international incident. Capisce?
+</line><line>Edgeworth:
+Ngh...
+</line><line>Knightley:
+Hey, little lady! Get over here! We'll continue your questioning inside the president's plane.
+</line><line>Nicole:
+N... No... I... I didn't do nothin'!
+</line><line>Knightley:
+Hey now, don't be a baby. You scared of a little Zheng Fa justice?
+</line><line>Nicole:
+Mr. Prosecutor! Please... Please help me!
+</line><line>Edgeworth:
+Ms. Swift? <textEffects>(It's clear that Ms. Swift was the person in the <span style="color:#E16935">red hood</textEffects>. However, that doesn't mean that the whole truth has been revealed.)</span>
+</line><line>Nicole:
+I really didn't do it. Please believe me...!
+</line><line>Edgeworth:
+<textEffects>(Is it really alright...? For it to end this way...?  All I see is a girl with eyes full of fear, pleading for help. Certainly not someone who's committed a heinous crime! If I stand aside now and do nothing, the truth will be lost to the darkness!)</textEffects>
+</line>
+<hr />
+<line>Gaaaaaaaaahhh!!
+</line><line>Kay:
+Eh!
+</line><line>Gumshoe:
+Wha-!
+</line><line>Edgeworth:
+What!?
+</line><line>Knightley:
+Wh-What the... You...!
+</line><line>Doe:
+...Silence. "What the" is an impolite way to greet someone. Your neck injury has yet to heal, and you've already forgotten?
+</line><line>Knightley:
+N-No...! Not you, not now!
+</line><line>Doe:
+It seems you've remembered.
+</line><line>Gumshoe:
+Hey! What are you doing!? Cut it out, pal! You've got some nerve to do that right in front of a detective and a prosecutor!
+</line><line>Knightley:
+S-Stop! Stay out of this! He's out of your league!
+</line><line>Kay:
+Mr. Doe... Who on earth are you?
+</line><line>Doe:
+I am not merely a simple ice cream salesman.
+</line><line>Knightley:
+H-He's a professional assassin. His name is... ...Shelly de Killer.
+</line><line>Edgeworth:
+<textEffects>(Shelly de Killer!?)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+There's no one in law enforcement who doesn't know the name <textEffects>De Killer</textEffects>. An assassin who will carry out any request without fail. He was once involved in a case I handled.
+</line>
+<hr />
+<line>de Killer:
+It's been a while, Prosecutor Edgeworth. Although, I do believe this is our first face-to-face meeting...
+</line><line>Edgeworth:
+The real assassin was you all along...!
+</line><line>de Killer:
+That is correct. I received a request from a key individual... ...to take the president's life...
+</line><line>Edgeworth:
+<textEffects>(I should have seen his face before in the case files... Curses...! I was careless...)</textEffects>
+</line><line>de Killer:
+I'm glad I hid a knife inside my bandage before I entered the park. Even though my calculations were a little off.
+</line><line>Edgeworth:
+<textEffects>(A knife...? Not a gun?)</textEffects>
+</line><line>de Killer:
+Now, Mr. Knightley. Shall we play that game you love so much? Of course, the stakes will be your life.
+</line><line>Knightley:
+...What are your demands?
+</line><line>de Killer:
+...I want you to relinquish investigative authority back to Prosecutor Edgeworth.
+</line><line>Edgeworth:
+<textEffects>(Investigative authority...?)</textEffects>
+</line><line>Knightley:
+Wh-What are you playing at?
+</line><line>de Killer:
+I simply want you to allow Edgeworth to continue his investigation.
+</line><line>Kay:
+Huh? Why do you want that?
+</line><line>de Killer:
+Rooke is an opponent who is connected to me by fate. I would like to discover the truth about his death. When that man died, the investigative authority was transferred to you. I am simply asking you to give it back to this prosecutor. With your life at stake, this really isn't the time to be stubborn.
+</line><line>Knightley:
+Why you... You're just using the investigation to get close to the president!
+</line><line>de Killer:
+And what if I am? Indeed, in order to continue the investigation... ...it is necessary that we enter the <textEffects>president's plane.</textEffects>
+</line><line>Knightley:
+As the leader of the president's bodyguards, I won't allow it!
+</line><line>de Killer:
+Oh? I thought you were only second-in-command?
+</line><line>Knightley:
+Now that Rooke's gone, I'm in charge!
+</line><line>de Killer:
+I'm not sure if you're as capable as Rooke was...
+</line><line>Knightley:
+Wh-What are you saying!? I'm totally the leader now!
+</line><line>de Killer:
+Very well. In that case, please exercise judgment befitting of a leader. You can lose your life here needlessly, or will you allow the investigation to continue?
+</line><line>Knightley:
+Gah...!
+</line><line>Edgeworth:
+<textEffects>(He's using the investigation as an excuse? Why would he go to all that trouble? What is this man thinking?)</textEffects>
+</line><line>de Killer:
+Prosecutor Edgeworth. I trust you have no objections? Let us continue the investigation.
+</line><line>Edgeworth:
+........
+</line><line>Gumshoe:
+Mr. Edgeworth! Wh-What should we do, sir?
+</line><line>Edgeworth:
+For now, we have no choice but to accept his proposal. At least we'll be able to investigate. But... Listen well, Detective.
+</line>
+<hr />
+<line>Edgeworth:
+...I'll use the investigation to buy us time. Meanwhile, gather up all your men. Surround the president's plane so that he can't escape...!
+</line><line>Gumshoe:
+...Right! Roger that, sir!
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<line>Edgeworth:
+The death of the bodyguard Ethan Rooke, and the arrival of Shelly de Killer. A new development in this case has come to light. Under Knightley's direction, the door of the president's plane was opened... After the paramedics attending Mr. Rooke left... ...we set foot inside the plane, one by one...
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 25, 4:15 PMPresident's PlaneOffice</textEffects></captions>
+<line>de Killer:
+Oh my. Where would the president be?
+</line><line>Knightley:
+Who knows...
+</line><line>de Killer:
+It seems he's just behind that door. Still a coward, I see.
+</line><line>Knightley:
+You think he'd just show himself in front of a hitman!? Ha ha ha ha! Not a chance!
+</line><line>de Killer:
+.....Didn't I tell you already? My purpose here is simply to investigate the case. Well then, Mr. Prosecutor. We await your examination of the body.
+</line><line>Edgeworth:
+Right... <textEffects>(For now, I have no choice but to obey and continue the investigation. The rest is up to Detective Gumshoe... I'm counting on you!)</textEffects> The attempted assassination of the president became the murder of a bodyguard...
+</line><line>Kay:
+He he he... It looks like you could use some help, Mr. Edgeworth.
+</line><line>Edgeworth:
+Well, I don't deny it, but...
+</line><line>Kay:
+See? Exactly! If that's the case, then it can't be helped! Just leave it to the Great Thief Kay Faraday!
+</line><line>Edgeworth:
+...Right. So are you saying you can solve this case?
+</line><line>Kay:
+Nope!
+</line><line>Edgeworth:
+<textEffects>(Said with such certainly...)</textEffects>
+</line><line>Kay:
+Instead, I'll stick to being your support! Right, let's get straight to the investigation!
+</line><line>Edgeworth:
+<textEffects>(We need to buy time for the police to prepare. I'll need to draw out this investigation for as long as I can...)</textEffects>
+</line>
+<captions aligned="center"><textEffects>Begin Investigation</textEffects></captions>
+<captions aligned="center"><textEffects>President's PlaneOffice</textEffects></captions>
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+What's this...? The details of the security plans were changed?
+</line><line>Kay:
+Eh? ...Aah! You're right!
+</line><line>Knightley:
+Yeah. That's right. It was changed yesterday. President's orders...
+</line><line>Edgeworth:
+Why the sudden change?
+</line><line>Knightley:
+Because... two days ago, De Killer attacked the president. He disguised himself as a bodyguard. Rooke was the first to notice. He had already gotten close to the president. Rooke managed to stop him just in the nick of time. Rooke grabbed his left arm and twisted it! And then he fired one bullet, square into his left arm!
+</line><line>Kay:
+What were you doing at that time, Mr. Knightley?
+</line><line>Knightley:
+I-I was...
+</line><line>de Killer:
+If I remember correctly, the first person I took out that day was you...
+</line><line>Kay:
+Oops. Was that a touchy subject?
+</line><line>Knightley:
+...Shut up!
+</line><line>Edgeworth:
+<textEffects>(So back then...)</textEffects>
+</line>
+<hr />
+<line>Doe:
+Your neck injury has yet to heal, and you've already forgotten?
+</line><line>Knightley:
+N-No...! Not you, not now!
+</line>
+<hr />
+<line>Knightley:
+Since that day, I haven't been able to turn my head right. It sucks.
+</line><line>de Killer:
+To think that I would suffer an injury... Ethan Rooke... You could say he was a most capable individual. ...Unlike this man here.
+</line><line>Knightley:
+Tsk! What's so different about me and Rooke?
+</line><line>de Killer:
+I believe you're about as different as a pawn and a queen.
+</line><line>Knightley:
+What!?
+</line><line>Edgeworth:
+So you remembered Rooke's name because he was highly capable...
+</line><line>de Killer:
+Correct. While disguised as a bodyguard, I happened to hear his name. There was no way I could forget that name. Only a select few have ever been able to injure me.
+</line><line>Edgeworth:
+<textEffects>(So this was the "connection" De Killer was talking about...)</textEffects>
+</line><line>Knightley:
+The security arrangements were changed... ...so that De Killer would not be able to sneak in as a bodyguard again. Only the president's two most trusted subordinates would accompany him on the stage. In short, me and Rooke...
+</line><line><textEffects>Security Plans data updated in my Organizer.</textEffects>
+</line><line>Edgeworth:
+It appears your positions were also changed.
+</line><line>Kay:
+That's true! He's now on the right side!
+</line><line>Knightley:
+'Cuz I can't turn my head to the right. My position got changed to the president's left side... In other words, I was <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Knightley&#39;s position - His head couldn&#39;t turn right. Plans were altered so he could stand on the right side.">relocated to the right side of the stage</textEffects></span><textEffects> (Knightley's position - His head couldn't turn right. Plans were altered so he could stand on the right side.)</textEffects></span>.
+</line>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line><i>(Connecting all possible Logic, examining briefcase and doll, and deducing security plans leads to:)</i>
+</line><line>de Killer:
+...Now then. I've grown weary of this investigation.
+</line><line>Edgeworth:
+<textEffects>(Ngh... Still no sign of Detective Gumshoe!)</textEffects>
+</line><line>de Killer:
+Mr. Prosecutor, have you uncovered the truth yet?
+</line><line>Edgeworth:
+...No. Not yet.
+</line><line>de Killer:
+I see. In that case, would you like to speak with someone who is involved in the incident?
+</line><line>Edgeworth:
+Someone... involved in the incident?
+</line><line>Kay:
+Y-You mean...!
+</line><line>de Killer:
+Is there not one more witness? ...Just behind those doors.
+</line><line>Edgeworth:
+<textEffects>(Of course, the President himself!)</textEffects>
+</line><line>de Killer:
+Well, Mr. Prosecutor. Please do the honors and summon the witness here.
+</line><line>Knightley:
+There's no chance in hell I'm letting that happen! You think you can just summon the President like a witness in court? Hah!
+</line><line>de Killer:
+......... Mr. President. I'm sure you are watching all this through your security cameras. Would you kindly grace us with your presence? That is, if you value your bodyguard's life...
+</line><line>Knightley:
+Grr...
+</line><line>..........
+</line><line>..........
+</line><line>..........
+</line><line>de Killer:
+...I see. Mr. President. What sort of a man leaves another to die on his behalf?
+</line><line>Knightley:
+M-Mr. President! S-Stop it! Take it easy! Hey!
+</line><line>Edgeworth:
+<textEffects>(Still nothing! Come on, Detective Gumshoe!)</textEffects>
+</line>
+<hr />
+<line>Kay:
+Ahhhhh!
+</line><line>Edgeworth:
+<textEffects>(What...!? The lights!)</textEffects>
+</line><line>de Killer:
+My apologies, Mr. Prosecutor. But I wouldn't try anything if I were you. It seems I am unable to reach the President. Even with Mr. Knightley's life...
+</line><line>Knightley:
+S-Stop! Ugh!
+</line><line>Kay:
+Ahhh!
+</line><line>Edgeworth:
+Kay! De Killer, you...!
+</line><line>de Killer:
+However... I have already seen the <textEffects>truth.</textEffects>
+</line><line>Edgeworth:
+<textEffects>(Where... Where is he...?)</textEffects> Oof!
+</line><line>de Killer:
+I leave the rest in your hands, Mr. Prosecutor...
+</line>
+<hr />
+<line>......Edge... ...Mr. Edgeworth...!
+</line><line>Edgeworth:
+<textEffects>(D-Detective Gumshoe...?)</textEffects>
+</line><line>Gumshoe:
+Mr. Edgeworth! Sir!
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 25, 4:45 PMPresident's PlaneOffice</textEffects></captions>
+<line>Edgeworth:
+<textEffects>(Did... Did I pass out...?)</textEffects>
+</line><line>Gumshoe:
+Mr. Edgeworth! Thank goodness you're safe!
+</line><line>Kay:
+Mr. Edgeworth! Are you OK?
+</line><line>Edgeworth:
+Kay! What about you?
+</line><line>Kay:
+I just woke up myself. My head's throbbing a bit, but it's no big deal!
+</line><line>Edgeworth:
+Detective Gumshoe! What happened to De Killer?
+</line><line>Gumshoe:
+Ms. Swift came running out of the plane... She told us De Killer made a run for it, but... ...we were too late, sir. We heard from that bodyguard... ...that the emergency lifeboat over there had been stolen. He's probably at the other side of the lake by now, sir.
+</line><line>Edgeworth:
+Didn't you seal off the park?
+</line><line>Gumshoe:
+The police were all called back to surround the plane. Right now, there's no one guarding the opposite shore...
+</line><line>Edgeworth:
+Ngh... that means he succeeded in giving us the slip.
+</line><line>Gumshoe:
+Sure seems that way, sir.
+</line><line>Knightley:
+...Mr. Prosecutor.
+</line><line>Edgeworth:
+Horace Knightley... It seems you also had a narrow escape.
+</line><line>Knightley:
+Yeah, that sucked. That punk!
+</line><line>Gumshoe:
+Come to think of it... We found this near where you fell, sir.
+</line><line>Edgeworth:
+This is... De Killer's calling card...
+</line><line>Gumshoe:
+Looks like a message from him.
+</line><line><textEffects>Calling Card data jotted down in my Organizer.</textEffects>
+</line><line>Edgeworth:
+He always leaves this card next to his victim's body.
+</line><line>Gumshoe:
+But you're not dead, sir?
+</line><line>Edgeworth:
+...Perhaps this signifies something similar to a killing. <textEffects>(Which reminds me, the last thing he said still bothers me.)</textEffects>
+</line>
+<hr />
+<line>de Killer:
+However... I have already seen the <textEffects>truth.</textEffects> I leave the rest in your hands, Mr. Prosecutor...
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(Seen the truth? What did he mean?)</textEffects>
+</line><line>Knightley:
+...Yeah. It's safe now.
+</line><line>Edgeworth:
+<textEffects>(Hm? What was that?)</textEffects>
+</line><line>Knightley:
+...The president will be making his entrance now.
+</line><line>Edgeworth:
+The president...!?
+</line>
+<hr />
+<line>Huang:
+........
+</line><line>Edgeworth:
+<textEffects>(This man is the president of Zheng Fa, Di-Jun Huang!)</textEffects>
+</line><line>Huang:
+...You are?
+</line><line>Edgeworth:
+It is an honor to meet you. My name is Miles Edgeworth. I am a prosecutor.
+</line><line>Huang:
+I am Di-Jun Huang. I have heard of your deeds. You saved my country from a great crisis.
+</line><line>Edgeworth:
+<textEffects>(Is he referring to the Yatagarasu case...?)</textEffects> I was simply solving a murder, nothing more.
+</line><line>Huang:
+...Such modesty. I have been observing your investigation. An astounding performance. ...Despite allowing De Killer to get away.
+</line><line>Edgeworth:
+Thank you very much. <textEffects>(So he was watching through the security cameras...)</textEffects>
+</line><line>Huang:
+...However. I regret that it ends here.
+</line><line>Edgeworth:
+! What do you mean...?
+</line><line>Huang:
+........ Heed my words! Foolish prosecutor! You should have already been informed! By Knightley...! This investigation will be handed over to the esteemed police force of Zheng Fa!
+</line><line>Edgeworth:
+<textEffects>(Now that De Killer is gone, they intend to take over the investigation!)</textEffects>
+</line><line>Gumshoe:
+Hey, pal! What're you doing! And what's with that attitude!? It's because of De Killer and Mr. Edgeworth that...
+</line><line>Edgeworth:
+Enough, Detective! ...Mr. President. I cannot agree to this. Why must this investigation be handed over to your country's police?
+</line><line>Huang:
+Why... you say? Know your place! Puny prosecutor! Must I explain my actions? Nay! ...I think not! You shall hand over all the evidence you've found so far and leave this plane at once.
+</line><line>Knightley:
+Hey, Mr. Prosecutor. Be a good boy and do as you're told.
+</line><line>Edgeworth:
+Nngh...! <textEffects>(I... cannot resist any longer...!)</textEffects>
+</line><line><textEffects>All the evidence handed over to Knightley.</textEffects>
+</line><line>Edgeworth:
+<textEffects>(Why? Why won't he allow me to investigate this case any further?)</textEffects>
+</line><line>Huang:
+...Now then, would you kindly take your leave? Knightley! Place the suspect under firm restraint.
+</line><line>Knightley:
+I'm on it! Mr. President!
+</line><line>Huang:
+An attempt on my life, the murder of my subordinate! Such evil! Such sin!
+</line><line>Nicole:
+I-I... I! I didn't kill nobody! I swear...!
+</line><line>Knightley:
+Shut your trap, lady.
+</line><line>Nicole:
+Uhn... Uhn...
+</line><line>Huang:
+You dare question me! You dare stain this world with deceit! Should we pardon this sin? Nay! Absolutely not! It is most unforgivable! My reasons being...
+</line><line>Edgeworth:
+<textEffects>(There's no mistake. The president is hiding something. If I turn back now, the <span style="color:#E16935">truth</textEffects> will be lost forever.)</span>
+</line><line>Gumshoe:
+Mr. Edgeworth!
+</line><line>Kay:
+Mr. Edgeworth! Is there nothing you can do?
+</line><line>Edgeworth:
+........ <textEffects>(I remember... The countless times I've faced this dilemma in the courtroom. The lies of the witness. The rebuttals of the defense. I did not always have evidence to counter them... Nonetheless, I was still able to draw out the <span style="color:#E16935">truth</textEffects> from them. That's right... My words alone are my weapons!)</span>
+</line>
+<hr />
+<line>Edgeworth:
+Now then... Let's analyze the situation.
+</line>
+<captions aligned="center"><b>2 CHESS PIECES</b></captions>
+<line>Huang:
+Leave this place at once! This is a direct order from the president himself!
+</line><line>Edgeworth:
+<textEffects>(He's not even listening. Any rebuttal I give, he cuts off. When he has that <span style="color:#E16935">forceful attitude</textEffects>, I'll need to watch the situation carefully...)</span> My opponent is the president of Zheng Fa. I don't think he'll show any weakness easily. His words may be overbearing... but I need not be intimidated. If I <textEffects>observe his behavior closely</textEffects>, I should be able to read his emotions. First... I'll start by asking about his <textEffects>reasons for taking over the investigation</textEffects>. Now, let's begin! A good opening line will put me at an advantage.
+</line>
+<captions aligned="center"><textEffects>Begin Logic Chess</textEffects></captions>
+
+
+<line>Edgeworth:
+......
+</line><line>Huang:
+I am the president of Zheng Fa. You shall not talk back to me.
+</line><line>Edgeworth:
+I'm not talking back. I am simply asking for confirmation. This investigation will be taken over by the police of your country. Is that correct?
+</line><line>Huang:
+Exactly. That is all I will say! Restrain yourself from making any more unnecessary comments!
+</line>
+
+
+<line>Edgeworth:
+......
+</line><line>Huang:
+Hmph. That's enough. Being on this plane is tantamount to being on my country's soil. You cannot do as you please.
+</line><line>Edgeworth:
+<textEffects>(This plane...? Is there something significant about this place? I should remember this <span style="color:#E16935">clue</textEffects>.)</span>
+</line>
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+Hm. Perhaps that <textEffects>clue</textEffects> may be useful here.
+</line>
+
+
+<line>Edgeworth:
+Gathering from what you've said so far... Does that forceful attitude of yours have some connection to this place?
+</line><line>Huang:
+...Hmph. You insolent...
+</line><line>Edgeworth:
+Earlier, you said that being on this plane is like being on your country's soil. From those words, I was able to deduce the answer. Namely, that is... You wish to claim extraterritorial rights inside this plane. Am I correct?
+</line><line>Huang:
+That's enough! I shall brook no insolence!
+</line>
+
+
+<line>Edgeworth:
+Your words are forceful... but I cannot overlook them. The moment I mentioned extraterritorial rights... Your face grow pale.
+</line>
+<captions aligned="center"><b>1 PIECE BROKEN</b></captions>
+<line>Huang:
+...... In light of your brazen courage, I shall grant you an answer. That's right. I am claiming extraterritorial rights inside this place. However! What does that change? You are still powerless! There is nothing you can do about it!
+</line><line>Edgeworth:
+I see. Under international law, the plane would be considered part of Zheng Fa. How convenient. ......Hmph. If he wishes to stake this claim... Then I shall question its <textEffects>validity</textEffects>. The next move will decide the outcome. He may be the president, but there is a hole in his logic. Let me break it wide open!
+</line>
+
+
+
+<line>Edgeworth:
+......
+</line><line>Huang:
+Such irredeemable ignorance. It troubles me greatly.
+</line><line>Edgeworth:
+There is no need to worry. I do not need to be saved. It is Ms. Swift whom I wish to save from these false charges that you have laid against her.
+</line><line>Huang:
+I admire your tenacity. However! Your wish is unattainable. The extraterritoriality laws are unshakable. This plane is Zheng Fa territory!
+</line>
+
+
+</td></tr></tbody></table>
+
+
+<line>Edgeworth:
+......
+</line><line>Huang:
+"Forceful" is the wrong word. It is authority. Leadership!
+</line><line>Edgeworth:
+So you arrested Ms. Swift because you felt you had the authority to do so?
+</line><line>Huang:
+Yes! That girl is a criminal! There is no room for dispute!
+</line>
+
+
+
+<line>Edgeworth:
+......
+</line><line>Huang:
+The shooting took place outside the plane. Only she could have done it!
+</line><line>Edgeworth:
+<textEffects>(...That's it! The shooting <span style="color:green">occurred outside the plane</textEffects>. This could be a very important <textEffects>clue</textEffects>.)</span>
+</line>
+</td></tr></tbody></table>
+
+<line>Edgeworth:
+Hmm. It's time to use that <textEffects>clue</textEffects>.
+</line>
+
+
+<line>Edgeworth:
+Indeed, I do not question your extraterritorial rights inside this plane. ...However! You just claimed that the shooting took place "outside the plane". Yes! If it didn't happen inside the plane, extraterritorial laws do not apply! Your claim has fallen apart! Ms. Swift's arrest is invalid!
+</line>
+<captions aligned="center"><b>1 PIECE BROKEN</b></captions>
+<line>Huang:
+Grrrrrrrrrrrgh! I-Impossible! To be bested by a mere prosecutor...! I am the presideeent!
+</line><line>Edgeworth:
+Checkmate, Mr. President.
+</line>
+<captions aligned="center"><textEffects>Logic Chess Complete</textEffects></captions>
+<hr />
+<line>Edgeworth:
+Mr. President... Will you allow us to continue with our investigation?
+</line><line>Huang:
+...Nngh. I... yield. I will allow it! My heart is generous. My heart is tolerant and merciful. Therefore! As such... ......Certainly! Thus, we shall... ....It is our duty! For a most noble cause... ...Gentlemen! Now is the time! I, the President of Zheng Fa, for the sake of the investigation...
+</line><line>Kay:
+This guy sure likes beating around the bush.
+</line><line>Edgeworth:
+Knightley. We have received the President's permission. Could you return our evidence?
+</line><line>Knightley:
+...Tsk. Here.
+</line><line><textEffects>Knightley returned all of the evidence.</textEffects>
+</line><line>Kay:
+You did it, Mr. Edgeworth!
+</line><line>Edgeworth:
+Indeed. Now we can resume the investigation.
+</line><line>Knightley:
+Heh! It's funny how happy you are just because I gave you your "precious" pieces back! Now let's see how well you use them.
+</line><line>Edgeworth:
+Hm. Pay attention, then. Here is my next move... ...Mr. President. May I make one more request of you?
+</line><line>Huang:
+Hm?
+</line><line>Edgeworth:
+Would you please testify about the moment of the incident?
+</line><line>Huang:
+...Testify?
+</line><line>Knightley:
+Hey, hey! Hold on a sec! THAT'S your next move!? Isn't that the sort of thing you'd leave to the courts!?
+</line><line>Edgeworth:
+Naturally, it's a courtroom procedure. However, I'd still like to hear what he has to say. If he refuses to cooperate with the investigation... ...he will have to give a clear reason.
+</line><line>Knightley:
+Th-That's...
+</line><line>Edgeworth:
+Is there something wrong?
+</line><line>Knightley:
+......
+</line><line>Huang:
+...Knightley. Stand down. I shall grant the honorable Prosecutor's request.
+</line><line>Edgeworth:
+I thank you for your cooperation.
+</line><line>Huang:
+...Now, heed my words!
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- President's Testimony --</textEffects></captions>
+<line>Huang:
+Where was I when the incident occurred? Ah, yes. The stage.
+Then! Rooke and Knightley suddenly appeared and stood in front of me!
+After that, I heard a gunshot and a red balloon bursting!
+And so! Those two attempted to escort me into the plane!
+But then... the second gunshot!
+The bullet pierced through Rooke's body and struck my bulletproof vest!
+</line>
+<hr />
+<line>Kay:
+If that's the case, then the president's a victim too, right?
+</line><line>Edgeworth:
+It was an assassination attempt. Mr. Rooke just happened to get caught up in it, unfortunately.
+</line><line>Kay:
+But isn't it strange? Why would the victim want to interrupt the investigation?
+</line><line>Edgeworth:
+Of course. If this becomes public, it would cause problems.
+</line><line>Gumshoe:
+I see! There's still some deep, dark secret behind this case, right!?
+</line><line>Edgeworth:
+<textEffects>(Certainly the president, and perhaps Knightley, too, know of this "secret". Without fail, I shall reveal it for all to see!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- President's Testimony --</textEffects></captions>
+<line>Huang:
+<textEffects>Where was I when the incident occurred? Ah, yes. The stage.</textEffects>
+</line>
+
+<line>Huang:
+<textEffects>Then! Rooke and Knightley suddenly appeared and stood in front of me!</textEffects>
+</line>
+
+<line>Huang:
+<textEffects>After that, I heard a gunshot and a red balloon bursting!</textEffects>
+</line>
+
+
+<line>Huang:
+<textEffects>And so! Those two attempted to escort me into the plane!</textEffects>
+</line>
+
+<line>Huang:
+<textEffects>But then... the second gunshot!</textEffects>
+</line>
+
+<line>Huang:
+<textEffects>The bullet pierced through Rooke's body and struck my bulletproof vest!</textEffects>
+</line>
+
+<line>Kay:
+Umm... There doesn't seem to be anything out of place...
+</line><line>Gumshoe:
+Since he's also a victim... He wouldn't have a reason to lie, sir. So, what he's said should be nothing but the truth...
+</line><line>Edgeworth:
+On the contrary, there is one point that stands out to me as odd. Try to recall the state of the crime scene.
+</line><line>Kay:
+Ehh!? Really...? S-Show me the evidence!
+</line><line>Edgeworth:
+<textEffects>(Perhaps I should review it one more time.)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+A red balloon burst...? I'm afraid that's not the case.
+</line><line>Huang:
+What?
+</line><line>Edgeworth:
+Please have a look at this piece of evidence. Can you see... what has burst?
+</line><line>Huang:
+Nuoooooooooooh! Th-This is...! ...What, exactly?
+</line><line>Edgeworth:
+Hmph. It's the Steel Samurai, Warrior of Neo Olde Tokyo. You'd do well to remember it. If you wish to win the support of this nation's people!
+</line><line>Kay:
+And don't forget the rival show, The Jammin' Ninja!
+</line><line>Edgeworth:
+The balloon that was ruptured by the bullet was no ordinary red balloon! It was a Steel Samurai balloon!
+</line><line>Huang:
+......? But according to the plans, there should have been two red balloons... It says so right here in this security plan.
+</line><line>Kay:
+It certainly looks like there are only <textEffects>two round balloons</textEffects> drawn here.
+</line><line>Huang:
+Knightley! What is the meaning of this!? Explain at once!
+</line><line>Knightley:
+Yes, sir! That Steel Samurai balloon was a last minute replacement.
+</line><line>Edgeworth:
+Replacement...?
+</line><line>Knightley:
+That's what we were told. Seems that information didn't make it to the president. We ran into a little trouble during setup last night. One of the balloons that we had prepared burst.
+</line><line>Kay:
+So, you scrambled to find a replacement?
+</line><line>Knightley:
+Exactly. We just happened to run into a guy manning a stand in the park. He said he'd lend us the Steel Samurai balloon. He was... kind of a poser.
+</line><line>Edgeworth:
+<textEffects>(A stand, a Steel Samurai balloon, and a poser...)</textEffects>
+</line><line>Knightley:
+We pumped air into its red samurai pants, to create a makeshift balloon.
+</line><line>Edgeworth:
+So the Steel Samurai balloon looked just like an ordinary red balloon. Is that what you mean?
+</line><line>Huang:
+Knightley! Why was I not informed of this?
+</line><line>Knightley:
+Sir! I'm terribly sorry. I didn't think it was important enough to report...
+</line><line>Edgeworth:
+Couldn't you tell by just looking at it?
+</line><line>Huang:
+Hmm... I did not notice it.
+</line><line>Edgeworth:
+<textEffects>(So he mistook the Steel Samurai's pants for an ordinary balloon?)</textEffects> Was there a reason why you made that mistake...?
+</line><line>Huang:
+...Oooh!
+</line><line>Edgeworth:
+<textEffects>(Wh-What now?)</textEffects>
+</line><line>Huang:
+A moment please. I just remembered now... I could not see the balloon very well.
+</line><line>Edgeworth:
+You couldn't see it?
+</line><line>Huang:
+Exactly. At the time, the wind was strong. The flags on the stage were fluttering wildly, and they obstructed my view.
+</line><line>Edgeworth:
+The flags?
+</line><line>Huang:
+Did you not see the flags that were set up on both sides of the stage? Due to the strong wind, they were waving about. Just like this...
+</line><line>Edgeworth:
+<textEffects>(So a strong wind was blowing at the time of the incident. The flags were fluttering wildly... Is there a problem with that?)</textEffects>
+</line>
+
+
+<line>Edgeworth:
+President Huang. You have my gratitude. Your testimony has helped uncover a new contradiction.
+</line><line>Huang:
+A contradiction... you say?
+</line><line>Edgeworth:
+Yes, one that turns the very foundation of this case on its head...! <textEffects>(During my investigation, there was no wind at the crime scene, so the flags remained still... However, the flags were actually fluttering in the strong wind... This completely changes the meaning of that piece of evidence...!)</textEffects> <textEffects>Which evidence contradicts the state of the crime scene?</textEffects>
+</line>
+
+
+<line>Edgeworth:
+The gunshot rang out during the president's speech. The bullet struck the balloon... ...and also pierced through the national flag. I had previously deduced the bullet's trajectory using these facts. The assassin fired the bullet from the left side of the audience area... However, if the flags were fluttering about like so, my reasoning changes!
+</line><line>Kay:
+Ahh! Since the flag's position has changed...
+</line><line>Edgeworth:
+Correct. The bullet's trajectory must also change.
+</line><line>Huang:
+.........!
+</line><line>Edgeworth:
+And if we trace the trajectory of the bullet, we can tell who fired the shot.
+</line><line>Kay:
+Eh? But, Mr. Edgeworth! That person is...!
+</line><line>Edgeworth:
+<textEffects>(Indeed... I still don't understand why. However, it can be none other than him.)</textEffects> <textEffects>By tracing the bullet's path, who was the person who fired the gun?</textEffects>
+</line>
+
+
+<line>Edgeworth:
+The person who shot the balloon... was none other than you, Horace Knightley!
+</line><line>Knightley:
+Wh-What!?
+</line><line>Edgeworth:
+Connect the bullet holes in the balloon and the flag... and the line points to you!
+</line><line><textEffects>Bullet's Trajectory data updated in my Organizer.</textEffects>
+</line><line>Gumshoe:
+But that's guy's one of the president's bodyguards! Why would he have shot the Steel Samurai balloon, sir!?
+</line><line>Huang:
+Preposterous! I agree with the detective. There is no reason. Are you saying Knightley, who has saved my life on numerous occasions, is an assassin!?
+</line><line>Knightley:
+Prosecutor Edgeworth, I've had it up to here with you! My job is to protect the president!
+</line><line>Huang:
+Knightley! Control yourself...!
+</line><line>Knightley:
+S-Sorry, sir... Prosecutor. Indeed, the wind was strong during my speech. However, the wind's strength can change very quickly. Evidence! Show us evidence that the flag was flying at the moment of the gunshot!
+</line><line>Edgeworth:
+<textEffects>(The gunshot occurred the moment the president raised his fist to the sky. The evidence that shows this moment is... Do I have something that shows the state of the flag?)</textEffects>
+</line>
+
+
+<line>Edgeworth:
+The evidence is in this photo.
+</line><line>Huang:
+Interesting. And where in this photo, exactly?
+</line><line>Edgeworth:
+<textEffects>Proof that the flag was flying in this photo is: Right here!</textEffects>
+</line>
+
+
+<line>Edgeworth:
+Don't you see? The fluttering flag can be seen in this photo!
+</line><line>Huang:
+N-No...
+</line><line>Edgeworth:
+There is no mistaking that the flags were flying at the moment of the incident.
+</line><line>Gumshoe:
+S-So then. It really was that guy who shot the balloon...
+</line><line>Kay:
+That would mean Mr. Knightley is the assassin!
+</line><line>Edgeworth:
+Horace Knightley is...
+</line>
+
+
+<line>Edgeworth:
+Horace Knightley is... not the assassin. The only thing he shot was a balloon. A balloon on the opposite side of the president... He wasn't aiming at the president.
+</line><line>Knightley:
+Why then! Why was it necessary for me to do a thing like that!? Depending on your answer, I might take aim at your pretty lil' head!
+</line><line>Edgeworth:
+<textEffects>(Why was it necessary...? I presume the reason is connected to the one thing that's felt out of place...! ...The one who <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Knightley shot the balloon - Bullet&#39;s trajectory shows that Knightley shot the balloon on the right side.">shot the balloon</textEffects></span><textEffects> (Knightley shot the balloon - Bullet's trajectory shows that Knightley shot the balloon on the right side.)</textEffects></span> was the president's bodyguard, Knightley. That fact will change the entire viewpoint of this case!)</span>
+</line>
+
+<line>Edgeworth:
+<textEffects>(Why was Knightley's position changed?)</textEffects>
+</line>
+<hr />
+<line>Knightley:
+'Cuz I can't turn my head to the right. My position got changed to the president's left side... In other words, I was relocated to the right side of the stage.
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(Was that really the only reason? If the plans had not changed, and Knightley remained on the left side of the stage... Knightley can't turn his head to the right... Would he have been able to aim at the balloon on the left side of the stage? Perhaps... the security plans were altered so that Knightley could shoot the balloon? If that's the case...)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+What's this...? The details of the security plans were changed?
+</line><line>Knightley:
+Yeah. That's right. It was changed yesterday. President's orders...
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(The security plans were changed on <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Change in the security plans - Ordered by the president. Was this done so Knightley could shoot the balloon?">the president's orders</textEffects></span><textEffects> (Change in the security plans - Ordered by the president. Was this done so Knightley could shoot the balloon?)</textEffects></span>!)</span>
+</line>
+
+<line>Edgeworth:
+<textEffects>(In other words, the president knew about the balloon being shot... He knew about the attempt on his own life!)</textEffects> If you think about it that way, everything that's been out of place is beginning to add up! <textEffects>(Why was the assassin able to get a gun past such tight security? Why was the assassin wearing a conspicuous red hood? Why did they use a laser sight that would so easily reveal their location? Why was the president so calm after being shot? This was the truth the president and his subordinates tried to conceal!)</textEffects> There can only be one reason why Knightley fired the gun...! The entire assassination was a set-up!
+</line><line>Kay:
+Eh!?
+</line><line>Gumshoe
+Huh!?
+</line><line>Huang:
+...!
+</line><line>Knightley:
+...How dare you!? Do you seriously understand what you're implying with this?
+</line><line>Edgeworth:
+Of course I understand. In fact, now I understand everything. Mr. President, you wished to take the investigation rights from me. That was all so you could conceal the real truth.
+</line><line>Huang:
+How dare you mock me with these spurious allegations!?
+</line><line>Edgeworth:
+Mock you? That was not my intention. I simply used <textEffects>logic</textEffects> to uncover the <textEffects>truth</textEffects>. That, is all. Knightley fired the first shot in order to rupture the balloon. Hearing the gunshot, and the sound of the balloon bursting, the audience began to panic. This was followed by one more shot...
+</line><line>Kay:
+Wait... one more shot?
+</line><line>Edgeworth:
+Yes. Knightley turned towards the balloon and pulled the trigger a second time. The second gunshot was also fired by Knightley... ...to create the <textEffects>illusion</textEffects> of the second shot hitting the president.
+</line><line>Kay:
+So what about the bullet that hit the president's bulletproof vest?
+</line><line>Edgeworth:
+What if that bulletproof vest had been prepared in advance?
+</line><line>Huang:
+Uuuuughh!
+</line><line>Kay:
+What's the matter, Mr. President? Afraid of facing a little bullet?
+</line><line><a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Huang:
+Th-That's not true! I was definitely shot!
+</line><line>Edgeworth:
+If we examined the bullet in your vest, it would answer the question for us. Will we find Rooke's blood on that bullet?
+</line><line>Huang:
+Ugh! But! Th-The person in the <textEffects>red hood</textEffects> who shot me is in that photo...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Weren't you listening, Mr. President? From the bullet's trajectory, the one who fired the shot must have been Knightley!
+</line><line>Kay:
+Then, Nicole...
+</line><line>Edgeworth:
+She too was part of the president's plan... She was to bear the blame, and become the false assassin.
+</line><line>Kay:
+The <textEffects>red hooded</textEffects> figure!
+</line><line>Edgeworth:
+Exactly. I don't know how much of the plan Ms. Swift knew beforehand. However, she didn't fire the gun. All she did was aim the laser pointer at the president's head.
+</line><line>Nicole:
+Th-That's right! I...
+</line><line>Edgeworth:
+Once the crowd began to panic, you would turn your parka inside out... ...and thus, the <textEffects>red hooded</textEffects> figure vanished. After that, you discarded the gun and security plan in the trash... ...and the illusion of the assassin vanishing like a ghost was complete.
+</line><line>Gumshoe:
+And with the assassin gone, the case would go unsolved, pal!
+</line><line>Edgeworth:
+Yes, that was what he hoped for.
+</line><line>Kay:
+That's why he wouldn't let Mr. Edgeworth investigate the case!
+</line><line>Edgeworth:
+Exactly. All of this... was an asinine publicity stunt from a lying president!
+</line><line>Huang:
+But... you... YOU! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhh!!!!!!!!!!!
+</line>
+<hr />
+<line>Huang:
+You... you are wrong... I...
+</line><line>Edgeworth:
+<textEffects>(...He revealed his true form.)</textEffects> The assassination is a lie, isn't it?
+</line><line>Huang:
+The chief... why did he have to pick you... This... should not have happened...
+</line><line>Knightley:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Knightley:
+Well played, Mr. Prosecutor.
+</line><line>Huang:
+Kn-Kn-Kn-Knightley!
+</line><line>Edgeworth:
+...I am speaking with the president now, thank you very much.
+</line><line>Knightley:
+You're a chess player. You know knights always strive to protect their King. So shut up. Now.
+</line><line>Edgeworth:
+Are... are you threatening me, Mr. Knightley?
+</line><line>Kay:
+Aaagh! What's with this guy!?
+</line><line>Knightley:
+Oops, sorry. I went over the top there. But onto business... As my first move, I wanna ask you a question. You say I fired a gun on the stage, right? Then I should've been caught. The entire audience was watching me!
+</line><line>Edgeworth:
+I see... Now it's my move. You used a certain object to prevent the spectators from seeing you.
+</line><line>Knightley:
+A certain object...?
+</line><line>Edgeworth:
+<textEffects>(What did Knightley use to prevent the audience from seeing him?)</textEffects>
+</line>
+
+
+<line>Knightley:
+The attaché case...!
+</line><line>Edgeworth:
+Exactly. I'd like you to have a look at this photo Kay took. Your right hand is completely hidden by the case. This photo captures the exact moment you secretly fired the gun. You used the attaché case as a screen!
+</line><line>Knightley:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Knightley:
+You seem to enjoy making up convenient stories, Mr. Prosecutor. But, you've missed something.
+</line><line>Edgeworth:
+What have I missed?
+</line><line>Knightley:
+That everything you've said is just a hypothesis. A theory. Flags flapping in the wind? Using the case as a screen? The security plans were modified 'cause I can't move my neck? You've got no decisive evidence!
+</line><line>Edgeworth:
+Ngh...!
+</line><line>Knightley:
+Yeah, it'd be great if you had the bullet that hit the balloon. Then you could examine it, and see if the ballistic markings matched my gun. But that bullet's probably at the bottom of the lake. Finding it would be real tough, right?
+</line><line>Edgeworth:
+<textEffects>(I hate to admit it, but it's as he says. There's no decisive evidence...)</textEffects>
+</line><line>Knightley:
+If there's no proof, the only thing you can do is shut up. So do so!
+</line><line><a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Edgeworth:
+Ms. Swift...
+</line><line>Nicole:
+Ah, umm...
+</line><line>Edgeworth:
+<textEffects>(That's it! If she speaks, we cold hear new testimony!)</textEffects>
+</line><line>Knightley:
+Hey lady! You got something to say?
+</line><line>Nicole:
+Ah, err... never mind.
+</line><line>Knightley:
+There we go. I thought so.
+</line><line>Edgeworth:
+Nicole!
+</line><line>Nicole:
+!
+</line><line>Edgeworth:
+Don't be afraid! The truth will escape if you let that man intimidate you. You're a reporter... A journalist, are you not?
+</line><line>Nicole:
+........ I... I... I will NOT remain silent!
+</line><line>Knightley:
+You'd better consider your position! Use your head before saying something you'll regret.
+</line><line>Nicole:
+I forgot the number one rule of journalism... Journalists must not tell lies... You can't call it a scoop if it ain't the truth! Mr. Edgeworth. I'm sorry. I've been hiding this the whole time...
+</line><line>Edgeworth:
+This is?
+</line><line>Nicole:
+I used this laser pointer to aim at the president. That's all I did... I never fired the gun!
+</line><line>Knightley:
+You stupid womaaan! If you testify, you'll be admitting you're an accomplice!
+</line><line>Nicole:
+I... I don't care! I'm gonna tell him everything. Three days ago, I was covering an event at the Zheng Fa Embassy. Then some of the president's men called me over. They said if I cooperated, I'd get an exclusive interview with the president.
+</line><line>Edgeworth:
+And the gun in the trash?
+</line><line>Nicole:
+I really don't know. All I was told... ...was to come wearing a red hood and to aim the laser pointer. I never thought it would snowball into all of this... I'm really, truly sorry.
+</line><line>Edgeworth:
+Nicole, thank you. That was a testimony worthy of the courtroom. This is sufficient testimony to verify the fake assassination plot.
+</line><line>Knightley:
+Damn you! The lot of you! You're all a bunch of mindless morons...
+</line><line>Edgeworth:
+It's a shame. If only you had been able to usurp the investigation as planned... ...you would have been able to silence this young lady.
+</line><line>Knightley:
+...Blast!
+</line><line>Kay:
+So, tommorrow's headlines now read... "Fake Assassination Plan Exposed, Becomes a Murder!" ...Right?
+</line><line>Gumshoe:
+I can't believe that you'd do something this horrible, pal!
+</line><line>Knightley:
+I-I admit nothing...!
+</line><line><a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Edgeworth:
+<textEffects>(The president...?)</textEffects>
+</line><line>Huang:
+Knightley. That's enough. We have no choice but to admit it.
+</line><line>Edgeworth:
+So, Mr. President, You admit that you planned a fake assassination?
+</line><line>Huang:
+Yes... I admit it. I'm sorry.
+</line><line>Kay:
+But, why? Why did you have to do this?
+</line><line>Huang:
+My approval ratings in Zheng Fa have fallen... I wanted to appeal to them as a strong president who survived an assassination... ...but in the end, it was just a lie. A stupid lie.
+</line><line>Edgeworth:
+And the bullet in the bulletproof vest...?
+</line><line>Huang:
+Prepared earlier. It was not fired today.
+</line><line><textEffects>Bulletproof Vest data updated in my Organizer.</textEffects>
+</line><line>Kay:
+But, what about Mr. de Killer?
+</line><line>Huang:
+It seems our plan was leaked... Someone wanted to <textEffects>make this fake assassination real</textEffects>.
+</line><line>Edgeworth:
+<textEffects>(That's why De Killer wore the red raincoat. He would impersonate the culprit from the plan, in order to approach the president.)</textEffects>
+</line><line>Huang:
+But, there's still one thing I don't understand.
+</line><line>Edgeworth:
+What's that?
+</line><line>Huang:
+Why did Rooke die? His death was not a part of this charade... and yet it really happened.
+</line><line>Edgeworth:
+<textEffects>(Yes... why was his life taken?)</textEffects>
+</line><line>Huang:
+Ethan was an outstanding bodyguard. Even though he wasn't from my country, he had my utmost trust.
+</line><line>Knightley:
+......
+</line><line>Kay:
+I wouldn't think that having the trust of a cowardly president meant that much, honestly.
+</line><line>Gumshoe:
+Hey, that's the same sort of bond between me and Mr. Edgeworth, pal.
+</line><line>Edgeworth:
+<textEffects>(I wouldn't put it that way...)</textEffects> Did Rooke know of your plan?
+</line><line>Huang:
+Not the exact details. ...I asked him to cooperate, and he refused.
+</line><line>Edgeworth:
+You should have listened to his advice.
+</line><line>Huang:
+Yes, indeed. I wouldn't have done all this if I had known...
+</line><line>Knightley:
+Tsk... You're being too dramatic.
+</line><line>Edgeworth:
+<textEffects>(? Wh-What?)</textEffects>
+</line><line>Knightley:
+Rooke was just one piece of the president's defense.
+</line><line>Huang:
+Knightley...? That's...
+</line><line>Knightley:
+And it's not as if he cooperated with your plan. I did. He ran away, taking whatever dignity he had left with him. Good riddance.
+</line><line>Huang:
+I know you're a valuable bodyguard, but still...
+</line><line>Knightley:
+I don't have time for this, sir. I'm the team leader now. There's going to be a lot of changes now that the chicken's gone. After all, adaption is the most important principle in chess!
+</line><line>Huang:
+I knew you always wanted to be the team leader... B-But... Isn't this a bit imprudent?
+</line><line>Knightley:
+He he he. I will orchestrate even more perfect plans, just like this one.
+</line><line>Edgeworth:
+You definitely have ambition. But, wasn't your "perfect plan" today a failure?
+</line><line>Knightley:
+If it weren't for you and that idiot Rooke, it would have been perfect!
+</line><line>Edgeworth:
+What did Rooke do?
+</line><line>Knightley:
+If he hadn't died, De Killer wouldn't have threatened me... ...and you would have never set foot in this plane.
+</line><line>Huang:
+Knightley! How can you say such a thing...
+</line><line>Knightley:
+Yeah, he died trying to save you, Mr. President. Maybe he fulfilled his lifelong ambition.
+</line><line>Edgeworth:
+<textEffects>(He died protecting the president?)</textEffects>
+</line><line>Kay:
+Huh? But the assassination was fake... right?
+</line><line>Knightley:
+Of course it was, But you need to listen closer, little girl. Remember the "guy who wanted to make the fake assassination real"? There were two gunshots at the time of the incident. The first was as you said. I shot the balloon. BUT... The second one wasn't me.
+</line><line>Edgeworth:
+So who fired the second shot?
+</line><line>Knightley:
+The REAL assassin. ...But, it wasn't De Killer. He intended to attack the president with a knife, not a gun. The lucky winner was the hidden Queen... ...or should I say, the lady in the coat over there.
+</line><line>Nicole:
+Eh!
+</line><line>Gumshoe:
+You're accusing Nicole, pal?
+</line><line>Nicole:
+I-I ain't no assassin!
+</line><line>Knightley:
+Really? I don't believe you. The gun that was left in the trash... That was yours, right?
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- Knightley's Testimony --</textEffects></captions>
+<line>Knightley:
+I shot the balloon and entered the plane with Rooke and the president.
+Rooke waited in the cabin while I led the president into the security room.
+When I came out, Rooke was already on the ground...
+The bullet that lady fired must have hit him while we escorted the president to the plane.
+The shot was fired from the gun you found in the trash!
+</line>
+<hr />
+<line>Edgeworth:
+So, you're saying you don't know exactly when the victim was shot?
+</line><line>Knightley:
+A knight's job isn't to protect the Rook. It's to protect the King!
+</line><line>Kay:
+Huh...?
+</line><line>Edgeworth:
+What he's trying to say is that his job was to protect the president only.
+</line><line>Knightley:
+It's over if you lose the King. Checkmate. That's the first rule of chess.
+</line><line>Edgeworth:
+If you let your pieces get taken right in front of you, you're not likely to win...
+</line><line>Knightley:
+But I did win! Look! The president is safe!
+</line><line>Edgeworth:
+Hmph. Don't claim victory when the game has only just begun!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Knightley's Testimony --</textEffects></captions>
+<line>Knightley:
+<textEffects>I shot the balloon and entered the plane with Rooke and the president.</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>Rooke waited in the cabin while I led the president into the security room.</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>When I came out, Rooke was already on the ground...</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>The bullet that lady fired must have hit him while we escorted the president to the plane.</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>The shot was fired from the gun you found in the trash!</textEffects>
+</line>
+
+
+<line>Edgeworth:
+Knightley fired the first shot, and then Ms. Swift fired the second one...
+</line><line>Kay:
+In other words, Nicole also had a gun. I never thought she was the type...
+</line><line>Edgeworth:
+Without any proof, it's just pure speculation.
+</line><line>Kay:
+Then BAM! Let's present some evidence!
+</line>
+<hr />
+<line>Edgeworth:
+So you shot the balloon, and Ms. Swift shot Rooke? Is that really true?
+</line><line>Knightley:
+I can't see it any other way.
+</line><line>Edgeworth:
+The gun we discovered in the trash was fired twice. The number of gunshots don't add up!
+</line><line>Knightley:
+!
+</line><line>Edgeworth:
+Why don't the gunshots add up? It's simple. This gun is fake evidence, left behind by the real criminal.
+</line><line>Kay:
+Fake evidence?
+</line><line>Edgeworth:
+Think about it. The criminal planted this for a reason. By finding the gun, we'd assume that the assassin was in the audience. In order to make us believe that the gun was used by the assassin... ...the gun needed to appear as if it had been fired twice.
+</line><line>Kay:
+I get it! Because two shots were fired during the incident!
+</line><line>Edgeworth:
+However, we proved that the bullet that hit the balloon did not come from this gun. Therefore, I have my doubts as to whether this gun also took Rooke's life.
+</line><line>Knightley:
+...He he he. Here it comes. You're packing some serious heat. Enough with the song and dance. You've come this far, go ahead and say it!
+</line><line>Edgeworth:
+I won't just say it. I'll prove it. <textEffects>The one who really shot Rooke is...</textEffects>
+</line>
+
+
+<line>Edgeworth:
+Horace Knightley! You murdered Rooke!
+</line><line>Knightley:
+Hey... You finally said it.
+</line><line>Huang:
+Knightley! You couldn't have!
+</line><line>Edgeworth:
+De Killer wasn't the only one who took advantage of the fake assassination plot. You intended to murder Rooke and claim he was a victim of the assassination! Once the president had entered the security room and the door to the plane was closed... ...only the victim and Knightley would have been left in this room. And at that moment, you fired a third bullet. Directly at Rooke...!
+</line><line>Knightley:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Knightley:
+A third bullet...? Hah! Only two gunshots were heard! The numbers don't match up!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+The plane's walls are soundproof. If the door was closed... ...the gunshot would not have been heard outside.
+</line><line>Kay:
+But, wasn't the president in the next room?
+</line><line>Edgeworth:
+<textEffects>(That's true... The president may have heard the gunshot!)</textEffects> Mr. President! Did you hear a gunshot?
+</line><line>Huang:
+I... didn't hear any gunshots...
+</line><line>Edgeworth:
+But! Weren't you watching this room through the security cameras...?
+</line><line>Huang:
+The cameras in this room aren't usually turned on. I turned on the power after I entered the security room.
+</line><line>Kay:
+So you didn't turn on the power immediately after entering the room?
+</line><line>Huang:
+......No. Actually... I-I...
+</line><line>Edgeworth:
+<textEffects>(What is it? He's not being clear...)</textEffects> Mr. President! Focus! This is vital!
+</line><line>Huang:
+......I-I-I was... That is... I...
+</line><line>Kay:
+Please!
+</line><line>Huang:
+I was hiding under the bed, covering my ears...
+</line><line>Kay:
+Whaa!? But you knew the assassination was fake!
+</line><line>Huang:
+It doesn't matter! I simply hate the sound of guns! That terrifying sound! I just can't help it!
+</line><line>Kay:
+........
+</line><line>Gumshoe:
+........
+</line><line>Nicole:
+...That definitely ain't going in my article.
+</line><line>Edgeworth:
+...Ahem. Knightley! You saw the president hiding under the bed!
+</line><line>Knightley:
+........
+</line><line>Edgeworth:
+Furthermore... ...you could tell if the security cameras had been turned on by looking at the monitors! In that moment, when the president wouldn't hear the gunshot or see the room... You had a chance to fire a third bullet at Rooke!
+</line><line>Huang:
+Knightley... Did you really...! You deceived me?
+</line><line>Knightley:
+You really think I killed that moron? That's cold, Mr. President. Have a little faith in me. The bodyguard who's risking his life to protect you.
+</line><line>Huang:
+I-I want to believe you. I really do, but...
+</line><line>Knightley:
+I just don't get it. Why are you suspecting me alone? There's still the possibility that she's the killer.
+</line><line>Edgeworth:
+This gun is not the murder weapon. The number of missing bullets makes that clear.
+</line><line>Knightley:
+...Maybe it was one short to begin with. Ever think of that?
+</line><line>Edgeworth:
+What?
+</line><line>Knightley:
+Maybe it already fired a shot yesterday, or the day before. And the second shot was fired today. The one that hit Rooke...
+</line><line>Gumshoe:
+Well, isn't that just the perfect excuse!
+</line><line>Knightley:
+Excuse? The possibility exists, you can't deny that!
+</line><line>Edgeworth:
+<textEffects>(He's right, I can't deny it completely...!)</textEffects>
+</line><line>Knightley:
+You need <textEffects>decisive evidence</textEffects>! Evidence so decisive that it makes my heart stop and my logic crumble! You got something like that?
+</line><line>Edgeworth:
+Gah!
+</line><line>Kay:
+Mr. Edgeworth! Can't you do anything? At this rate, Nicole will...!
+</line><line>Nicole:
+Mr. Prosecutor... It's true, I did an awful thing for a scoop. But, I never killed nobody, I could never do a thing like that!
+</line><line>Edgeworth:
+<textEffects>(Decisive evidence... If I could prove the murder weapon was Knightley's gun... Proof it was his gun...?)</textEffects>
+</line>
+<hr />
+<line>Knightley:
+Yeah, it'd be great if you had the bullet that hit the balloon. Then you could examine it, and see if the ballistic markings matched my gun.
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(If we can find the <span style="color:#E16935">bullet</textEffects> that took Rooke's life... ...We can determine which gun fired the shot from the ballistic markings!)</span>
+</line><line>Knightley:
+If you've got no evidence, then we're done talking.
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Hold it!
+</line><line>Knightley:
+...Wh-What? You don't seriously have decisive evidence!?
+</line><line>Edgeworth:
+Hmph... Naturally.
+</line><line>Knightley:
+That's a big joke. Well, come on now, show us! What is this so-called evidence!?
+</line><line>Edgeworth:
+<textEffects>(The <span style="color:#E16935">bullet</textEffects> that took Rooke's life. That's the decisive evidence I need...!)</span> This evidence... <textEffects>(Do I have it?)</textEffects>
+</line>
+
+
+<line>Edgeworth:
+I... don't have it.
+</line><line>Knightley:
+OK! OK! It's Game Over, man!
+</line><line>Edgeworth:
+However... It is somewhere in this room!
+</line><line>Knightley:
+What!?
+</line><line>Edgeworth:
+The bullet that killed Rooke pierced through his body. So where did the bullet go? Earlier, you explained it like this...
+</line>
+<hr />
+<line>Edgeworth:
+The bullet that stole Rooke's life pierced through his body, and then hit the vest.
+</line><line>Knightley:
+...That's right. It'd be dangerous if he hadn't worn that bulletproof vest.
+</line>
+<hr />
+<line>Edgeworth:
+However, now that the fake assassination plan has come to light... ...we know that the bullet in the bulletproof vest was prepared earlier. So then, where did the bullet go?
+</line><line>Knightley:
+...Interesting. Very interesting. Do you have the answer?
+</line><line>Edgeworth:
+<textEffects>(Do I have evidence that shows the location of the bullet that killed Mr. Rooke?)</textEffects>
+</line>
+
+
+<line>Edgeworth:
+In this room there is one thing that's clearly missing.
+</line><line>Knightley:
+Something missing? You sure it's not your brain?
+</line><line>Edgeworth:
+I'd like you to look at the rack of security monitors.
+</line><line>Huang:
+Ah!
+</line><line>Edgeworth:
+It seems you've noticed, Mr. President. Among these images of the plane's surroundings... ...only the feed from the right side of the plane is absent. That's what's missing. A single monitor...
+</line><line>Knightley:
+Nrrrgghh...!
+</line><line>Edgeworth:
+Mr. President. There was originally a monitor here, wasn't there?
+</line><line>Huang:
+Th-That's right. Why is there a stuffed toy now...?
+</line><line>Edgeworth:
+That must have been put there to hide the empty space where the monitor used to be. Why is the monitor missing and where did it go? <textEffects>Why</textEffects>... Undoubtedly, because it was hit by the bullet. In order to make us think that the bullet really hit the bulletproof vest... ...it would be a problem if another bullet hole was discovered.
+</line><line>Kay:
+So then, where did the monitor go?
+</line><line>Edgeworth:
+<textEffects>Where</textEffects>... It should be hidden somewhere inside this plane. There hasn't been a chance to dispose of it outside since it was shot. Detective Gumshoe! Search this plane!
+</line><line>Gumshoe:
+Roger that, sir!
+</line><line>Knightley:
+President Huang! You said extraterritorial laws apply to this plane...
+</line><line>Huang:
+I-I will allow it. There is no problem. I just want to know the truth of Rooke's death...
+</line><line>Knightley:
+Dammit! You think this is a joke!? You're always like this! Rooke this, Rooke that...!
+</line><line>Edgeworth:
+Detective. We have his approval. Go ahead.
+</line>
+<hr />
+<line>Gumshoe:
+Mr. Edgeworth! I found it, sir!
+</line><line>Edgeworth:
+Good work, Detective. Now let's extract the bullet from the monitor!
+</line><line>Gumshoe:
+Hmm. If I do this here, and then do that... I got it!
+</line><line>Edgeworth:
+Well, it's definitely stained with blood. I'm certain this is the bullet that killed Rooke.
+</line><line><textEffects>Bloody Bullet data jotted down in my Organizer.</textEffects>
+</line><line>Edgeworth:
+This is the bullet that will crush your arguments! The decisive evidence that blows a hole in your logic! If the ballistic markings on this bullet do not match the gun found in the audience area... ...Ms. Swift will be cleared of suspicion!
+</line><line>Knightley:
+......
+</line><line>Edgeworth:
+What's wrong? Cat got your tongue? Detective. We need to examine the ballistic markings. Send the gun and bullet to forensics.
+</line><line>Gumshoe:
+Roger! We should be able to find clear markings on this bullet, sir!
+</line>
+<hr />
+<line>Edgeworth:
+Now then, let's listen to the forensic report.
+</line><line>Knightley:
+.......
+</line><line>Forensics:
+Reporting! First, the blood on this bullet <textEffects>matches the victim's blood</textEffects>.
+</line><line>Edgeworth:
+<textEffects>(So, this bullet really did take Rooke's life.)</textEffects>
+</line><line>Forensics:
+Also, <textEffects>Horace Knightley's fingerprints</textEffects> were found on this gun!
+</line><line>Edgeworth:
+<textEffects>(Knightley's fingerprints probably came from when he took all our evidence. The real issue, is the <span style="color:#E16935">ballistic markings</textEffects>. If the markings don't match... Ms. Swift will be cleared of suspicion!)</span>
+</line><line>Forensics:
+And the bullet's ballistic markings... <textEffects>match</textEffects> this gun.
+</line><line>Edgeworth:
+What! <textEffects>(They... match?)</textEffects>
+</line><line>Kay:
+Whaa!
+</line><line>Nicole:
+N-No way!
+</line><line>Forensics:
+There's no mistake. The bullet was fired from this gun.
+</line><line>Edgeworth:
+Wh-Whaaaaaaaaat!?
+</line><line>Knightley:
+...He he he he he he. Huh? That's strange. Looks like I was right after all... naturally. Did you really think you had me cornered? You misread the board... The one who's been cornered... is you!
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- Knightley's Logic --</textEffects></captions>
+<line>Knightley:
+If the ballistic markings match the gun, there can be no doubt!
+The bullet that killed Rooke was fired from the gun you found in the audience area.
+Who could've used the gun?
+Not me, 'cuz I was onstage. But what about that lady reporter in the audience?
+All the evidence points to that young lady as the assassin who killed Rooke!
+</line>
+<hr />
+<line>Knightley:
+Well, it's your move, Mr. Prosecutor. Where did you find this gun again? And which gun fired the bullet? At least we know... It ain't me!
+</line><line>Edgeworth:
+Ngh... <textEffects>(This can't be happening!)</textEffects>
+</line><line>Knightley:
+The president and I have admitted to the fake assassination plot. Now it's your turn to admit who the real criminal is!
+</line><line>Kay:
+That doesn't make Nicole the criminal!
+</line><line>Edgeworth:
+Don't get riled up, Kay. Let him have his say first. After he's done, it won't be too late to begin our counterattack.
+</line><line>Kay:
+...! Alright, Mr. Edgeworth!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Knightley's Logic --</textEffects></captions>
+<line>Knightley:
+<textEffects>If the ballistic markings match the gun, there can be no doubt!</textEffects>
+</line>
+
+
+
+<line>Edgeworth:
+<textEffects>(If anything's suspect here, it can only be the gun. The bullet was discovered just a moment ago... It couldn't have been tampered with yet. Did Knightley have a chance to tamper with the gun?)</textEffects>
+</line>
+<hr />
+<line>Huang:
+You shall hand over all the evidence you've found so far and leave this plane at once.
+</line><line>Knightley:
+Hey, Mr. Prosecutor. Be a good boy and do as you're told.
+</line><line>Edgeworth:
+Nngh...! <textEffects>(I... cannot resist any longer...!)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(That's it! He could have tampered with the gun at that time...! There's no doubt that this gun is the <span style="color:#E16935">real murder weapon</textEffects>. In that case, the owner of this gun is...)</span>
+</line>
+
+
+<line>Edgeworth:
+<textEffects>(He must have switched the guns... ...Without a doubt, this is <span style="color:#E16935">Knightley's own gun!</textEffects>)</span>
+</line><line><textEffects>Knightley's Revolver data updated in my Organizer.</textEffects>
+</line>
+</td></tr></tbody></table>
+
+<line>Knightley:
+<textEffects>The bullet that killed Rooke was fired from the gun you found in the audience area.</textEffects>
+</line>
+
+
+<line>Knightley:
+<textEffects>Who could've used the gun?</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>Not me, 'cuz I was onstage. But what about that lady reporter in the audience?</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>All the evidence points to that young lady as the assassin who killed Rooke!</textEffects>
+</line>
+
+<line>Edgeworth:
+<textEffects>(The ballistic markings match the gun we discovered in the trash can. When did Knightley have the opportunity to touch the gun...? It could only have been when I handed over the evidence.)</textEffects>
+</line><line>Kay:
+Mr. Edgeworth... Is there anything we can do?
+</line><line>Edgeworth:
+...Our reasoning up until now has not been wrong. This is an obstacle we'll have to overcome.
+</line><line>Kay:
+But doesn't he have decisive evidence?
+</line><line>Edgeworth:
+A testimony born from lies will always contain a contradiction. Firstly, I'll need to press Knightley for more details.
+</line>
+<hr />
+<line>Edgeworth:
+Knightley! You fiend! You switched the guns! The gun that matched the ballistic markings was yours all along!
+</line><line>Knightley:
+......Heh. Interesting choice of move you've made there.
+</line><line>Edgeworth:
+The switched occurred at the time you seized the evidence. When we were arguing with the president over the investigation rights. You detached the laser right from the gun found in the audience area... ...and attached it to your gun! Then, when you returned the evidence, you gave me your own gun...!
+</line><line>Knightley:
+He he heh. Did I do that? So, what you're saying is that I knew you'd want to examine the ballistic markings?
+</line><line>Edgeworth:
+Indeed. Staying one move ahead of your opponent... Isn't that the fundamental rule of chess?
+</line><line>Knightley:
+I'm glad you feel that way, Mr. Prosecutor. But you're giving me too much credit. Besides... can you even prove I pulled the old switcheroo with the guns?
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- Knightley's Logic, Pt. 2 --</textEffects></captions>
+<line>Knightley:
+So the gun happens to be the same model as mine. Pure coincidence...
+But, take a closer look. Only one of them has a laser pointer attached to it.
+Check the number of bullets left in the chamber. Only two shots fired, see?
+There's no evidence that I switched the guns, right?
+</line>
+<hr />
+<line>Edgeworth:
+Giving you too much credit? That hardly sounds like something you'd say.
+</line><line>Knightley:
+Guess I'm just more modest than you. Well... Except when I'm in front of a chessboard.
+</line><line>Edgeworth:
+Hmph... But we're not in front of a chessboard.
+</line><line>Knightley:
+That's too bad. Don't use that as an excuse later. "I didn't lose the game. I just couldn't find enough evidence."
+</line><line>Edgeworth:
+You're the one who should have an excuse ready. "You didn't beat me at chess. You only found the evidence."
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects></captions>
+<captions aligned="center"><textEffects>-- Knightley's Logic, Pt. 2 --</textEffects></captions>
+<line>Knightley:
+<textEffects>So the gun happens to be the same model as mine. Pure coincidence...</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>But, take a closer look. Only one of them has a laser pointer attached to it.</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>Check the number of bullets left in the chamber. Only two shots fired, see?</textEffects>
+</line>
+
+<line>Knightley:
+<textEffects>There's no evidence that I switched the guns, right?</textEffects>
+</line>
+
+
+<line>Kay:
+Evidence that Knightley switched the guns? Does that even exist...
+</line><line>Edgeworth:
+There's no evidence that directly proves that Knightley switched the guns... Yet, we know for a fact he did.
+</line><line>Gumshoe:
+If he didn't, there would be no explanation for the ballistic markings.
+</line><line>Edgeworth:
+I need to carefully consider the meaning behind every piece of evidence linked to his testimony. The truth must be there!
+</line>
+<hr />
+<line>Edgeworth:
+That evidence... is this!
+</line><line>Knightley:
+You call that evidence? Prosecutor Edgeworth. You're trying too hard.
+</line><line>Edgeworth:
+Certain traces were left on this gun. Traces that prove this gun belongs to you!
+</line><line>Knightley:
+Show it to me! What kinda piece you got! A Rook? A Bishop? It better not be a pawn!
+</line><line>Edgeworth:
+The traces Knightley left on the gun are...
+</line>
+
+
+
+<line>Edgeworth:
+You left your fingerprints on this gun.
+</line><line>Knightley:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Knightley:
+Fingerprints...? Hah! That should be expected! I handled the gun earlier when I seized your evidence. Of course my fingerprints are on it!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+But what if the fingerprints are in a place they should not be?
+</line><line>Knightley:
+What!? Th-That's not possible!
+</line><line>Edgeworth:
+...Allow me to show you. There is <textEffects>one place where your fingerprints should not be</textEffects>... This piece of evidence will deal the final blow to your king!
+</line>
+
+<line>Edgeworth:
+Here. Detective Gumshoe, please have a look at the cylinder.
+</line><line>Gumshoe:
+Two shots were fired, sir. But... Where would the fingerprints be?
+</line>
+
+<line>Edgeworth:
+You made the switch when you seized the evidence earlier. However, if all you did was switch the guns, you would've been found out right away. That's because the <textEffects>number of bullets</textEffects> fired by the two guns are different.
+</line><line>Gumshoe:
+The gun found in the audience area had fired <textEffects>two shots</textEffects>, sir!
+</line><line>Kay:
+Then, what about Mr. Knightley's gun?
+</line><line>Edgeworth:
+He fired <textEffects>two shots</textEffects> at the balloon when he was on the stage... And later, <textEffects>one shot</textEffects> to kill Rooke... <textEffects>Three shots in total</textEffects>... Not counting the number of shots he's fired since then. And after each of those times, you would <textEffects>reload the bullets</textEffects>! Tell us, Knightley, were you wearing gloves when doing that?
+</line><line>Knightley:
+Nngggh!
+</line><line>Edgeworth:
+Officer! In your report earlier, where were Knightley's fingerprints found on the gun?
+</line><line>Forensics:
+Sir! The prints weren't just found on the outside of the gun... ...they were also found on the <textEffects>bullets</textEffects> as well!
+</line><line>Edgeworth:
+If all you did was handle the evidence, why would your fingerprints be on the bullets?
+</line><line>Knightley:
+Gah! Th-That's...!
+</line><line>
+Edgeworth:With this, it has been proven. That you switched the guns. The gun, which fired the bullet that took the victim's life... ...it belongs to you! Horace Knightley! You're the one who stole Rooke's life...</line><captions aligned="center">You are the <textEffects>true assassin</textEffects>!</captions>
+<line>Knightley:
+...I-I, I'm, I'm!
+</line><line>Edgeworth:
+...Checkmate.
+</line><line>Knightley:
+M-M... M... MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPHHHHHHHHHHHHHHHHHH!!!!!
+</line>
+<hr />
+<line>Knightley:
+I-I... I should've been made leader! Me! Rooke! That piece of scum! If it hadn't been for him! I would've had complete control over everybody! My assassination plan... It was perfect... My plan... was perfect...
+</line><line>Edgeworth:
+......... Detective Gumshoe. If you please.
+</line><line>Gumshoe:
+...Roger that, sir.
+</line><line>Knightley:
+EEEEEDGEWOOOOOORTH!!! This <textEffects>game</textEffects> isn't over yet! You hear me! I...! I...!
+</line><line>Edgeworth:
+...That's enough. The rest of this "<textEffects>game</textEffects>" will continue in the courtroom.
+</line><line>Knightley:
+Gr-Grrr...! Damn it...! Damn... you...
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 25, 5:12 PMGourd Lake ParkStage</textEffects></captions>
+<line>Huang:
+You have my gratitude. You exposed a murder amongst my bodyguards, and for that, I am truly in your debt.
+</line><line>Edgeworth:
+<textEffects>(As soon as he stepped outside the plane, he reverted back to his king-like persona...)</textEffects>
+</line><line>Huang:
+Some time ago, when I proposed the fake assassination plan...
+</line>
+<hr />
+<line>Knightley:
+<textEffects>You want me, and not Rooke?</textEffects>
+</line><line>Huang:
+<textEffects>Rooke declined... so I'm asking you. What do you say?</textEffects>
+</line><line>Knightley:
+<textEffects>........... Alright. Let's do this. I'll come up with the perfect plan. I can even use that guy as a chess piece...</textEffects>
+</line>
+<hr />
+<line>Huang:
+When Knightley said that, his eyes were overflowing with hatred towards Rooke. Frankly, I was quite anxious about asking Knightley instead of Rooke. Now that I recall those events, he probably sense the anxiety in my countenance. Perhaps that is what gave him the impetus for murder...
+</line><line>Edgeworth:
+Mr. President. If you had not orchestrated that fake plan, this would not have happened. That is your sin. ...A sin that won't disappear.
+</line><line>Huang:
+...Yes. You are absolutely correct. You have my sincerest apologies. I too must bear some responsibility for this. Even so, I am most grateful to you. I thank you for solving the mystery of Rooke's death. I am scheduled to stay in this country for a little longer... But if any of you ever wish to visit the Republic of Zheng Fa, you will always be welcome.
+</line>
+<hr />
+<line>Nicole:
+Oh Lawdy, Thank ya, thank ya, thank ya!
+</line><line>Kay:
+I'm so happy for you, Nicole!
+</line><line>Edgeworth:
+You were set up as the suspect for the murder. Still, your involvement with the fake assassination plan remains a fact. You will have to submit to police questioning later. You should know that there's still a possibility you may be charged with some crime.
+</line><line>Nicole:
+Yeah, I know... Sorry 'bout all this...
+</line><line>Edgeworth:
+I understand you want to catch a scoop, but there's a line that should not be crossed.
+</line><line>Nicole:
+I hear ya, I promise to reflect on this...
+</line><line>Kay:
+We did it, Mr. Edgeworth! That was awesome! "Prosecutor Edgeworth Solves Presidential Assassination Attempt!" It's gonna be big news!
+</line><line>Nicole:
+B-Big news...! M-Mr. Prosecutor, would ya mind tellin' us how ya feel about solving this case?
+</line><line>Edgeworth:
+<textEffects>(That was certainly a quick change of attitude...)</textEffects> No comment.
+</line><line>Nicole:
+Aww, don't be so ornery!
+</line><line>Edgeworth:
+The reason is because... this case is not over yet.
+</line><line>Gumshoe:
+Huh? Not over? What do you mean, sir?
+</line><line>Edgeworth:
+<textEffects>What shows that this case is not over yet?</textEffects>
+</line>
+
+
+<line>Edgeworth:
+De Killer still hasn't carried out his request.
+</line><line>Gumshoe:
+You mean killing the president...?
+</line><line>Edgeworth:
+<textEffects>(I hope this doesn't turn into a larger incident...)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+"<textEffects>An Assassination Attempt on the President of Zheng Fa</textEffects>"... News of this incident spread across the entire country. The mass media also hounded me as I began to prepare for the trial of Horace Knightley. Everyone had seen the news, and everyone was talking about it. However, amidst the commotion, nobody noticed... ...that the <textEffects>game</textEffects> had only just begun...
+</line>
+<div style="text-align: right;">THE END</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</xml>

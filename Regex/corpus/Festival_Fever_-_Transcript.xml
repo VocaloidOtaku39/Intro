@@ -1,0 +1,328 @@
+<xml>
+
+<title>Festival Fever</title>
+
+<line>
+<i>Town Square</i>
+</line><line>Maya:
+Woooooow. Check it out! The centre's totally filled with people.
+</line><line>Espella:
+Mmm, that's right Maya. The town is getting ready for the annual <textEffects>fire festival</textEffects>.
+</line><line>Phoenix:
+D-did you say fire festival? Seriously? You guys are STILL doing that?
+</line><line>Espella:
+Yes, but it's all right. This time around, no one faints whenever they hear the bell ring. The town now has fresh water coming from the English mainland. No more biological hazards here.
+</line><line>Phoenix:
+I-if you say so...
+</line><line>Layton:
+I must say, Espella, Labyrinthians certainly are quite <textEffects>resilient</textEffects>.
+</line><line>Espella:
+And the best part is, this year people from the mainland will be coming to town to see the festival for themselves.
+</line><line>Maya:
+Woah, that's awesome.
+</line><line>Espella:
+Labrelum Inc. held a <textEffects>competition</textEffects>, of which the winners will be brought here to participate.
+</line><line>Luke:
+Oh, I saw posters for it all over London: "The Labyrinthia Fire Festival! This is one party that's too <textEffects>hot</textEffects> to miss!"
+</line><line>Layton:
+Well, it's certainly quite the...intriguing competition.
+</line><line>Luke:
+Huh? Look over there, by the bell tower... It's the Vigilantes!
+</line><line>Layton:
+Right you are, Luke. Although I would have thought there was no longer a need for such tight security...
+</line><line>Vigilante (Boistrum):
+Well, well, well! These are faces I've not seen in quite some time!
+</line><line>Layton:
+My, if it isn't the captain of the Vigilantes himself. <textEffects>Mr Boistrum</textEffects>, was it? A pleasure to see you again.
+</line><line>Phoenix:
+So, they've still got you patrolling the bell tower, huh?
+</line><line>Vigilante (Boistrum):
+SIRS! <textEffects>Never before</textEffects> have I felt such a sense of <textEffects>justice</textEffects>, <textEffects>duty</textEffects>, <textEffects>pride</textEffects>, <textEffects>honour</textEffects> and <textEffects>fulfilment</textEffects>! I am <textEffects>burning with purpose</textEffects>.
+</line><line>Maya:
+Burning? I'd say you're practically on <textEffects>fire</textEffects>.
+</line><line>Vigilante (Boistrum):
+The upcoming fire festival will be <textEffects>exhilarating</textEffects>, <textEffects>fun-filled</textEffects>, <textEffects>filled with fun</textEffects>, <textEffects>fantastic</textEffects>! You might say it will be <textEffects>funtastic</textEffects>!
+</line><line>Layton:
+...I see. You must be here to oversee the festival's fun levels, is that right?
+</line><line>Vigilante (Boistrum):
+Indeed! Hence why you find me in such an extremely busy state of affairs!
+</line><line>???:
+</line>
+<captions aligned="center">...Umm, Captain!</captions>
+<line>
+Vigilante (Boistrum):
+Ah. It's you, <textEffects>Balmung</textEffects>. ...What do YOU want?!
+</line><line>Vigilante (Balmung):
+Sir! I've set up my postcard booth and the beverage stalls, but...I am reporting a severe lack of space for the barbecue!
+</line><line>Vigilante (Boistrum):
+Hmm...in that case, place the barbecue over THERE and relocate your postcard booth over HERE!
+</line><line>???:
+...A moment of your time, Captain.
+</line><line>Vigilante (Boistrum):
+Wh...what now? Ah, it's you, <textEffects>Lyewood</textEffects>, my trusted right-hand man.
+</line><line>Vigilante (Lyewood):
+I think the barbecue should go HERE, sir. And the postcard booth would be best over THERE.
+</line><line>Vigilante (Boistrum):
+S-silence! I have SPOKEN! You have your orders, now get to it!
+</line><line>Vigilante (Lyewood):
+But, sir...wouldn't it be better if the smoke from the barbecue pointed AWAY from where the Miss Bezella contestants were gathered? I'm sure they'll be VERY thankful, sir... They'll probably even say, "<textEffects>Oh, that Captain Boistrum, isn't he just the best</textEffects>."
+</line><line>Vigilante (Boistrum):
+............ Very well! The barbecue will go HERE. And the postcard booth will go across the way over THERE!
+</line><line>Vigilante (Balmung):
+WHAAAAAAT?! But, sir! I worked REALLY hard on those postcards... No one is ever going to see them way over there...
+</line><line>Vigilante (Boistrum):
+SILENCE! My mind is made up! Now go, Balmung, before I make you!
+</line><line>Vigilante (Balmung):
+Uuuuuuuh...y-yes, sir.
+</line><line>Maya:
+Poor Balmung... Dreams today, crushed tomorrow.
+</line><line>Vigilante (Lyewood):
+Hail, everyone. Long time no see. Remember me? <textEffects>Lyewood</textEffects>?
+</line><line>Layton:
+Ah, yes. You're the...fourth Vigilante, if I'm not mistaken. Hmm, for some reason I seem to remember that... you became aware of your unconscious desire to <textEffects>usurp Captain Boistrum of his position</textEffects>, is that right?
+</line><line>Vigilante (Lyewood):
+Heh...I guess I did, didn't I? ...You know, my mind still goes there sometimes.
+</line><line>Luke:
+Really?
+</line><line>Vigilante (Lyewood):
+Just thinking about how <textEffects>easily</textEffects> I could be pulling the captain's strings... It's more exciting than being captain myself.
+</line><line>Maya:
+...Guys, remind me to never let Lyewood stand behind me in line.
+</line><line>Vigilante (Dzibilchaltunchunchucmil):
+Listen to <textEffects>Dzibilchaltunchunchucmil</textEffects>! Bein' ah Vigilante is serious business, lass!
+</line><line>Maya:
+...Umm. Did anyone else see what the heck just flew up into the air?
+</line><line>Phoenix:
+All those hamburgers have finally gone to your brain, Maya... Then again, it does seem extra lively all of a sudden.
+</line><line>Espella:
+Yes. They've also started setting up for the <textEffects>Special Judgement</textEffects> tonight.
+</line><line>Luke:
+Huh?! Espella, did you just say..."Special Judgement"? Th-then that means...
+</line><line>Espella:
+No, no, Luke. It's nothing like the witch trials. It's going to be the main stage for the <textEffects>Miss Bezella Pageant</textEffects>.
+</line><line>Maya:
+Umm...the Miss Bezella Pageant?
+</line><line>Espella:
+That's right. The one who most <textEffects>embodies</textEffects> Bezella will be crowned Labyrinthia's Miss Bezella.
+</line><line>Maya:
+I-I see...
+</line><line>Layton:
+Again, I must say... Labyrinthians really are quite <textEffects>resilient</textEffects>.
+</line><line>Phoenix:
+But, Espella, seeing as you actually WERE Bezella...you're a shoo-in to win this thing.
+</line><line>Espella:
+Yes, I suppose so. But I'm actually not allowed to participate...since I'm considered to be a <textEffects>hall of famer</textEffects>, of sorts.
+</line><line>Phoenix:
+R-right... <textEffects>(Next you're going to tell me you have your jersey in the "Witch Hall of Fame"...)</textEffects>
+</line><line>???:
+Ahem! Good afternoon, everyone.
+</line><line>Maya:
+Oh, hey! Good afternoon to you, too... uhh...whatever your name is...
+</line><line>Vigilante (Lottalance):
+............ Yes, you're right. I get it. I'm more plain than butter on toast. ...In fact, you could say there isn't a single <textEffects>distinct</textEffects> thing about me and I'd completely agree with you.
+</line><line>Phoenix:
+N-no, listen. We didn't mean...
+</line><line>Vigilante (Lottalance):
+I am nothing but a <textEffects>cheap</textEffects>, <textEffects>inferior</textEffects> version of the others! A <textEffects>hopeless</textEffects>, <textEffects>empty shell</textEffects> destined to disappear...into <textEffects>obscurity</textEffects>!
+</line><line>Maya:
+...Well, that's not quite as passionate as Boistrum, but you get an "A" for effort, I guess?
+</line><line>Layton:
+I believe you must be the second Vigilante. <textEffects>Mr Lottalance</textEffects>.
+</line><line>Vigilante (Lottalance):
+Heh... Oh, I rid myself of that name a long time ago.
+</line><line>Luke:
+Really...?
+</line><line>Vigilante (Lottalance):
+See, I thought it was missing a certain... <textEffects>kick</textEffects> to it. I needed a name...MUCH longer. Something ridiculous, outrageous and absurd!
+</line><line>Vigilante (Dzibilchaltunchunchucmil):
+Hey! Doon'cha even think about <textEffects>swipin'</textEffects> me neam, ye' sappy tin can!
+</line><line>Maya:
+Nick, I SWEAR something keeps flying up into the air.
+</line><line>Phoenix:
+So, Lottalance...in the end, what name did you decide on?
+</line><line>Vigilante (Lottalance):
+It took all the brain power I could muster. But after hours of careful thought, I decided my new name should be... <textEffects>Lonloncelcellotlot</textEffects>! So? What do you think?
+</line><line>Maya:
+Lonloncelcellotlot... I like it! It's like a roller coaster for your mouth.
+</line><line>Vigilante (Lottalance):
+Yet...everyone keeps telling me <textEffects>it's too long</textEffects> or that it's too much of a <textEffects>tongue-twister</textEffects>.
+</line><line>Maya:
+Well, you know what they say about guys with long names... They're difficult to pronounce!
+</line><line>Vigilante (Lottalance):
+...That's just the problem. It's so difficult, no one even tries. They've all gone back to calling me <textEffects>Lottalance</textEffects>, for the sake of ease...
+</line><line>Phoenix:
+Umm, well...I guess it is a little less... confusing. Oh, hey... I definitely remember you. <textEffects>Mr Shakey</textEffects>, right?
+</line><line>Vigilante (Shakey):
+I-i-i-it's a pleasure to see you again.
+</line><line>Phoenix:
+So you're still doing the whole "gonna keel over any minute" thing, I see. Uhh...are you sure you're all right?
+</line><line>Vigilante (Shakey):
+Y-yes. I-I...actually feel pretty good today... Th-the sun is shining... Th-the birds are chirping... M-my body is ready...
+</line><line>Vigilante (Servius):
+...Hey there. Am I late to the party?
+</line><line>Luke:
+Umm...who was this guy again?
+</line><line>Maya:
+Oh, I know! This guy's really Lonloncelcellotlot!
+</line><line>Phoenix:
+I don't think he's Lonlocello...urgh... Maya, you bring new meaning to the phrase "the gift of the gab".
+</line><line>Vigilante (Servius):
+Heh, heh... Allow me to remind you. If it's my name you're after... then talk to the <textEffects>back</textEffects>!
+</line><line>Layton:
+...<textEffects>Mr Servius</textEffects>, wasn't it? I see you've not changed much.
+</line><line>Vigilante (Servius):
+That's right. I still spend my every waking moment basking in the unbridled avarice of being under her heel.
+</line><line>Vigilante (Foxy):
+Why, hello there. You guys sure do know how to keep a girl waiting.
+</line><line>Maya:
+Oh! Hey there! You're looking as "divine" as ever, I see.
+</line><line>Vigilante (Foxy):
+I'm the steel angel gracing the Vigilantes with my sweet presence. My name's <textEffects>Foxy</textEffects>. Don't you dare forget it.
+</line><line>Phoenix:
+<textEffects>(Trust me. With an intro like that, how could we ever forget?)</textEffects>
+</line><line>Vigilante (Foxy):
+You all have impeccable taste, right? Of course you do. That's why you're going to cast your vote for me tonight.
+</line><line>Luke:
+<textEffects>Cast our vote</textEffects>, Miss Foxy?
+</line><line>Vigilante (Foxy):
+In the Miss Bezella Pageant, of course.
+</line><line>Maya:
+Y'know, if we're talking about someone that most <textEffects>embodies</textEffects> Bezella, I'd say Foxy's got this thing in the bag. She's got that sorta...<textEffects>witchy</textEffects> vibe going on, don't you think?
+</line><line>Phoenix:
+I dunno about "witchy", but she's definitely giving off some kind of <textEffects>vibe</textEffects>, that's for sure.
+</line><line>Espella:
+Well, actually...the current favourite to win this year seems to be <textEffects>Aunt Patty</textEffects>.
+</line><line>Maya:
+WHAAAAAAAAAAAAAT?!
+</line><line>Espella:
+Each candidate is ranked according to their <textEffects>flammability factor</textEffects>. The higher the factor, the more likely they are...to win.
+</line><line>Phoenix:
+I-I see... <textEffects>(This pageant sure is...something.)</textEffects>
+</line><line>Layton:
+By the way...I just noticed something rather odd.
+</line><line>Vigilante (Foxy):
+And what's that?
+</line><line>Layton:
+Miss Foxy, may I be so bold as to ask... what exactly are you sitting on?
+</line><line>Vigilante (Foxy):
+............ Come now, isn't it obvious?
+</line><line>Vigilante (Treddon):
+It's ME!
+</line><line>Maya:
+AHHH! Foxy! Don't look now but, there's a guy under your butt!
+</line><line>Layton:
+Y-you must be...
+</line><line>Vigilante (Treddon):
+That's right! Vigilante number 8, <textEffects>Treddon</textEffects> at your service...err, well, at HER service!
+</line><line>Phoenix:
+T-trust me...there's no way we'd forget you. <textEffects>(I think "human chair" falls under things you want to forget but can't...)</textEffects>
+</line><line>Vigilante (Treddon):
+...Let me ask you guys a question. Have you noticed... that there are two kinds of people in this world?
+</line><line>Phoenix:
+...Huh?
+</line><line>Vigilante (Treddon):
+There are those who <textEffects>sit</textEffects> and those who get <textEffects>sat on</textEffects>.
+</line><line>Phoenix:
+Wh-whatever you say...
+</line><line>Vigilante (Treddon):
+So? What do you say? Wanna try seeing the world from a whole new perspective?
+</line><line>Layton:
+............ It would seem Miss Foxy, too, is enjoying the world from a much higher perspective. I must say, it is quite fascinating.
+</line><line>Vigilante (Foxy):
+Mmm, I'm so glad you noticed. By the way, you know what? They won't just let anyone into the contest. There ARE try-outs.
+</line><line>Luke:
+Did you say there are try-outs...?
+</line><line>Layton:
+Miss Foxy, do you perhaps mean...
+</line><line>Vigilante (Foxy):
+You got it. The try-outs are <textEffects>puzzle</textEffects> try-outs.
+</line><line>Layton:
+...! If that is indeed the case... then allow me to throw my hat into the ring. Figuratively speaking, of course.
+</line>
+
+<line>
+Vigilante (Foxy):
+Well now, that didn't take long. Seems I've stumbled upon some stiff competition.
+</line><line>Maya:
+C-<textEffects>competition</textEffects>...?
+</line><line>Vigilante (Foxy):
+Exactly. This <textEffects>pageant</textEffects> is FAR from over! I don't plan on losing to anyone. And I mean ANYONE! Not Patty...and certainly not you!
+</line><line>Layton:
+...!
+</line><line>Maya:
+Umm, help me out here, Nick... Is the professor silent because he's insulted? ...Or is he actually proud?
+</line><line>Phoenix:
+Maya, you're asking me about the professor here. This guy's like the <textEffects>biggest puzzle</textEffects> of them all...
+</line>
+<hr />
+<line>Luke:
+You know... it's quite exhausting trying to remember each and every one of the Vigilantes' names.
+</line><line>Phoenix:
+I'll say. I think that's all of them, though... <textEffects>(Hmm... Why do I get the feeling there's still someone missing...)</textEffects>
+</line><line>Vigilante (Boistrum):
+Vigilantes! Assemble! Today's security exercise is now complete! The perimeter is secured and the bell tower has been locked!
+</line><line>Vigilante (Dzibilchaltunchunchucmil):
+Ah locked eht good, Ah deed!
+</line><line>Vigilante (Boistrum):
+Now! Vigilantes! Sound off! ...One!
+</line><line>Vigilante (Lottalance):
+</line>
+<captions aligned="center">...Two!</captions>
+<line>
+Vigilante (Balmung):
+</line>
+<captions aligned="center">...Three!</captions>
+<line>
+Vigilante (Lyewood):
+</line>
+<captions aligned="center">...Four!</captions>
+<line>
+Vigilante (Shakey):
+</line>
+<captions aligned="center">...F-f-f-f-f-five!</captions>
+<line>
+Vigilante (Servius):
+</line>
+<captions aligned="center">...Six!</captions>
+<line>
+Vigilante (Foxy):
+</line>
+<captions aligned="center">...Seven!</captions>
+<line>
+Vigilante (Treddon):
+</line>
+<captions aligned="center">...Eight!</captions>
+<line>
+Vigilante (Dzibilchaltunchunchucmil):
+</line>
+<captions aligned="center">...Nayn!</captions>
+<line>
+</line>
+<captions aligned="center">............</captions>
+<line>
+Layton:
+...Oh? It would appear there is one Vigilante missing...
+</line><line>Phoenix:
+But, who could that be...?
+</line><line>Maya:
+Do you think...maybe they're still <textEffects>Dzibilchaltunchunchucmilled</textEffects> up in the tower...?
+</line><line>Vigilante (Boistrum):
+HEY! If anyone's up there, please answer!
+</line>
+<captions aligned="center">............</captions>
+<line>
+Luke:
+Hey! I can hear a voice!
+</line><line>Maya:
+YOOOOOO! Speak up! We can't hear you!
+</line><line>Vigilante (Wordsmith):
+</line>
+<captions aligned="center">............ ...I say...</captions>
+<line>
+Phoenix:
+A-are you kidding me? If anyone would be stuck up there, it had to be HIM...
+</line><line>Layton:
+Well, then... It would appear our friend has managed to find a new napping spot.
+</line>
+<captions aligned="center">To Be Continued...</captions>
+</xml>

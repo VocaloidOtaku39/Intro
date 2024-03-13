@@ -1,0 +1,2700 @@
+<xml>
+
+<title>The Adventure of the Blossoming Attorney</title>
+
+<line>
+Susato:
+<textEffects>(Here I am again after nine months... The Supreme Court of Judicature of Japan. I feel so nervous. But I must steel my nerves and find a way to compose myself.)</textEffects>
+</line><line>Mikotoba:
+Ah good, you're here. It doesn't do for a lawyer to be late.
+</line><line>Susato:
+Oh! Yes, um... Good morning, sir!
+</line><line>Mikotoba:
+I hardly recognise you. You cut a fine figure, Counsel. But you look as white as a sheet. And those wide eyes aren't doing you any favours, either.
+</line><line>Susato:
+Oh dear... The truth is...I'm so incredibly nervous, I feel utterly nauseated. I almost wish that I'd never been born.
+</line><line>Mikotoba:
+Goodness. Not the sort of thing a father hopes to hear from his daughter, I must say.
+</line><line>Susato:
+<textEffects>(...<span style="color:#E16935">Yujin Mikotoba</textEffects>. Professor of Medicine at the Imperial Yumei University. A man who, earlier in his life, travelled to Great Britain to study the latest advances in forensic medical science. And of course...my brilliant father.)</span>
+</line><line>???:
+...Um, excuse me... Would I be correct in thinking that you're to be my lawyer in court today?
+</line><line>Susato:
+Hm... Oh! Um...yes. Yes, that's right...miss!
+</line><line>???:
+Well...I, um... I want to thank you for agreeing to represent me! I swear... I swear on my life... ...it's <textEffects>a complete fabrication</textEffects>! This whole thing!
+</line><line>Susato:
+<textEffects>(...<span style="color:#E16935">Rei Membami</textEffects>. Born the same year as I, and my greatest friend. Though unusual for a woman in our time, she works at the university research laboratory, helping my father. And sadly...she's <textEffects>the defendant</textEffects> in today's trial. Accused of committing a truly awful <textEffects>murder</textEffects>.)</span>
+</line><line>Susato:
+Are you feeling alright? Since we started talking, you seem...well, to have become a little flushed.
+</line><line>Rei:
+Oh my! Um...well...erm... It's just that... ...you look so gallant and dashing.
+</line><line>Susato:
+Sorry?
+</line><line>Rei:
+And when I fall under your intense gaze, it... Well, it makes me feel rather bashful.
+</line><line>Susato:
+......... <textEffects>(Goodness... I don't think she knows. She hasn't realised <span style="color:#E16935">who I am</textEffects>.)</span>
+</line><line>Mikotoba:
+Wa ha ha ha ha! It would seem our little plan for this trial is going to work.
+</line><line>Rei:
+Oh! What, what do you mean, Professor Mikotoba?
+</line><line>Mikotoba:
+If even your best friend can't see through the disguise, I think we can relax.
+</line><line>Rei:
+Disguise...?
+</line><line>Susato:
+Yes... I've never tried dressing this way before, of course, so I wasn't sure how convincing it would be. But this does make me feel a little relieved, as you say, Father.
+</line><line>Rei:
+F-Father? ......... WHAAAAAA?! Is, is that...? Is that you, Susato?
+</line><line>Susato:
+I'm so sorry I didn't say something sooner, Rei. It's just that-
+</line><line>Rei:
+NOOOOOOOOO! What are you doing? What's going on? What what what what what? That varsity uniform! That varsity cap! That varsity cape! That varsity badge! Look at you! You look for all the world just like a student of the Imperial Yumei University! <textEffects>A male student</textEffects>!
+</line><line>Susato:
+...I'm so glad you think so. It means all my preparations have been worthwhile. I woke at four this morning to make a start.
+</line><line>Rei:
+But, but I don't understand. Why are you dressed like that?
+</line><line>Susato:
+Well...you see...
+</line><line>Mikotoba:
+It was the only way. The only way she would be permitted into the Supreme Court to take on your defence in this trial.
+</line><line>Rei:
+My... My defence?
+</line><line>Susato:
+......... <textEffects>(Never before in my life have I felt so frustrated at having been born into this body. Courts in Japan are <span style="color:#E16935">barred to women</textEffects>. We're not even allowed to set foot inside the courtroom. Despite the fact that the laws of the land apply to all people - male and female - alike...)</span>
+</line><line>Rei:
+But...women are forbidden...
+</line><line>Susato:
+Just for today, I'll be leaving my true self at the courtroom door. So that I can act as your lawyer.
+</line><line>Rei:
+Oh, Susato... You'd go to such lengths for me?
+</line><line>Susato:
+Of course. You're my greatest friend. I just worry that I shan't be the lawyer you deserve.
+</line><line>Rei:
+Oh no! I have complete faith in you!
+</line><line>Susato:
+Rei...
+</line><line>Rei:
+......... It's so strange, though. I mean, you're such an accomplished judicial assistant already. And yet just because you're a woman... What a wretched reason! I mean, why shouldn't you be allowed in court?! ...You're so gallant and dashing!
+</line><line>Susato:
+Um...Rei... ...please don't look at me like that, with those flushed cheeks and doting eyes.
+</line><line>Rei:
+Oh! I'm, I'm sorry. It's just...you really do look so dashing...
+</line><line>Susato:
+Y-Yes, you mentioned that once or twice.
+</line><line>Mikotoba:
+Wa ha ha ha ha! You should be pleased. It means you look convincing as a man.
+</line><line>Susato:
+I am pleased...I think. It's certainly helped to bolster my confidence today. <textEffects>(Rei... You're managing to put on a brave face in all this, but I can see through it. I've noticed how your shoulders are slumped and how you're trembling ever so slightly.)</textEffects>
+</line><line>Rei:
+Susato... ...you...do believe me, don't you? I didn't do it. I, I couldn't have! I mean...murder...
+</line><line>Susato:
+Of course. You have nothing to worry about. Your conscience is perfectly clean! ...Isn't that right?
+</line><line>Rei:
+Yes...yes it is. Perfectly clean!
+</line><line>Susato:
+I have absolutely no doubt in my mind about your innocence. Which is why I'll stand by you until the bitter end in this trial. Whatever happens...I'll always be on your side! <textEffects>(Because that's what it means to be a defence lawyer!)</textEffects>
+</line><line>Rei:
+That means so much to me, Susato.
+</line><line>Bailiff:
+Defendant! Counsel! Court is about to begin. Proceed to the courtroom at once!
+</line><line>Mikotoba:
+You should go in at once, Rei. If you're late, the judge won't hesitate to pronounce you guilty.
+</line><line>Rei:
+Oh... STAND ASIIIIIIDE!
+</line><line>Susato:
+<textEffects>(I don't think I've ever seen her run so fast...)</textEffects>
+</line><line>Mikotoba:
+...Well, Susato, you've certainly surprised your father. Going to such lengths to be admitted into the courtroom, and with no prior experience of being a lawyer...
+</line><line>Susato:
+There was simply no other way. That's all there is to it. But Father... ...you haven't told her, have you? I mean, I'm right in assuming that Rei doesn't know <textEffects>how it came to this</textEffects>?
+</line><line>Mikotoba:
+Yes, quite right. I've kept that information from her. It would only worry her if she found out that no other lawyer would agree to take her case. I didn't want to burden her with that.
+</line><line>Susato:
+And is it true? The reason why every other lawyer is refusing to take the case? Is it really because of who the victim was?
+</line><line>Mikotoba:
+......... We should be making a move now, too. As you know, law isn't my field, but I'll do what I can to support my student.
+</line><line>Susato:
+Thank you, Father. <textEffects>(I'm Susato Mikotoba, a judicial assistant. Eight months ago, I accompanied a student of law on a study trip to Great Britain. But two months ago, due to unforeseen circumstances, I found myself back in Japan.)</textEffects>
+</line><line>How many times have I wished that he were here, I wonder? Still...I have no choice now but to steel myself for the trial ahead. Wish me luck...Naruhodo-san.
+</line>
+<hr />
+<captions aligned="center"><textEffects>13th August, 9:00 a.m.
+Supreme Court of Judicature, Courtroom 1</textEffects></captions>
+<line>
+Judge:
+This court is now in session to hear the trial of Rei Membami.
+</line><line>Auchi:
+The prosecution is fully ready to proceed, Your Excellency.
+</line><line>???:
+.........
+</line><line>Judge:
+Defence Counsel! Are you ready?
+</line><line>Mikotoba:
+Yes, Your Excellency. We are ready.
+</line><line>???:
+Ready!
+</line><line>Judge:
+......... Ah yes, Counsel... ...according to your registration details, your name is... erm... ...<textEffects>Ryutaro</textEffects> Naruhodo. Is that correct?
+</line><line>Ryutaro:
+......... Sorry?
+</line><line>Mikotoba:
+Oh yes...I had to come up with a suitable male name for you for this little venture. So I'm afraid to say I simply put down the first name that sprung to mind.
+</line><line>Judge:
+Well, Counsel?
+</line><line>Ryutaro:
+Ah! Um, yes, that's right! That's me. I'm, erm... I mean... Yes! I am Ryutaro, he who has vowed to uphold the pride of the great Naruhodo clan!
+</line><line>Judge:
+Ah...
+</line><line>Mikotoba:
+It seems Ryutaro may need to consider how to better uphold his manly act first and not overdo it. And those wild, wide eyes aren't doing you any favours, either. Just relax, and listen...
+</line><line>Rei:
+Naru...hodo...?
+</line><line>Auchi:
+A fresh face in this courtroom, if I'm not mistaken. But the name 'Naruhodo'... Would that perchance be...?
+</line><line>Mikotoba:
+You may be thinking of Ryunosuke Naruhodo, currently in Britain as part of a study programme. This is, um...
+</line><line>Ryutaro:
+...His cousin!
+</line><line>Mikotoba:
+That's right. Ryutaro here has been studying in the provinces, but was called to the capital for this trial. I assure you, in matters of law, his knowledge rivals that of any of Tokyo's pre-eminent lawyers.
+</line><line>Ryutaro:
+Any of them!
+</line><line>Auchi:
+Tut tut tut. What a pitiful situation. Having been rejected by every lawyer in the capital, the accused has had to call in a country boy.
+</line><line>Rei:
+How dare you?! Susato is every bit as gallant and dashing as any of your Tokyo attorneys! I won't have you making fun of her!
+</line><line>Auchi:
+...'Her'?
+</line><line>Rei:
+Oh! Um, er...
+</line><line>Ryutaro:
+<textEffects>(Please be careful, Rei...)</textEffects>
+</line><line>Auchi:
+Tsh huh huh... What an unrefined tomboy we have here. But I wonder...is your 'gallant and dashing' lawyer up to the challenge of defending you? His wide, skittish eyes very much suggest that he is not.
+</line><line>Ryutaro:
+<textEffects>(Ugh...I'm so nervous... Now that I'm standing in his shoes, I'm starting to understand what Naruhodo-san goes through. Like it or not, eyes are wont to flit!)</textEffects>
+</line><line>Judge:
+The case to be heard on this day is a matter of great significance to our national interests. In fact, it would be reasonable to assume that the outcome of this trial may well affect the very future of our empire.
+</line><line>Auchi:
+...Just like the trial nine months ago. And yet for proceedings of such importance, we have this...unknown yokel by the dock? Dear me.
+</line><line>Judge:
+Hmph. Perhaps this would be an appropriate moment for me to assess the defence. To determine whether you are sufficiently competent to practise in this courtroom.
+</line><line>Mikotoba:
+Nine months ago, when a certain other Naruhodo stood where you're standing now... ...this same judge tested him as well. And even though he was just a student at the time - not even of law - he passed the test with flying colours. For a trained and experienced judicial assistant like you, this will be easy.
+</line><line>Judge:
+So, Counsel...do you consent to answering some simple questions?
+</line><line>Ryutaro:
+......... <textEffects>(Alright, it's time to prove myself.)</textEffects> Yes, Your Excellency! <textEffects>(But please do make them simple!)</textEffects>
+</line><line>Judge:
+Very well. To start with... ...you will state the name of <textEffects>the victim</textEffects>.
+</line><line>Ryutaro:
+<textEffects>(Whew, that is simple. I couldn't forget that if I tried.)</textEffects> ......... Ah.
+</line><line>Mikotoba:
+What's the matter?
+</line><line>Ryutaro:
+<textEffects>(Now that I'm standing in his shoes, I'm starting to understand something else Naruhodo-san goes through. Like it or not, minds are wont to blank!)</textEffects>
+</line><line>Mikotoba:
+It's not surprising, really. It's your first time in this position and...in that guise. Even a bright spark like you is bound to flicker and falter a little under the circumstances.
+</line><line>Ryutaro:
+Oh dear...this is a dismal failure...
+</line><line>Mikotoba:
+Don't fret. You need only use the knowledge you've gained as a judicial assistant to overcome the problem.
+</line><line>Ryutaro:
+...! <textEffects>(Of course! <span style="color:#E16935">The Court Record</textEffects>!)</span> Yes, the answer will be amongst all the key information about the case, in the Court Record.
+</line><line>Mikotoba:
+That's right. Just use [R / R1 / E] to open the <textEffects><b>Court Record</b></textEffects>. Then you need to flip to the '<textEffects><b>People</b></textEffects>' section with [R / R1 / E]. And don't take too long over it. His Excellency is watching you closely.
+</line><line>Ryutaro:
+<textEffects>(Alright, check the <span style="color:olive"><b>Court Record</b></textEffects> with [R / R1 / E]... That's where the information I need will be!)</span>
+</line><line>Judge:
+I'm waiting, Counsel... <textEffects>What is the name of <span style="color:#E16935">the victim</textEffects> in this case?</span>
+</line>
+
+
+
+<line>Ryutaro:
+The name of the victim who lost her life in this case...is Miss Jezaille Brett!
+</line><line>Auchi:
+.........
+</line><line>Rei:
+Jezaille Brett...
+</line><line>Mikotoba:
+A name that will never be forgotten in the courtrooms of our country, I'm sure.
+</line><line>Judge:
+Correct. And being a member of our empire's judiciary, you will be well aware of <textEffects>the significance</textEffects> of that name.
+</line><line>Ryutaro:
+...!
+</line><line>Judge:
+So...let me pose another simple question. As you know, Miss Brett was a visiting student from the Empire of Great Britain. Why, then, is her name indelibly associated with our own empire's judicial history?
+</line><line>Mikotoba:
+Obviously, you won't have forgotten that case from nine months ago. But if it's proving hard to recall the finer points, everything you need is included in <textEffects>the Court Record</textEffects>.
+</line><line>Ryutaro:
+<textEffects>(Obviously, I still remember. That was <span style="color:#E16935">the start</textEffects> of everything.)</span> Jezaille Brett... <textEffects>Behind the woman's student persona was <span style="color:#E16935">the face</textEffects> of...</span>
+</line>
+
+
+
+<line>Ryutaro:
+Nine months ago, a visiting professor of medicine at the Imperial Yumei University was killed. And <textEffects>the culprit</textEffects> was...Jezaille Brett.
+</line><line>Mikotoba:
+Yes... She was <textEffects>a killer</textEffects>...
+</line><line>Judge:
+At the time, our country had just signed a new treaty with the Empire of Great Britain. And it was in the midst of this delicate diplomatic situation that the incident occurred. An Englishman, Dr John H. Wilson, was shot dead. I believe he was an associate of yours, Professor Mikotoba?
+</line><line>Mikotoba:
+Yes, I was indebted to the man. He'd been my mentor when I went to London to study forensic medicine. Indeed, it was I who invited him here to Japan as a visiting professor at the university. Naturally, the murder of an Englishman on our soil was a matter the government wished to resolve rapidly.
+</line><line>Judge:
+Indeed it was. Which is why a secret trial was conducted here at the Supreme Court. A student of the Imperial Yumei University was arrested on suspicion of murder. A second-year English language student by the name of... <textEffects>Ryunosuke Naruhodo</textEffects>. With the help of his best friend, a student lawyer, the accused conducted his own defence... ...and exposed the despicable crime committed by Miss Jezaille Brett. Miss Brett eventually admitted to her crime. However, when questioned about <textEffects>the motive</textEffects> that drove her to take Dr Wilson's life... ...she gave no satisfactory answer before the trial reached its conclusion.
+</line><line>Auchi:
+Immediately after the trial, the British government brought its consular jurisdiction into play. We were unable to sentence Miss Brett according to our empire's laws. It was decided that she would be removed to Shanghai, China, instead.
+</line><line>Ryutaro:
+Why Shanghai?
+</line><line>Mikotoba:
+There's a British consular court there.
+</line><line>Judge:
+Correct. I oversaw the negotiations personally. The date of her transfer to Shanghai was finally settled upon only last week. All that remained of our empire's obligations was to see the woman safely on board a steamship.
+</line><line>Auchi:
+And yet, the very day before her departure... The Englishwoman was killed!
+</line><line>Ryutaro:
+Only <textEffects>the day before</textEffects>?!
+</line><line>Judge:
+That will do. I'm satisfied that the counsel for the defence is sufficiently capable of representing the defendant.
+</line><line>Ryutaro:
+Oh! Thank you, Your Excellency! <textEffects>(Over the first hurdle...)</textEffects>
+</line><line>Judge:
+Now, a summary of the incident, if you please. Prosecutor Auchi...
+</line><line>Auchi:
+As is your wish...Your Excellency. The repugnant crime took place on the 11th August, in broad daylight. On the outskirts of the imperial capital, under a bright blue sky, at a secluded bathing spot by the sea... The incident occurred inside <textEffects>a small beach hut</textEffects>, erected for bathers to rest or change their clothes. The cause of death was a single stab wound to the posterior abdomen that pierced the victim's lung. An injury which proved fatal. There were two persons alone together in <textEffects>the beach hut</textEffects> at the time of the victim's death: Miss Brett, in her bathing attire, and the accused, Rei Membami! Accordingly, there can be no doubt of the accused's guilt! Especially when we consider she had a powerful motive! The police arrived rapidly at the scene and promptly arrested the young lady.
+</line><line>Ryutaro:
+.........
+</line><line>Judge:
+......... Well... ...that extraordinary description of events leaves me somewhat lost for words, I must say.
+</line><line>Ryutaro:
+<textEffects>(That's certainly true. The prosecution's summary... ...was full of <span style="color:#E16935">words</textEffects> that raise an awful lot of questions. As a lawyer, I really ought to pick up the prosecution counsel on <textEffects>what he said</textEffects> about...)</span>
+</line>
+
+
+
+
+
+
+<line>Judge:
+I believe we all have a clear picture of the incident now.
+</line><line>Mikotoba:
+Despite her guilt being determined nine months ago... ...Miss Brett managed to avoid incarceration, instead continuing her research work at the university. Obviously, over that period, she and Rei would have encountered each other on a number of occasions.
+</line><line>Ryutaro:
+Seeing the murderer of the mentor for whom she had such great respect enjoying such undeserved liberty...
+</line><line>Mikotoba:
+Yes, even if it was only temporary until Miss Brett's extradition to Shanghai... ...you can hardly blame Rei for her feelings of anger and resentment.
+</line><line>Ryutaro:
+<textEffects>(Poor Rei...)</textEffects>
+</line><line>Auchi:
+So, Your Excellency...if you'd be so kind as to peruse this exhibit. A photographic print that shows the scene of the crime immediately following the grim incident.
+</line><line>Judge:
+Yes, thank you, Counsel. A tragic image.
+</line><line>Auchi:
+As you can clearly see, there is nowhere within the hut that anyone else could have hidden.
+</line><line>Judge:
+The court will accept this photographic print as evidence.
+</line><line><textEffects>The photograph of the crime scene has been entered into the Court Record.</textEffects>
+</line><line>Judge:
+As I understand it then, the victim and the defendant were alone inside the beach hut at the time. This is deeply troubling, I must say. The finger of guilt points firmly at the defendant.
+</line><line>Auchi:
+Well, Your Excellency...naturally the prosecution has much more to its case.
+</line><line>Ryutaro:
+...!
+</line><line>Auchi:
+We intend to prove the accused's appalling actions beyond all possible contention. To that end, I can confirm that we have multiple <textEffects>witnesses</textEffects> to the crime, and damning evidence.
+</line><line>Ryutaro:
+W-Witnesses? But, but who...?
+</line><line>Rei:
+.........
+</line><line>Auchi:
+One of whom, I might add, is a highly respected police detective. I assure you...the testimony of these witnesses will leave no room for doubt!
+</line><line>Ryutaro:
+Ugh!
+</line><line>Judge:
+Very well then, Counsel. Bring forth your witnesses.
+</line><line>Auchi:
+......... I, Taketsuchi Auchi, have been waiting for this moment.
+</line><line>Ryutaro:
+Sorry?
+</line><line>Auchi:
+Oh yes, I haven't forgotten. That trial nine months ago, here in this very courthouse... ...when that irreverent little student boy...utterly humiliated me!
+</line>
+<hr />
+<line>Auchi:
+ARRRRRRGH! Ryunosuke Naruhodo!
+</line><line>Ryunosuke:
+Wha- Yes?
+</line><line>Auchi:
+This insult to the Auchi family name... will NEVER be forgotten!
+</line><line>Kazuma:
+You've become conceited with age, Counsel. But the old have to stand aside and make way for the new. It's the way of the world. ...May you never forget that!
+</line>
+<hr />
+<line>Auchi:
+'Strike the head of a samurai whose topknot has been cut, and the bell of cultural enlightenment tolls.' Yes, on that fateful day...my former self died.
+</line><line>Ryutaro:
+The start of your own mini Meiji Revolution! Are you modernising as well, Counsel?
+</line><line>Auchi:
+Silence! Since I swore revenge back then, there has been a minor miracle atop my head. Observe, the Auchi growth! You see? You see this <textEffects>seed</textEffects> of hope sprouting forth from the barren expanse of my crown?
+</line><line>Ryutaro:
+<textEffects>(I, I think that tiny growth is trying to tell me something!)</textEffects>
+</line><line>Rei:
+Um... ...I'm afraid I can't really see. Where, where is the hope exactly?
+</line><line>Auchi:
+I said silence! Today, I face another yokel student of the Naruhodo clan. Well...I will vanquish you! And my victory will be fertiliser for the seed of hope atop my head! ...You have been warned. With that...the prosecution calls the witnesses to the stand!
+</line><line>Mikotoba:
+...It looks like the stakes are high on both sides in this trial. The prosecution and defence each has much to lose.
+</line><line>Ryutaro:
+A haircut is hardly comparable to Rei's life!
+</line>
+<hr />
+<line>Auchi:
+Witnesses, please state your names and occupations for the court.
+</line><line>Hosonaga:
+Chief Inspector <textEffects>Satoru Hosonaga</textEffects>, Imperial Police Bureau. I'm in disguise, obviously, so I can go undetected.
+</line><line>Soseki:
+And I am... Well, the next big thing in books. An author renowned throughout the capital, in fact. Yes... Soon to be sold out! The satirical 'I Am a Cat'! A sensational success! By <textEffects>Soseki Natsume</textEffects>!
+</line><line>Ryutaro:
+Oh my goodness!
+</line><line>Soseki:
+Struggling student from the provinces, please... You needn't be in awe of me.
+</line><line>Ryutaro:
+I needn't?
+</line><line>Soseki:
+It's only natural that you'd feel nervous in my presence. But all of you, please, relax. Call me Soseki, even.
+</line><line>Ryutaro:
+Um...yes... <textEffects>(What on earth is Soseki-san doing here?)</textEffects>
+</line><line>Mikotoba:
+Tread carefully, Susato. That author fellow knows you from your time in London, doesn't he? If he exposes you for who you really are, this will be over before it's begun.
+</line><line>Ryutaro:
+Yes... Yes, of course. I know. <textEffects>(I presume Soseki-san won't have forgotten about me. I could certainly never forget him. Although he does seem to have changed somewhat in the six months or so that it's been since I last saw him. And as for Inspector Hosonaga... That amazing outfit is... hard to believe.)</textEffects>
+</line><line>Hosonaga:
+...Do I have something on my face?
+</line><line>Ryutaro:
+<textEffects>(Well, your glasses for one. Although they don't seem to be helping you see... Thank goodness he hasn't recognised me either.)</textEffects>
+</line><line>Hosonaga:
+Ah, I suppose it's this disguise, is it? I thought that appearing here in the clothes I was wearing at the time would make for a more faithful testimony. It is my guiding principle to carry out all testimonies flawlessly.
+</line><line>Judge:
+Hm, well, I can appreciate why an Imperial Police Bureau detective might have been present... ...but what business did a writer such as yourself have being at the scene, Soseki-san?
+</line><line>Soseki:
+Ah, well, you see... ...I had been asked that day to give a lecture. On the morning of the incident...in the Imperial Yumei University's Grand Lecture Hall no less.
+</line><line>Ryutaro:
+At...Yumei University?
+</line><line>Soseki:
+After the lecture, I had a very pleasant conversation with a researcher from the medical science department. The professor over there, in fact.
+</line><line>Ryutaro:
+With my fath- With Professor Mikotoba?!
+</line><line>Mikotoba:
+Yes, that's right. It was arranged by one of the newspapers. They wanted some story or other about two former students who'd studied in Great Britain.
+</line><line>Soseki:
+Of course, being a renowned author, the press never leave me alone. They secretly spy! Snap shots! Scribble stories! And scupper my privacy!
+</line><line>Ryutaro:
+Haah...
+</line><line>Soseki:
+As you can see, the conversation was written up in this newspaper here. Read it at your leisure, my provincial, struggling student friend. I have plenty of copies.
+</line><line>Ryutaro:
+Thank you very much! <textEffects>(He practically threw that paper at me.)</textEffects>
+</line><line><textEffects>The Soseki Natsume article has been entered into the Court Record.</textEffects>
+</line><line>Soseki:
+Anyway, following my interview with the professor... ...the lady in question appeared and made a very unexpected announcement. 'I should like to go with everyone to see your country's coast!' Those were her words.
+</line><line>Mikotoba:
+As I explained before, Miss Brett was never taken into custody. She continued to work in my laboratory, under strict surveillance, of course.
+</line><line>Auchi:
+At which utterance, the university immediately contacted the government to seek guidance. And the response was, 'Permit Miss Brett to go as long as a detective accompanies her.'
+</line><line>Hosonaga:
+That detective, I am at liberty to divulge, was me, Chief Inspector Satoru Hosonaga.
+</line><line>Auchi:
+Thereby the entire party departed cordially for the seaside, it seems.
+</line><line>Hosonaga:
+It was extremely challenging to clear all other members of the public from the vicinity of the beach. But fortunately, I am at peak physical fitness at the moment, so... ...I was able to carry out my duty flawlessly.
+</line><line>Ryutaro:
+Oh my! Inspector, you... Well, you do have something on your face now.
+</line><line>Hosonaga:
+Ah, how unsightly. I do apologise.
+</line><line>Ryutaro:
+Does that mean that you went to the beach too, Father?
+</line><line>Mikotoba:
+No no. Fortunately, I had work to finish off. But unfortunately, of course... ...it meant that, as my assistant, Rei was invited to take my place.
+</line><line>Soseki:
+Of course, being a renowned author, I didn't like to decline the invitation. AGH, BUT IF ONLY I HAD! I'D NEVER HAVE SEEN THAT AWFUL SIGHT!
+</line>
+<captions aligned="center">Relentlessly Racked by Remorse and Regret!</captions>
+<line>
+Judge:
+Very well. I must now ask you to present your formal testimony to the court. You will give an account of all that you witnessed on your impromptu excursion to the coast.
+</line><line>Hosonaga:
+Of course, Your Excellency...
+</line><line>Soseki:
+...Relentlessly racked by remorse and regret, I am...
+</line>
+<hr />
+<captions aligned="center">Witness Testimony
+<textEffects>- The Witnessed Scene -</textEffects></captions>
+<line>Hosonaga:
+On the day of the incident, I was ordered on a special surveillance assignment in this disguise.
+</line><line>Soseki:
+I'd just managed to catch that crab when I suddenly heard a caterwaul from behind me.
+</line><line>Hosonaga:
+I ran into the beach hut at once, where I found the pair in question.
+</line><line>Soseki:
+YES YES YES! That young girl was astride the Englishwoman, dagger in hand, as she stabbed wildly!
+</line><line>Hosonaga:
+I saw blood on the blade. It proved to me that she'd stabbed the victim multiple times.
+</line>
+<hr />
+<line>Judge:
+Indeed... It does appear from this testimony that both witnesses here present saw it. The very moment...of this heinous crime!
+</line><line>Ryutaro:
+What?!
+</line><line>Auchi:
+Now...if you will recall, I promised evidence as well. What phrase did I use again? ...Ah yes, that was it: 'damning' <textEffects>evidence</textEffects>.
+</line><line>Judge:
+Hm, what have you there, Counsel? A so-called '<textEffects>fountain pen</textEffects>', is it?
+</line><line>Hosonaga:
+Correct, Your Excellency. I found it at the scene whilst examining the body. It appears that in her dying moments, with her final ounce of strength... ...the victim clutched a piece of evidence that would positively <textEffects>identify her killer</textEffects>.
+</line><line>Ryutaro:
+What?!
+</line><line>Auchi:
+Your Excellency, if you would cast your eyes over the photographic print of the crime scene once more...
+</line><line>Judge:
+......... Ah! Goodness me! Yes, the victim is clearly <textEffects>grasping</textEffects> something quite deliberately there in her hand!
+</line><line>Hosonaga:
+That's right. The fountain pen. And if you would kindly examine the pen, Your Excellency...
+</line><line>Judge:
+......... Ah! The owner's <textEffects>initials</textEffects> have been engraved into the ebonite barrel! '<textEffects>R.M.</textEffects>'... Rei Membami... The initials of the defendant!
+</line><line>Ryutaro:
+Ah... NOOOOOO!
+</line><line>Judge:
+This fountain pen will be admitted immediately as critical evidence!
+</line><line><textEffects>The fountain pen has been entered into the Court Record.</textEffects>
+</line><line>Auchi:
+So...have I omitted anything? Decisive testimony and damning evidence... There's a bright blue sky outside the courthouse today. Perfect weather to ascribe guilt, I feel.
+</line><line>Ryutaro:
+<textEffects>(I, I don't understand. The Prosecutor Auchi of nine months ago... ...had none of this man's poise!)</textEffects>
+</line><line>Judge:
+Counsel for the Defence...you may begin your cross-examination now.
+</line><line>Ryutaro:
+.........
+</line><line>Judge:
+Naruhodo-san!
+</line><line>Ryutaro:
+Naruhodo... That...means... Oh! Yes! Me!
+</line><line>Judge:
+Is there another <textEffects>Naruhodo</textEffects> in my courtroom?
+</line><line>Ryutaro:
+<textEffects>(Actually, there isn't even a single <span style="color:#E16935">Naruhodo</textEffects> in your courtroom...)</span>
+</line><line>Mikotoba:
+Cousin Ryutaro...pull yourself together, please.
+</line><line>Ryutaro:
+<textEffects>(Alright, I've seen this countless times as a judicial assistant. Find inconsistencies in the witnesses' testimonies to prove that they're lying somehow. That's all there is to it. That's how a real lawyer would handle a cross-examination. So let's see what I can do!)</textEffects>
+</line>
+<hr />
+<captions aligned="center">Cross-Examination
+<textEffects>- The Witnessed Scene -</textEffects></captions>
+<line>Hosonaga:
+<textEffects>On the day of the incident, I was ordered on a special surveillance assignment in this disguise.</textEffects>
+</line>
+
+<line>Soseki:
+<textEffects>I'd just managed to catch that crab when I suddenly heard a caterwaul from behind me.</textEffects>
+</line>
+
+<line>Hosonaga:
+<textEffects>I ran into the beach hut at once, where I found the pair in question.</textEffects>
+</line>
+
+<line>Soseki:
+<textEffects>YES YES YES! That young girl was astride the Englishwoman, dagger in hand, as she stabbed wildly!</textEffects>
+</line>
+
+<line>Hosonaga:
+<textEffects>I saw blood on the blade. It proved to me that she'd stabbed the victim multiple times.</textEffects>
+</line>
+
+
+<line>Ryutaro:
+<textEffects>(Oh no... I just have so many thoughts whirling around in my head... It's all I can do to stand here, wide-eyed and mute...)</textEffects>
+</line><line>Mikotoba:
+Goodness, my dear. You really must try to calm down.
+</line><line>Ryutaro:
+But how am I supposed to find an inconsistency in what these two gentlemen are saying? I don't see why either of them would have any reason to lie.
+</line><line>Mikotoba:
+What you must remember, I think, is that witnesses may inadvertently lie at times. For various reasons: a misunderstanding, a mistaken observation, a delusion, even...
+</line><line>Ryutaro:
+Ah...a delusion...
+</line><line>Mikotoba:
+What's important is that we determine the truth. And there's only one sure way to do that.
+</line><line>Ryutaro:
+Yes...with <textEffects>evidence</textEffects>, of course.
+</line><line>Mikotoba:
+Spoken like a true judicial assistant. During witness testimony, you can use [R / R1 / E] to pick a piece of evidence to '<textEffects><b>Present</b></textEffects>' for consideration. So you need to listen carefully to each statement, and <textEffects>compare</textEffects> what's said to the details in the Court Record. If you find some <textEffects>conflicting information</textEffects>, that may be <textEffects>the inconsistency</textEffects> you're looking for.
+</line><line>Ryutaro:
+<textEffects>(Yes, it's all about <span style="color:#E16935">inconsistencies</textEffects>...)</span>
+</line><line>Mikotoba:
+Once you've identified a witness's statement that appears to conflict with a piece of evidence... <textEffects><b>Present</b></textEffects> the evidence to the witness with [X / △ / R], and <textEffects>the way ahead</textEffects> will present itself to you, I'm sure.
+</line><line>Ryutaro:
+Yes! <textEffects>(Alright, then... I'll consider the details of all the evidence in the Court Record against each statement to find <span style="color:#E16935">an inconsistency</textEffects>. I hope I'm up to the task...)</span>
+</line><line>Mikotoba:
+Don't forget that you can have the witnesses repeat their statements as many times as you like. Everyone has to start at the beginning, remember. So those wide eyes are quite forgivable. And besides...there's no one else to defend the poor girl.
+</line><line>Ryutaro:
+You're right! <textEffects>(I need to listen to the testimony again from the start.)</textEffects>
+</line>
+<hr />
+<line>Ryutaro:
+......... <textEffects>(With that accusatory cry that just welled up from deep inside me, I think I finally understand... Every time Kazuma-sama and Naruhodo-san have stood here at this bench... ...the stakes have been very, very high, indeed!)</textEffects>
+</line><line>Auchi:
+Wh-What's the meaning of that menacing pose, Counsel?
+</line><line>Ryutaro:
+I'd like the witness to clarify something for me.
+</line><line>Soseki:
+Who? What? Where? When? Hooooooooooow?!
+</line><line>Ryutaro:
+Not you, Soseki-san. This query is directed at Inspector Hosonaga.
+</line><line>Hosonaga:
+...! At me?
+</line><line>Ryutaro:
+In your statement just now... ...you said that the victim was <textEffects>stabbed multiple times</textEffects>.
+</line><line>Hosonaga:
+Yes, that's right. As I said, when I entered the hut... ...the defendant was already standing over the victim, bloody knife in hand, like a murderous demon.
+</line><line>Ryutaro:
+And yet...that cannot be.
+</line><line>Hosonaga:
+What?
+</line><line>Judge:
+Get to the point please, Counsel.
+</line><line>Ryutaro:
+In the post-mortem report, it clearly states... ...that the victim was stabbed <textEffects>one time only</textEffects>.
+</line><line>Judge:
+Ah!
+</line><line>Auchi:
+Nnnf!
+</line><line>Ryutaro:
+In other words...Inspector Hosonaga's testimony... ...is clearly flawed!
+</line><line>Hosonaga:
+Agh!
+</line><line>Ryutaro:
+And Soseki-san!
+</line><line>Soseki:
+M-M-Me?!
+</line><line>Ryutaro:
+You claim to have seen Membami-san in the throes of <textEffects>stabbing the victim</textEffects>.
+</line><line>Soseki:
+Y-Yes... Yes, I did... WILDLY!
+</line><line>Ryutaro:
+But both you and the inspector confirmed the same point: That <textEffects>there was already blood</textEffects> on the knife that you saw the defendant holding.
+</line><line>Hosonaga:
+Yes... And...?
+</line><line>Ryutaro:
+It's quite simple. We know the murder weapon was used to stab the victim <textEffects>only once</textEffects>. Therefore... ...there is no way there could have been blood on the knife <textEffects>if that single stabbing hadn't already occurred</textEffects>.
+</line><line>Soseki:
+ARGH! TRUE!
+</line><line>Judge:
+Then what exactly is your contention, Counsel? Are you ever going to tell us?
+</line><line>Ryutaro:
+Yes, Your Excellency. There's only one logical conclusion. What Soseki-san in fact saw was not the moment that the defendant <textEffects>stabbed</textEffects> the victim at all... ...but the moment that the defendant in fact...<textEffects>withdrew</textEffects> the blade from the victim's body!
+</line><line>Soseki:
+That, that can't... ...BEEEEEEEEEEEE!
+</line><line>Mikotoba:
+Excellent work, Susato! You exploded at them with that objection, and then proceeded to pull them apart systematically.
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Tsh huh huh... Well well, this takes me back.
+</line><line>Ryutaro:
+...!
+</line><line>Auchi:
+Yes, I seem to remember your cousin staged a scene much like this in that trial nine months ago. A half-witted child with a half-baked objection attempting to steal the show.
+</line><line>Mikotoba:
+You're right. There were certain similarities. Except that so-called 'half-witted child' managed to outwit the prosecution...who has only half a head of hair.
+</line><line>Auchi:
+Slander! My head is quite adequately dressed! In any case, all this talk of stabbing and withdrawing and multiple wounds... ...it makes not a jot of difference!
+</line><line>Ryutaro:
+What? Why not?
+</line><line>Auchi:
+Engage your brain, young man! When the accused first plunged the deadly weapon into the victim, that was <textEffects>the fatal blow</textEffects>. And it was that moment, just as she had withdrawn the blade ready for <textEffects>her next strike</textEffects>, that the witnesses saw. The knife was already tainted with blood, because the accused had already stabbed the victim!
+</line><line>Ryutaro:
+Ah!
+</line><line>Auchi:
+All you have successfully shown with your little display... ...is that the moustached author is prone to moments of extravagance!
+</line><line>Ryutaro:
+AAAAAAAAAGH!
+</line><line>Judge:
+I am in agreement with the prosecution. If the defendant was seen wielding the blade at all... ...that is sufficient grounds for her actions to be viewed with suspicion.
+</line><line>Ryutaro:
+But, but if she was withdrawing the blade...
+</line><line>Auchi:
+...Then we are back where we started!
+</line><line>Ryutaro:
+Sorry?
+</line><line>Auchi:
+Consider this, young yokel boy... If the student girl is innocent as you claim... ...then why would she have pulled the blade from the victim? And with a demon's cold-blooded composure, too. The prosecution demands an explanation! ...And it had better be good.
+</line><line>Ryutaro:
+Why did Rei pull out the knife...?
+</line><line>Mikotoba:
+Ah, yes... Going for the jugular.
+</line><line>Ryutaro:
+Hm? <textEffects>(What does Father mean by that?)</textEffects>
+</line><line>Judge:
+Let the court hear your answer then, Counsel.
+</line><line>Ryutaro:
+<textEffects>(The truth is, I don't really know. But I have to come up with <span style="color:#E16935">a plausible reason</textEffects> here, or we don't have a case.)</span> <textEffects>The reason</textEffects> <textEffects>why the defendant pulled the knife blade out of the victim's body was surely so she could...</textEffects>
+</line>
+
+
+
+<line>Ryutaro:
+According to the post-mortem report, the victim's death was not <textEffects>instant</textEffects>.
+</line><line>Hosonaga:
+That's correct. It's thought she would have remained conscious for a short while after sustaining the injury.
+</line><line>Auchi:
+Indeed, giving her the time to take hold of this piece of evidence that clearly indicates her killer.
+</line><line>Ryutaro:
+The, the point is... ...being a medical research assistant, Membami-san was compelled to act when faced with the wounded victim. Instinctively, she pulled the blade out in an attempt to save Miss Brett's life!
+</line><line>Auchi:
+.........
+</line><line>Judge:
+.........
+</line><line>Mikotoba:
+.........
+</line><line>Auchi:
+Tsh huh huh! Did you hear that, Your Excellency? It would seem this is the best we can expect of this young yokel.
+</line><line>Judge:
+Hmmm... Indeed.
+</line><line>Ryutaro:
+<textEffects>(Ugh... Is it just me, or does it suddenly feel much colder in here?)</textEffects>
+</line><line>Hosonaga:
+...Your Excellency, if I may?
+</line><line>Judge:
+Speak, witness.
+</line><line>Hosonaga:
+I would like another opportunity to testify. In respect to the slipshod assertion just put forward by the yokel defence counsel, I mean.
+</line><line>Ryutaro:
+S-Slipshod?
+</line><line>Auchi:
+Tsh...huh...huh... An excellent idea, Inspector. Our young yokel hopeful has a modicum of knowledge when it comes to the law, it seems... ...but in matters of medicine, he appears to possess not one iota of common sense!
+</line><line>Judge:
+Very well, Inspector. I will permit your request. You will testify again before the court. On the subject of the defence counsel's assertion.
+</line><line>Hosonaga:
+Yes, sir. I will do so flawlessly.
+</line>
+<hr />
+<captions aligned="center">Witness Testimony
+<textEffects>- Forensic Medicine Primer -</textEffects></captions>
+<line>Hosonaga:
+Pulling a blade from a wound without thinking could cause heavy bleeding.
+That's basic knowledge that any medical research assistant with an ounce of sense ought to know.
+In other words, there's no good reason why the defendant would have tried to pull the knife from the victim.
+Let's not forget that the young student did have a motive for killing the victim.
+The man the victim murdered nine months ago, Dr Wilson, was the defendant's highly respected mentor.
+</line>
+<hr />
+<line>Ryutaro:
+Is, is what you just said true, Inspector? Could pulling a knife from a wound really cause the wound to <textEffects>bleed heavily</textEffects>?
+</line><line>Hosonaga:
+Yes. Think of the weapon itself as <textEffects>a stopper</textEffects> in the wound that prevents excessive blood loss. Until a doctor is ready to provide proper treatment, that stopper shouldn't be removed.
+</line><line>Ryutaro:
+Oh, I... I see...
+</line><line>Auchi:
+Hah! This is why yokels should stay on the farm. Even a quack from some obscure mountain village would have such basic knowledge. Anyone who's ever given someone a little poke with a knife and pulled it out again knows it!
+</line><line>Ryutaro:
+Oh...well...I've never stabbed anyone, you see. Or pulled a blade out of a wound, so...
+</line><line>Mikotoba:
+Of course you haven't. I didn't bring you up to behave like a bandit.
+</line><line>Ryutaro:
+Father, is it true, what they're telling me?
+</line><line>Mikotoba:
+Yes, it's basic remedial knowledge for medics. Rei would have been well aware of it. If she were to claim ignorance of such fundamentals, that would prove fatal in many ways.
+</line><line>Ryutaro:
+But then...why would Rei have done it? Could she have pulled out that knife in full knowledge that it would be fatal for Miss Brett?
+</line><line>Mikotoba:
+...I don't know.
+</line><line>Ryutaro:
+<textEffects>(Rei never once mentioned anything about the knife to me. It seems almost impossible to believe, but... ...could my friend actually have...?)</textEffects>
+</line><line>Mikotoba:
+Susato!
+</line><line>Ryutaro:
+Y-Yes?
+</line><line>Mikotoba:
+Pull yourself together! We mustn't lose sight of why we're here.
+</line><line>Ryutaro:
+<textEffects>(Ah!)</textEffects>
+</line><line>Judge:
+Counsel, it's time for your cross-examination.
+</line><line>Ryutaro:
+Oh...yes, Your Excellency!
+</line><line>Judge:
+However... ...I must warn you that if your cross-examination fails to identify any issue with the established facts... ...I will be moving to my adjudication immediately afterwards.
+</line><line>Ryutaro:
+...I understand. <textEffects>(Believing in your clients and fighting for their cause until the bitter end... I knew it would be hard, but...I had no idea it would be this hard!)</textEffects>
+</line>
+<hr />
+<captions aligned="center">Cross-Examination
+<textEffects>- Forensic Medicine Primer -</textEffects></captions>
+<line>Hosonaga:
+<textEffects>Pulling a blade from a wound without thinking could cause heavy bleeding.</textEffects>
+</line>
+
+<line>Hosonaga:
+<textEffects>That's basic knowledge that any medical research assistant with an ounce of sense ought to know.</textEffects>
+</line>
+
+<line>Hosonaga:
+<textEffects>In other words, there's no good reason why the defendant would have tried to pull the knife from the victim.</textEffects>
+</line>
+
+
+<line>Hosonaga:
+<textEffects>Let's not forget that the young student did have a motive for killing the victim.</textEffects>
+</line>
+
+<line>Hosonaga:
+<textEffects>The man the victim murdered nine months ago, Dr Wilson, was the defendant's highly respected mentor.</textEffects>
+</line>
+
+<line>Ryutaro:
+<textEffects>(This is hopeless! I can't find a single crack in this testimony anywhere! If Rei knew that withdrawing the knife from the wound would threaten Miss Brett's life further... ...I just can't think of any way to explain why she did it.)</textEffects>
+</line><line>Mikotoba:
+Susato. It's at times like these when it's especially important to remember the fundamentals.
+</line><line>Ryutaro:
+The fundamentals?
+</line><line>Mikotoba:
+Evidence is what counts in the courtroom, isn't it?
+</line><line>Ryutaro:
+Of course! But I've been through the Court Record dozens of times already!
+</line><line>Mikotoba:
+I think perhaps you're forgetting something, though. You needn't take the evidence at face value. You can and must <textEffects>examine</textEffects> it in greater detail, too.
+</line><line>Ryutaro:
+Ah!
+</line><line>Mikotoba:
+I realise this is your first time playing the role of lawyer in the courtroom. So if you need <textEffects>reminding of the rudiments</textEffects>, you need only ask. I'll do my very best to help.
+</line><line>Ryutaro:
+<textEffects>(<span style="color:#E16935">Examine</textEffects> the evidence in the Court Record...? It's an idea, certainly. What should I do?)</span>
+</line>
+
+
+</td></tr></tbody></table>
+
+<line>
+</line>
+
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<hr />
+<line>Ryutaro:
+No. There is one possibility. One very good reason why the defendant might have decided to withdraw the knife from the victim's wound!
+</line><line>Hosonaga:
+What?!
+</line><line>Auchi:
+Hah! The yokel not only has a poor grasp of the law, but is also a poor loser! Tell us, then! What 'possibility' do you think you've identified?
+</line><line>Ryutaro:
+It's here...in this newspaper article. An article about <textEffects>a deadly poison</textEffects> having been stolen from a laboratory at the Imperial Yumei Uni-
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+The victim perished from a stab wound. Poison has no relevance in this case!
+</line><line>Ryutaro:
+But...
+</line><line>Judge:
+Prosecutor Auchi. You will let the defence speak.
+</line><line>Auchi:
+But, but a newspaper article! The court cannot rely on the kind of hearsay those wretched publications carry.
+</line><line>Judge:
+Counsel for the Defence... ...I am going to need some tangible basis for your claim. You will indicate to the court precisely what part of the newspaper article mentioned affirms your assertion.
+</line><line>Auchi:
+Your Excellency!
+</line><line>Ryutaro:
+Yes, of course. ...Thank you! <textEffects>(Rei would never have done something to further endanger Miss Brett's life without just cause.)</textEffects> <textEffects>The reason</textEffects> <textEffects>why the defendant pulled the knife from the victim's body is explained in the article where it says...</textEffects>
+</line>
+
+
+
+<line>Ryutaro:
+The article reveals the following property about the poison in question: When the toxin enters the body on <textEffects>a knife laced with the poison</textEffects>, it's rapidly absorbed and causes death in minutes.
+</line><line>Hosonaga:
+Are, are you suggesting...?
+</line><line>Ryutaro:
+If the knife used to attack Miss Brett was laced with this very <textEffects>poison</textEffects>... ...it would explain why the defendant, Membami-san, would have withdrawn the blade as soon as possible. ...Yes, the truth is... ...it was an attempt <textEffects>to stop the poison</textEffects> from entering the victim's body!
+</line><line>Hosonaga:
+WHAT?!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+This is complete and utter nonsense!
+</line><line>Ryutaro:
+Not at all! The defendant withdrew the knife blade from the victim's body not to accelerate the woman's demise... ...but <textEffects>to save her life</textEffects>! And the prosecution cannot deny the possibility!
+</line><line>Auchi:
+Have you not read the post-mortem report? The cause of death was <textEffects>haemorrhage</textEffects>! The word 'poison' appears nowhere in the document!
+</line><line>Ryutaro:
+Well, well that's... That's because by acting quickly to remove the blade, the defendant prevented the poison from taking hol-
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Oh please! This is clearly desperation! The weasel's last breaking of wind! Poison has nothing whatsoever to do with this case, as I believe the defence is well aware! We have no proof that the information in this wretched newspaper article is at all reliable anyway.
+</line><line>Hosonaga:
+In that situation, what the student should have done is wait for medical assistance to arrive. But instead, you claim she suspected poisoning and took the potentially lethal decision to remove the blade. She must have had <textEffects>a strong reason</textEffects> for her suspicions then, or the argument makes no sense.
+</line><line>Auchi:
+Exactly! Well put, Inspector! On what grounds did she do it, hm, yokel?
+</line><line>Ryutaro:
+<textEffects>(Why DID Rei suspect the stolen poison was involved...?)</textEffects> If you want grounds... I'll give you grounds.
+</line><line>Hosonaga:
+What?
+</line><line>Auchi:
+You...you can't possibly...
+</line><line>Judge:
+From your expression, Counsel, it would appear those are not empty words.
+</line><line>Ryutaro:
+.........
+</line><line>Judge:
+But naturally, as you stand in this courtroom as a lawyer, you must be aware... ...that words alone, empty or not, are of no value in our modern justice system. The court demands <textEffects>evidence</textEffects>.
+</line><line>Ryutaro:
+Yes, Your Excellency. <textEffects>(I'm well aware of that. I've seen it many times...from my place at his side in the Old Bailey.)</textEffects>
+</line><line>Judge:
+In that case, Counsel, you will present the proof to the court now. <textEffects>What evidence demonstrates a clear link between this case and the poison in the newspaper article?</textEffects>
+</line>
+
+
+<line>Ryutaro:
+I would ask the court to refer to the 'Notes' section of the post-mortem report, which reads: 'Extreme miosis - <textEffects>pupil constriction</textEffects> - was observed in the victim.'
+</line><line>Hosonaga:
+...Ah!
+</line><line>Ryutaro:
+Clearly, being a yokel with no knowledge of forensic science, I have no idea, so please, do tell me... Presumably, the fact that this condition of the victim was noted in the post-mortem report... ...means that it's an <textEffects>unusual</textEffects> symptom of death?
+</line><line>Auchi:
+...Tsk! Well...
+</line><line>Hosonaga:
+Under normal circumstances, the pupils <textEffects>dilate</textEffects> when someone dies. If there was extreme constriction instead...that's most certainly <textEffects>unusual</textEffects>, yes.
+</line><line>Auchi:
+What are you doing, you yokel detective?!
+</line><line>Ryutaro:
+In the newspaper article, there's the following information about the stolen poison: 'Onset of symptoms occurs in minutes...ending with acute contraction of the pupils prior to death.'
+</line><line>Auchi:
+What?!
+</line><line>Ryutaro:
+If the defendant, upon seeing the victim stabbed in the back... ...happened to notice that the pupils of Miss Brett's eyes had constricted severely...
+</line><line>Mikotoba:
+...Yes, as a medical research assistant, she would have suspected poison immediately. Without doubt.
+</line><line>Auchi:
+Hnnn...grrr...
+</line><line>Ryutaro:
+Prosecutor Auchi! I think you'll agree...this is very compelling evidence!
+</line><line>Auchi:
+Tsk! You... You... Yokel student and yokel professoooooor!!!
+</line><line>Judge:
+I believe the defence has expertly demonstrated a credible reason for the defendant's actions.
+</line><line>Auchi:
+No...
+</line><line>Judge:
+Yujin Mikotoba...
+</line><line>Mikotoba:
+Yes, Your Excellency?
+</line><line>Judge:
+I believe you are best placed here to confirm or deny the veracity of the defence counsel's argument. You will tell the court the truth about the details reported in this newspaper, please.
+</line><line>Mikotoba:
+......... It pains me to have to admit it... ...but I'm afraid I don't know.
+</line><line>Judge:
+You don't know?
+</line><line>Mikotoba:
+The toxin was kept under lock and key in my laboratory, certainly. But I was unaware of any theft.
+</line><line>Judge:
+Do you mean to tell the court that the reports of this theft are unfounded?
+</line><line>Mikotoba:
+No, Your Excellency. Without returning to the laboratory to investigate myself, I couldn't say.
+</line><line>Auchi:
+Hah! Listen to the bumbling academic! Unaware of the theft of secret state research from his own workplace until he reads of it in the newspaper!
+</line><line>Mikotoba:
+...I take full responsibility for the incompetence of my supervision.
+</line><line>Ryutaro:
+Father...
+</line><line>Auchi:
+Tsk! A pitiful situation for a university professor. You should have more control over your students... rather than allowing them off on killing sprees!
+</line><line>Ryutaro:
+That's, that's totally unfounded-
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest?cb=20210426133548" class="image"><img alt="Hold it Ryunosuke" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="146" data-image-name="Hold it Ryunosuke.png" data-image-key="Hold_it_Ryunosuke.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest/scale-to-width-down/260?cb=20210426133548" class="lazyload" /></a>
+</line><line>Rei:
+None of this is Professor Mikotoba's fault! It's all... It's all MY fault!
+</line><line>Ryutaro:
+Rei...
+</line><line>Judge:
+Membami-san! You stand accused here! Outbursts like this will not be tolerated!
+</line><line>Rei:
+......... But...it was me. I was the one who noticed that the poison we were developing had been stolen that day.
+</line><line>Judge:
+What?!
+</line><line>Ryutaro:
+So you knew...
+</line><line>Rei:
+I'd, I'd been placed in charge of overseeing the project. It was the day that the professor and Soseki-san were interviewed together for the newspaper. That's when I noticed that some of the poison was missing. Just a tiny amount, it was.
+</line><line>Mikotoba:
+Why didn't you let me know immediately?
+</line><line>Rei:
+......... I...I was scared. The whole project was supposed to be confidential, but some of the toxin had somehow been taken... So...I decided I'd try to get it back before anyone else found out. Because I had a very good idea who the thief was!
+</line><line>Ryutaro:
+The thief... You, you don't mean...?
+</line><line>Rei:
+Yes, of course. It was that dainty Englishwoman!
+</line><line>Judge:
+Miss Jezaille Brett?
+</line><line>Rei:
+That's why I decided to join the little group of people going to the seaside. Inside the beach hut, I confronted Miss Brett. But she just sat on a stool at the back of the hut, smiling sweetly at me as if she knew she was untouchable.
+</line>
+<hr />
+<captions aligned="center">I know it was you who stole the poison!Well now... whatever do you mean?</captions>
+<hr />
+<line>Rei:
+And then... ...she suddenly got to her feet... ...before falling to her knees in front of me and...then collapsing on the floor.
+</line><line>Ryutaro:
+...!
+</line><line>Rei:
+That's when I saw the knife in her back. I couldn't understand what had just happened. And then...a moment later, I was seized with fear. The pupils of her eyes had... They'd <textEffects>shrunk</textEffects> to tiny pinpoints.
+</line><line>Mikotoba:
+I don't believe it...
+</line><line>Judge:
+In other words, you realised that the victim was suffering the effects of the stolen poison.
+</line><line>Rei:
+My mind started racing... I hadn't seen anything pass Miss Brett's lips whilst I'd been with her. Which left only one possible way for the poison to have entered her body.
+</line><line>Ryutaro:
+On the blade of the knife in her back...
+</line><line>Judge:
+And that train of thought was what spurred you to withdraw the blade.
+</line><line>Rei:
+Yes. If the amount that had entered her bloodstream was small enough, she might still have a chance... That's what I hoped. Really... I... I'm so sorry for staying silent all this time!
+</line><line>Ryutaro:
+.........
+</line><line>Auchi:
+.........
+</line><line>Judge:
+......... Your attempt to hide the truth of what happened is not something that can be overlooked. However, I have duly noted the courage with which you confessed in the end.
+</line><line>Rei:
+...Thank you, Your Excellency!
+</line><line>Ryutaro:
+<textEffects>(It's barely perceptible, but I do think... ...the balance has shifted a little here in this courtroom now.)</textEffects>
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Your Excellency, do not be deceived! The victim just collapsed before your eyes, you say? Well, Membami-san, if that is the case, perhaps you could explain how Miss Brett came to be stabbed?
+</line><line>Rei:
+Well, um...
+</line><line>Auchi:
+You have no answer because the simple truth...is that YOU stabbed the victim motivated by revenge!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+But you have no conclusive evidence to prove that assertion, do you?
+</line><line>Auchi:
+......... Oh, I have evidence. And it is very much conclusive!
+</line><line>Ryutaro:
+...! <textEffects>(What's the prosecution counsel up to...? It was brief, but <span style="color:#E16935">he hesitated</textEffects> for a moment there, I'm almost sure of it...)</span>
+</line><line>Judge:
+You will produce the aforementioned evidence at once, Prosecutor Auchi.
+</line><line>Auchi:
+......... Perhaps some praise is due, young yokel student.
+</line><line>Ryutaro:
+What?
+</line><line>Auchi:
+I had imagined there would be no need for me to submit this evidence. But you've brought this on yourself!
+</line>
+<captions aligned="center">What the...?Could a more damning shot exist?The cruelty in the air on that beach is almost palpable...</captions>
+<line>
+Auchi:
+This evidence, more than any other, reveals the true extent of the accused's murderous nature. For it shows <textEffects>the precise moment</textEffects> that Membami-san plunged her dagger into the victim's back!
+</line><line>Rei:
+No, that's not true! No!
+</line><line>Ryutaro:
+I, I don't believe it... AAAAAAAAAAAAAH!!!
+</line><line>Judge:
+Order! Order! Order! Counsel for the Defence, was it you who was responsible for that shrill scream that just pierced my courtroom?
+</line><line>Auchi:
+Perhaps his voice has yet to break? These yokels are slow of mind and slow to mature.
+</line><line>Ryutaro:
+<textEffects>(I'll show you who's slow to mature...)</textEffects>
+</line><line>Mikotoba:
+Careful now. Susato is starting to show her face here.
+</line><line>Judge:
+It is often said that a picture is worth a thousand words. And here we have ample proof. The court will accept this extremely cogent photographic print as evidence.
+</line><line><textEffects>The incriminating photograph has been entered into the Court Record.</textEffects>
+</line><line>Ryutaro:
+<textEffects>(I can't believe he's had a photograph like that up his sleeve the entire time. It's such a stark image, I'm genuinely lost for words...)</textEffects>
+</line><line>Rei:
+Wait a minute! I, I don't understand. How did you...? I mean, who took that photograph?!
+</line><line>Ryutaro:
+...! <textEffects>(Rei...)</textEffects>
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+That's of no importance here. Stop trying to divert attention!
+</line><line>Rei:
+Oh...
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+That's an absurd thing to say! It's crucially important! Whoever took this photographic print was <textEffects>a witness</textEffects> to Miss Brett's death! The court must be allowed to hear this person's testimony!
+</line><line>Auchi:
+Argh!
+</line><line>Judge:
+I will uphold the defence's demand. The prosecution will reveal the identity of the person responsible for taking this photograph at once!
+</line><line>Auchi:
+......... Well...I'm afraid I can't do that.
+</line><line>Ryutaro:
+Pardon?
+</line><line>Auchi:
+You see, this print arrived at the Imperial Police Bureau headquarters by express post yesterday. But there was nothing to indicate the sender's name or address. The provenance of the print is unknown.
+</line><line>Judge:
+Goodness...
+</line><line>Ryutaro:
+Are we to understand then, Counsel... ...that in full knowledge of the fact that this photograph has the murkiest of origins... ...you nevertheless believe it fit for submission as evidence in the Supreme Court?
+</line><line>Mikotoba:
+When you first produced that print before, I noticed that you hesitated for a brief moment. Because you knew that it <textEffects>wasn't completely reliable</textEffects> evidence, didn't you?
+</line><line>Auchi:
+Silence...you yokel student and blabbering professor! What matters is the blatant <textEffects>truth</textEffects> that this print so eloquently expresses.
+</line><line>Ryutaro:
+But the defendant has already admitted to pulling the blade from the wound. Clearly this isn't the moment that the knife was plunged into the victim's back, but-
+</line><line>Auchi:
+The moment it was withdrawn? Don't waste this court's time with your ramblings!
+</line><line>Judge:
+Indeed. Without knowledge of who produced this print, we have no means of verifying the claim. And the scene it captures is without doubt the most <textEffects>compelling evidence</textEffects> presented to the court. If the defence is unable to shed any further light on the matter, I believe the conclusion is clear.
+</line><line>Ryutaro:
+Oh no!
+</line><line>Mikotoba:
+Susato... This is the time for you to fight. If what you've established so far is true, then there can be no doubt... ...this photograph shows the moment that Rei <textEffects>withdrew</textEffects> the blade from the victim.
+</line><line>Ryutaro:
+...! <textEffects>(Yes, we just need to prove that somehow...)</textEffects>
+</line><line>Auchi:
+Tsh...huh...huh... You'll have plenty of time to rue your defeat on the slow train back to the provinces. And to rue the day you came up against Taketsuchi Auchi in a court of law!
+</line><line>Ryutaro:
+<textEffects>(If I can't determine who took this photograph, then the trial is going to come to an end. There must be <span style="color:#E16935">a clue</textEffects> somewhere. There must be some way of working out who took it!)</span>
+</line><line>Judge:
+Well, Counsel?
+</line><line>Ryutaro:
+......... Your Excellency... <textEffects>The burning question is who took that photograph. And the truth is...</textEffects>
+</line>
+
+
+<line>Ryutaro:
+<textEffects>(This isn't about whether I can or can't come up with the answer now... I simply have to!)</textEffects> The identity of the person who took this dramatic photographic print... ...is, I assure you...something the defence can and will reveal!
+</line><line>Auchi:
+Wha...? No... You can't possibly! But as you so boldly claim that you can...please, do enlighten us!
+</line><line>Ryutaro:
+Unfortunately, I'm unable to present a name.
+</line><line>Auchi:
+How utterly underwhelming. Did you really believe you could-
+</line><line>Ryutaro:
+However! I am able to present evidence. The defence has <textEffects>a piece of evidence</textEffects> that reveals important details about the photographer's identity.
+</line><line>Auchi:
+Wha...?
+</line><line>Judge:
+Very well then, Counsel. Present your proof to the court. <textEffects>Which piece of evidence do you claim reveals something about the identity of the mystery photographer?</textEffects>
+</line>
+
+
+<line>Judge:
+What is that? The newspaper again? 'Raucous England Returnees Tell All'...
+</line><line>Ryutaro:
+It's not the headline that's relevant here, Your Excellency. It's <textEffects>the photograph</textEffects>. If you look at it closely, you'll notice that there are some white <textEffects>lines</textEffects> on the right-hand side.
+</line><line>Judge:
+Ah, yes, indeed. They had already caught my eye, as it happens.
+</line><line>Auchi:
+Hah! What of it? A shadow of some kind, presumably. From the branches of a tree or the like.
+</line><line>Mikotoba:
+There are no trees growing inside my laboratory at the university, I can assure you.
+</line><line>Ryutaro:
+Now...if you look closely at this photograph...
+</line><line>Judge:
+......... ...Good gracious!
+</line><line>Ryutaro:
+Yes, exactly the same pattern of <textEffects>lines</textEffects> is present on this photograph, too.
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Well... Well... That, that tells us nothing! H-Hah! Yes, it's a shadow of some kind, definitely! From the branches of a tree!
+</line><line>Ryutaro:
+There wouldn't be any trees growing inside a hut at the beach, Counsel.
+</line><line>Auchi:
+Nnnf!
+</line><line>Judge:
+What's quite remarkable about it, is that the two patterns are <textEffects>absolutely identical</textEffects>. How could such an extraordinary similarity have transpired?
+</line><line>Ryutaro:
+<textEffects>The curious matching pattern that appears on both photographic prints is a result of...</textEffects>
+</line>
+
+
+
+<line>Ryutaro:
+Obviously, it must be due to a problem with <textEffects>the camera</textEffects> used to take the photographs.
+</line><line>Auchi:
+With, with the photographic device...?
+</line><line>Mikotoba:
+Yes, we can confidently say that the camera's lens must be scratched. And that the scratched lens causes unwanted lines to appear on every print taken with the device.
+</line><line>Ryutaro:
+In short... The two photographs under consideration here... ...were taken with the same camera!
+</line><line>Auchi:
+Hnnngh... Hnnnnnngh... B-But... ...there must be hundreds of such camera devices here in the capital! It would be utterly impossible to identify the owner of this particular one!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+I think you're forgetting, Prosecutor Auchi... ...that one of the photographs featured in <textEffects>a newspaper article</textEffects>.
+</line><line>Auchi:
+A newspaper... Ah!
+</line><line>Ryutaro:
+That's right. <textEffects>The author</textEffects> of that article is the mystery witness to this crime!
+</line><line>Auchi:
+Wha... WAAAAAAAAAAAAGH!
+</line>
+<captions aligned="center">...Menimemooooooh!</captions>
+<line>
+Judge:
+I, I see why you were called a 'raucous England returnee'...
+</line><line>Auchi:
+What are you yelling about? You've already testified!
+</line><line>Soseki:
+It's Menimemo, I tell you! MENIMEMO!
+</line>
+<captions aligned="center">ME...NI...ME...MO!</captions>
+<line>
+Ryutaro:
+Um...Soseki-san...what was that? Did you say '<textEffects>Menimemo</textEffects>'?
+</line><line>Soseki:
+...Ever since I returned to Japan... ...a reporter from the Shoyu News has been <textEffects>hounding</textEffects> me, following my every move! A reporter by the name of <textEffects>Raiten Menimemo</textEffects>. Yes, hounding me from dawn till dusk!
+</line><line>Ryutaro:
+Ah! <textEffects>(Now that he mentions it...)</textEffects>
+</line>
+<hr />
+<line>Soseki:
+They secretly spy! Snap shots! Scribble stories! And scupper my privacy!
+</line>
+<hr />
+<line>Ryutaro:
+<textEffects>(Could that same reporter be...?)</textEffects>
+</line><line>Soseki:
+A camera to the left of him! A notebook to the right! There I am, stuck in the middle with... <textEffects>Raiten Menimemo</textEffects>!
+</line><line>Judge:
+So you're saying that this picture was taken by-
+</line><line>Soseki:
+By <textEffects>MENIMEMO</textEffects>! YES! ...My Lord, Your Excellency, Esquire!
+</line><line>Judge:
+Officer! Find this newspaper reporter at once and bring him to my courtroom! We will adjourn for a short recess in the meantime.
+</line><line>Ryutaro:
+Oh... Yes, Your Excellency!
+</line><line>Auchi:
+As, as you say, Your Excellency...
+</line><line>Judge:
+And one more thing... I want this knife - the murder weapon - examined for traces of poison! You will solicit the assistance of the imperial university's medical department for the task. ...Understood?
+</line><line>Auchi:
+......... Meh... Menimemooooooh!!!
+</line>
+<div style="text-align: right;">To be continued...</div>
+<hr />
+<captions aligned="center"><textEffects>13th August, 10:41 a.m.
+Supreme Court of Judicature, Defendants' Antechamber 3</textEffects></captions>
+<line>
+Rei:
+...I'm so sorry, Susato. I should have told you about the toxin.
+</line><line>Susato:
+Rei...
+</line><line>Rei:
+.........
+</line><line>Mikotoba:
+You have a strong sense of responsibility, I know. That's why you decided to shoulder the burden alone.
+</line><line>Rei:
+No! That's not it at all! I... I was just... I was scared of my failure coming to light, that's all. So I hoped to retrieve the substance from the Englishwoman before anyone found out.
+</line><line>Mikotoba:
+.........
+</line><line>Rei:
+Before the trial started, do you remember what you said, Susato? That you had no doubt in your mind about my innocence. That you'd stand by me to the last.
+</line><line>Susato:
+...I remember.
+</line><line>Rei:
+And yet I... I didn't deserve your trust in me. I hid important details from you, Susato. I completely betrayed your faith in me. Hit me, Susato! I deserve it! No, in fact, throw me to the floor! No, that's too good for me as well! Drag me through the city streets!
+</line><line>Susato:
+...I'm no better, you know.
+</line><line>Rei:
+Oh!
+</line><line>Susato:
+Even though in my heart I knew that you'd pulled the knife blade from Miss Brett's back... ...there was just a brief moment when, in my mind... I doubted you.
+</line><line>Rei:
+Susato!
+</line><line>Susato:
+I'm sorry. After I stood here and promised you that I'd stand by you and always be on your side... I betrayed your faith in me, too. And as such, I've failed you as a lawyer.
+</line><line>Rei:
+Oh no no...
+</line><line>Mikotoba:
+I think this situation has taught both of you a valuable lesson. Placing your unbridled faith in another is no easy task.
+</line><line>Susato:
+...Yes, Father. That fact has certainly struck home. Which is why I can see more clearly now. So...Rei...
+</line><line>Rei:
+Yes?
+</line><line>Susato:
+Can you find it in your heart to forgive me?
+</line><line>Rei:
+......... Oh, Susato... ...you know you'll always be a gallant, dashing lawyer in my eyes now!
+</line><line>Susato:
+<textEffects>(Oh, Rei...)</textEffects>
+</line><line>Rei:
+......... I was so scared, you know, when it happened. I didn't know what was going on. The Englishwoman was sitting at the back of the hut, listening to what I was saying.
+</line>
+<hr />
+<captions aligned="center">I know it was you who stole the poison!</captions>
+<line>
+</line>
+<captions aligned="center">Well now...whatever do you mean?</captions>
+<hr />
+<line>Rei:
+And then a moment later... ...she suddenly got to her feet... ...before collapsing on the floor in front of me...with a knife in her back.
+</line><line>Rei:
+It all happened right before my eyes.
+</line><line>Susato:
+And...you were the only people in the hut at the time?
+</line><line>Rei:
+That's right. Just Miss Brett and myself. There was no one else. So I just don't understand how she could possibly have been stabbed like that.
+</line><line>Mikotoba:
+Hm... A great mystery indeed.
+</line><line>Rei:
+I still can't believe it happened. That's why I just couldn't bring myself to speak up.
+</line><line>Susato:
+......... It will be alright. However it happened, and whatever really went on by the sea that day... ...I promise you that I'm going to prove everything you've said you saw is true!
+</line><line>Mikotoba:
+Spoken like a true Mikotoba. Now, I think we should discuss what's coming up in the trial, don't you? We don't have much time. We must make sure we have our facts in order.
+</line><line>Susato:
+Yes! I expect <textEffects>the poison</textEffects> is going to come under close scrutiny in the upcoming proceedings. The police should hopefully have identified it on the blade by now.
+</line><line>Rei:
+The trouble is, it's a completely new laboratory-synthesised blend of alkaloids. The police won't have any way of testing for it.
+</line><line>Susato:
+Oh...I see...
+</line><line>Mikotoba:
+Yes, without this chemical reagent, it's impossible to detect the toxin.
+</line><line>Susato:
+'Chemical reagent'?
+</line><line>Mikotoba:
+I sent a colleague of mine off with some earlier to deliver to police headquarters. I think perhaps you should have some as well, though, just in case.
+</line><line><textEffects>The chemical reagent has been entered into the Court Record.</textEffects>
+</line><line>Susato:
+.........
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Mikotoba:
+What's the matter, Susato? You're suddenly very quiet.
+</line><line>Susato:
+It's this newspaper article. 'Exclusive! Deadly Poison Stolen from Yumei Medical Research Laboratory!' I'm wondering how the information got out, given that it was <textEffects>a government secret</textEffects>.
+</line><line>Rei:
+It was all the Englishwoman's doing!
+</line><line>Susato:
+Wha...?
+</line><line>Rei:
+It was when the professor and Soseki-san were being interviewed at the laboratory. That so-called English lady swanned in, and without any compunction said to Professor Mikotoba:
+</line>
+<hr />
+<captions aligned="center">Oh Professor, surely your guest would love to hear about your work on that substance there?</captions>
+<hr />
+<line>Mikotoba:
+It put me in a very awkward position, to be frank. But Soseki-san's curiosity had been piqued, so I had little choice but to give him a cursory introduction.
+</line><line>Susato:
+So then...Soseki-san knew about the poison...
+</line><line>Mikotoba:
+Yes. And it's highly likely... that the reporter who was writing up the story about us would have caught a glimpse of the toxin, too.
+</line><line>Susato:
+<textEffects>(This..Menimemo-san...)</textEffects> By the way, did that reporter join you all when you went to the beach?
+</line><line>Rei:
+Oh... No, I don't remember the reporter being there...
+</line><line>Mikotoba:
+Indeed, he shouldn't have been. I very much doubt anyone would have wanted him there.
+</line><line>Susato:
+Oh?
+</line><line>Mikotoba:
+A known criminal had been given permission by the authorities to bathe by the seaside. Soseki-san pointed out that inviting a reporter might be problematic, so the man was sent back to his office.
+</line><line>Susato:
+Yet he obviously didn't go back. He secretly followed the party to the beach and took this very candid photograph. And then presumably he posted it, anonymously, to the police.
+</line><line>Rei:
+Ah!
+</line><line>Mikotoba:
+......... Yes, that must be what happened.
+</line><line>Susato:
+.........
+</line><line>Bailiff:
+Counsel! We've just heard that the new witness is now ready to testify. The trial is about to resume. Please proceed into the courtroom at once!
+</line><line>Mikotoba:
+It's time to steel ourselves once again, then... ...Defence Attorney Ryutaro Naruhodo.
+</line><line>Susato:
+Yes! <textEffects>(Rei has put her faith in me now and told me everything. So I can't let her down. I have to prove that what she's telling the court is true. I have to prove what really happened that day!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>13th August, 11:30 a.m.
+Supreme Court of Judicature, Courtroom 1</textEffects></captions>
+<line>
+Judge:
+I hereby call this court to order, as we reconvene to continue the trial of Rei Membami. Prosecutor Auchi, have you summoned the new witness?
+</line><line>Auchi:
+......... Before I address that question, Your Excellency... ...I have some very important news to share!
+</line><line>Judge:
+Oh?
+</line><line>Ryutaro:
+<textEffects>(What news? And why does he look so happy about it?)</textEffects>
+</line><line>Auchi:
+During the recess, with the collaboration of Professor Mikotoba's laboratory at Yumei University... ...the police re-examined the knife that was used to end Miss Jezaille Brett's life.
+</line><line>Judge:
+Excellent. I admire your rapid handling of the matter.
+</line><line>Auchi:
+Oh, too kind, Your Excellency, too kind! I was merely carrying out your instructions, of course.
+</line><line>Mikotoba:
+I had the reagent delivered to police headquarters by rickshaw so it would be there in good time. But judging by the man's swagger, I fear we might need to brace ourselves for the inevitable...
+</line><line>Ryutaro:
+And, Counsel? What were the results?
+</line><line>Auchi:
+......... This dagger, which was so cruelly used to end the life of the victim... ...has no trace of poison anywhere along its blade!
+</line><line>Ryutaro:
+Wh-What? Are you sure about that?
+</line><line>Auchi:
+I would stake the reputation of the police on it.
+</line><line>Mikotoba:
+Armed with the reagent, the test is extremely simple. They couldn't have made a mistake.
+</line><line><textEffects>The murder weapon has been entered into the Court Record.</textEffects>
+</line><line>Auchi:
+In short...the accused's feeble excuse earlier... ...has been utterly destroyed!
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Ryutaro:
+AAAAAAAAAGH!
+</line><line>Auchi:
+Now, the prosecution is ready to call the new witness.
+</line><line>Judge:
+Ah, <textEffects>the newspaper reporter</textEffects> who managed to capture a photograph of the crucial moment. Good. Very well. Officer, bring in the witness!
+</line><line>Ryutaro:
+<textEffects>(No trace of poison on the knife... But if that's really the case... ...how could the toxin have entered the victim's body?)</textEffects>
+</line>
+<hr />
+<line>Auchi:
+Witness, please state your name and occupation for the court.
+</line><line>Menimemo:
+Raiten Menimemo of the Shoyu News. I'm what people like to call a journo!
+</line><line>Ryutaro:
+What's a '<textEffects>journo</textEffects>', Father? Do you know?
+</line><line>Mikotoba:
+It's simply a contraction of 'journalist'.
+</line><line>Menimemo:
+I'm there where the news breaks, putting pen to paper to catch those scoops so they're in print the next morning! They don't call me the hero of the herald for nothing! The nice guy of news!
+</line><line>Ryutaro:
+Oh! So, um...it was you who took this photograph, was it?
+</line><line>Menimemo:
+......... Well well, what have we here?
+</line><line>Ryutaro:
+I'm, I'm sorry?
+</line><line>Menimemo:
+Ooh, brace yourselves, people! Menimemo senses <textEffects>a scoop</textEffects> in the offing! 'Female student up to foul play <textEffects>defended by curiously handsome young lawyer</textEffects> in Supreme Court...' The readers will lap this up! We'll set it above the fold at 72 point in a five-leg format for the morning edition!
+</line><line>Ryutaro:
+Huh?
+</line><line>Menimemo:
+Right then...let's start with your name!
+</line><line>Ryutaro:
+Oh, um... It's Ryutaro Naruhodo.
+</line><line>Menimemo:
+Next! What made you want to become a lawyer?
+</line><line>Ryutaro:
+Erm...well, um... I...wanted to reform our country's legal system, I suppose.
+</line><line>Mikotoba:
+Ryutaro has suddenly become very ambitious, I see.
+</line><line>Ryutaro:
+...I just borrowed Kazuma-sama's dream for a while.
+</line><line>Auchi:
+By the way, my name is Taketsuchi Auchi. That's 'Ta-ke-tsu-chi A-u-chi'... The so-called dark horse of the Supreme Court, my objections strike fear into every defence lawyer's heart!
+</line><line>Menimemo:
+......... No, the readers won't buy that.
+</line><line>Auchi:
+Wha...?
+</line><line>Judge:
+Witness...
+</line><line>Menimemo:
+Um...yes?
+</line><line>Judge:
+What this court demands to know is whether or not you were responsible for the taking of this picture? It was delivered anonymously to the Imperial Police Bureau only yesterday.
+</line><line>Menimemo:
+...Yeah, I wouldn't be a journo if I didn't click quick when presented with a scoop like that now, would I? Sometimes stories call out to me, sometimes I have to chase them down, but either way you've got to be fast! Fast legs to run with, and a fast hand to write with! It's no good if you don't note it down, I always say! That's what I call...my <textEffects>Menimemoism</textEffects>!
+</line><line>Ryutaro:
+Menimemoism?
+</line><line>Mikotoba:
+Ah yes...I remember your face. We met that day when you were interviewing myself and Soseki-san.
+</line><line>Menimemo:
+Yes, right... That was me, Menimemo again!
+</line><line>Mikotoba:
+But you were supposed to be going back to the Shoyu News offices after our meeting.
+</line><line>Menimemo:
+But the scoop is, I didn't! Because that Englishwoman's words had piqued my journalistic interest.
+</line><line>Ryutaro:
+Miss Brett's words?
+</line><line>Menimemo:
+A criminal, <textEffects>left to do as she pleases</textEffects>, just because she happens to be a British citizen? It's horse dung! This country's judiciary is rotten to the core! The Supreme Court's rulings <textEffects>aren't worth the paper they're written on</textEffects>! The police are just imperial <textEffects>pawns</textEffects>!
+</line><line>Auchi:
+Stay your tongue, young man! There are complex political issues at play!
+</line><line>Menimemo:
+Hmph! Well anyway, I quickly jotted down those words she said in my <textEffects>Menimemo memo pad</textEffects>. Are you ready? I'll read it out. It's all here. Right, here goes... 'I should like to go with everyone to see your country's coast!' A serious criminal going on some <textEffects>junket</textEffects>! ...The people need to know about this! That's why I decided to sneak after them. To get the woman's story so I could hammer her in the press!
+</line><line>Judge:
+Do you mean to say that you did indeed witness it firsthand? The grim scene portrayed in this photograph?
+</line><line>Menimemo:
+Oh yes! I saw it with my very own journo eyes! From start to finish, through <textEffects>the viewfinder</textEffects> of my trusty camera!
+</line><line>Judge:
+Thank you, Menimemo-san. You will now give a formal testimony before the court. You will state exactly what it is that you witnessed of the events surrounding Miss Brett's death.
+</line>
+<hr />
+<captions aligned="center">Witness Testimony
+<textEffects>- The Camera Never Lies -</textEffects></captions>
+<line>Menimemo:
+The beach hut was made of shoddy old reed screens, so there were plenty of gaps I could see inside through.
+The Englishwoman was sitting on a stool when the student girl came in and started arguing with her.
+Seconds later, the girl pulled out a knife, throwing the Englishwoman to the floor as she stabbed her in the back!
+My smouldering journo spirit burst into flames! Quick as a flash, I whipped out my camera ready to click!
+I pulled apart the rough weave of one of the screens and poked the lens through for the perfect shot.
+</line>
+<hr />
+<line>Ryutaro:
+Reed screens, you say?
+</line><line>Menimemo:
+Right! You can see them clearly enough in that great shot I snapped. The hut walls were just <textEffects>screens</textEffects> made of coarsely woven reeds.
+</line><line>Judge:
+...Yes, it allows the breeze to pass through and bring some relief from the summer heat.
+</line><line>Menimemo:
+And it was a breeze for me to poke my camera through and see the whole thing hotting up!
+</line><line>Ryutaro:
+...Ignoring for the time being the appalling invasion of privacy involved... ...did you witness everything that happened from the moment the defendant entered the hut?
+</line><line>Menimemo:
+Oh yes. I saw it. I saw <textEffects>the whole thing</textEffects> from start to finish!
+</line><line>Ryutaro:
+And you say that you took the photograph through a gap in one of the screens?
+</line><line>Menimemo:
+Luckily for me, they were pretty shoddily woven. I pulled the reeds apart and <textEffects>thrust</textEffects> the lens of my camera through the gap! Would I get away with it? Or would I be seen? It was the gamble of a lifetime!
+</line><line>Auchi:
+A tenacity of purpose that's considered admirable in a journalist, I suppose.
+</line><line>Menimemo:
+'Run a risk one day, run a scoop the next!' That's <textEffects>Menimemoism</textEffects> in a nutshell!
+</line><line>Judge:
+At last... ...it would appear we have a genuine witness to this wicked crime. The evidence and testimony are extremely compelling. I believe we may be close to a verdict.
+</line><line>Ryutaro:
+No!
+</line><line>Auchi:
+Wonderful news, Your Excellency! Wonderful!
+</line><line>Mikotoba:
+Nevertheless, it cannot be denied... ...that this testimony begs one very large <textEffects>question</textEffects>.
+</line><line>Auchi:
+What question?
+</line><line>Mikotoba:
+Exclusive news...a startling photograph... All the makings of an exceptional story for the reporter. Why then, was the story never published?
+</line><line>Ryutaro:
+Oh! <textEffects>(That's right!)</textEffects>
+</line><line>Menimemo:
+.........
+</line><line>Mikotoba:
+It seems clear to me that there are <textEffects>circumstances</textEffects> at play here that are yet to be understood.
+</line><line>Auchi:
+Hah! More pathetic excuses!
+</line><line>Judge:
+Very well then, Counsel. Proceed with your cross-examination.
+</line><line>Ryutaro:
+Yes, Your Excellency! <textEffects>(There's more to this reporter than meets the eye. He's keeping something about this case very close to his chest...)</textEffects>
+</line>
+<hr />
+<captions aligned="center">Cross-Examination
+<textEffects>- The Camera Never Lies -</textEffects></captions>
+<line>Menimemo:
+<textEffects>The beach hut was made of shoddy old reed screens, so there were plenty of gaps I could see inside through.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>The Englishwoman was sitting on a stool when the student girl came in and started arguing with her.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>Seconds later, the girl pulled out a knife, throwing the Englishwoman to the floor as she stabbed her in the back!</textEffects>
+</line>
+
+
+<line>Menimemo:
+<textEffects>My smouldering journo spirit burst into flames! Quick as a flash, I whipped out my camera ready to click!</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>I pulled apart the rough weave of one of the screens and poked the lens through for the perfect shot.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>I never once set foot in the hut, nor spoke with the Englishwoman. I was there only as an observer.</textEffects>
+</line>
+
+
+<line>Mikotoba:
+He claims to have spied the whole affair from start to finish. If true, his testimony is devastating.
+</line><line>Ryutaro:
+But...it does seem as though he's holding something back, doesn't it?
+</line><line>Mikotoba:
+If that's how you feel, I suggest that you trust your instincts and <textEffects>press</textEffects> him on everything he's said. As you've no doubt seen done many times before in your role as judicial assistant.
+</line><line>Ryutaro:
+Yes, I have! <textEffects>(I've seen witnesses like this pressed often. I know exactly what to do!)</textEffects>
+</line>
+<hr />
+<line>Ryutaro:
+Menimemo-san, until now, I've had a firm belief... ...that newspapers are in the business of uncovering and publishing the truth.
+</line><line>Menimemo:
+You're spot on there! The press doesn't lie! Which is why I'm proud to wear the emblem of the Shoyu News on my arm! In a way...that's more <textEffects>Menimemoism</textEffects>.
+</line><line>Ryutaro:
+Sadly, though... ...it seems that the journalists who write for those papers... don't always share the same passion for the truth.
+</line><line>Auchi:
+Wha... What are you suggesting with those recriminatory words, Counsel?
+</line><line>Ryutaro:
+Menimemo-san...do you recognise this fountain pen?
+</line><line>Menimemo:
+Agh!
+</line><line>Ryutaro:
+This pen was found at the scene of Miss Brett's death. In fact, the murdered victim was gripping it in her hand as she died.
+</line><line>Menimemo:
+What are you...?
+</line><line>Ryutaro:
+If you look at the barrel of the pen, you'll notice that its owner's <textEffects>initials</textEffects> are engraved there. 'R. M.'...
+</line><line>Auchi:
+Yes, thank you for bringing that up, Counsel. The initials of the accused, Rei Membami.
+</line><line>Ryutaro:
+Is it a coincidence, I wonder... ...that your initials are also 'R. M.'?
+</line><line>Auchi:
+No!
+</line><line>Ryutaro:
+Raiten Menimemo... 'R. M.'...
+</line><line>Menimemo:
+That's...that's horse dung! Can't you see? One of the central tenets of Menimemoism is being <textEffects>a pencil user</textEffects>!
+</line><line>Ryutaro:
+And yet...as the court will clearly be able to see, on your <textEffects>right hand</textEffects>... ...there is a very obvious blue <textEffects>ink stain</textEffects>.
+</line><line>Mikotoba:
+It would appear that you must have rather carelessly left it somewhere recently. Your favourite fountain pen, that is.
+</line><line>Menimemo:
+Horsey horse dung!
+</line><line>Ryutaro:
+Menimemo-san! Is it not the case that before she died... ...you met with Jezaille Brett in that beach hut?
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Why should we listen to this absurd nonsense? It's nothing but another excuse!
+</line><line>Menimemo:
+Exactly! Shoyu News will stand behind me all the way! I deny everything! There must be as many people with the initials 'R. M.' as there are stars in the night sky!
+</line><line>Ryutaro:
+The defence has neither the time nor the inclination to count every star in the sky.
+</line><line>Menimemo:
+Hm?
+</line><line>Ryutaro:
+And there's no need, anyway, because this pen has more to tell. Yes, there is another <textEffects>clue</textEffects>. A clue that undeniably proves who its owner really is!
+</line><line>Judge:
+In that case, Counsel, the defence will now show the court where this alleged clue lies!
+</line><line>Ryutaro:
+Of course, Your Excellency. <textEffects>The clue on this fountain pen that clearly reveals its owner's identity is...</textEffects>
+</line>
+
+
+<line>Ryutaro:
+As well as the initials, there is also <textEffects>an emblem</textEffects> on this fountain pen! An emblem that you will of course recognise... Menimemo-san.
+</line><line>Menimemo:
+Um...
+</line><line>Judge:
+Goodness me! It's, it's the emblem of the Shoyu News!
+</line><line>Ryutaro:
+In other words...the owner of this pen... ...is an employee of <textEffects>the Shoyu News</textEffects>, whose initials are '<textEffects>R. M.</textEffects>'. Suddenly the stars in the night sky don't seem so numerous...do they? Well, Menimemo-san? How do you respond?
+</line><line>Menimemo:
+Nnn... NOOOOOOOOOOOO!
+</line><line>Judge:
+Order! Order! Explain yourself, witness!
+</line><line>Menimemo:
+......... Hah...hah...hah... So...this is how the mighty Supreme Court works, is it? Using <textEffects>coercive tactics</textEffects> to have well-meaning citizens reveal harmless <textEffects>secrets</textEffects>...
+</line><line>Ryutaro:
+...I've used nothing but honest tactics.
+</line><line>Menimemo:
+Alright then, fine. I won't try to hide it any more. Yes, not long before that grim tragedy unfolded... ...I, a Shoyu News reporter, on behalf of the public, conducted <textEffects>an interview</textEffects> with the Englishwoman.
+</line><line>Ryutaro:
+An interview?
+</line><line>Auchi:
+You, you never mentioned this before!
+</line><line>Ryutaro:
+When exactly was this?
+</line><line>Menimemo:
+As I said, it was <textEffects>before</textEffects> that evil little student girl showed her face in the hut. It couldn't have lasted more than two or three minutes, that's all. It was just a brief exchange. But it came to nothing. And as we <textEffects>Menimemoists</textEffects> say, 'The people don't pay their dues for unworthy news!'
+</line><line>Judge:
+However insignificant you deem it to be, this court cannot overlook the meeting between yourself and the victim. You will testify now under oath about the precise nature of this meeting and what transpired!
+</line><line>Menimemo:
+Got it. Yes, alright. But... ...on one condition.
+</line><line>Auchi:
+C-Condition?
+</line><line>Menimemo:
+In all good conscience, I couldn't speak out alone about this. You need to call back the earlier witness. Soseki Natsume-san!
+</line><line>Ryutaro:
+So-Soseki-san?
+</line><line>Menimemo:
+Oh yes, according to my <textEffects>notes</textEffects> here, that man... ...has <textEffects>a secret</textEffects> of his own. And brace yourselves...because it's not a harmless one. It's big!
+</line><line>Auchi:
+Wha...
+</line><line>Ryutaro:
+What?!
+</line><line>Menimemo:
+<textEffects>Menimemoism</textEffects> states that 'one man's secret is every other man's front-page story!'
+</line><line>Judge:
+Very well. I will grant the witness's request in this instance. Officer! Summon the earlier witness back to the stand!
+</line><line>Ryutaro:
+<textEffects>(Soseki-san...hiding something...?)</textEffects>
+</line>
+<hr />
+<captions aligned="center">Witness Testimony
+<textEffects>- The Witnesses' Secrets -</textEffects></captions>
+<line>Menimemo:
+I asked the Englishwoman for an interview, but she declined. So I left the hut without making a fuss.
+Then, watching secretly from outside, I saw the woman being stabbed and the other witnesses come running.
+The detective realised that the victim still had a pulse, so he ran off to fetch help.
+That's when this writer man here asked the woman a very significant <textEffects>question</textEffects>.
+But he didn't say anything about that in his testimony! Which is why Menimemoism demands I reveal it now!
+</line>
+<hr />
+<line>Judge:
+You, you mean to say the victim...
+</line><line>Auchi:
+The victim regained consciousness?!
+</line><line>Soseki:
+Ah...well, um...
+</line><line>Auchi:
+And when she did, you, you decided to ask her a question?!
+</line><line>Soseki:
+That's, um...true. Yes.
+</line><line>Menimemo:
+He did, he did! And that's not all! The woman gave him a very definite answer! An answer that <textEffects>incriminates</textEffects> the accused!
+</line><line>Auchi:
+This is preposterous! Why am I only hearing about this now? Why didn't you mention this before, you...you yokel hack?
+</line><line>Soseki:
+It, it, it... IT WASN'T EVEN A CONVERSATION! Yes, I did pose the withering English rose a question. I don't deny it. But she could no longer speak. She was barely conscious, even.
+</line><line>Judge:
+Counsel for the Defence, I expect a thorough cross-examination to be conducted here. This court must and will know the truth!
+</line><line>Ryutaro:
+Absolutely, Your Excellency! <textEffects>(The reporter is claiming that Miss Brett <span style="color:#E16935">implicated</textEffects> Rei somehow? What on earth could have happened in that hut?)</span>
+</line>
+<hr />
+<captions aligned="center">Cross-Examination
+<textEffects>- The Witnesses' Secrets -</textEffects></captions>
+<line>Menimemo:
+<textEffects>I asked the Englishwoman for an interview, but she declined. So I left the hut without making a fuss.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>Then, watching secretly from outside, I saw the woman being stabbed and the other witnesses come running.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>The detective realised that the victim still had a pulse, so he ran off to fetch help.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>That's when this writer man here asked the woman a very significant question.</textEffects>
+</line>
+
+<line>Soseki:
+<textEffects>I asked her, 'Who did this to you?' ...But she never replied.</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>But he didn't say anything about that in his testimony! Which is why Menimemoism demands I reveal it now!</textEffects>
+</line>
+
+<line>Soseki:
+<textEffects>She just lifted a trembling finger...and pointed in the direction of the defendant.</textEffects>
+</line>
+
+<line>Ryutaro:
+Poor Soseki-san has been fidgeting constantly in the stand next to Menimemo-san.
+</line><line>Mikotoba:
+Yes, like a naughty child who's waiting for punishment from his parents. It rather reminds me of you when you were younger.
+</line><line>Ryutaro:
+I, I was like that?!
+</line><line>Mikotoba:
+...Never mind that now. The question is, how far can we trust this reporter's account of events? We must focus our energies on gathering information and establishing facts.
+</line><line>Ryutaro:
+Yes!
+</line>
+<hr />
+<line>Ryutaro:
+Miss Brett <textEffects>pointed a finger</textEffects> at the defendant...? Soseki-san! Is that really true?
+</line><line>Soseki:
+......... It's not easy to stand here and say this, but... ...when we first entered the beach hut... ...<textEffects>the Englishwoman</textEffects> was sprawled on the floor before us, with <textEffects>the student girl</textEffects> standing on the far side of her. And when I asked 'Who did this to you?'... ...the Englishwoman summoned her last ounce of strength to point a trembling finger at the back of the hut. Which was, it can't be denied, in the direction of <textEffects>the student girl</textEffects> who stands accused today.
+</line><line>Ryutaro:
+No...
+</line><line>Judge:
+Soseki-san! Why on earth did you neglect to mention this in your original testimony?
+</line><line>Soseki:
+B-B-But... 'FIDDLESTICKS,' I say!
+</line><line>Judge:
+This is not a British court of law. You will respond in Japanese.
+</line><line>Soseki:
+Yes, of course! The Englishwoman did point her finger towards the back of the hut, but! ...But I was trembling...and she was trembling...and everything was a blur. And thinking about it, I feel as though perhaps she was pointing in <textEffects>a slightly different direction</textEffects>. Actually, NO! Not SLIGHTLY! In a VERY DIFFERENT DIRECTION to where the student girl was standing! To somewhere at the back of the hut...where nobody was standing at all!
+</line><line>Ryutaro:
+You mean that your memory of events, and the direction in which the victim was pointing are both <textEffects>unclear</textEffects>?
+</line><line>Soseki:
+Yes! That's it! Unclear! I'm very, very unclear!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Your Excellency! Surely this proves the matter beyond all reasonable doubt! Yes, the woman may barely have been conscious, and yes, perhaps her finger wavered slightly... ...but there can be no doubt that this was an attempt by the victim to confirm the identity of her assailant! ...Why? Because as the court can see...there was no one other than the accused in the direction the victim was pointing! It is now abundantly clear that no one besides the accused could possibly have committed this crime!
+</line><line>Judge:
+...I am inclined to agree. And in the absence of any credible argument to the contrary, I believe we can now conclude this trial.
+</line><line>Ryutaro:
+No... NOOOOOOOOO!
+</line><line>Menimemo:
+Heh heh heh... The headline's writing itself! 'Dashing Lawyer's Hopes Dashed!' 92 point across the whole page. We'll do an extra edition!
+</line><line>Mikotoba:
+This is a serious blow, Susato. Unless we're able to identify <textEffects>the true culprit</textEffects>, and substantiate our claim with <textEffects>evidence</textEffects>... ...the judge will give his ruling and the trial will be over!
+</line><line>Ryutaro:
+But, but that's impossible, Father! We don't even know how the crime was committed yet!
+</line><line>Mikotoba:
+Impossible though the task may seem, we have no choice. We must think back over everything we've learnt thus far. Somewhere in all those details, I'm confident we'll find <textEffects>the clue</textEffects> we need.
+</line><line>Ryutaro:
+<textEffects>(Rei gave us her account of how events unfolded in the defendants' antechamber before the trial resumed. She told us what happened at <span style="color:#E16935">the precise moment</textEffects> Miss Brett was killed.)</span>
+</line>
+<hr />
+<line>Rei:
+The Englishwoman was sitting at the back of the hut, listening to what I was saying. And then a moment later... ...she suddenly got to her feet... ...before collapsing on the floor in front of me...with a knife in her back.
+</line>
+<hr />
+<line>Ryutaro:
+<textEffects>(How could Miss Brett have been stabbed in the back in a beach hut that was empty but for herself and Rei? Somewhere amid all the information we've gathered so far, there must be <span style="color:#E16935">an answer</textEffects> to that question!)</span>
+</line><line>Judge:
+I take it then, that the defence has nothing further to add.
+</line><line>Auchi:
+So, the gallant yokel student's luck finally runs out. I can't say I'm surprised.
+</line><line>Judge:
+In that case, I am ready to deliver my final verdict on this matter.
+</line><line>Ryutaro:
+<textEffects>(This is a crucial turning point now. If I can't establish what really happened, it's over. Where was the real culprit hiding? And how did he or she stab the victim?)</textEffects>
+</line>
+
+
+<line>Ryutaro:
+Your Excellency! I respectfully ask you to postpone your adjudication for the time being.
+</line><line>Judge:
+Oh? ...To what end, Counsel?
+</line><line>Ryutaro:
+The defence would like to present the court with an alternative theory. An alternative theory that can explain... ...who the victim was actually trying to implicate with her dying gesture!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+An alternative theory? Hah! None exists!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+There was someone else present at the scene...who could have committed this crime!
+</line><line>Auchi:
+Whaaat?
+</line><line>Ryutaro:
+And the victim, Miss Brett, tried to reveal who it was to those around her at the time... ...by mustering all her remaining strength...and pointing a trembling finger in the killer's direction!
+</line><line>Auchi:
+This, this is fiction! Fantasy!
+</line><line>Judge:
+Very well. As you seem so sure of yourself, Counsel, I am prepared to hear your 'alternative theory'. So, young Ryutaro Naruhodo...
+</line><line>Ryutaro:
+Yes, Your Excellency!
+</line><line>Judge:
+You will present your latest theory to the court by means of this plan. <textEffects>At the moment the victim was stabbed, where exactly are you proposing the culprit was concealed?</textEffects>
+</line>
+
+
+<line>Ryutaro:
+<textEffects>(Naruhodo-san would never give up. And I'm a Naruhodo now...)</textEffects> The true culprit who fatally stabbed Miss Brett...was concealed in <textEffects>this location here</textEffects>!
+</line><line>Judge:
+Are you mad, Counsel? You're suggesting that the culprit was <textEffects>outside</textEffects> the hut!
+</line><line>Menimemo:
+...!
+</line><line>Auchi:
+WHAAAT?!
+</line><line>Judge:
+Order! Order! Order!
+</line><line>Soseki:
+But student lawyer Naruhodo-san Esquire! That makes no sense at all!
+</line><line>Menimemo:
+You've, you've just pointed out the exact spot where I was hiding to get my scoop snap! But I didn't see any suspicious individuals loitering about. I can swear to that!
+</line><line>Auchi:
+Obviously! If the culprit had been outside the hut... ...there is no way that he or she could have stabbed the victim who was inside the hut!
+</line><line>Ryutaro:
+Actually, Prosecutor Auchi...there is a way.
+</line><line>Menimemo:
+Ah!
+</line><line>Ryutaro:
+And...in point of fact... ...the defence can provide evidence strongly suggesting that is precisely the way Miss Brett was killed!
+</line><line>Auchi:
+You're bluffing! You're, you're bluffing, you yokel-
+</line><line>Judge:
+The defence's assertion is clearly too fantastical for the court to comprehend. You will need to give us more guidance, Counsel. <textEffects>What piece of evidence corroborates your theory that the victim was stabbed from outside the hut?</textEffects>
+</line>
+
+
+<line>Judge:
+The, the original photographic print of the crime scene?
+</line><line>Ryutaro:
+Yes. It's clearly visible in this print: The trace of the fatal thrust that was delivered from <textEffects>outside</textEffects> the beach hut.
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+D-Do you take us for fools?! There's no hint of any such thing!
+</line><line>Ryutaro:
+I'm not sure that everyone present would agree. Someone, at least, appears to have <textEffects>noticed</textEffects> what it is that I'm referring to.
+</line><line>Judge:
+Counsel! Once again, I must call on you to be explicit for the court. <textEffects>Where on this photograph is the trace of the stabbing, which you claim took place from outside the hut?</textEffects>
+</line>
+
+
+<line>Ryutaro:
+Look closely just here... In the screen at the back of the hut, you can see the effects of <textEffects>a blade having been forced through</textEffects> the reeds.
+</line><line>Auchi:
+N-No, I can't! I, I can't see any such thing!
+</line><line>Ryutaro:
+It's true that the hut in question had four walls as you'd expect. However... ...by parting the reeds, a knife blade could easily penetrate them.
+</line><line>Judge:
+This is extraordinary!
+</line><line>Ryutaro:
+Yes... ...the true culprit actually stabbed the victim from <textEffects>outside</textEffects> the beach hut!
+</line><line>Soseki:
+Ah...
+</line><line>Ryutaro:
+And of everyone present at the scene, there is only one person who could have done that. Only one person who was directly outside the hut when Miss Brett was killed. Raiten Menimemo-san! It could only have been you!
+</line><line>Menimemo:
+Hnnn...nnngh... NAAAAAAAAAOOOOOOOOO!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+This preposterous idea leaves me almost speechless! Just look at the photograph again! The victim lies almost exactly <textEffects>in the centre</textEffects> of the beach hut, does she not? Are we to assume, as part of this farcical scenario, that the assailant was a knife-thrower?
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+No, of course not.
+</line><line>Auchi:
+We're not?
+</line><line>Ryutaro:
+If you recall the testimony of the defendant about the events just before the victim's death...
+</line>
+<hr />
+<line>Rei:
+Inside the beach hut, I confronted Miss Brett. But she just sat on a stool at the back of the hut, smiling sweetly at me as if she knew she was untouchable.
+</line>
+<hr />
+<line>Auchi:
+A, <textEffects>a stool</textEffects>...
+</line><line>Ryutaro:
+Have another look at the photograph. The slit in the reed screen... ...would align perfectly with <textEffects>the back</textEffects> of a person who was sitting on that stool.
+</line><line>Judge:
+My word... So...in fact, the victim was...
+</line><line>Ryutaro:
+...Killed whilst sitting on that stool...by a stab wound to her back delivered <textEffects>through the reed screen</textEffects>!
+</line><line>Auchi:
+Ah!
+</line><line>Ryutaro:
+Having been attacked, Miss Brett rose to her feet instinctively. But then, unable to speak, she collapsed on the floor in the middle of the hut... ...before the defendant, Membami-san's appalled eyes. And that, Your Excellency...is the truth of what happened on the beach that day!
+</line><line>Menimemo:
+.........
+</line><line>Ryutaro:
+By your silence, Menimemo-san... ...I take it that you don't deny the charge.
+</line><line>Menimemo:
+.........
+</line><line>Auchi:
+This... This is... ...ABSUUUUUUUUURD!
+</line><line>Judge:
+That will do! It would appear that we have a tacit admission of guilt from the witness. Accordingly, this court has successfully established the truth of this matter. Which means that the defendant, Membami-san, is innocent of the crime.
+</line><line>Ryutaro:
+<textEffects>(Oh, thank goodness! I finally made him cave.)</textEffects>
+</line><line>Mikotoba:
+I must say...I've never been more proud.
+</line><line>Auchi:
+No... This can't be... The Auchi clan can't... What of my growth? My growth of hope! It, it wasn't all an apparition! I can't accept this! I won't!
+</line><line>Judge:
+I see no reason for the continuance of this trial. I will therefore move to conclude proceedings by delivering my final verdict and-
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest?cb=20210426133548" class="image"><img alt="Hold it Ryunosuke" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="146" data-image-name="Hold it Ryunosuke.png" data-image-key="Hold_it_Ryunosuke.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest/scale-to-width-down/260?cb=20210426133548" class="lazyload" /></a>
+</line><line>Menimemo:
+Hah...hah...hah... Well, this is all very convenient. This is how the highest court in our mighty empire delivers justice, is it? Suppressing well-meaning citizens' freedom to speak and branding them as criminals...
+</line><line>Ryutaro:
+But... ...we've established that the victim was stabbed from outside the hut, through the reed screen walls!
+</line><line>Mikotoba:
+And no one but you was in place at the time to have his hand on the hilt of the blade. ...It's a perfectly logical deduction.
+</line><line>Menimemo:
+So...your argument hinges on <textEffects>the location of whoever stabbed</textEffects> the Englishwoman, does it? Well...it seems a little irrelevant now.
+</line><line>Ryutaro:
+Irrelevant?
+</line><line>Menimemo:
+Where she was stabbed, how she was stabbed... ...it doesn't matter. I mean, whether she was stabbed at all makes no difference, if you think about it. After all... ...this trial's already shown the whole thing hinges on something else!
+</line><line>Ryutaro:
+What...what are you talking about?
+</line><line>Menimemo:
+Brace yourself...little man. I'm talking about the fact that everything's changed... ...because of the dirt YOU dug up!
+</line><line>Ryutaro:
+What?!
+</line><line>Judge:
+Enough obscurity! Explain yourself, witness!
+</line><line>Menimemo:
+What's to explain? I'm talking about <textEffects>the poison</textEffects>, of course.
+</line><line>Auchi:
+The...poison...?
+</line><line>Menimemo:
+Let's ask the professor for a comment on the situation, shall we? I understand that <textEffects>a deadly poison</textEffects> you were developing was stolen from your laboratory. Correct? And it's been shown that this poison was <textEffects>administered</textEffects> to the victim, Miss Brett. Is that right?
+</line><line>Mikotoba:
+...That is correct. The unusual constriction of the victim's pupils are a sure sign that this particular poison was used.
+</line><line>Menimemo:
+I see, I see. So...presumably that means... ...that the victim <textEffects>already</textEffects> had the poison in her body...<textEffects>before</textEffects> she was stabbed?
+</line><line>Ryutaro:
+Ah!
+</line><line>Mikotoba:
+Given that her pupils were clearly constricted...it seems highly likely, yes. If she had been dead already, the poison could not have circulated in her blood.
+</line><line>Auchi:
+......... Tsh huh huh... Ah, how refreshing to hear the argument of a metropolitan mind. Precisely! It matters not a jot who stabbed whom in whose back and with whose blade! Because, quite simply...the Englishwoman's life was taken not by the knife...but by <textEffects>the poison</textEffects>!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+But...that can be explained by the poison being on the blade, as I already-
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Ta ha ha ha ha! Forgotten already, have we, yokel? During these very proceedings, the laboratory of the professor at your side assisted in proving... ...that the blade of the weapon used to attack the victim had <textEffects>no trace</textEffects> of poison on it whatsoever!
+</line><line>Ryutaro:
+Ugh...
+</line><line>Menimemo:
+So let me get this down: the 'facts', as skilfully established by the defence in this trial... ...turn out to be a <textEffects>headline-making</textEffects> red herring! ...Is that about right?
+</line><line>Ryutaro:
+Ugh...um...well... AAAAAAAAAAAAGH!!!
+</line><line>Judge:
+Order! Order! Order! But...where does this leave us? How, in that case, did the poison enter the victim's body?
+</line><line>Mikotoba:
+There is an undeniably obvious answer to that. The lady most likely <textEffects>imbibed</textEffects> it.
+</line><line>Ryutaro:
+You mean she drank it?
+</line><line>Mikotoba:
+Have another look at the photograph here. As you can see... ...a bottle of carbonated water and a glass had been knocked onto the sandy floor of the beach hut. The poison could have been slipped into either.
+</line><line>Ryutaro:
+...! <textEffects>(So somebody made Miss Brett drink it...)</textEffects>
+</line><line>Menimemo:
+Well, what do you know? Look at those dashing eyes! This will make a great front-page shot! Hey! Why the bewitching stare? After all, I'm the last person you should be looking at. It would make no sense at all that I poisoned the woman, would it? I mean...that's been established already!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest?cb=20210426133548" class="image"><img alt="Hold it Ryunosuke" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="146" data-image-name="Hold it Ryunosuke.png" data-image-key="Hold_it_Ryunosuke.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest/scale-to-width-down/260?cb=20210426133548" class="lazyload" /></a>
+</line><line>Ryutaro:
+Established? What are you talking about?
+</line><line>Menimemo:
+Hm? Don't tell me you've forgotten? That's a little hard to believe, given that the person who established it... ...was you!
+</line><line>Ryutaro:
+Me?! <textEffects>(What on earth does he mean?)</textEffects>
+</line><line>Menimemo:
+Ooh! Let me capture those wide eyes! This is prime press fodder, this is!
+</line><line>Judge:
+It would seem that this trial is not destined to end yet after all. I hereby call upon the witness to give further testimony.
+</line><line>Menimemo:
+That's great, that is! Let me get a shot of that magnificent beard, Your Excellency!
+</line><line>Judge:
+You claim it to be <textEffects>impossible</textEffects> that you were the one responsible for administering the poison to the victim. You will explain to the court in your testimony the basis upon which you make such a claim!
+</line><line>Menimemo:
+I'm a journo and I'm a man... I've never tried to run or hide from anything in my life. And I'm not about to start now! Because that's...<textEffects>Menimemoism</textEffects>!
+</line><line>Ryutaro:
+<textEffects>(For a brief moment, I thought I'd illuminated the truth. But it's slipped right back into obscurity again... Just where is this trial going to take us...?)</textEffects>
+</line>
+<hr />
+<captions aligned="center">Witness Testimony
+<textEffects>- Complete Innocence -</textEffects></captions>
+<line>Menimemo:
+Oh yes, I stabbed the Englishwoman. And it's that very fact that proves I'm innocent!
+Because why would I have bothered to stab the woman if I'd already poisoned her?
+When I heard the student girl and that pompous English murderer arguing...it got my goat.
+If the courts weren't going to punish Brett for what she did, someone else would have to see justice done!
+</line>
+<hr />
+<line>Ryutaro:
+So...you admit it then? That everything happened as I described... That you are the one who stabbed Miss Brett in the back through the reed screen!
+</line><line>Menimemo:
+......... You can blame this miserable country of ours.
+</line><line>Ryutaro:
+...!
+</line><line>Menimemo:
+A country that bows to the pressure of foreign powers and lets murderers walk free! What kind of future can a country like that have? That's why I did it! I did what our pathetic leaders didn't have the guts to do! Slap bang in the middle of that charming lady's back! I plunged the blade of sweet justice right in there! As someone who spends his life seeing that the truth is told... ...I feel really, really awful about giving false information in my testimony before. But as it turns out... ...there was somebody else who <textEffects>had it in</textEffects> for the victim and got to her before me!
+</line><line>Ryutaro:
+...!
+</line><line>Menimemo:
+That's right...you guessed it! That pretty little <textEffects>student girl</textEffects>. Now there's a woman after my own heart!
+</line><line>Ryutaro:
+You're implicating Rei again...
+</line><line>Menimemo:
+She's the one who gave the poison to the Englishwoman and ended her pitiful existence! And suddenly, snap! This journo here is off the hook!
+</line><line>Judge:
+Hmmm...the argument is sound, certainly. If the witness had administered the poison himself, he need only have waited for it to take effect. Subsequently stabbing the victim in the back would have been entirely nonsensical.
+</line><line>Auchi:
+And therefore, this reporter had <textEffects>nothing to do</textEffects> with the poisoning. ...Yes, it's all quite logical.
+</line><line>Menimemo:
+That's right, it is! Logical and true. I'm glad you've all seen the light. Justice at last!
+</line><line>Ryutaro:
+<textEffects>(This is unbelievable. And after I'd made so much progress in proving his guilt. ...Is he going to get away with it now?)</textEffects> ......... <textEffects>(Think of Kazuma-sama and Naruhodo-san... They never stopped looking for a way <span style="color:#E16935">forward</textEffects> until the judge's final gavel!)</span>
+</line><line>Judge:
+Very well then, Counsel. Proceed with what I assume to be your final cross-examination in this trial.
+</line><line>Ryutaro:
+Yes, Your Excellency!
+</line>
+<hr />
+<captions aligned="center">Cross-Examination
+<textEffects>- Complete Innocence -</textEffects></captions>
+<line>Menimemo:
+<textEffects>Oh yes, I stabbed the Englishwoman. And it's that very fact that proves I'm innocent!</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>Because why would I have bothered to stab the woman if I'd already poisoned her?</textEffects>
+</line>
+
+
+<line>Menimemo:
+<textEffects>When I heard the student girl and that pompous English murderer arguing...it got my goat.</textEffects>
+</line>
+
+
+<line>Rei:
+<textEffects>It was nothing to do with Dr Wilson! We were discussing the stolen poison.</textEffects>
+</line>
+
+
+<line>Menimemo:
+<textEffects>If the courts weren't going to punish Brett for what she did, someone else would have to see justice done!</textEffects>
+</line>
+
+<line>Menimemo:
+<textEffects>The point is...if you'd poisoned someone, there'd be no reason to then go and stab the person as well!</textEffects>
+</line>
+
+
+<line>Mikotoba:
+If the victim had unwittingly taken the poison already, the reporter would have had no reason to stab her... On the face of it, that logic sounds entirely reasonable.
+</line><line>Ryutaro:
+But there's no question that this man was responsible for Miss Brett's murder.
+</line><line>Mikotoba:
+If we could think of a plausible explanation as to why he might have stabbed her even after the poisoning... ...I feel sure that everything would drop into place. That's what we should be looking for.
+</line><line>Ryutaro:
+Yes, I agree. And in order to do that, I must try to glean more information...
+</line>
+<hr />
+<line>Ryutaro:
+Well...I can think of one reason.
+</line><line>Menimemo:
+Wha... What?!
+</line><line>Ryutaro:
+But before I explain, I'd like you to confirm something for the court. Did you glean all the information for this newspaper article from what you <textEffects>overheard</textEffects> outside the hut?
+</line><line>Menimemo:
+.........
+</line><line>Soseki:
+Of course he did! There can be no question of that! After all, when we were all in the laboratory together... ...all we were told is that it was <textEffects>a terrible toxin</textEffects>!
+</line><line>Ryutaro:
+And there is one more important <textEffects>fact</textEffects> to consider. According to the witness, Membami-san's 'verbal attack' against the victim began as soon as she entered the hut. In other words, it would have been <textEffects>impossible</textEffects> for her to have slipped the poison into Miss Brett's drink!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+Where are you going with this, Counsel?
+</line><line>Ryutaro:
+Menimemo-san has made it quite clear that he observed <textEffects>every single thing that happened</textEffects> in the beach hut. If the defendant had somehow found an opportunity, this man would have seen it!
+</line><line>Menimemo:
+Agh!
+</line><line>Mikotoba:
+Which means that Miss Brett couldn't have imbibed the poison whilst the defendant was present. In fact...it must have been administered to her <textEffects>before</textEffects> Membami-san entered the hut.
+</line><line>Judge:
+Yes, very articulately put.
+</line><line>Rei:
+When I walked into the hut, I immediately started to press Miss Brett about the poison.
+</line><line>Ryutaro:
+At which point, Menimemo-san overheard some worrying information.
+</line><line>Auchi:
+Worrying information? What worrying information?
+</line><line>Ryutaro:
+The information which he subsequently included in his newspaper article. Namely... ...that the poison was being developed in strict secrecy, and that it couldn't be readily obtained.
+</line><line>Mikotoba:
+Absolutely. In fact, that's quite an understatement. The only possible place it could come from is my lab.
+</line><line>Ryutaro:
+And furthermore, anyone afflicted by the poison would exhibit telltale signs in death.
+</line><line>Rei:
+The extreme constriction of the pupils. Yes...it's quite stark when you see it. There are other poisons that show similar symptoms, but not among <textEffects>new substances</textEffects> that are undetectable.
+</line><line>Ryutaro:
+In other words, it would be clear that the victim's life had been ended by the use of this particular poison... ...which would reduce the number of suspects to only a handful of people!
+</line><line>Judge:
+Ah!
+</line><line>Mikotoba:
+Everyone in my laboratory is aware of the unique properties of the toxin we've been developing. None of them would be foolish enough to attempt to use it for some nefarious deed. ...Membami-san being no exception.
+</line><line>Ryutaro:
+Therefore, we can conclude, that whoever administered this unique poison to the victim... ...was <textEffects>a layperson</textEffects>, unaware of its telltale properties.
+</line><line>Auchi:
+Ugh... Hnnngh...
+</line><line>Ryutaro:
+In other words, someone like you... Raiten Menimemo!
+</line><line>Menimemo:
+GYAAAAAAAAAAAAGH!
+</line><line>Ryutaro:
+It was you who stole the poison from the laboratory that day! And it was you who administered it to the unwitting victim. But you quickly realised...that was a terrible <textEffects>mistake</textEffects>!
+</line><line>Rei:
+...Because the poison caused such unusual symptoms and was so traceable...
+</line><line>Menimemo:
+.........
+</line><line>Ryutaro:
+As you listened in from the far side of the beach hut's thin walls, you learnt of these facts. But you'd already given the victim the poison at that point. It was too late. So you hatched a plan to disguise your mistake. A plan that involved stabbing the victim in the back through the reed screen!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+But... But what good could that possibly do?
+</line><line>Ryutaro:
+Isn't it obvious, Counsel? The plan was to <textEffects>kill Miss Brett before</textEffects> the poison could take effect!
+</line><line>Menimemo:
+...!
+</line><line>Mikotoba:
+Once in the blood, the poison causes the onset of <textEffects>pupil constriction</textEffects>. But he had hoped to precipitate the victim's death before that happened, hadn't he?
+</line><line>Ryutaro:
+Exactly. Because without any revealing signs of the new secret poison's use, no one would ever have suspected!
+</line><line>Judge:
+This is...extraordinary!
+</line><line>Ryutaro:
+Yes, the effects of the poison meant it would be too easily identified, so the killer had to mask its use. Which he attempted to do by plunging a knife into the middle of the victim's back!
+</line><line>Menimemo:
+Hnnng...hnnngh...
+</line><line>Judge:
+Order! Order! Order! The argument presented is sound. The court is satisfied that it warrants consideration. Does the prosecution have a counter-argument it wishes to put forward?
+</line><line>Auchi:
+Well...um...there are a number of... I mean...yes! I counter completely!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+The prosecution's evasive response clearly shows... ...that in much the same way as he nurtures the remnants of his topknot, he is clinging to lost hope!
+</line><line>Auchi:
+Lo...Lost...HOOOOOOOOOOOOPE!!!
+</line><line>Menimemo:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest?cb=20210426133548" class="image"><img alt="Hold it Ryunosuke" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="146" data-image-name="Hold it Ryunosuke.png" data-image-key="Hold_it_Ryunosuke.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest/scale-to-width-down/260?cb=20210426133548" class="lazyload" /></a>
+</line><line>Menimemo:
+Argh! You pathetic, useless, fallen samurai!
+</line><line>Auchi:
+Fallen?! Who are you calling fallen? My burgeoning growth is, is on the rise...
+</line><line>Menimemo:
+I don't need a counter-argument!
+</line><line>Ryutaro:
+Wha...What are you talking about?
+</line><line>Menimemo:
+It should be blatantly obvious. I stole the poison, you say. Gave it to the victim, you say. Stabbed her, you say. ...Lots of fine theories. But I don't need a counter-argument, because you don't have an argument yourself! Where's your evidence?
+</line><line>Ryutaro:
+...!
+</line><line>Menimemo:
+Yes, you make it all sound so plausible, don't you? But without evidence, it means nothing. Whereas I... I base my news on facts!
+</line><line>Judge:
+Facts? What do you mean? Explain yourself!
+</line><line>Menimemo:
+I mean...what the professor said earlier in this trial. It's all here! In my many memos! Every word! Every slip of the tongue! All noted! That's what the Shoyu News is famous for! It's <textEffects>the power of the printed word</textEffects>!
+</line>
+<hr />
+<line>Judge:
+But surely it would be no easy task to steal a highly secret toxin being developed for the government?
+</line><line>Mikotoba:
+Indeed. All visitors to the laboratory are thoroughly <textEffects>searched</textEffects> when they leave. Even if a thief managed to avoid being seen by myself or a colleague, getting the poison out would be very difficult.
+</line>
+<hr />
+<line>Menimemo:
+How's that then? Blown the story wide open? See...I, Raiten Menimemo...a mere reporter from the Shoyu News... ...couldn't possibly have stolen that poison from the professor's laboratory!
+</line><line>Ryutaro:
+AAAAAAGH! <textEffects>(But there can't be any question of it... He must have stolen the poison that day. He stole it...and used it to kill... And if that's the case...)</textEffects> As you've identified, the poison itself is the definitive evidence we need. Because whoever stole it from the laboratory that day is <textEffects>the true culprit</textEffects> here.
+</line><line>Menimemo:
+What's your point, you annoyingly handsome country bumpkin?
+</line><line>Ryutaro:
+My point is this: there is one way that you, Menimemo-san... ...could have stolen the poison that day!
+</line><line>Menimemo:
+...!
+</line><line>Judge:
+I have heard enough verbal conjecture now, thank you. What the court must be shown...is evidence. <textEffects>What proof do you have that this witness stole the poison on the day in question?</textEffects>
+</line>
+
+
+<line>Ryutaro:
+The proof, Your Excellency...is this fountain pen.
+</line><line>Menimemo:
+Agh!
+</line><line>Judge:
+A fountain pen? How can that possibly be relevant?
+</line><line>Ryutaro:
+These magical pens somehow seem to have enough ink to write many thousands of kanji characters. I believe they arrived in our country for the first time some fifteen years ago now.
+</line><line>Auchi:
+Bah! I swear by a weasel-hair calligraphy brush and nothing else! These newfangled pens are merely a fad!
+</line><line>Soseki:
+Well, as a forward-thinking man of words, obviously I love my fountain pen. Suck up a soupçon of sumptuous ink, and one's work is awash with words in the blink of an eye!
+</line><line>Ryutaro:
+That's right. Fountain pens have <textEffects>a small reservoir</textEffects> in the barrel... ...into which ink is <textEffects>sucked up</textEffects> through the nib of the pen in order to write with later.
+</line><line>Auchi:
+What does all this talking of <textEffects>sucking up</textEffects> ink have... Ah!
+</line><line>Ryutaro:
+And just as it's possible to suck ink up into the reservoir... ...it's also possible to <textEffects>eject</textEffects> it through the nib again, of course.
+</line><line>Judge:
+My word... Can, can this really be...?
+</line><line>Ryutaro:
+Well, Menimemo-san?
+</line><line>Menimemo:
+Ah...erm...
+</line><line>Ryutaro:
+When you saw the deadly poison before your eyes in the laboratory that day... ...you used your fountain pen - your very lifeblood - to steal some of it, didn't you? By siphoning the poison up through the nib and into the pen's reservoir!
+</line><line>Menimemo:
+GAAAAAAAAAAAARGH!!!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+More absurdity! That never happened!
+</line><line>Ryutaro:
+True, we've heard that there were procedures in place to prevent thefts like this from the laboratory. But would anyone have thought to look inside a fountain pen of all places?
+</line><line>Mikotoba:
+No...I'm a little ashamed to say... ...that for fear of offending our guests, such a detailed search would not have been conducted.
+</line><line>Judge:
+Well, this is quite startling, I must say...
+</line><line>Ryutaro:
+I remind the court that this pen was found in the clutches of the victim when she died. In other words, it was <textEffects>dropped</textEffects> at the scene by Menimemo-san.
+</line><line>Menimemo:
+.........
+</line><line>Ryutaro:
+So the crucial question is...when exactly was the pen dropped?
+</line><line>Judge:
+Are, are you suggesting...?
+</line><line>Ryutaro:
+The natural conclusion is that in your haste to act whilst the victim was distracted for a moment... ...you dropped the pen after you emptied the poison from it <textEffects>into her glass</textEffects>!
+</line><line>Auchi:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Auchi:
+There could be any number of alternative explanations! For, for example... ...the witness could have been using his pen to write down details of his conversation with the victim... ...and when shocked by one of her outrageous answers, the pen fell from his quivering hand!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+No, that can't be. If it was, how do you explain why the pen was devoid of ink?
+</line><line>Auchi:
+What?
+</line><line>Ryutaro:
+As you can see for yourself if you examine the evidence, there would appear to be no ink present in the reservoir. What newspaper reporter goes to interview someone with nothing in his pen?! No! The pen was dropped <textEffects>after</textEffects> the poison that filled its reservoir had been emptied into the victim's glass!
+</line><line>Menimemo:
+Hnnnrgh...
+</line><line>Judge:
+Witness! What do you have to say in your defence?
+</line><line>Menimemo:
+......... Waaaaaah hah hah hah hah hah! So this is how our 'modern' justice system works, is it? So what if the ink in my pen runs dry? So what if my pencil snaps? I can always claw my way back into the game! I have plenty in reserve! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!!! You claim I sucked the poison up into my pen? That's wild <textEffects>speculation</textEffects>, nothing more! If you thought you could bring down a fine, upstanding citizen with a trick like that, think again!
+</line><line>Mikotoba:
+Hm... It looks as though it's going to take one final decisive blow to finish this matter.
+</line><line>Judge:
+As I see it, the situation is now very simple. It rests upon whether or not this witness did indeed steal the poison on the day in question. And therefore...it all depends upon whether or not the defence can prove that he did with evidence!
+</line><line>Menimemo:
+Hah! No such evidence could possibly exist!
+</line><line>Ryutaro:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest?cb=20210426093406" class="image"><img alt="Objection Ryu English" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="187" data-image-name="Objection Ryu English.png" data-image-key="Objection_Ryu_English.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/e/e2/Objection_Ryu_English.png/revision/latest/scale-to-width-down/260?cb=20210426093406" class="lazyload" /></a>
+</line><line>Ryutaro:
+Menimemo-san... This is how our modern justice system works!
+</line><line>Menimemo:
+What?
+</line><line>Ryutaro:
+In the courtroom, evidence is everything. Something you would do well to remember. Because we are well past the point of speculation at this stage, I assure you!
+</line><line>Menimemo:
+...!
+</line><line>Judge:
+Very well, then. I call upon the defence to present the aforementioned evidence.
+</line><line>Ryutaro:
+<textEffects>(This is it, then. This will be the final piece in the puzzle.)</textEffects> <textEffects>The defence can prove, by means of this item, that it was the witness's pen that was used to steal the poison!</textEffects>
+</line>
+
+
+<line>Judge:
+Counsel, what is that bottle?
+</line><line>Ryutaro:
+This bottle contains the unique chemical reagent that can identify the poison in question.
+</line><line>Auchi:
+Ah!
+</line><line>Mikotoba:
+Yes, that poison is an entirely new synthesis of alkaloids developed by my colleagues and I... It would be impossible to detect traces of it by any other method.
+</line><line>Ryutaro:
+Or...from another perspective... ...simply with this chemical reagent, anybody at all could check for traces of the poison.
+</line><line>Menimemo:
+A, a reagent? What?
+</line><line>Ryutaro:
+One drop of the contents of this bottle on the tip of your fountain pen, Menimemo-san... ...is all it will take...to solve this case beyond all reasonable doubt!
+</line><line>Menimemo:
+Ugh...argh...hnnnrgh... No... You can't... I won't...!
+</line><line>Rei:
+Your crimes are bad enough...but at least know when to admit defeat!
+</line><line>Ryutaro:
+Your Excellency... ...the defence requests permission to carry out the test on the fountain pen at once!
+</line><line>Menimemo:
+Hurgh... Hyaaaaaaaaaaaaaah............ This isn't <textEffects>my fault</textEffects>! <textEffects>The empire</textEffects> drove me to this! Trying to hold its head high as <textEffects>a civilized nation</textEffects>! But bowing its head to every <textEffects>foreign power's whim</textEffects>! I <textEffects>took up arms</textEffects> in the form of the mighty pen! I fought tirelessly on <textEffects>the battlefield</textEffects> of news! All in the name of <textEffects>justice</textEffects>! And <textEffects>righteousness</textEffects>! Yes! <textEffects>Menimemoism</textEffects> is the paragon of justice! MENI-MENI-MENI-MENI-MENI-MENI-<textEffects>MENIMEMO</textEffects>OOOOOOOOOOOOOOOH!
+</line><line>Rei:
+Susato! With me!
+</line><line>Ryutaro:
+I'm there!
+</line><line>Haiiiiii-YAAAAAAAAAH!
+</line><line>Rei:
+Did I do it right? That was a Susato Takedown, wasn't it?
+</line><line>Ryutaro:
+Not quite. That...was a Ryutaro Takedown.
+</line>
+<hr />
+<line>Ryutaro:
+The instant the first drop of the reagent touched the nib of the fountain pen... ...it was clear to everyone present...
+</line>
+<hr />
+<line>Menimemo:
+When I saw it there in the lab... The poison... I just... The devil got hold of me, and... I decided to do it on a whim. I excused myself and emptied all the ink down the sink in the bathroom, washing the reservoir out carefully.
+</line><line>Ryutaro:
+And then you waited for an opportunity to suck up some of the poison, didn't you? Into your fountain pen.
+</line><line>Menimemo:
+Yes...that's right.
+</line><line>Mikotoba:
+Answer me one thing, Menimemo-san... Why did you steal it? For what purpose?
+</line><line>Menimemo:
+Isn't it obvious? To find out what it was made of and expose it in an article. I mean, it was a secret project after all. Too juicy for a journo like me to pass up...
+</line><line>Auchi:
+Then, then why did the Englishwoman end up dead?
+</line><line>Menimemo:
+......... I went into that hut intending to quiz her on her situation, that's all. As a reporter. A known killer, enjoying full freedom... Evading justice by leaving the country... I told her what I thought about it. And she...she just laughed in my face!
+</line>
+<hr />
+<line>Brett:
+Oh, what's this? A Far Eastern caveman purporting to practise journalism? Really, you must learn the difference between reporting and listening at doorways...you ignorant plebeian.
+</line><line>Menimemo:
+What...what did you call me?!
+</line><line>Brett:
+This country, with its pretensions to a justice system... To a free press... It's really very depressing. You see our superior ways in the West, yet you lack the mental capacity to emulate them. Get out of here, you oaf. Get out, and crawl back into the cave you came from.
+</line><line>Menimemo:
+...!
+</line>
+<hr />
+<line>Menimemo:
+That's when I remembered... ...about the deadly poison I happened to have in my pen at the time.
+</line><line>Judge:
+What a terrible tale...
+</line><line>Menimemo:
+In my head, I knew I should just get out of there as quickly as possible. But I couldn't! I couldn't let her get away with what she'd done, when she clearly had no remorse at all. I suppose...it was my journo spirit. Getting all fired up.
+</line><line>Ryutaro:
+I'd like to ask you something...
+</line><line>Menimemo:
+Yes?
+</line><line>Ryutaro:
+You often talk about justice... ...but surely as a journalist, you could have used other means to deliver the justice you sought.
+</line><line>Menimemo:
+......... There's no justice in the press.
+</line><line>Ryutaro:
+Sorry?
+</line><line>Menimemo:
+After that trial nine months ago, I kept digging and digging to find out what had happened in that courtroom. And finally, I discovered the truth. It was <textEffects>a cover-up</textEffects>, that's what it was!
+</line><line>Ryutaro:
+A, a cover-up? What do you mean?
+</line><line>Judge:
+I would remind you of your position, witness! Be careful of what you say.
+</line><line>Menimemo:
+Oh, come on! Doesn't it strike you as strange? We're suddenly not allowed to convict a foreign national? Consular jurisdiction should never have come into it! And yet that puffed-up Englishwoman was going to sail away into the sunset a free woman. The only possible explanation is that, behind the scenes, some <textEffects>deal</textEffects> had gone down between Britain and Japan!
+</line><line>Ryutaro:
+What sort of deal?
+</line><line>Menimemo:
+I'd done my research. Dug up all the dirt. It was all ready to be published. But you know what happened? The editor just tore the article up!
+</line><line>Mikotoba:
+He came under pressure from the government, you mean?
+</line><line>Menimemo:
+If our government is going to let criminals walk free... If they're going to crush the free press... ...then what choice do I have but to see that justice is done myself?!
+</line><line>Ryutaro:
+Let's not forget, Menimemo-san... ...that you committed murder yourself, and you tried to lay the blame at the defendant's door. I'm sorry, but you're no better than Jezaille Brett.
+</line><line>Menimemo:
+Wha...?
+</line><line>Ryutaro:
+The truth is...you have no right to talk about justice at all!
+</line><line>Menimemo:
+I... I suppose...
+</line>
+<hr />
+<line>Judge:
+It would appear that we have reached a conclusion in this trial at last. Counsel for the Defence...Ryutaro Naruhodo...
+</line><line>Ryutaro:
+......... Oh! Ah! Yes! Ahem! Sorry, Your Excellency, just musing in a manly way here...
+</line><line>Judge:
+It's almost unbelievable that this is your first experience of the Supreme Court. It was an excellent performance. In truth...it very much reminded me of your cousin's exploits.
+</line><line>Ryutaro:
+Oh! Naruhodo-sa... Ryu-Ryunosuke, you mean?
+</line><line>Judge:
+The way he handled the trial nine months ago, and the way you handled this one... It gives me hope that we are genuinely entering a new era of justice in this land.
+</line><line>Ryutaro:
+That's very flattering, Your Excellency.
+</line><line>Judge:
+Hearing the defence you put forward today made me feel most keenly... ...that the future of our justice system will be forged by you and your contemporaries.
+</line><line>Ryutaro:
+Thank you.
+</line><line>Judge:
+So, Prosecutor Auchi, do you have any final thoughts?
+</line><line>Auchi:
+.........
+</line><line>Ryutaro:
+P-Prosecutor Auchi...?
+</line><line>Auchi:
+I, Taketsuchi of the Auchi clan, have been bested by a callow youth not once now...but twice... If there was any shred of my former self left, it has withered and died here today.
+</line><line>Ryutaro:
+Gosh, your journey to cultural enlightenment sure took a while, didn't it?
+</line><line>Auchi:
+Silence! Rather than living on in shame... ...I will end it all now with this blade. For that is the true path to <textEffects>Auchiism</textEffects>!
+</line><line>Ryutaro:
+Auchi...ism...?
+</line><line>Mikotoba:
+One hopes that's the only way in which he'll be modelling himself after the witness...
+</line><line>Auchi:
+......... 'Sprig of my topknot...the time is right for farewell... Hope is lost forever.'
+</line>
+<div style="text-align: right;">-Taketsuchi</div>
+<line>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!
+</line>
+<hr />
+<line>Judge:
+Now, in regard to the defendant, Rei Membami-san...
+</line><line>Rei:
+Yes, Your Excellency?
+</line><line>Judge:
+I have reached my final verdict. I hereby find you...
+</line>
+<captions aligned="center"><b>Not Guilty</b></captions>
+<line>
+Judge:
+Court is adjourned!
+</line>
+<hr />
+<captions aligned="center"><textEffects>13th August, 2:38 p.m.
+Supreme Court of Judicature, Defendants' Antechamber 3</textEffects></captions>
+<line>
+Susato:
+<textEffects>(It's over... My heart is still pounding in my chest, though. It's all I can do just to stay standing. Lawyers have such great responsibility. Such a great burden to bear. Don't they, Naruhodo-san...)</textEffects>
+</line><line>???:
+Susato! Susato!
+</line><line>Rei:
+Thank you! Thank you so much! You were...so dashing in there!
+</line><line>Susato:
+Rei! And Father...
+</line><line>Rei:
+Honestly, I'm so touched by everything you've... Oh no, I think I'm going to cry!
+</line><line>Susato:
+It wasn't easy, but together we made it. I was on the verge of tears at the end, too.
+</line><line>Rei:
+The only reason I'm still here is because of you.
+</line><line>Susato:
+Oh no! I can't take all the credit. It took courage to tell the truth in there. You did wonderfully, Rei. So I would have to say that the congratulations belong to you.
+</line><line>Rei:
+......... Susato! Don't be so standoffish!
+</line><line>Susato:
+Sorry?
+</line><line>Rei:
+We're friends! Equals! And the trial's over. So no more of this formal, super humility nonsense! It's time to celebrate with swagger! To throw caution to the wind!
+</line><line>Susato:
+Caution to the...? What?
+</line><line>Rei:
+'I'm the great defence lawyer, Ryutaro Naruhodo! And I'm taking you out to a milk bar tomorrow!' ...Or something.
+</line><line>Susato:
+Right...I see... I'll, um, think about it, Rei...
+</line><line>Rei:
+At any rate, we really knocked the wind out of that horrid man! And it felt so good!
+</line><line>Susato:
+Yes! It was satisfying.
+</line><line>Rei:
+It really was! Isn't there anybody else we could throw together?
+</line><line>Mikotoba:
+I hope you're not looking at me, Rei.
+</line><line>Rei:
+Oh! My! Goodness! No, of course not! Of COURSE not!
+</line><line>Susato:
+<textEffects>(Ah, there it is at last. Rei's lovely smile...)</textEffects>
+</line><line>Mikotoba:
+You fought for your friend to the very last. As your father, I'm extremely proud of you... Defence Attorney Ryutaro Naruhodo.
+</line><line>Susato:
+Thank you! But I couldn't have done it without your help. Anyway...it's time to bid farewell to Ryutaro, I think. I shall miss him in a way, but...it's back to Susato Mikotoba now.
+</line><line>Rei:
+So...I'll never see him again, then... What a terrible shame!
+</line><line>???:
+WHAAAAAAAAAAAAAAAAAAAAAAAAAAAT?!
+</line><line>Soseki:
+WH-WH-WHAT...IS H-H-HAPPENING?!
+</line><line>Susato:
+Ah, Soseki-san and Inspector Hosonaga. I do hope you've been keeping well?
+</line><line>Hosonaga:
+Is, is, is that...r-r-really you?
+</line><line>Susato:
+Yes, I had to change my appearance for...well, obvious reasons, I hope. But it's me... ...Susato Mikotoba.
+</line><line>Soseki:
+I, I d-d-don't... So dashing... So divine... NO! Doubly dashing! Yes, and, and... Devilishly divine! Just look at you! I had no idea, Miss Susato-san Esquiress, that you were Locum Student Naruhodo-san Esquire's cousin!
+</line>
+<captions aligned="center">Astonishingly Astounding Ace Attorney!</captions>
+<line>
+Susato:
+<textEffects>(Poor Soseki-san... So confused... I still remember the first time I ever met him. He was in a prison cell in London. What <span style="color:#E16935">an extraordinary conundrum</textEffects> it was that the unwitting student from Japan found himself embroiled in. But after Naruhodo-san's skilful defence at the Old Bailey, Soseki-san was free to return to Japan. And now he seems to have earned himself great fame as an author.)</span>
+</line><line>Hosonaga:
+I'm stunned! That's a truly impressive disguise... Even I had no idea, and I'm a chief inspector at the police bureau! Who came up with Mr Turtle, no less!
+</line><line>Mikotoba:
+I'm not sure you should be admitting to that, Inspector.
+</line><line>Hosonaga:
+Amazing... You're a woman of many faces, I see.
+</line><line>Susato:
+<textEffects>(Just two, really. And this was a once-in-a-lifetime event...I hope.)</textEffects> Oh, I'm not a patch on you though, Inspector.
+</line><line>Hosonaga:
+Well...I am a professional, of course.
+</line><line>Susato:
+<textEffects>(I do worry about Inspector Hosonaga sometimes, I really do... Nine months ago, when he appeared here at the Supreme Court to testify... ...he was undercover, disguised as the head waiter of a restaurant. And then on the steamship to Great Britain, of course. Disguised as a sailor to keep us safe on the journey. Though that didn't help you, did it? Kazuma-sama...)</textEffects>
+</line><line>Hosonaga:
+From my perspective, I have to admit that I have mixed feelings about all this. I mean, now the truth has been lost forever...
+</line><line>Soseki:
+What do you mean?
+</line><line>Hosonaga:
+I'm talking about the murder that the Englishwoman committed at the end of last year.
+</line><line>Soseki:
+Ah yes! It was an English doctor she killed, as I understand it.
+</line><line>Mikotoba:
+Dr John H. Wilson, yes. The man I invited to Japan personally.
+</line><line>Hosonaga:
+The mystery is...why did she kill him? And now that the culprit herself is dead, we'll probably never know the answer.
+</line><line>Susato:
+......... On the voyage to Great Britain, we had a most unexpected <textEffects>encounter</textEffects>. With Mr Herlock Sholmes, the great detective, I mean.
+</line><line>Hosonaga:
+Yes, I remember Mr Sholmes well, of course.
+</line><line>Soseki:
+Ah...my <textEffects>arch-nemesis</textEffects>. How lightly you utter his name...
+</line><line>Susato:
+Well, according to the stories published about him in 'The Adventures of Herlock Sholmes'... ...the detective once had a partner who helped him solve crimes. A best friend. And that man was an exceptional doctor of medicine...by the name of John H. Wilson.
+</line><line>Rei:
+What?! Dr...Dr Wilson?!
+</line><line>Susato:
+I just can't believe that it's <textEffects>a coincidence</textEffects>. I think that the English doctor of medicine killed here in Japan nine months ago... ...must have been the friend and <textEffects>partner</textEffects> of Mr Sholmes!
+</line><line>Mikotoba:
+.........
+</line><line>Susato:
+<textEffects>(And if that's really true... ...then the poor girl...won't ever see her beloved father again.)</textEffects>
+</line><line>Mikotoba:
+......... As you know... ...I travelled to Great Britain once myself to study. It was around the time you were born.
+</line><line>Susato:
+Yes, Grandmother told me about it.
+</line><line>Mikotoba:
+On returning to Japan, I took up my professorship at the Imperial Yumei University. But I also serve another role, as an adviser to the government on diplomatic affairs.
+</line><line>Susato:
+...Yes, I was aware of that as well.
+</line><line>Mikotoba:
+In that case, I'm sure you understand...that there are some confidential matters I cannot divulge to you.
+</line><line>Susato:
+......... Could you just tell me one thing? Why did you summon me back to Japan?
+</line><line>Mikotoba:
+...!
+</line><line>Susato:
+It's been two months now since I returned. When I left England, it was because an urgent telegram had arrived from Japan. It said that you'd collapsed with a high fever, and you were growing weaker by the day...
+</line><line>Rei:
+Whaaat? Where did that news come from?
+</line><line>Susato:
+That's what I'd like to know. Because after that long sea voyage, I found you in fine health, Father. Was there <textEffects>something</textEffects> in Great Britain that you perceived might inconvenience me in some way? Or harm me? That's really the only explanation I can think of.
+</line><line>Mikotoba:
+......... Dear me... Do you reserve your most cutting glares for your father, Susato? I'm sorry, my dear, I simply can't-
+</line><line>???:
+AAARGH! LET ME GOOOOOO!
+</line><line>Menimemo:
+Hahh...hahh...hahh...
+</line><line>Susato:
+Me-Menimemo-san!
+</line><line>Rei:
+So, one throw wasn't enough for you!
+</line><line>Menimemo:
+I've got one last thing to say before they take me away... Professor!
+</line><line>Mikotoba:
+Me?!
+</line><line>Menimemo:
+I know the truth! I know you had a hand in what went on! In that <textEffects>visiting student</textEffects>'s fate!
+</line><line>Hosonaga:
+Visiting student...? Jezaille Brett, you mean?
+</line><line>Menimemo:
+No, not her! <textEffects>The student of law</textEffects> who left for Great Britain eight months ago!
+</line><line>Susato:
+Wha... <textEffects>(Student of law? He, he must mean... ...Kazuma-sama!)</textEffects> What are you talking about? What does any of this have to do with Kazuma-sama?!
+</line><line>Menimemo:
+Nobody here in Japan knows anything about it! They don't know that the guy never made it to England! That he died on that steamship! And that he'll never-
+</line>
+<captions aligned="center">AAAAAAAAAAAAGH!!!</captions>
+<line>
+Judge:
+Well, I didn't expect to find him in here. What were you officers playing at?
+</line><line>Bailiff:
+Terribly sorry, Your Excellency!
+</line>
+<hr />
+<line>Judge:
+I was coming to tell you that the rickshaw has arrived, Yujin. And it's a good job I came by.
+</line><line>Mikotoba:
+Yes, thank you for dealing with him. And I'll be there shortly.
+</line><line>Susato:
+Oh! Um...Your Excellency...
+</line><line>Judge:
+Hah hah hah hah! The trial's over. I'm not 'Your Excellency' any more. Merely your father's friend, Seishiro Jigoku. And may I say that since I saw you last, you seem to have taken on a more...dashing appearance... ...Susato.
+</line><line>Susato:
+...! Did you...know all along? From the start of the trial?
+</line><line>Judge:
+Hah hah hah hah! A judge sees everything, Susato.
+</line><line>Mikotoba:
+I couldn't let you take the risk. If Seishiro here hadn't known and then he'd recognised you... So I had a word in his ear beforehand. As an old friend. So, Seishiro...shall we?
+</line><line>Judge:
+Yes. Having ruled on that case, we now have various diplomatic issues to address...
+</line><line>Susato:
+Before you go, Father...!
+</line><line>Mikotoba:
+Sorry, my dear. We shall have to return to our earlier conversation at a later date. But well done again, both of you. You did admirably.
+</line><line>Rei:
+Oh... Thank you very much!
+</line><line>Judge:
+What did you think of my Seishiro Sling, eh? It's been a while since I sent a man flying like that. Hah hah hah hah!
+</line><line>Susato:
+<textEffects>(Whatever could Father be hiding from me?&#160; About Jezaille Brett... About Dr Wilson... And now, it seems, according to the reporter... ...about Kazuma-sama. I'm going to have to bring this up with Father sometime... ...when nobody else is around.)</textEffects>
+</line><line>Soseki:
+Um... Judicial Assistant Mikotoba-san Esquiress... Could I...have a word?
+</line><line>Susato:
+Oh! Yes, of course, Soseki-san. What is it?
+</line><line>Soseki:
+I think perhaps...it could be fate that we're meeting again like this now. You see... ...there's something I need to tell you.
+</line><line>Susato:
+Oh?
+</line><line>Soseki:
+I believe... ...that it may be related to the reason why your father summoned you back from England.
+</line><line>Susato:
+...! <textEffects>(This I have to hear!)</textEffects> Please, Soseki-san! Tell me at once!
+</line><line>Soseki:
+I WILL! I WILL, I WILL, I WILL! ......... As you know, my time in England was...terrible. Cursed, I have no doubt. Such awful things I was embroiled in... Thank goodness Locum Student Naruhodo-san Esquire stepped in... After he secured my freedom, I couldn't wait to get on a ship back here to my homeland. Having arrived in Japan, I submitted <textEffects>a report</textEffects> about my experiences to the Ministry of Foreign Affairs. The next thing I knew, I had a visitor. It was your father, Professor Mikotoba. He wanted to ask me all sorts of things about my report.
+</line><line>Susato:
+My father...?
+</line><line>Soseki:
+He seemed to be especially taken with <textEffects>a particular part</textEffects> of the report. Anyway, he left eventually, having thoroughly quizzed me. But it was the very next day that he sent the telegram to you asking you to return to Japan.
+</line><line>Susato:
+What was it, then? <textEffects>The particular part</textEffects> my father was interested in...
+</line><line>Soseki:
+......... I don't really know exactly. But do you remember them? Those <textEffects>two terrible cases</textEffects> I was c-c-caught up in?
+</line><line>Susato:
+Of course. I could never forget.
+</line><line>Soseki:
+Your f-father seemed to concern himself mainly w-with <textEffects>the second case</textEffects>.
+</line><line>Susato:
+The second one? You mean... ...the one Mr Sholmes <textEffects>forbade</textEffects> any of us to talk about in public?
+</line><line>Soseki:
+...!
+</line><line>Susato:
+Which is why the only case involving you that any member of the public is aware of, is <textEffects>the first</textEffects>.
+</line><line>Soseki:
+Well, I don't care! I don't have to listen to what that dastardly detective says! Anyway, the point is... ...it seems <textEffects>that case</textEffects> somehow holds the key to all these curious unanswered questions. That horrific, hideous, heinous case... The case of <textEffects>the haunted lodgings</textEffects>...
+</line><line>Susato:
+<textEffects>(That case somehow caused my father to summon me urgently back to Japan...? I thought that whole business was over. But it seems I was wrong... Perhaps that was only the start. Perhaps the story...is not yet told...)</textEffects>
+</line>
+<hr />
+<line><i>Rendered cutscene</i>
+Susato:
+...So the mystery of that Englishwoman's death is solved, thank goodness. And having stood in the Supreme Court now, I think I can comprehend a little better... ...how you must be feeling as you fight for people's freedom in a foreign land, Naruhodo-san. But actually, I'm writing to you today because of another matter. I met Soseki-san, and we talked about that second case he was involved in. Father has said nothing to me, but I feel certain of it... That case holds the key to some great, unsolved mystery. My notes on the case should still be in the office, tucked away at the back of the shelves on the left. Perhaps you might like to look over them again? Today, for the first time this year, it feels as though summer has arrived. The sky is a brilliant blue. ...It makes me long to see you again.
+</line>
+<div style="text-align: right;">Yours, Susato</div>
+<line>
+</line>
+<div style="text-align: right;">End</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+</xml>

@@ -1,0 +1,254 @@
+<xml>
+
+<title>Fire Festival</title>
+
+<line>
+<i>Town Square</i>
+</line><line>Layton:
+You did not disappoint me, Mr Edgeworth.
+</line><line>Edgeworth:
+There's more to <textEffects>puzzles</textEffects> than I expected. Mr Layton, you are a worthy opponent.
+</line><line>Layton:
+I can say the same to you, Mr Edgeworth.
+</line><line>Luke:
+I won't be bested by any puzzle either, I'll have you know!
+</line><line>???:
+</line>
+<center>Edgeworth, can I have a second?</center>
+<line>
+Edgeworth:
+What do you want, Wright?
+</line><line>Phoenix:
+What the heck are you doing here?
+</line><line>Maya:
+Ah, I know. He's here on the <textEffects>Legal League of Prosecutors' exchange</textEffects>!
+</line><line>Edgeworth:
+Don't be silly.
+</line><line>Phoenix:
+Huh?
+</line><line>Edgeworth:
+Don't group me with types like you, who abuse business trips for pleasure.
+</line><line>Maya:
+Ugh... Well, then is THAT why you're here?
+</line><line>Edgeworth:
+Yes, indeed. You seem to have the right idea... I'm here because of Labrelum Inc.'s <textEffects>Drugs &amp; Flames</textEffects> competition.
+</line><line>Maya:
+............ That...wouldn't have ever crossed even my mind...
+</line><line>Phoenix:
+Don't tell me...you <textEffects>won</textEffects> the trip.
+</line><line>Edgeworth:
+Ah, but I'm afraid I must. I <textEffects>won</textEffects> the trip. I had a certain <textEffects>scruffy assistant</textEffects> of mine crack open millions of pills with his teeth to get the lucky one!
+</line><line>Phoenix:
+<textEffects>(A scruffy assis- Oh brother... He did the work, and Edgeworth gets the trip. I guess some things never change...)</textEffects>
+</line><line>Maya:
+By the way, Edgeworth... Are you serious about what you said earlier?
+</line><line>Edgeworth:
+Of course I am. Do you think I merely throw words to the wind? I could not turn down a challenge from the famous "Puzzle Professor".
+</line><line>Phoenix:
+No, what we mean is... You're going to participate in the pageant? The <textEffects>Miss Bezella Pageant</textEffects>?
+</line><line>Edgeworth:
+Well, Mr Layton, show me what you've got!
+</line><line>Layton:
+I do not intend to hold back, Mr Edgeworth!
+</line><line>Luke:
+The professor won't lose to anyone! Not even to you, Mr Edgeworth!
+</line><line>Maya:
+Man, these guys sure are <textEffects>competitive</textEffects>... They both hate to back down, too.
+</line><line>Phoenix:
+Guys...you're talking about the Miss Bezella Pageant here...
+</line><line>Espella:
+Excuse me, Mr Wright.
+</line><line>Phoenix:
+Oh, Espella. What's up?
+</line><line>Espella:
+I'm sorry, but I don't think I've been introduced to this gentleman.
+</line><line>Phoenix:
+Ah, right... I totally forgot. Sorry! Say hello the <textEffects>Prodigy Prosecutor</textEffects>, Miles Edgeworth.
+</line><line>Edgeworth:
+Please...call me Miles. I'm...pleased to meet you.
+</line><line>Maya:
+This guy is Nick's fierce rival from the <textEffects>Ace Attorney</textEffects> series! <textEffects>Prodigy Prosecutor</textEffects> sums him up pretty well, all right.
+</line><line>Espella:
+Ah, so you're a <textEffects>prodigy</textEffects>. I'm very pleased to make your acquaintance.
+</line><line>Edgeworth:
+............ Wright, I'd like a word with you.
+</line><line>Phoenix:
+What is it?
+</line><line>Edgeworth:
+What the heck were you thinking introducing me like that?
+</line><line>Phoenix:
+You mean you don't like being called Prodigy Prosecutor? It can't be helped... I mean, you're a <textEffects>prodigy</textEffects>, aren't you?
+</line><line>Maya:
+That's what they always say in the game magazines and on the internet...
+</line><line>Edgeworth:
+Since we're all here with some time on our hands, I'm going to speak my mind to you. Put yourself in the shoes of a person who's constantly called a <textEffects>prodigy</textEffects>.
+</line><line>Phoenix:
+...What are you getting at?
+</line><line>Edgeworth:
+For example, if you were introduced as...
+</line>
+<center><textEffects>Phoenix Wright:
+Prodigy Attorney</textEffects></center>
+<line>
+Edgeworth:
+How would you feel about that?
+</line><line>Phoenix:
+Ugh... That is a bit too much... I'll stick to "ace".
+</line><line>Layton:
+You make a very good point. Should the same style of introduction be applied to us...
+</line>
+<center><textEffects>Hershel Layton:
+Prodigy Professor</textEffects></center>
+<line>
+</line>
+<center><textEffects>Luke Triton:
+Prodigy Apprentice</textEffects></center>
+<line>
+Layton:
+It would be rather awkward...
+</line><line>Luke:
+It'd be like someone was making fun of us!
+</line><line>Edgeworth:
+As you can see, publicly labeling someone as a <textEffects>prodigy</textEffects> is in very poor taste.
+</line><line>Maya:
+You might feel that way about it, but I really like it.
+</line>
+<center><textEffects>Maya Fey:
+Prodigy</textEffects></center>
+<line>
+Maya:
+Sounds cool, huh?
+</line><line>Phoenix:
+Maya's a special case... I have to agree with you, Edgeworth. That's why I'm usually introduced as just a <textEffects>keen lawyer</textEffects> or a <textEffects>rookie attorney</textEffects>.
+</line><line>Layton:
+I seem to be generally introduced as a <textEffects>professor of archaeology</textEffects>, myself.
+</line><line>Edgeworth:
+Then, I must ask why! Why am I the only one having to endure being called a <textEffects>prodigy</textEffects> all the time?! I'm not so shallow as to be flattered by the "<textEffects>Prodigy Prosecutor</textEffects>" title being slapped on me everywhere I go!
+</line><line>Phoenix:
+I doubt anyone was saying it just to try and flatter you.
+</line><line>Edgeworth:
+I'm getting treated like that, after all the hard work I've done... I've always supported you behind the scenes!
+</line><line>Maya:
+All right, I have an idea. How about we call you <textEffects>Nick's Secret Fanboy Edgeworth</textEffects> from now on?
+</line><line>Edgeworth:
+You always have to rub salt in a wound...
+</line><line>???:
+</line>
+<center>Um...</center>
+<line>
+Luke:
+Since we're all here with some time on our hands, I'd like to speak my mind, too.
+</line><line>Maya:
+Sure! What do you want to talk about? Is it food related?
+</line><line>Phoenix:
+Maya... Anyway, Luke, go ahead.
+</line><line>Espella:
+It's the perfect day to tell others what you really think.
+</line><line>Phoenix:
+Ah, Espella! You do like to sneak up behind me, huh...
+</line><line>Espella:
+The fire festival used to be a day when everyone could <textEffects>speak their mind</textEffects> freely.
+</line><line>Phoenix:
+<textEffects>(First I'm hearing of this...)</textEffects>
+</line><line>Luke:
+I'm always being referred to by words like "<textEffects>little</textEffects>", "<textEffects>young</textEffects>" and "<textEffects>boy</textEffects>". And you know what... I'm getting sick of being treated like a <textEffects>little kid</textEffects>! I can't stand it!
+</line><line>Maya:
+Now that you mention it, you do get called "Little Luke" a lot, especially online.
+</line><line>Luke:
+And what's more, wherever you see a short description of me, it's always something along these lines... "Professor Layton's <textEffects>self-proclaimed</textEffects> apprentice" or "young boy who <textEffects>calls himself</textEffects> Professor Layton's number one apprentice". I've been meaning to ask about this for some time now... But when will the professor <textEffects>officially</textEffects> recognise me as his apprentice?!
+</line><line>Phoenix:
+............
+</line><line>Layton:
+............
+</line><line>Maya:
+Um, yeah... Well, we've learned today that it's not easy to come up with introductions that don't upset anyone.
+</line><line>Phoenix:
+<textEffects>(Thanks for saving us from that uncomfortable silence, Maya.)</textEffects>
+</line><line>???:
+</line>
+<center>Oh, there you are.</center>
+<line>
+Ridelle:
+News has reached me that you will be participating in the Miss Bezella Pageant.
+</line><line>Maya:
+Hi there, Ridelle!
+</line><line>Ridelle:
+Mr Layton, I knew you wouldn't miss this event. The puzzle-solving challenge should greatly impact your chances of winning the pageant, so I have heard.
+</line><line>Layton:
+Well, now. This does sound like just my cup of tea. A gentleman leaves no puzzle unsolved.
+</line><line>Edgeworth:
+Puzzles are an excellent brain-training tool. Although I personally prefer to warm up with chess.
+</line><line>Espella:
+Aunt Patty always tells me to warm up the <textEffects>bread oven</textEffects> before doing anything else...
+</line><line>Ridelle:
+How about... we warm up with my very own special puzzle before the contest?
+</line><line>Layton:
+What a splendid idea. I was just about to make the same suggestion.
+</line><line>Edgeworth:
+Heh, why not? It will help pass the time.
+</line><line>Ridelle:
+So, you're ready for it...? Behold, Ridelle's brand new puzzle!
+</line>
+
+<line>
+Layton:
+You did very well there, Luke.
+</line><line>Luke:
+A gentleman in training never leaves a puzzle unsolved!
+</line><line>Maya:
+Well, you've gotta admire that enthusiasm! You look all ready for the Miss Bezella Pageant!
+</line><line>Espella:
+I'll be cheering for you, Luke!
+</line><line>Luke:
+What...whaaaaaaaat?! Me? I'm going to participate...?
+</line><line>Phoenix:
+<textEffects>(The plot thickens...and this story keeps getting even more twisted. In more ways than one.)</textEffects>
+</line><line>Ridelle:
+Let's go, everyone! It is about time. The contestants should make their way to the pageant venue.
+</line><line>Edgeworth:
+Shall we go, Mr Layton? Or have you lost your confidence, now that I'm your rival?
+</line><line>Layton:
+Lose my confidence? Surely you jest, Mr Edgeworth.
+</line><line>Phoenix:
+Yeah...go nuts, guys. I'll be cheering for you, Edg...um, both of you.
+</line><line>Edgeworth:
+You're coming with us, Wright.
+</line><line>Phoenix:
+What? But...I'm comfortable right here.
+</line><line>Ridelle:
+If you could please hurry... Latecomers will be <textEffects>disqualified</textEffects>.
+</line><line>Phoenix:
+D-<textEffects>disqualified</textEffects>?
+</line><line>Layton:
+Don't worry, Mr Wright. You won't be left out. We have already signed you up for the pageant!
+</line><line>Phoenix:
+Nooooo waaaaay!
+</line><line>Maya:
+Okay, everyone, we can do this! Let's totally dominate the Miss Bezella Pageant!
+</line><line>Espella:
+I'll give you some tips on how to be the perfect Bezella!
+</line><line>Ridelle:
+I'm looking forward to testing your wits with my mysterious riddles.
+</line><line>Phoenix:
+............ Maya...
+</line><line>Maya:
+Hm? We'd better get going, Nick.
+</line><line>Phoenix:
+I'd like to say something. My <textEffects>favourite word</textEffects>.
+</line><line>Layton:
+Overruled, Mr Wright.
+</line><line>Phoenix:
+Excuse me?
+</line><line>Edgeworth:
+We don't have time for this now, Wright.
+</line><line>Espella:
+Remember, Mr Wright. Whatever they say, just keep insisting that you are Bezella!
+</line><line>Luke:
+Save your favourite word for later!
+</line><line>Phoenix:
+............ It's the first time ever that I didn't get to say <textEffects>that word</textEffects>. My pointing finger's twitching...
+</line><line>Maya:
+Come on, slowpokes!
+</line>
+<center>To Be Continued...</center>
+</xml>

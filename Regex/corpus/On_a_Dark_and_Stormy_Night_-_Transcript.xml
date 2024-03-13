@@ -1,0 +1,982 @@
+<xml>
+
+<title>On a Dark and Stormy Night</title>
+
+<line>
+<i>Anime cutscene</i>
+Man:
+If anything happens to me, go and see this man. He should be able to help. Agh! Blasted witches! No! That's impossible! Go! Go without me! Quickly, get going!
+</line><line>Chelmey:
+Hmm... Heh?! Well, what do we have here?
+</line>
+<hr />
+<div style="text-align: right;">PrologueOn a Dark and Stormy Night</div>
+<line>
+Chelmey:
+What the blazes...?! How on earth did a vehicle end up on top of that tree? Blimey... This is going to be a tough nut to crack. Hmm...there is one man I know who could get to the bottom of this...
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Luke:
+Did you say "witches", Professor?
+</line><line>Layton:
+That's right. People in the Middle Ages very much believed in their existence. That is the reason why they had "witch trials". Do you see?
+</line><line>Luke:
+Witch trials...? Did witches...really exist in those days?
+</line><line>Layton:
+Well, my boy, witch trials certainly existed, although nobody ever truly used magic. Witches were nothing more than superstition and legend.
+</line><line>Maya:
+Wow! Look! It's really London! C'mon, Nick! Take a look!
+</line><line>Phoenix:
+I know you're excited, Maya...but can't a guy get a few last Z's in?
+</line><line>Maya:
+This is no time to be sleeping! You won't win in an English court of law with that attitude!
+</line><line>Phoenix:
+This trip is just an exchange visit courtesy of the Legal League of Attorneys. I won't be defending in court officially.
+</line><line>Maya:
+Aww... Well that's no fun... You know you're always at your best when working under pressure. But who can say how things would go over here...?
+</line><line>Phoenix:
+I wish you wouldn't talk like that... You'll only jinx the whole thing.
+</line>
+<hr />
+<line><i>Layton's Office</i>
+</line><line>Luke:
+The rain doesn't seem to want to stop... It's a bit unusual for this time of year, don't you think?
+</line><line>Layton:
+Mmm, I agree, Luke. But I believe it is easing off a little now, so it should clear up soon.
+</line><line>Luke:
+I hope it does clear up soon... especially the lightning.
+</line><line>Layton:
+Ha ha ha. Afraid of lightning, I take it?
+</line><line>Luke:
+Of course not! I'm not a little kid, you know! It's just that I hate how it flashes suddenly and takes me by surprise.
+</line>
+<hr />
+<line>Layton:
+Then let's wait a while for it to settle. Luke, I have just the thing to take your mind off it. Take a look on the bookshelf.
+</line><line>Luke:
+The bookshelf? What's on the bookshelf?
+</line><line>Layton:
+You'll know when you find it. Do you recall our usual method of investigation?
+</line><line>Luke:
+Of course I do!
+</line><line>Layton:
+Ho ho, I expected as much. But just to be sure, let's have a refresher. We use a magnifying glass for investigation. This will appear automatically. Slide the stylus along the Touch Screen to move the magnifying glass around. The secret is to slide the stylus as if drawing a line. While moving the magnifying glass, it will sometimes appear orange. When this happens, give the Touch Screen a light tap. Doing so will investigate the point in question. In addition to important information, there are also <textEffects>puzzles</textEffects> and <textEffects>hint coins</textEffects> waiting to be found. Hint coins will become invaluable later on, when tackling difficult puzzles. Okay, let's give it a try.
+</line><line>Luke:
+Touch and slide on the Touch Screen, then give it a light tap to investigate. This technique can be used to investigate points of interest, right? Now, let's investigate the bookshelf.
+</line>
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Luke:
+Isn't this a picture book? Wow... I wouldn't have expected you to have a picture book, Professor! Wait a second...
+</line><line>Layton:
+That's right, my boy... There's a puzzle hidden within that book.
+</line><line>Luke:
+I should have known! You even have puzzles hidden in your books.
+</line><line>Layton:
+All right then, Luke, why not see if you can solve this one?
+</line><line>Luke:
+Naturally. After all, I am your apprentice!
+</line>
+
+<line>
+Layton:
+Well done, Luke.
+</line><line>Luke:
+That was a piece of cake! I can solve harder puzzles than that!
+</line><line>Layton:
+I'm pleased to hear that, Luke.
+</line><line>Luke:
+It was a charming little puzzle, though. Like straight out of a fairy tale. If only the witches of the Middle Ages were as jolly as the ones in this picture book...
+</line><line>Layton:
+Yes, indeed. Well, it looks as if the rain is about to stop. Shall we prepare to go home?
+</line><line>Luke:
+Okay, Professor. Now...where did I put my umbrella? ...! Professor, I think we have a visitor.
+</line><line>Layton:
+At this late hour? I can't say I've been expecting anybody.
+</line><line>Luke:
+I'll go and see who it is.
+</line><line>???:
+Are you...Mr Hershel Layton?
+</line><line>Layton:
+Yes, indeed I am. My dear young lady, how may I be of assistance?
+</line><line>???:
+I have been asked...to give you a letter. Please, could you read this?
+</line><line>Layton:
+This letter...it's from Carmine.
+</line><line>Luke:
+Carmine? Who's Carmine?
+</line><line>Layton:
+He was a student of mine a number of years ago... And if I recall correctly, he's now a detective.
+</line><line>Luke:
+Wow, a detective?
+</line><line>???:
+Um... About Carmine...
+</line><line>Layton:
+...Yes?
+</line><line>???:
+I, um... Well... ...I'm sorry.
+</line><line>Layton:
+It appears there may be a matter of some considerable importance within this letter.
+</line><line>Luke:
+Let's read it right away, Professor!
+</line>
+<hr />
+<captions aligned="center">Dear Professor,
+<line>It has been a long time. There is so much I would like to tell you, but at present I do not have the time. My life is in danger. I am being chased by something terrifying, and I am not sure whether I can escape. It all started in a town called Labyrinthia. A mysterious town, one that you will not find on any map. I found myself there during the course of an investigation. While I was there, a series of unbelievable events occurred right before my eyes. I realised the town held a mysterious secret and decided to get to the bottom of it... ...but before I could, they found me. I escaped from Labyrinthia with a young woman by the name of Espella. It was my belief that she held the key to solving the secret of that town. It is not me they are pursuing; it is Espella. As such, I am asking you to help her. Labyrinthia hides an ominous mystery. This is one puzzle that appears to be beyond my powers to solve. I apologise for imposing on you in this way.
+</line>
+Your faithful student,Carmine Accidenti</captions>
+<line>
+</line>
+<captions aligned="center">Letter from Carmine added to Items.</captions>
+<hr />
+<line>Layton:
+Well, I never...
+</line><line>Luke:
+P-Professor...
+</line><line>Layton:
+Am I right in assuming that you are the Espella to whom Carmine is referring?
+</line><line>Espella:
+Y-yes. Yes, I am.
+</line><line>Layton:
+Tell me, what on earth happened?
+</line><line>Espella:
+I'm afraid...I'm not entirely sure. It seemed as if we were being chased relentlessly... They caught up with us, and we were attacked. As a result, Carmine was injured.
+</line><line>Layton:
+I see. I'm sorry to hear that...
+</line><line>Espella:
+He bravely did his best to ensure that I escaped safely. I beg you, please help him! Please help that brave man!
+</line><line>Layton:
+You mustn't worry about him, Espella. Knowing Carmine as I do, I'm sure he'll be all right.
+</line><line>Espella:
+But...
+</line><line>Layton:
+Ever since I've known him, he's always been in some difficult situation or other, and he's never failed to win through. More importantly... At the moment, I'm frankly more concerned with your safety, Espella.
+</line><line>Espella:
+You're concerned...about me?
+</line><line>Layton:
+According to this letter, the one they're after is you. Are you certain that you're all right? You weren't injured at all?
+</line><line>Espella:
+Me? No, I...I'm fine, really. ............
+</line><line>Layton:
+I think you'd better take a rest, even if just for a little while.
+</line><line>Luke:
+Your clothes are all wet, too. I'll go and find you a dry towel.
+</line><line>Espella:
+Thank you. You're really too kind.
+</line><line>Layton:
+It's no trouble at all. As soon as you're more comfortable, we can sit down and talk.
+</line><line>Luke:
+Professor... If what was written in that letter is true...
+</line><line>Layton:
+Yes, indeed...it means this young lady is in real danger. And it also means that her pursuers might even come to this office in search of her.
+</line><line>Luke:
+I'll go and lock the door.
+</line><line>Layton:
+Yes, that sounds like a good idea. At any rate, we'll need to talk to Espella and find out what this is really all about.
+</line>
+<hr />
+<captions aligned="center"><b>NEW MYSTERY</b>
+<b>Strange Girl</b></captions>
+<line><b>A strangely dressed young girl suddenly appeared asking Professor Layton for help. It would seem she is being pursued by someone or something.</b>
+<i>Espella appeared at my study, full of fear. I do not know who she is or where she has come from, but I wish to help her.</i>
+</line>
+<hr />
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Espella:
+I'm...sorry to have put you both to all this trouble.
+</line><line>Layton:
+Please, think nothing of it. Although, if it's all right with you, I'd like to hear a little more about what happened. We won't be able to protect you without a clearer understanding of the circumstances.
+</line><line>Espella:
+Protect...me?
+</line><line>Layton:
+It is my belief that you are in quite considerable danger. And it is the duty of every gentleman to help a lady in trouble.
+</line><line>Espella:
+I...I sincerely thank you.
+</line><line>Layton:
+Now, it would certainly appear that you are being pursued... However, Carmine's letter referred to your pursuers as "they"... Could you tell me who "they" might be?
+</line><line>Espella:
+............ "They"...are <textEffects>witches</textEffects>.
+</line><line>Layton:
+...!
+</line><line>Luke:
+Wi...
+</line><line>Layton:
+Did you say..."<textEffects>witches</textEffects>"?
+</line><line>Espella:
+Yes...witches. And they are truly terrifying. Carmine did his best to protect me from them... But in the end, he was unable to escape. They caught up with us... If they realise I'm here, then you two may also end up in danger!
+</line><line>Layton:
+Hmm...
+</line><line>Espella:
+Perhaps it would have been better if I hadn't come here...
+</line><line>Layton:
+............ Espella.
+</line><line>Espella:
+Yes...?
+</line><line>Layton:
+You mustn't worry yourself. Everything is going to be all right.
+</line><line>Espella:
+...Really?
+</line><line>Layton:
+You have my word. We'll be on our guard.
+</line><line>Luke:
+That's right! Nothing to worry about. The place is tightly locked up!
+</line><line>Espella:
+............ Thank you both.
+</line><line>Layton:
+Espella, I'd like to enquire a little more, if I may.
+</line><line>Espella:
+Yes...yes, of course.
+</line><line>Layton:
+The town you came from is called Labyrinthia, isn't it?
+</line><line>Espella:
+Yes...that's right.
+</line><line>Luke:
+...Espella? What's the matter?
+</line><line>Espella:
+Um... Well, we are in Labyrinthia now, aren't we?
+</line><line>Luke:
+Huh? No, we're in London, in England!
+</line><line>Espella:
+"Lon-don"? "Eng-land"? I'm sorry, but...I don't understand.
+</line><line>Luke:
+What?! No way! You mean to say you've never heard of England?
+</line><line>Espella:
+Um...well, it's just that I've never come across a place by that name in Labyrinthia.
+</line><line>Luke:
+............ Um... Espella... Are you sure you're feeling all right?
+</line><line>Layton:
+...No, Luke. I believe Espella really doesn't know. Espella, about this town of Labyrinthia... I'm afraid we've never heard of it, either. If I may ask... Where exactly is Labyrinthia?
+</line><line>Espella:
+............ It's, um...
+</line><line>Luke:
+It's...what?
+</line>
+<hr />
+<line>Espella:
+Anything you could want to know about Labyrinthia can be found in this book!
+</line><line>Layton:
+Anything...?
+</line><line>Luke:
+It's an amazing design. I've never seen a book quite like it.
+</line><line>Layton:
+Espella, would you mind if we had a closer look?
+</line><line>Espella:
+...Of course.
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+</line>
+<hr />
+<line>Luke:
+Huh?! I must be seeing things... It was as if the words were moving on the page!
+</line><line>Layton:
+No, Luke. It looked the same to me, too.
+</line><line>Espella:
+............
+</line><line>Luke:
+Look! There's a picture of the town in here. So this is Labyrinthia, is it?
+</line><line>Espella:
+Yes. That's Labyrinthia.
+</line><line>Layton:
+How intriguing...
+</line><line>Luke:
+The buildings all look really old, don't they, Professor?
+</line><line>Layton:
+Indeed, Luke. I don't recall ever having seen this town before.
+</line><line>Espella:
+This is my home town.
+</line><line>Layton:
+Then this must also be where the witches pursuing you are from, is that right?
+</line><line>Espella:
+That's right.
+</line>
+<hr />
+<line>Layton:
+Espella, what exactly is this book? It seems somewhat valuable.
+</line><line>Espella:
+............ This book is the <textEffects>Historia Labyrinthia</textEffects>. As I said just a moment ago, everything about Labyrinthia is written in this book. Everything...the entire Story.
+</line><line>Luke:
+Labyrinthia's <textEffects>story</textEffects>?
+</line><line>Layton:
+If it contains absolutely everything...then it must also include something about witches.
+</line><line>Espella:
+Yes, it does. All about the witches, the events in the town and the people living there. Everything that has happened in the town is written in this book. And not only that... but also, everything that is going to happen.
+</line><line>Luke:
+Eh?! What did you just say?
+</line><line>Espella:
+............
+</line>
+<captions aligned="center">Historia Labyrinthia added to Items.</captions>
+<hr />
+<captions aligned="center"><b>NEW MYSTERY</b>
+<b>Labyrinthia's Secret</b></captions>
+<line><b>The town of Labyrinthia, portrayed within the book entitled the Historia Labyrinthia, is an old town the likes of which the professor and Luke have never seen. Espella claims to be from this town...</b>
+<i>Apparently, everything that takes place in Labyrinthia is written in that book. Espella referred to it as Labyrinthia's "Story".</i>
+</line>
+<hr />
+<line>Luke:
+Professor, this certainly is very strange. First that letter from Carmine, and now this book... If you ask me, Espella doesn't seem to be lying... But...witches chasing after people? It's all a little hard to believe.
+</line><line>Layton:
+Hmm...
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Layton:
+It's certainly hard to believe, but I do find it fascinating.
+</line><line>Luke:
+Oh...poor thing... Do you want to come in from the rain?
+</line><line>Espella:
+Don't open it!
+</line><line>Layton:
+Wait!
+</line><line>Luke:
+Professor, what was that?
+</line><line>Layton:
+That, Luke... was a witch.
+</line>
+<hr />
+<line>Luke:
+P-Professor! Espella's been...
+</line><line>Layton:
+Yes, that was careless of us... But to think they might enter by such means... And after I'd promised to protect her...
+</line><line>Luke:
+Do you think that was one of those witches that Espella was talking about?
+</line><line>Layton:
+I can't say for sure, but it certainly looked that way.
+</line><line>Luke:
+Then what we just saw... was that magic?
+</line><line>Layton:
+I don't know. But something bizarre did indeed take place before our very eyes. ...Luke. I'm going to go and search for Espella. While I'm gone, I'd like you to...
+</line><line>Luke:
+Professor, I'm going too! Even if you disagree, I'm coming along! After all, I am your apprentice!
+</line><line>Layton:
+............
+</line><line>Luke:
+............
+</line><line>Layton:
+Okay, Luke. Then let's go.
+</line>
+<hr />
+<line>Luke:
+Right! I've already put the important things into the <textEffects>Trunk</textEffects>.
+</line><line>Layton:
+Thank you, Luke. We'll make sure to keep a record of all the important mysteries we encounter, as well as all the progress we make in our investigations. These will be kept in the Trunk. Open the Trunk at any time by touching <textEffects>Menu</textEffects> in the bottom left corner. To look back on the progress made so far, you may wish to have a look in <textEffects>Story</textEffects>, or alternatively, in <textEffects>Mysteries</textEffects>.
+</line>
+<hr />
+<captions aligned="center"><b>NEW MYSTERY</b>
+<b>Witches in London</b></captions>
+<line><b>The witch broke into Professor Layton's study, snatched up Espella and escaped into the night. Could this mysterious power she wields truly be witchcraft?</b>
+<i>I certainly did not anticipate Espella being snatched away right before our very eyes. We must do something about this.</i>
+</line>
+<hr />
+<line>Layton:
+Now, I believe we're all set to go. They seemed to be headed towards the Thames. Let's follow them and rescue Espella!
+</line><line>Luke:
+Right you are, Professor!
+</line>
+<hr />
+<line><i>Thames Riverside</i>
+</line><line>Luke:
+*huff*...*puff*... We've lost them, Professor. They've got away...
+</line><line>Layton:
+Hmm... Yes, it would appear so. However, we can be quite certain that they came this way. There may be someone who saw the witch carrying Espella.
+</line><line>Luke:
+Right. Let's start asking people. Hey, look over there. Isn't that...?
+</line><line>Chelmey:
+This one's really got me stumped.
+</line><line>Barton:
+I agree, sir, a total mystery.
+</line><line>Chelmey:
+Constable Barton, I don't want agreement. I want answers!
+</line><line>Barton:
+Yes, sir. Understood, sir.
+</line><line>Luke:
+Inspector Chelmey and Constable Barton? I wonder what they're doing here...
+</line><line>Layton:
+They appear to be having a heated discussion about something. Perhaps it may even have something to do with the witch we're pursuing. Let's see what they have to say, Luke.
+</line><line>Luke:
+Good thinking, Professor!
+</line>
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Chelmey:
+Hey, you there! This area is off limits. Only Scotland Yard personnel allowed here. Hang on... Oh, it's you, Layton. What are you two doing here?
+</line><line>Layton:
+It's been a while, Inspector Chelmey. Has there been some kind of incident?
+</line><line>Chelmey:
+Hrrm, well, more of an "accident" than an "incident". Over there, a motor vehicle has been heavily damaged.
+</line><line>Layton:
+A heavily damaged vehicle, you say? That sounds rather serious... But I doubt that a Scotland Yard inspector would be involved in something as mundane as a simple traffic accident. Is there perhaps something unusual about this particular accident?
+</line><line>Chelmey:
+As always, you're quick to pick up on the finer points.
+</line><line>Barton:
+I should say there's something unusual. In fact, I've never seen nor heard of an accident as unusual as this one.
+</line><line>Chelmey:
+Barton! Would you leave the talking to me?!
+</line><line>Barton:
+Yes, sir. Of course, sir.
+</line><line>Layton:
+An unusual accident...? Unusual in what way, precisely?
+</line><line>Chelmey:
+Hrrm, don't go concerning yourself with it. It's the job of the police to solve this case.
+</line><line>Layton:
+You never know, Inspector, I may just be able to help you solve it.
+</line><line>Chelmey:
+What are you saying? Even I don't have all the facts yet. Clues just aren't that easy to come by, you know...
+</line><line>Barton:
+Yes, we've got nothing so far. In fact, I'm sure we could use a helping hand...
+</line><line>Chelmey:
+Oi! Barton! I thought I told you, I'll do all the talking!
+</line><line>Barton:
+Yes, sir! Understood, sir!
+</line><line>Chelmey:
+Just a moment... Hrrm... I've got it. Hey, Layton.
+</line><line>Layton:
+What is it, Inspector?
+</line><line>Chelmey:
+I...uh...well, that is to say... If you're so keen on getting involved, why not go and take a look for yourself?
+</line><line>Luke:
+That was a sudden change of heart.
+</line><line>Layton:
+It was, Luke. But a welcome one, wouldn't you say? Very well, Inspector. I will take a look. The vehicle is just up ahead there, is it?
+</line><line>Chelmey:
+Yes, it is. It's in the park just over there, if you know where I mean.
+</line><line>Barton:
+The park is fairly big, so it's quite easy to lose your way.
+</line><line>Chelmey:
+Hrrm, I suppose I'll have to explain. But listen up - I'm only saying this once. When you want to go somewhere else, touch the <textEffects>Move</textEffects> icon in the bottom right corner. Touch this to change from Investigation Mode to Movement Mode. The places you can move to are the places indicated by red markers. Touch <textEffects>Search</textEffects> after moving to go back into Investigation Mode. Incidentally, you're free to move to any location indicated by a red marker. This is a convenient way of moving, since you can move a great distance with only a single touch.
+</line><line>Layton:
+Look at the map and touch our desired location. That's right, isn't it, Inspector?
+</line><line>Chelmey:
+That's right. So now that you know what to do, why don't you go and take a look? Oh, but don't forget, if you find anything, be sure to come and let me know!
+</line><line>Barton:
+We'll be waiting to hear from you!
+</line><line>Luke:
+Professor, I think the unusual accident they were talking about...
+</line><line>Layton:
+Indeed... It could well have something to do with our own investigation... Let's go and take a look at the scene of the accident, Luke. We may find some clues.
+</line><line>Luke:
+Right you are, Professor!
+</line><line>Chelmey:
+When I hear back from them, I may just be able to make something of this case... With the backlog of cases I've got piled up, I have to take help where I can get it.
+</line>
+<captions aligned="center">A new destination has been added to the map: Park - Car-Crash Site.</captions>
+<line>
+</line>
+
+
+
+<line>
+Barton:
+The hamburger's back in one piece!
+</line><line>Luke:
+Now you can give your all to the investigation!
+</line><line>Barton:
+Yes, at last I can concentrate. Not on the hamburger, but on the case. Munch, munch.
+</line><line>Luke:
+Take care not to upset the inspector!
+</line>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<hr />
+<line><i>Park - Car-Crash Site</i>
+</line><line>Luke:
+Professor! Look over there! There's a car up in that tree!
+</line><line>Layton:
+............! This certainly is out of the ordinary. I've never seen anything quite like it.
+</line><line>Luke:
+Like Constable Barton said, it seems extremely unusual. I mean, how on earth could something like this happen?
+</line><line>Layton:
+Hmm...we'll need to investigate this closely. Let's take a closer look at the car.
+</line>
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Luke:
+The more I see it, the stranger this looks. It's as if the car just flew up there. It's certainly taken some damage. You don't think... Could the witches have done this?
+</line><line>Layton:
+It's certainly possible. It would appear the accident occurred only moments ago. Hmm... Wait! What's that mark on the car...?
+</line><line>???:
+Ahem, excuse me, gentlemen! Yes, you two! Would you just stop right there!
+</line><line>Constable:
+I'm afraid I'll have to ask you to leave. This is the scene of an accident, and we haven't finished investigating it yet. As you can no doubt see, it's all rather mysterious. We don't yet know the exact cause of this here mishap. Not a safe place for spectators, I'm afraid. I'll have to ask you both to move along.
+</line><line>Luke:
+We're not spectators! We've been given permission from Inspector Chelmey!
+</line><line>Constable:
+From the inspector, you say? So you're here officially then, are you? In what capacity, may I ask?
+</line><line>Layton:
+Well, not officially, as such. The name's Hershel Layton. I'm an archaeologist.
+</line><line>Constable:
+You're pulling my leg! You mean to tell me that you're the famous Professor Layton? Now that you mention it, you certainly do resemble the good professor.
+</line><line>Luke:
+Of course he does! He IS the professor!
+</line><line>Layton:
+So, Constable. If you don't mind, may we investigate a little closer?
+</line><line>Constable:
+I've been put in charge here, so I can't afford to be wrong about this. For all I know, you might just be impersonating Professor Layton.
+</line><line>Luke:
+What? Oh, come on!
+</line><line>Constable:
+If you're the real Professor Layton, then I'm sure you'll have no trouble solving this little puzzle that I just happen to have here.
+</line><line>Layton:
+Sounds interesting. Let me see what you have.
+</line><line>Constable:
+All right. Take a look at this!
+</line>
+
+<line>
+Constable:
+That's it! You solved it! Judging by the way you solved that puzzle, there's no doubt that you must be the one and only Professor Layton! Of course, from the very start I had a fairly good idea that it was you, Professor.
+</line><line>Luke:
+From the very start you seemed to have your doubts, Constable!
+</line><line>Constable:
+Well, anyway, feel free to investigate as you wish. But, uh...there is one last thing.
+</line><line>Layton:
+Yes?
+</line><line>Constable:
+Later, when you've got a free moment, would you mind signing my helmet?
+</line><line>Luke:
+Are you sure that's allowed?
+</line><line>Layton:
+............ Come on, Luke. Let's take a look around, before the constable changes his mind. Tell me, Luke, did you notice anything strange when we looked at the car?
+</line><line>Luke:
+Anything strange? Well...to be honest, the entire accident is pretty unusual.
+</line><line>Layton:
+Well, yes. But if we're to suppose this accident occurred naturally, then there is one particular mark that should not be there.
+</line><line>Luke:
+A mark that shouldn't be there? Ah! Professor! The handprint! There's a handprint on the bonnet!
+</line><line>Layton:
+Well spotted, Luke.
+</line><line>Luke:
+But a handprint of that size is too big to be left by any normal person!
+</line><line>Layton:
+Indeed. It would almost appear to have been left by the hand of a giant.
+</line><line>Luke:
+That's a bit far-fetched...
+</line><line>Layton:
+............ Luke. Let's look around a little more. Isn't there anything in this park that grabs your attention?
+</line><line>Luke:
+But Professor, from here I can't see anything strange other than that car.
+</line><line>Layton:
+In situations like this, we need to "zoom in", Luke.
+</line><line>Luke:
+...<textEffects>Zoom in</textEffects>?
+</line><line>Layton:
+In cases where something is too far away or is hidden behind another object, we can <textEffects>zoom in</textEffects> to see it more clearly. When you see something of interest, use the magnifying glass to look closer. When the magnifying glass turns <textEffects>blue</textEffects>, it means something important is there. By <textEffects>zooming in</textEffects>, we may just be able to uncover some new clues.
+</line><line>Luke:
+Okay, Professor! I'll <textEffects>zoom in</textEffects> right now. When the magnifying glass turns <textEffects>blue</textEffects>, just touch that area, right?
+</line><line>Layton:
+That's right, Luke. Now then, let's give it a try.
+</line>
+
+
+
+</td></tr></tbody></table>
+<line>Luke:
+Hey...the statue's hand! It's about the same size as the handprint on the car. Do you think the car hit that hand when it crashed?
+</line><line>Layton:
+That is a possibility, of course. However... the handprint on the car is a right handprint, Luke.
+</line><line>Luke:
+R-right hand? But the statue is holding a spear in its right hand. Which means, that couldn't be where the handprint came from.
+</line><line>Layton:
+Quite right, my boy... And it would certainly appear that this is more than a simple traffic accident.
+</line><line>Luke:
+I wonder what could have happened. If the handprint was made by the statue... surely the statue couldn't have...moved?!
+</line><line>Layton:
+............ I'm positive there's some kind of secret behind this. And whatever it may be... we can be certain it's related to the witch that took Espella.
+</line><line>Luke:
+I think so too, Professor. How else could this kind of accident have occurred? If we investigate more closely, perhaps we'll find some clues!
+</line><line>Layton:
+No, Luke. First, we should head back to see the inspector.
+</line><line>Luke:
+Really? But all he seems to say is how unusual it seems...
+</line><line>Layton:
+Well, yes. However, there is one more subject about which I'd like to ask him.
+</line><line>Luke:
+Oh? What's that?
+</line><line>Layton:
+Not "what", my boy. But rather, "who". Who was in the car when it crashed?
+</line><line>Luke:
+Ah!
+</line>
+
+
+</td></tr></tbody></table>
+<hr />
+<line><i>Thames Riverside</i>
+</line><line>Chelmey:
+So what do you think? It's no simple accident, is it?
+</line><line>Barton:
+I'll bet this one's even surprised the great Professor Layton, hasn't it?
+</line><line>Layton:
+Without doubt, this is no ordinary accident. May I ask how the driver was?
+</line><line>Chelmey:
+Hrrm. He wasn't seriously hurt. He's a real jammy dodger, that one. In fact, we're about to take him into custody for questioning. Strictly private, I'm afraid.
+</line><line>Layton:
+Inspector Chelmey. There's something I would like to know.
+</line><line>Chelmey:
+...What's that, then?
+</line><line>Layton:
+The driver's name... Was it, by any chance, Carmine Accidenti?
+</line><line>Chelmey:
+...Eh?! How the devil?! Where did you get that information?
+</line><line>Layton:
+Ho ho. Well... You could just say a little bird told me. He's something of an unlucky-yet-lucky type, always getting himself into trouble only to miraculously escape unharmed.
+</line><line>Chelmey:
+An acquaintance of yours, is he?
+</line><line>Layton:
+He attended my lectures a few years back. An outstanding student.
+</line><line>Chelmey:
+Is that so? Well, perhaps you should have lectured him on how to stay out of trouble. We've had our eye on him for some time. He's a bit of a maverick, that detective. Always sniffing out dangerous situations and poking his nose into trouble. "Unlucky" isn't the half of it... I tell you, I wasn't surprised to find him involved in this ruckus.
+</line><line>Layton:
+............
+</line><line>Luke:
+Professor! That means... This must be the incident in which Carmine was attacked...
+</line><line>Layton:
+............ Yes, it would seem so.
+</line><line>Chelmey:
+What's this? Know something I don't, do you?
+</line><line>Layton:
+No, no... Nothing at all, Inspector.
+</line><line>Chelmey:
+Hrrm, I was hoping you might just come up with something I could use... Never mind. Now I've got that detective, I may be able to wring something from him.
+</line><line>Barton:
+I'd really like to know how such an accident occurred!
+</line><line>Layton:
+Inspector... Just one more question. Is there any evidence to suggest that Carmine was not alone in that car?
+</line><line>Chelmey:
+What's that? Someone else in the car? No, there's nothing to suggest that.
+</line><line>Layton:
+...Is that so? Well, was there anything else unusual about the accident that you haven't mentioned?
+</line><line>Chelmey:
+Anything else unusual... Hmm... No, not as far as I'm aware.
+</line><line>Barton:
+Wait a minute! We did see those strange people in Halloween costumes...
+</line><line>Layton:
+Hmm?!
+</line><line>Chelmey:
+Oi! Barton! Like I said before, I'll do all the talking!
+</line><line>Barton:
+Yes, Inspector. Sorry, Inspector.
+</line><line>Layton:
+These people in Halloween costumes... can you tell me anything about them?
+</line><line>Chelmey:
+Hrrm, you're certainly persistent, Layton. To be honest with you, I don't think they had anything to do with it. We saw a group of them loitering around Tower Bridge. I decided to question them, but when I took my eyes off them for a second, they just disappeared. I wonder what in the blazes they were up to, wandering around dressed like that...
+</line><line>Layton:
+When precisely was this?
+</line><line>Chelmey:
+Just a moment ago. About the same time you went to the park.
+</line><line>Luke:
+Halloween costumes? Professor! Could it be...?
+</line><line>Layton:
+Hmm, I see what you mean. It seems we may have a lead.
+</line><line>Luke:
+Thank you for your help, Inspector!
+</line><line>Chelmey:
+Now, hold on. Just what's this all about?
+</line><line>Luke:
+Well, we seem to have come to the right place, all right.
+</line><line>Layton:
+Yes... It would appear the witches attacked Espella and Carmine in the park... before coming after Espella and abducting her from my office. Following that, they must have made their way from there to Tower Bridge.
+</line><line>Luke:
+We may still catch up with them if we hurry! Let's go!
+</line>
+<captions aligned="center">A new destination has been added to the map: Tower Bridge.</captions>
+<hr />
+<captions aligned="center"><b>NEW MYSTERY</b>
+<b>Investigation</b></captions>
+<line><b>The professor's former student, Carmine Accidenti, who gave Espella a letter for the professor, was involved in a car crash while they were being pursued by witches. What was he investigating in Labyrinthia?</b>
+<i>The news of Carmine's accident came as a shock, but at least he survived. I would like to have discussed things with him.</i>
+</line>
+<hr />
+<line><i>Thames Riverside</i>
+</line>
+
+
+
+</td></tr></tbody></table>
+<hr />
+<line><i>Tower Bridge</i>
+</line><line>Luke:
+There's no one here.
+</line><line>Layton:
+This is puzzling... I'd normally expect to see more people here at this time.
+</line><line>Luke:
+It must be the bad weather. I guess no one wants to go out in this...
+</line><line>Layton:
+That could be it... Although I'm also sensing something of a peculiar presence in the air.
+</line><line>Luke:
+Eh?! Professor... Don't talk like that... ...Whoa! Th-that made me jump!
+</line><line>Layton:
+Luke! Over there!
+</line><line>???:
+............!
+</line><line>Luke:
+Yikes! What was that?! I bet it was one of them! Professor, let's follow it!
+</line><line>Layton:
+Just a moment, Luke. There's something we should review before we go running off. The method of entering a building is a little different to that of regular movement. Sometimes, when moving the magnifying glass during Investigation Mode, the cursor will change to a <textEffects>yellow arrow</textEffects>. This indicates a means of direct entry. You can also enter while in Movement Mode. Simply touch <textEffects>Enter</textEffects> to do so.
+</line><line>Luke:
+Touch the yellow arrow in Investigation Mode, or <textEffects>Enter</textEffects> in Movement Mode, right?
+</line><line>Layton:
+That's it, my boy. Try not to forget. All right then, let's make haste!
+</line>
+<captions aligned="center">A new destination has been added to the map: Bridge Tunnel.</captions>
+<line>
+</line>
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+<hr />
+<line><i>Bridge Tunnel</i>
+</line><line>Luke:
+What the...? That thing just disappeared...into thin air?
+</line><line>Layton:
+Hmm... Well, I certainly don't feel that same presence I did just a moment ago.
+</line><line>Luke:
+Hey, Professor! What's that?! Wait, isn't that... Professor, it's Espella's cloak!
+</line><line>Layton:
+Yes...it certainly looks like the cloak she was wearing.
+</line><line>Luke:
+Espella... Where could she have gone?
+</line><line>Layton:
+Hmm?! Luke, take a look at that. On the wall there, just next to the cloak...
+</line><line>Luke:
+Eh? Hey! There's some kind of mysterious pattern engraved here.
+</line><line>Layton:
+Indeed... I believe this may demand closer investigation.
+</line>
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Luke:
+...What do you think this pattern is all about?
+</line><line>Layton:
+Well, I can't say it's a pattern I've ever seen before. I wonder what a mark like this could be doing here...
+</line><line>Luke:
+Wait a sec... That figure disappeared right around here, didn't it?
+</line><line>Layton:
+That's right... Not to mention, Espella's cloak is lying right here in front of this wall. Without doubt, there must be some kind of clue here as to Espella's whereabouts.
+</line><line>Luke:
+Let's check it out! ...Wait... Can you hear something?
+</line><line>Layton:
+...!
+</line><line>Luke:
+...........................P-Professor! The wall's moving!
+</line>
+
+<line>Luke:
+Look, Professor! Th-the wall...
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Layton:
+What's this now? Luke! Are you all right, Luke?
+</line><line>Luke:
+Uh, yes!
+</line>
+<hr />
+<line><i>Mysterious Room</i>
+</line><line>Layton:
+What is this place?
+</line><line>Luke:
+What's a place like this doing behind the wall?!
+</line><line>Layton:
+It appears to have been here for some time.
+</line><line>Luke:
+I wonder who could have made this place... and why? It's so dark... I can barely see. Ah! Espella! Professor, we've got to search for Espella!
+</line><line>Layton:
+Indeed. She could be here somewhere. Although...
+</line><line>Luke:
+So...could that witch...
+</line><line>Layton:
+Precisely. We should proceed with caution.
+</line><line>Luke:
+Okay!
+</line>
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+<line>Luke:
+Ah! Professor, over there!
+</line><line>Layton:
+...What's this?
+</line><line>Luke:
+Quickly, let's get her on her feet!
+</line>
+
+<line>Layton:
+Espella! Are you all right?
+</line><line>Espella:
+Mr...Layton... It's really you... Mr Layton...you really did come and rescue me...
+</line><line>Layton:
+Of course. As I've said, it is the duty of every gentleman to save a lady in trouble.
+</line><line>Espella:
+Thank you, Mr Layton.
+</line><line>Luke:
+It's my duty too, as an apprentice gentleman! Ah! Professor! I think they're coming back!
+</line><line>Layton:
+I don't sense any immediate danger... But be sure to stay on your guard, Luke.
+</line><line>Luke:
+Right! Now, let's hurry up and leave this place.
+</line><line>Espella:
+There's no escaping them.
+</line><line>Luke:
+Eh?
+</line><line>Espella:
+Carmine tried many times to lead me away from the witches... But, as you have seen, we were unable to escape them for long...
+</line><line>Luke:
+Uh-oh! What should we do, Professor?
+</line>
+<hr />
+<line>Layton:
+Hmm?!
+</line><line>Espella:
+Oh, no!
+</line><line>Layton:
+That figure...from before.
+</line><line>Luke:
+Professor, I can hear something! It's coming from the end of the corridor!
+</line><line>Espella:
+Just as I thought. Mr Layton! If we stay here, they'll find us!
+</line><line>Luke:
+This is bad, Professor! They're getting closer and closer!
+</line><line>Layton:
+Hmm...
+</line><line>Espella:
+Please! At least, save yourselves!
+</line><line>Layton:
+Hmm... Don't worry, there may be a way out of this.
+</line><line>Espella:
+Eh?
+</line><line>Layton:
+I have an idea... Please, leave this to me.
+</line><line>Espella:
+...All right.
+</line><line>Layton:
+There's not much time, so listen carefully.
+</line>
+<hr />
+<line>Luke:
+Professor! They're nearly here! And there are lots of them!
+</line><line>Layton:
+............ Okay, we should be all set. Let's get going, Luke!
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+"Witch":
+Hand over the girl!
+</line><line>Espella:
+Mr Layton...
+</line>
+<hr />
+<line>???:
+</line>
+<captions aligned="center"><textEffects>...So you enjoy playing silly little tricks...?</textEffects></captions>
+<line>
+Layton:
+Well, it seems you underestimated us.
+</line><line>Luke:
+You didn't think we'd just give ourselves up, did you?!
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>Hmph...</textEffects></captions>
+<line>
+Layton:
+So, tell me...just who are you "witches"? And why are you so determined to capture Espella?!
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>Hmph... ...Fools...</textEffects></captions>
+<line>
+Layton:
+Hmm...?!
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>...It's yourselves... ...you should be more concerned about... ...Do you have any idea of what it means... ...to involve yourself with that girl...?! ...It would seem not...</textEffects></captions>
+<line>
+Luke:
+Wh-what do you mean?!
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>...Ha ha ha ha ha ha... ...The pair of you have unknowingly... ...walked right into... ...the middle of the Story...</textEffects></captions>
+<line>
+Luke:
+The middle of the story?
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>...You'll soon see what I mean... ...with your very own eyes!</textEffects></captions>
+<line>
+Luke:
+Professor! She just disappeared...
+</line><line>Layton:
+I wonder what she could have meant by that...
+</line><line>Luke:
+I don't know, but I have a bad feeling about all of this... Do you think she's just trying to scare us because she lost...?
+</line><line>Layton:
+Hmm... At any rate, we should try to reach Espella. I know where that ship was heading. Let's head to the port and meet Espella when she arrives.
+</line><line>Luke:
+Right. And then we can give her back this book. H-huh? P-Professor! The book! It's...
+</line><line>Layton:
+Hmm...?
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Luke:
+Isn't this...?! Isn't this us, Professor?
+</line><line>Layton:
+Surely not...
+</line>
+<captions aligned="center">To Be Continued...</captions>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+
+
+
+
+
+</xml>

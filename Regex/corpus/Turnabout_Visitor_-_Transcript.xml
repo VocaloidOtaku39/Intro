@@ -1,0 +1,1702 @@
+<xml>
+
+<title>Turnabout Visitor</title>
+
+<line>
+To make sure the defendant is found guilty. What other choice do I have? That's the job of a prosecutor, after all.
+</line><line>Th-That may be true, but why...? Why go this far?
+</line><line>Sorry, maybe I wasn't clear enough, but a guilty verdict is all that matters to me. No matter what the cost. I'm a prodigy among prosecutors. Always have been, always will be.
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 14, 2:05 AMProsecutor's Building12th Floor Hallway</textEffects></captions>
+<line>
+Edgeworth:
+<textEffects>(It's hard to believe that I've been away from my office for a whole month. I hope Detective Gumshoe has been keeping an eye on my office. And keeping it clean. Hm...? The door is unlocked...)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+Detective Gumshoe...? <textEffects>(Hm? What's this smell...? It's very familiar... <span style="color:#E16935">Blood</textEffects>? Wh-What the!?)</span> What's the meaning of this!?
+</line><line>???:
+Freeze.
+</line><line>Edgeworth:
+Identify yourself.
+</line><line>???:
+.................. Shut up.
+</line><line>Edgeworth:
+Hmph. You've got some nerve, committing murder in a prosecutor's office. Is that a threat?
+</line><line>???:
+...
+</line><line>Edgeworth:
+...Let me make one thing very clear.
+</line><line>???:
+What?
+</line><line>Edgeworth:
+No one gets away with committing murder in my office. No one.
+</line><line>???:
+............
+</line>
+<hr />
+<line>Edgeworth:
+My name is <textEffects>Miles Edgeworth</textEffects>. And I work as a <textEffects>prosecutor</textEffects> in my local district. Little did I know that upon my return home after a month abroad... ...I would be thrust into a multitude of cases, and some very frantic and busy days.
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 14, 2:56 AMHigh Prosecutors' OfficesRoom 1202</textEffects></captions>
+<line>
+Edgeworth:
+.........
+</line><line>Forensics:
+I've finished photographing the victim's body, sir!
+</line><line>Edgeworth:
+Very well. Please continue your investigation.
+</line><line>Forensics:
+Yes, sir!
+</line><line>Edgeworth:
+.........
+</line><line>???:
+Aaaaaaaaaaaaaaaaaaaaaaaaaah! Mr. Edgeworth, sir!! Are you OK, sir!?
+</line><line>Edgeworth:
+Keep it down, Detective. This is a crime scene.
+</line><line>???:
+When I heard that a murder had taken place in your office, I ran up here straight away!
+</line><line>Edgeworth:
+<textEffects>(This is Dick Gumshoe. He is a detective with the local precinct... ...and the one they assigned to handle this murder case for the time being.)</textEffects>
+</line><line>Gumshoe:
+You're looking a little pale, sir! Are you hurt!?
+</line><line>Edgeworth:
+No, I'm perfectly fine. However...
+</line><line>Gumshoe:
+Ack! Look what they did to your office! It's totally trashed!
+</line><line>Edgeworth:
+I'll say. The culprit sullied my floor with dirt rather well. No one gets away with tracking mud into my office.
+</line><line>Gumshoe:
+Whoa! Sounds like you're getting really burned up over this whole thing!
+</line><line>Edgeworth:
+This crime was committed in my office, so it is my responsibility to solve it.
+</line><line>Gumshoe:
+Ho ho! That's just like you, Mr. Edgeworth! OK! Time to do some investigating!
+</line><line>Edgeworth:
+Agreed. Our first course of action is to gather relevant <textEffects>facts</textEffects> and <textEffects>leads</textEffects>. <textEffects>(We must not overlook anything, no matter how small, if we are to find the truth. So I'll keep any leads or information we find etched in the forefront of my mind.)</textEffects> Speaking of things that pique my curiosity... Why of all places did the <textEffects>murder</textEffects> occur in <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Crime scene: My office – Is it really coincidence that the murder took place in my office?">my office</textEffects></span><textEffects> (Crime scene: My office – Is it really coincidence that the murder took place in my office?)</textEffects></span>? <textEffects>(Hmm... I get the nagging feeling that this is something important to keep in mind.)</textEffects>
+</line><line>Gumshoe:
+Yeah, I was wondering that myself, sir... I mean, you can't really say it's just a coincidence, can you?
+</line><line>Edgeworth:
+No, not really. Especially because of this.
+</line><line>Gumshoe:
+The <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="The office key – For security reasons, this office&#39;s door has a lock built into it.">key to your office</textEffects></span><textEffects> (The office key – For security reasons, this office's door has a lock built into it.)</textEffects></span>? What do you mean, sir?
+</line><line>Edgeworth:
+If you think about it carefully and use <textEffects>Logic</textEffects>, it should become clear to you.
+</line><line>Gumshoe:
+<textEffects>Logic</textEffects>...?
+</line><line>Edgeworth:
+By finding the connection between <textEffects>two pieces of information</textEffects>... ...and <textEffects>connecting them</textEffects>, new <textEffects>information</textEffects> is born. That is the end result of using <textEffects>Logic</textEffects>.
+</line><line>Gumshoe:
+So how do you use it?
+</line><line>Edgeworth:
+First, I recall <textEffects>information</textEffects> through the <textEffects>Logic Button</textEffects>, and then <textEffects>Connect</textEffects> them together. <textEffects>(Now, to touch the <span style="color:#E16935">Logic Button</textEffects> and recall the <textEffects>facts</textEffects>.)</span>
+</line>
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+For security reasons, all prosecutors' doors are outfitted with locks. Which means it would have been hard for the murderer and the victim to get in here. Ergo, it's impossible to dismiss the location of this crime as mere coincidence.
+</line><line>Gumshoe:
+Yes, that's exactly what I was thinking, sir!
+</line><line>Edgeworth:
+<textEffects>(There must be a reason why someone infiltrated my room... <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="The killer&#39;s goal – Why did this happen in my office? What was the killer after?">What was the killer after?</textEffects></span><textEffects> (The killer's goal – Why did this happen in my office? What was the killer after?)</textEffects></span></span>
+</line><line>Gumshoe:
+You're really on the ball today, Mr. Edgeworth! That's some beautiful <textEffects>Logic</textEffects>, sir!
+</line><line>Edgeworth:
+Yes, well... When you follow <textEffects>leads</textEffects> to their conclusion, only the truth remains. <textEffects>(However... If the <span style="color:#E16935">information</textEffects> doesn't line up properly, I may <textEffects>stray far from the truth</textEffects> as well... But if I think carefully before piecing leads together, the <textEffects>Logic</textEffects> should flow.)</span> Well, let's get started with our investigation, shall we?
+</line><line>Gumshoe:
+Yes, sir!
+</line>
+<captions aligned="center"><textEffects>Begin Investigation</textEffects><textEffects>High Prosecutors' Offices
+Room 1202</textEffects></captions>
+<line>
+Gumshoe:
+The basis of any good investigation is to <textEffects>examine</textEffects> everything, sir!
+</line><line>Edgeworth:
+I know that. And when I want to <textEffects>examine</textEffects> something, I simply touch the <textEffects>Examine Button</textEffects>.
+</line><line>Gumshoe:
+Oh, if you ever feel lost and want to talk, just touch the <textEffects>Partner Button</textEffects>, OK!? I'll give you great, precise advice as an Ace Investigator, sir!
+</line><line>Edgeworth:
+<textEffects>(*sigh* Something to try later if I have free time, I suppose.)</textEffects>
+</line>
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+<line>Edgeworth:
+Hmm, there's blood all over his <textEffects>lower abdominal area</textEffects>.
+</line><line>Gumshoe:
+It looks like the bullet passed clean through his stomach area, sir...
+</line><line>Edgeworth:
+In other words, he was shot.
+</line><line>Gumshoe:
+Yup. And until the autopsy's done, I don't think we'll know much more than that.
+</line><line>Edgeworth:
+Please have the body sent to the morgue once they're done processing the crime scene.
+</line><line><textEffects>Crime Scene Notes jotted down in my Organizer.</textEffects>
+</line>
+
+</td></tr></tbody></table>
+
+
+<line>Edgeworth:
+Hmm, there's blood all over his <textEffects>lower abdominal area</textEffects>.
+</line><line>Gumshoe:
+It looks like the bullet passed clean through his stomach area, sir...
+</line><line>Edgeworth:
+In other words, he was shot.
+</line><line>Gumshoe:
+Yup. And until the autopsy's done, I don't think we'll know much more than that.
+</line><line>Edgeworth:
+Please have the body sent to the morgue once they're done processing the crime scene.
+</line>
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<line>Edgeworth:
+<textEffects>(Let's see what else we can find out about this revolver.)</textEffects>
+</line><line>Gumshoe:
+As I always say, you've gotta look really carefully at each piece of evidence! You can use the <textEffects>Scroll Wheels</textEffects> to rotate an object. There's no such thing as a bad angle! Use the <textEffects>Slide Bar</textEffects> or the <textEffects>X and Y Arrows</textEffects> to zoom in and out to get at the nitty gritty!
+</line>
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line><i>After examining body, files, and barrel of gun:</i>
+</line><line>Edgeworth:
+<textEffects>(I guess this is about all we're going to find out. We should send the body to aut--)</textEffects>
+</line><line>???:
+Jim! Why, oh why!? How could this have happened to a guy like you!?
+</line><line>Edgeworth:
+......... Are you alright?
+</line><line>???:
+Don't touch me! Leave me alone! Just let me be!
+</line><line>Edgeworth:
+Sorry, but I can't do that. The investigation is still ongoing, so please refrain from touching the body.
+</line><line>???:
+The "body"? The "BODY"!? Don't talk about him like he's just some lump of flesh! Look at him... Jim looks like he's just turned in for the night.
+</line><line>Gumshoe:
+Um, sure. Just in a blood-stained suit, pal.
+</line><line>???:
+Where are my manners?
+</line><line>Edgeworth:
+Aren't you that prosecutor...
+</line><line>Portsman:
+Why, yes, I am! I'm Jacques Portsman, Prosecutor. Jim here was my partner in crime busting...
+</line><line>Edgeworth:
+I'm Miles Edgeworth, and like you, I am also a prosecutor.
+</line><line>Gumshoe:
+Detective Dick Gumshoe, sir.
+</line><line>Portsman:
+So you're Miles Edgeworth... I guess this is your office...?
+</line><line>Edgeworth:
+Yes, that is correct.
+</line><line>Portsman:
+Then it was you! You're the one who killed Jim!
+</line><line>Gumshoe:
+Hey, don't go around jumping to conclusions, pal! Just calm down, OK!?
+</line><line>Portsman:
+I will not! I know how things work around here! High prosecutors' office doors all have locks built into them. And only the owner of the office has the key to his or her own office door!
+</line><line>Edgeworth:
+That is correct. However, I was not the one who killed your partner.
+</line><line>Gumshoe:
+Yeah! Mr. Edgeworth has been overseas on a business trip this whole time, pal. And the key to the door was with me the entire time, OK!? So the only one who could get in here was me! Ho ho ho ho. ...Wait, that means... ......... I'm not sure what that means.
+</line><line>Portsman:
+So it was you, then! You're Jim's killer!!
+</line><line>Gumshoe:
+No way, pal! You've got it all wrong!!
+</line><line>Edgeworth:
+Everyone calm down!
+</line><line>Portsman:
+...!
+</line><line>Edgeworth:
+Mr. Portsman, correct? If you are a real prosecutor, you should know to stay collected. The investigation has only just begun. Isn't it too early to be drawing conclusions?
+</line><line>Portsman:
+...Alright, I get the point. You're right, my mistake. I tend to get a little too hot-headed sometimes. You sure are one cool customer, though, Mr. Edgeworth.
+</line><line>Edgeworth:
+.........
+</line><line>Portsman:
+I've heard all the rumors about you. You're the great "Genius Prosecutor". You're something of a legend, you know. Anyway! Let's call a truce and work together, OK? Now, how about a handshake to seal the deal!?
+</line><line>Edgeworth:
+............ A pleasure to work with you.
+</line><line>Portsman:
+You guys were conducting your investigation, right? Sorry for barging in like that. Carry on, then. It's your room, after all.
+</line><line>Edgeworth:
+Thank you, I intend to.
+</line><line>Portsman:
+I just want a little more time to say good-bye to Jim... You there!
+</line><line>Forensics:
+Sir!
+</line><line>Portsman:
+I want you to capture this scene on film for me. My final farewell to my partner Jim...
+</line><line>Edgeworth:
+............ <textEffects>(I should probably give them some space...)</textEffects>
+</line>
+
+
+
+</td></tr></tbody></table>
+<line>Gumshoe:
+Ah! Your jacket, sir! What's it doing on the floor!?
+</line><line>Edgeworth:
+It must have fallen off the wall when the killer tried to threaten me by firing a round.
+</line><line>Gumshoe:
+So the killer not only shot the victim, but they shot your jacket as well!? They dared to shoot the ultra-special jacket that you made your prosecutorial debut in!? What if they had shot through it!? It would've been a disaster!
+</line><line>Edgeworth:
+It's not worth getting worked up over, Detective. Not when there's something more here.
+</line><line>Gumshoe:
+Huh? Like what?
+</line><line>Edgeworth:
+I take it you haven't noticed it yet, Detective. There is a giant <textEffects>contradiction</textEffects> right here in front of us.
+</line><line>Gumshoe:
+Really!?
+</line><line>Edgeworth:
+<textEffects>(Did I say "<span style="color:#E16935">contradiction</textEffects>"? He must be rubbing off on me. I'm starting to sound like him... But I have my own methods and I will conduct this investigation my way. When the scene before me contradicts a piece of evidence or seems off... ...that's when my <textEffects>deductive</textEffects> skills come into play. First, I have to find the spot that holds the contradiction.)</span>
+</line>
+
+
+
+<line>Edgeworth:
+<textEffects>(This is it. This bullet hole is where the contradiction lies! When I spot something that's off, I should touch the <span style="color:#E16935">Deduce Button</textEffects> with conviction!)</span>
+</line>
+
+<line>Edgeworth:
+<textEffects>(And when I have found sufficient proof to prove the contradiction, I <span style="color:#E16935">Present</textEffects> it! This is how I do things.)</span>
+</line>
+
+
+<line>Edgeworth:
+This bullet hole is the contradiction!
+</line><line>Gumshoe:
+Wh-What do you mean, sir!?
+</line><line>Edgeworth:
+It's elementary. Two shots were fired in this room. The first felled the victim... ...and the second felled this frame.
+</line><line>Gumshoe:
+Hey, that's right!
+</line><line>Edgeworth:
+However, this gun was only fired once.
+</line><line>Gumshoe:
+Hey, that's true, too...
+</line><line>Edgeworth:
+Which means that one of these two bullets was fired from a different gun. <textEffects>(Did the killer have <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Another handgun – Other than the victim&#39;s gun that I found, could there be another gun in play here?">another gun</textEffects></span><textEffects> (Another handgun – Other than the victim's gun that I found, could there be another gun in play here?)</textEffects></span> prepared for tonight...?)</span>
+</line><line>Gumshoe:
+By the way, I noticed something, sir...
+</line><line>Edgeworth:
+Yes?
+</line><line>Gumshoe:
+What's that thing sticking out from behind the frame?
+</line><line>Edgeworth:
+Ah, that. It's a <textEffects>secret safe</textEffects>.
+</line><line>Gumshoe:
+A s-<textEffects>secret safe</textEffects>!? Oh, I smell money!
+</line><line>Edgeworth:
+I'll spare us the trouble and just say it. Nothing like what you're imagining is inside. Now, if you could kindly move this frame out of the way.
+</line><line>Gumshoe:
+Roger that! *achoo* *achoo* Talk about dusty!
+</line><line>Edgeworth:
+I suppose that's what happens when I'm not here to dust it once in a while.
+</line><line>Gumshoe:
+I had no idea there was a safe here, or I'd have kept it clean for you, sir! So when did you put this thing in?
+</line><line>Edgeworth:
+It wasn't something I had installed personally. Every prosecutor's office has one.
+</line><line>Gumshoe:
+Really!? I had no idea!
+</line><line>Edgeworth:
+Well, only prosecutors are supposed to have knowledge of their existence.
+</line><line>Gumshoe:
+So... what's inside, Mr. Edgeworth!?
+</line><line>Edgeworth:
+Right now? Nothing. We only use them to store especially important evidence when a trial is in session.
+</line><line>Gumshoe:
+That's it...? Talk about squashing my hopes and dreams...
+</line><line><textEffects>Secret Safe data jotted down in my Organizer.</textEffects>
+</line><line><i>Leads to examination of secret safe</i>
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Edgeworth:
+<textEffects>(Hm...? Now this is odd...)</textEffects>
+</line><line>Gumshoe:
+You found something, sir?
+</line><line>Edgeworth:
+This keypad... Don't you find it to be a bit too clean?
+</line><line>Gumshoe:
+Yeah! There's a thick layer of dust all around it, but not on the keypad itself.
+</line><line>Edgeworth:
+You there, the forensic scientist!
+</line><line>Forensics:
+Yes, sir!
+</line><line>Edgeworth:
+Could you please dust this area for fingerprints?
+</line><line>Forensics:
+You got it, sir!
+</line><line>Edgeworth:
+............
+</line><line>Forensics:
+I couldn't find, let alone lift, a single print. Looks like it was <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Wiped fingerprints – All of the fingerprints on this have been wiped clean off.">wiped down well</textEffects></span><textEffects> (Wiped fingerprints – All of the fingerprints on this have been wiped clean off.)</textEffects></span>.
+</line><line><textEffects>Secret Safe data updated in my Organizer.</textEffects>
+</line><line>Edgeworth:
+As I thought... <textEffects>(It appears that <span style="color:#E16935">Logic</textEffects> is the only way around this setback. Time to rationally and calmly play connect the dots with the <textEffects>information</textEffects> we have.)</span>
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+There is a possibility that the files splayed on the floor... ...are not the result of a struggle between the victim and his killer.
+</line><line>Gumshoe:
+Oh! You mean like it could be from when the killer tried to find something, sir!?
+</line><line>Edgeworth:
+Precisely. We need to figure out if any of the files have been stolen.
+</line><line>Gumshoe:
+Yes, sir! I'm gonna shelve files like you've never seen before, even at a library!
+</line><line>Edgeworth:
+Um, sure... Let's give that a try...
+</line><line>Portsman:
+Why do all the good ones always die young? Surely you must ponder that every once in a while, Mr. Edgeworth.
+</line><line>Edgeworth:
+......... No matter how much we lament, the dead will not come back to life. All we can do is search for the truth.
+</line><line>Portsman:
+......... And? So what are we supposed to do? How do we go about finding the truth?
+</line><line>Edgeworth:
+First, we calmly restore the files to their rightful place.
+</line><line>Portsman:
+You got it! Here, let me help!
+</line><line>Gumshoe:
+Um, so this file goes here, and that book goes there...
+</line><line>Portsman:
+You sure know a lot about where things go, despite it being Mr. Edgeworth's office.
+</line><line>Gumshoe:
+Because I'm the one who keeps it tidy, pal! OK! Done!
+</line><line>Edgeworth:
+It would appear that the murder was definitely committed here.
+</line><line>Gumshoe:
+Unnngh... The bloodstains on the bookshelf are still fresh...
+</line><line>Edgeworth:
+I suspect that the victim was killed in a standing position, hence the prints on the shelf.
+</line><line>Gumshoe:
+And then the guy fell onto the floor, right? The blood on the floor's kinda grossing me out!
+</line><line>Edgeworth:
+...Detective, I don't have the time to deal with your weak stomach right now.
+</line><line>Gumshoe:
+Nnngh... But you know I'm no good with blood, sir...
+</line><line><i>Leads to examination of crime scene</i>
+</line>
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Edgeworth:
+There is clearly a contradiction here with this bullet hole!
+</line><line>Gumshoe:
+Wh-What do you mean, sir!?
+</line><line>Edgeworth:
+You don't see? Quite simply, the bullet hole itself is too low. If the victim was shot in the stomach, the hole should be much higher up.
+</line><line>Gumshoe:
+But what if the guy was shot while he was sitting or lying down, sir!?
+</line><line>Edgeworth:
+That would be illogical. The victim leaned against this shelf here after being shot. Which suggests that he was standing when he was shot.
+</line><line>Gumshoe:
+Then that means...! ............Wait, what does that mean, sir?
+</line><line>Edgeworth:
+It means you need to use your brain every once in a while instead of mine, Detective. In any case, it means someone made a faulty assumption. And it was from this <textEffects>mistake</textEffects> that our current contradiction was born! What is the faulty assumption that caused this problem with the bullet hole's position?
+</line>
+
+
+
+<line>Edgeworth:
+I believe the order of the files is a bit off.
+</line><line>Gumshoe:
+You mean I put them back in the wrong order just now? Hey! Actually, I think the labels on the files are wrong, sir!
+</line><line>Edgeworth:
+Oh?
+</line><line>Gumshoe:
+Yeah! You see here how the files that were shot begin with the number 0? What are those doing all the way down there after 1, 2, and 3!? That's really weird!!
+</line><line>Edgeworth:
+Actually, the way they are organized now is the correct order. They are exactly as I see them in my mind's eye.
+</line><line>Gumshoe:
+But the numbers are all out of order.
+</line><line>Edgeworth:
+Those white binders are special, so they are arranged a little differently. But from this, we know that the files were not in this order when the crime occurred. <textEffects>(Aha! So that's it!)</textEffects> I believe the killer made the same incorrect assumption as you just did, Detective. Let's re-arrange the files in numerical order and see what we find out.
+</line>
+<hr />
+<line>Gumshoe:
+Do you think it'd be OK to prop the body back up to how it was before it was moved?
+</line><line>Edgeworth:
+They've finished processing the crime scene, so I don't see why it wouldn't be. If you please, Detective Gumshoe!
+</line>
+<hr />
+<line>Edgeworth:
+As I suspected... The bullet hole is now where it should logically be. The killer went through my files first before shooting Mr. Faith.
+</line><line>Gumshoe:
+And then put the files back in numerical order, I guess.
+</line><line>Edgeworth:
+Exactly. And then proceeded to shoot the victim.
+</line><line>Gumshoe:
+But why would someone kill a man and then look through your files one more time?
+</line><line>Edgeworth:
+Puzzling indeed. The files were <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Files in disarray - The culprit re-arranged my files twice, once before and once after the murder. Why?">thrown into disarray twice</textEffects></span><textEffects> (Files in disarray - The culprit re-arranged my files twice, once before and once after the murder. Why?)</textEffects></span>, once before and once after the crime. But why?
+</line><line><i>Leads to examination of crime scene</i>
+</line>
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Edgeworth:
+Th-This...!
+</line><line>Gumshoe:
+Wh-What is that!? Why does it say "<textEffects>Gumshoe</textEffects>" on there in blood!?
+</line><line>Portsman:
+I'd say it's some incredibly incriminating evidence...
+</line><line>Edgeworth:
+Yes, indicative of criminal activity, indeed.
+</line><line>Gumshoe:
+No! Wait! There's gotta be some mistake! Mr. Edgeworth, sir! Help me! Say something, sir!
+</line><line>Edgeworth:
+......... It appears that one of my files was stolen.
+</line><line>Gumshoe:
+Is that all, sir!? What about me and my situation!?
+</line><line>Edgeworth:
+<textEffects>(Is this what the killer was really after?)</textEffects>
+</line><line><textEffects>Stolen File data jotted down in my Organizer.</textEffects>
+</line>
+<captions aligned="center"><textEffects>Investigation Complete</textEffects></captions>
+<line>
+Portsman:
+Looks like Jim was able to leave us the name of his killer in the end. And this most important message managed to reach us.
+</line><line>Gumshoe:
+I'm telling you! It wasn't me!!!
+</line><line>Portsman:
+You can't be terribly pleased to hear that your beloved partner is the guilty party.
+</line><line>Edgeworth:
+If you are going to accuse Detective Gumshoe of being the culprit... ...I sincerely hope you have some proof to back it up.
+</line><line>Portsman:
+Jim's words... They're more than enough, wouldn't you say?
+</line><line>Edgeworth:
+If that's how you want to play it, then at least allow me to understand your reasoning.
+</line><line>Portsman:
+You got it!
+</line><line>Edgeworth:
+<textEffects>(I don't like this one bit. There's something strange about this man's attitude. And there must be some sort of <span style="color:#E16935">flaw</textEffects> to his logic waiting for me to dig out.)</span>
+</line><line>Gumshoe:
+Mr. Edgeworth! Wh-What are you going to do?
+</line><line>Edgeworth:
+What I always do in court; I'm going to <textEffects>cross-examine</textEffects> him. One way or another, I'll expose the flaw in his logic with this technique.
+</line><line>Gumshoe:
+Ooh! How do you do that!? C-Can you explain it to me, sir!?
+</line>
+
+
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Mr. Portsman's Logic --</textEffects></captions>
+<line>Portsman:
+Detective Gumshoe. You stole Jim's gun from him and shot him dead.Further, you messed up the files to make it look like you had committed theft instead.That's when you moved Jim's body that was sitting in front of the bookshelf!But thanks to that, you didn't notice the bloody letters his body was hiding.And it will be by his final words that you will be brought to justice.
+</line>
+<hr />
+<line>Edgeworth:
+You intend to argue that the victim's dying message points to his killer...?
+</line><line>Portsman:
+I can hear Jim's voice, and he's calling for his killer's arrest!
+</line><line>Edgeworth:
+Hmph. Are you sure you're not mishearing his words, Mr. Portsman? <textEffects>(There is no way Detective Gumshoe is the culprit here... I will find the <span style="color:#E16935">flaw</textEffects> in this man's logic... ...and expose it with credible evidence!)</span>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Mr. Portsman's Logic --</textEffects></captions>
+<line>Portsman:
+<textEffects>Detective Gumshoe. You stole Jim's gun from him and shot him dead.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>Further, you messed up the files to make it look like you had committed theft instead.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>That's when you moved Jim's body that was sitting in front of the bookshelf!</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>But thanks to that, you didn't notice the bloody letters his body was hiding.</textEffects>
+</line>
+
+
+<line>Portsman:
+<textEffects>And it will be by his final words that you will be brought to justice.</textEffects>
+</line>
+
+<line>Edgeworth:
+<textEffects>(Actually, there's a gigantic <span style="color:#E16935">flaw</textEffects> in his logic... A gap so wide that even the good Detective can spot it. Now to clue Mr. Portsman in by presenting him with some evidence.)</span>
+</line>
+<hr />
+<line>Edgeworth:
+Perhaps you're not aware Mr. Portsman, but there is a serious flaw in your logic.
+</line><line>Portsman:
+Heh, bringing a bit of the courtroom into this, I see. No problem, I'm game!
+</line><line>Edgeworth:
+I can't help but find it odd...
+</line><line>Portsman:
+Excuse me?
+</line><line>Edgeworth:
+Odd that a fellow prosecutor would be brought down by the power of his own office.
+</line><line>Portsman:
+Wh-What are you talking about!? ...Oh, you're joking, I get it...! Ha ha ha.
+</line><line>Edgeworth:
+If you have the time to laugh, then you have the time to take another, closer look at this. Do you still not see? If not, may I direct your attention to the missing file...
+</line><line>Portsman:
+Wh-Whaaaaaaat!? That's impossible!!
+</line><line>Edgeworth:
+What's "impossible", Mr. Portsman?
+</line><line>Portsman:
+Um, uh, nothing...
+</line><line>Edgeworth:
+The files on that shelf are all about a certain case. When the killer went to take the file after murdering your partner... ...I highly doubt they could've missed the bloody letters written on the spines.
+</line><line>Portsman:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Portsman:
+It's possible that they could have taken the file before committing the murder!
+</line><line>Edgeworth:
+I think it's pretty obvious that the file was stolen after it was written on. The missing letters in the detective's name where the file should be is proof.
+</line><line>Gumshoe:
+Yeah! I mean, the "s" is gone, and there's only half an "h"!
+</line><line>Edgeworth:
+If Detective Gumshoe really was the culprit of this case... ...I highly doubt that even he could overlook his own name written in blood on the files. Especially as a detective who can't stand the sight of blood!
+</line><line>Portsman:
+*gasp!*
+</line><line>Gumshoe:
+Which means... what exactly? What does that make this dying message...?
+</line><line>Edgeworth:
+It makes it the work of a criminal intent on tampering with the crime scene.
+</line><line>Portsman:
+............
+</line><line>Gumshoe:
+That's so low! I can't believe the criminal tried to pin this whole thing on me, sir! I'm gonna get 'em, sir! You'll see! I'm gonna have them under arrest in no time!
+</line><line>Edgeworth:
+Well, Mr. Portsman?
+</line><line>Portsman:
+Ha ha ha ha ha ha ha ha ha! Brilliant! Absolutely splendid! Logic deserving of Olympic gold!
+</line><line>Edgeworth:
+I appreciate the praise, but it doesn't change the fact that your reasoning is flawed.
+</line><line>Portsman:
+Meh, you win some and you lose some. That's how life goes.
+</line><line>Gumshoe:
+Glad everyone's so cheery... even though I feel more dead than alive.
+</line><line>Portsman:
+Ah, but you know, it really is a shame... I really didn't want to have to bring this up, however...
+</line><line>Gumshoe:
+W-What is it this time!? Are you still after me, pal!?
+</line><line>Portsman:
+Humor me for a second. Who has the key to this office?
+</line><line>Gumshoe:
+That would be me! But Mr. Edgeworth just proved that I'm innocent, pal!
+</line><line>Portsman:
+That's absolutely right! And I acknowledge your innocence.
+</line><line>Edgeworth:
+Then why do I sense that you still have something to say?
+</line><line>Portsman:
+Well, I was thinking. Did you know there is one other person with a key to this office?
+</line><line>Edgeworth:
+<textEffects>(One other person...?)</textEffects>
+</line><line>Portsman:
+Hey, you there!
+</line><line>Officer:
+Yes, sir! What is it, sir!?
+</line><line>Portsman:
+Would you kindly fetch and escort that lovely young lady here for me...?
+</line><line>Edgeworth:
+<textEffects>(A lady...?)</textEffects>
+</line><line>Portsman:
+The girl is a member of this building's security. Think of her as a "material witness".
+</line><line>Gumshoe:
+S-Security!? Did you say, "Security"!? No, stop it, pal! Don't!
+</line><line>Edgeworth:
+<textEffects>(What's wrong with him all of a sudden?)</textEffects>
+</line><line>Portsman:
+I believe she needs no introduction. I have called upon Ms. Maggey Byrde, a member of security.
+</line><line>Byrde:
+D-Detective Gumshoe, sir...
+</line><line>Gumshoe:
+Maggey!
+</line><line>Portsman:
+Ms. Byrde is the security guard on watch tonight.
+</line><line>Edgeworth:
+I see. And your point is?
+</line><line>Portsman:
+My point is that she could very well have used it. And by "it", I mean the <textEffects>master key</textEffects>, which can open all the office doors in this building.
+</line><line>Gumshoe:
+Wh-Wh-Whaaaaaaaaaaaaaaaat!?
+</line><line>Portsman:
+If you are not the guilty party, Detective Gumshoe... ...then the only other person with access to this room is Ms. Byrde.
+</line><line>Byrde:
+How dare you!? I would never sneak into someone's room!
+</line><line>Gumshoe:
+That's right! I refuse to believe that Maggey's the culprit, pal! Um... It was me! That's right, I did it!
+</line><line>Portsman:
+Can we take that as a confession, Detective?
+</line><line>Gumshoe:
+Um, well, it wasn't really me... But it definitely wasn't Maggey, pal! So, yeah, it was me! If it was, you'd have no problems with that, right!?
+</line><line>Edgeworth:
+Please refrain from flying off the handle, Detective. There's no need for such theatrics.
+</line><line>Portsman:
+Listen to your boss, Detective. He understands what I'm saying here. That girl is the only one who could've committed the crime, and for one simple reason!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Reason for Suspicion --</textEffects></captions>
+<line>Portsman:
+It's pretty obvious that Ms. Byrde snuck into your room using the master key.I mean, if Detective Gumshoe isn't the one who opened the door......then that leaves only Ms. Byrde as our prime suspect.On top of which, she knows our good detective, doesn't she?Making it all that more probable that she was the one who faked the dying message.
+</line>
+<hr />
+<line>Edgeworth:
+So you're saying that she used the master key...
+</line><line><textEffects>Master Key data jotted down in my Organizer.</textEffects>
+</line><line>Portsman:
+Incredibly incriminating evidence, wouldn't you say?
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Edgeworth:
+That's what you claimed about the evidence earlier as well...
+</line><line>Portsman:
+That was then, this is now. The flow of a good match always changes during a rally. It's all about your reflexes and reaction time, especially for an athlete like me!
+</line><line>Edgeworth:
+<textEffects>(I wonder if there was anyone else other than Ms. Byrde who could've used the master key? It seems that the only way to get Mr. Portsman to give me more details is to <span style="color:#E16935">Press</textEffects> him.)</span>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Reason for Suspicion --</textEffects></captions>
+<line>Portsman:
+<textEffects>It's pretty obvious that Ms. Byrde snuck into your room using the master key.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+<line>Portsman:
+<textEffects>Her intent? From the messed-up shelves to the wiped-down safe, I'd say thievery.</textEffects>
+</line>
+
+
+<line>Portsman:
+<textEffects>I mean, if Detective Gumshoe isn't the one who opened the door...</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>...then that leaves only Ms. Byrde as our prime suspect.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>On top of which, she knows our good detective, doesn't she?</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>Making it all that more probable that she was the one who faked the dying message.</textEffects>
+</line>
+
+<line>Gumshoe:
+Mr. Edgeworth! What are you waiting for! Hurry up and present some evidence!
+</line><line>Edgeworth:
+I would love to... But first, we should listen a bit more, and digest what he is saying. <textEffects>(And <span style="color:#E16935">Press</textEffects> him for more information.)</span>
+</line>
+<hr />
+<line>Edgeworth:
+Do you wish to continue insisting that Ms. Byrde was set on stealing something?
+</line><line>Portsman:
+Why not? It's the truth, after all. It was also by your logic that we came to the whole thievery conclusion anyway.
+</line><line>Edgeworth:
+That may be, but you must also be aware of the fact that the safe is a <textEffects>secret safe</textEffects>. The existence of which is only privy to <textEffects>prosecutors</textEffects>...
+</line><line>Portsman:
+Ah!
+</line><line>Edgeworth:
+I find it a little hard to believe that a hidden safe was a part of her cunning plan.
+</line><line>Portsman:
+B-But...! But she could've found it by accident while she was turning everything else upside-down!
+</line><line>Edgeworth:
+I highly doubt that. I'd say the culprit knew exactly what they were looking for. After all, only the <textEffects>bookshelf</textEffects> and the <textEffects>safe</textEffects> were targeted.
+</line><line>Portsman:
+Nnnnghaaaaaargh!
+</line><line>Gumshoe:
+Yeah! Even I didn't know about that safe, pal! And that means there's no way Maggey could've known about it either!
+</line><line>Portsman:
+Th-Then are you proposing... ...that <textEffects>the killer is a prosecutor</textEffects>...?
+</line><line>Edgeworth:
+Interesting conclusion. That's definitely looking more and more probable.
+</line><line>Portsman:
+............
+</line><line>Edgeworth:
+What's wrong, Prosecutor? Do you have a different suspect in mind now?
+</line><line>Portsman:
+I... I... Curses! Why!? What made you--!?
+</line><line>Gumshoe:
+Wh-What's with the angry face all of a sudden...?
+</line><line>Portsman:
+It's... It's all my fault...!
+</line><line>Edgeworth:
+What do you mean?
+</line><line>Portsman:
+It's Jim... He knew... about the existence of the <textEffects>secret safes</textEffects>.
+</line><line>Edgeworth:
+! What did you just say...!?
+</line><line>Portsman:
+We were partners! Like inseparable conjoined twins! That's why I told him. I filled him in on the <textEffects>secret safes</textEffects>.
+</line><line>Gumshoe:
+Then that means...
+</line><line>Portsman:
+Yeah, I know. I had only just told him, too... Obviously, it was wrong of me to tell him... I still can't quite believe it, but the thief who broke into your room was probably Jim...
+</line><line>Edgeworth:
+<textEffects>(Now he's claiming that the victim was the thief...?)</textEffects>
+</line><line>Portsman:
+And... you were simply trying to stop him, weren't you? Ms. Maggey Byrde...
+</line><line>Byrde:
+Excuse me?
+</line><line>Edgeworth:
+.........!
+</line><line>Portsman:
+I mean, you ARE a security guard, right? That's your job. But, killing is going a bit too far, even in your risky profession.
+</line><line>Gumshoe:
+What the--!? You're still accusing Maggey of the murder!?
+</line><line>Portsman:
+Yes and no. I mean, she had stumbled upon Jim, who had probably drawn his gun... I get it! It was <textEffects>self defense</textEffects>, wasn't it!?
+</line><line>Byrde:
+N-No! I... I couldn't... I could never do something like that, not even as a security guard, sir!
+</line><line>Gumshoe:
+Plus, even if he was the thief, he wouldn't have a key to this office!
+</line><line>Portsman:
+Which is precisely why he had to steal it, wouldn't you say? It was Jim who stole the master key.
+</line><line>Byrde:
+Aaah!
+</line><line>Portsman:
+Pretty impossible for a supposedly "stolen" key to be here with us, unless... ...well, unless you retrieved it from Jim after you killed him.
+</line><line>Edgeworth:
+Mr. Portsman, are you honestly accusing your own partner of being a thief?
+</line><line>Portsman:
+I don't want to admit it, but it's the only way for everything else to make sense.
+</line><line>Edgeworth:
+<textEffects>(Has he no honor!?)</textEffects>
+</line><line>Portsman:
+Now then, I think we're done here. The investigation waits for no man. Would you people be so kind as to see yourselves out?
+</line><line>Gumshoe:
+You can't kick us out! This is Mr. Edgeworth's office!
+</line><line>Portsman:
+Ah, but I'm the one who's been assigned to this case. You are all suspects to varying degrees, and therefore, ineligible to run this show.
+</line><line>Edgeworth:
+.........
+</line><line>Gumshoe:
+Listen, pal! How many times do I have to say this!? Maggey CAN'T be the culprit!!
+</line><line>Edgeworth:
+Detective Gumshoe! Calm yourself.
+</line><line>Gumshoe:
+B-But, sir...
+</line><line>Edgeworth:
+We have no choice but to accommodate his request... for now.
+</line><line>Portsman:
+Ha ha! Thank you, Mr. Edgeworth. At least ONE of you understands. Now, then, if you could remove yourselves from my crime scene, I'd be most grateful.
+</line><line>Edgeworth:
+Hmph. Mark my words, Mr. Portsman. We will meet again.
+</line><line>Portsman:
+If that's a formal request from the legendary prosecutor himself, then I suppose so. Now don't disappoint me, you hear!?
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<captions aligned="center"><textEffects>March 14, 4:18 AMProsecutor's Building12th Floor Hallway</textEffects></captions>
+<line>
+Gumshoe:
+What is with that prosecutor!? I can't believe how rude he was! It was... unbelievable!
+</line><line>Edgeworth:
+Please maintain your professionalism, Detective.
+</line><line>Gumshoe:
+I'm gonna find some real solid evidence proving Maggey's innocence! You'll see, sir!
+</line><line>Byrde:
+But we've been kicked out of the crime scene, sir!
+</line><line>Gumshoe:
+T-True... So then, what now!?
+</line><line>Byrde:
+Looks like my life's fallen into yet another gigantic ditch.
+</line><line>Edgeworth:
+Do not despair, Ms. Byrde. We can overcome this as well. There are many other places and things we should be looking into anyway.
+</line><line>Gumshoe:
+Eh!? Really, sir!?
+</line><line>Edgeworth:
+For example, this hallway. The lynchpin of his argument against Ms. Byrde is related to the master key. In that case, this hallway is the perfect place to look for more information... ...regarding the mystery surrounding my door.
+</line>
+<captions aligned="center"><textEffects>Begin Investigation</textEffects><textEffects>Prosecutor's Building
+12th Floor Hallway</textEffects></captions>
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+<line>Edgeworth:
+There's a contradiction here between reality and the evidence. If what Ms. Byrde has said is true, then why is this door locked tight?
+</line><line>Gumshoe:
+Huh? You know, you're right!
+</line><line>Edgeworth:
+Ms. Byrde, are you sure you didn't re-lock this door?
+</line><line>Byrde:
+I am certain of it, sir. And I don't think Mr. Portsman noticed it himself that I hadn't...
+</line><line>Gumshoe:
+Which means... what, sir?
+</line><line>Edgeworth:
+It either means that he actually DOES have the key to his office... ...or that the door Ms. Byrde opened wasn't this one at all, but a completely different one.
+</line><line>Gumshoe:
+She opened a different door? But how can you prove that?
+</line><line>Edgeworth:
+There's an easy way to find out. All we need to do is... ...we need to examine these:
+</line>
+
+
+
+<line>Edgeworth:
+The prints on the doorknob will tell us everything!
+</line><line>Gumshoe:
+Hey, you! Yeah, you, pal! Do us a favor and see what you can lift from this, OK!?
+</line>
+<hr />
+<line>Gumshoe:
+So!? What did you find out!?
+</line><line>Edgeworth:
+There's no need for such belligerent nostril flaring, Detective.
+</line><line>Forensics:
+Sir! I have found only Mr. Portsman's and Mr. Faith's prints on this doorknob.
+</line><line>Edgeworth:
+So only two people's prints were found on this, huh? That's pretty decisive...
+</line><line>Gumshoe:
+Huh? I'm lost, sir.
+</line><line>Edgeworth:
+Thinking logically, a certain other person's prints should be on this knob as well. <textEffects>(Now then, whose prints should also be on this doorknob?)</textEffects>
+</line>
+
+
+
+<line>Edgeworth:
+Don't you find it odd that the prints of the person who unlocked this door are absent?
+</line><line>Gumshoe:
+You mean...?
+</line><line>Edgeworth:
+Yes, the door that Ms. Byrde opened could not have been this one, but a different one.
+</line><line><textEffects>Mr. Portsman's Office data updated in my Organizer.</textEffects>
+</line><line>Edgeworth:
+<textEffects>(Hm? What have we here?)</textEffects>
+</line><line><i>Leads to examination of right office door</i>
+</line>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line><i>After examining file under sofa, doorknob of left office door, lower part of basketball hoop, and slip of paper under right office door:</i>
+</line>
+<captions aligned="center"><textEffects>Investigation Complete</textEffects></captions>
+<line>
+Edgeworth:
+Poking around in this hallway has actually paid off quite handsomely.
+</line><line>Gumshoe:
+Huh...? H-How so, sir!?
+</line><line>Edgeworth:
+In a variety of different ways... I think it's time we had a little chat... ...with the real culprit of this case.
+</line><line>Byrde:
+Y-You know who the real killer is!? Wow, Mr. Edgeworth!!
+</line><line>Edgeworth:
+As long as my logic is sound, then yes... The mastermind behind this murder is none other than Mr. Portsman.
+</line><line>Byrde:
+Whaaaaaaaaaat!? Mr. Portsman!?
+</line><line>Gumshoe:
+I knew it! That's exactly what my logic senses were telling me, too! I suspected it was him from the instant he accused Maggey of being the killer, sir!
+</line><line>Edgeworth:
+<textEffects>(That is anything but logical.)</textEffects> Lady and gentleman. Prepare yourselves. Come what may, it's time to knock on Truth's Door.
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 14, 5:12 AMHigh Prosecutor's OfficeRoom 1202</textEffects></captions>
+<line>
+Forensics:
+Mr. Portsman! I've finished processing the bloody letters, sir!
+</line><line>Portsman:
+Alright! Let me take a gander at it! Pass it here! OK, looking good! You there! Take good care of this!
+</line><line>Gumshoe:
+Gwwwwoooooooooooooooaaar!!!
+</line><line>Portsman:
+Well, if it isn't Detective Gumshoe!
+</line><line>Gumshoe:
+End of the line for you, Portsman. We've got you now!
+</line><line>Portsman:
+Call off your dog, Mr. Edgeworth. Is this some kind of joke?
+</line><line>Edgeworth:
+It's no joke. We know, Mr. Jacques Portsman, that you are the guilty party in this case.
+</line><line>Portsman:
+...! You must be pretty upset, getting chased out of your own room. I'd be mad, too. So I guess you can stay... If you promise to stay out of our way.
+</line><line>Edgeworth:
+You intend to hide your crime under the guise of a prosecutor doing his job? Hmph, I can see right through the unsightly, paper-thin mask you wear upon your cowl.
+</line><line>Portsman:
+Ha ha. Who'd have ever thought it would come to this? Actually, come to think of it, your mentor was Manfred von Karma, right?
+</line><line>Edgeworth:
+!
+</line><line>Portsman:
+The legendary prosecutor who never lost a single case for 40 long years. But there was always this... incessant chatter about forged evidence with that guy.
+</line><line>Edgeworth:
+............
+</line><line>Portsman:
+Really teaches me that I've got to stay on the lookout for false accusations, you know?
+</line><line>Edgeworth:
+Are you done trying to play mind games with me, because they won't work. The only thing you should be using that mouth of yours for now is explaining yourself. Although that, too, will only dig your hole deeper. Either way, your game is up.
+</line><line>Portsman:
+Well, aren't we full of ourselves? Even though you have yet to prove anything.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Mr. Portsman's Rebuttal --</textEffects></captions>
+<line>Portsman:
+I have no idea what sort of hair-brained idea you have in mind, but...
+...there's a mountain of evidence that points away from me being the culprit.
+Besides, how, may I ask, do you propose I unlocked your door and got in here?
+Look, I feel bad doing this to you, but I've got work to do, so we're done here.
+</line>
+<hr />
+<line>Edgeworth:
+Sorry, but we are not finished, yet.
+</line><line>Portsman:
+Boy you're stubborn. I suppose you're basing your accusations on something?
+</line><line>Edgeworth:
+<textEffects>(I'll show you what I'm basing my accusation on... with evidence.)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Mr. Portsman's Rebuttal --</textEffects></captions>
+<line>Portsman:
+<textEffects>I have no idea what sort of hair-brained idea you have in mind, but...</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>...there's a mountain of evidence that points away from me being the culprit.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>Besides, how, may I ask, do you propose I unlocked your door and got in here?</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+<line>Portsman:
+<textEffects>Look, I feel bad doing this to you, but I've got work to do, so we're done here.</textEffects>
+</line>
+
+<line>Portsman:
+So? Where's your proof? The saying, "Evidence is everything" isn't limited to just the courtroom, you know.
+</line><line>Edgeworth:
+Hmph. You need not remind me. I'll show you all the evidence you want in time.
+</line>
+<hr />
+<line>Edgeworth:
+I believe you were able to open my office door. With the master key, no less.
+</line><line>Portsman:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Portsman:
+Wait, wait, wait. Hold on for a sec. I never laid a finger on that key, as you already know.
+</line><line>Edgeworth:
+Precisely. You were able to open my door without lifting a single finger. Well, maybe you did, but only to direct.
+</line><line>Portsman:
+.........!
+</line><line>Edgeworth:
+<textEffects>That's right. You used your finger to direct this person to open my door with the key!</textEffects>
+</line>
+
+
+
+<line>Edgeworth:
+You had asked Ms. Byrde to open your own office door for you, yes?
+</line><line>Portsman:
+Yeah, I kind of forgot my key at home. Happens a bit too often for my taste, you know?
+</line><line>Edgeworth:
+But the room you had Ms. Byrde open at that time was not your own, was it?
+</line><line>Portsman:
+!
+</line><line>Byrde:
+Wh-What!?
+</line><line>Portsman:
+You have quite the imagination. But why don't we ask the girl herself whose door she opened, shall we?
+</line><line>Byrde:
+Um... I'm certain that it was Mr. Portsman's door, sir. I checked the number plate to make sure I was opening the right door, sir!
+</line><line>Portsman:
+See, Ms. Byrde backs up my story.
+</line><line>Edgeworth:
+Yet, what if you had mislead her, to fool her into thinking what you wanted?
+</line><line>Portsman:
+Hah! And how do you suppose I did that!?
+</line><line>Edgeworth:
+By switching the number plates on our doors, for example.
+</line><line>Byrde:
+That's right! They do slide out pretty easily!
+</line><line>Edgeworth:
+Furthermore, you then used one other thing to give a very strong impression... ...that the door she was opening was yours and not, in fact, mine. <textEffects>(What was it that Mr. Portsman used to make Ms. Byrde think that it was his room?)</textEffects> 
+</line>
+
+
+<line>Byrde:
+What!? The basketball hoop, sir!?
+</line><line>Edgeworth:
+It's quite the peculiar fixture in any hallway, let alone a hallway in this building. Which is why it left an unusually strong impression on you. It's an object perfectly suited to sit just outside the office of a peculiar prosecutor.
+</line><line>Portsman:
+Gwaaaaaaaaaaaaaaaah!
+</line><line>Byrde:
+That's very true, sir! Because there was a basketball hoop sitting there... ...I thought the door I was opening had to be Mr. Portsman's!
+</line><line>Edgeworth:
+There are signs that the hoop has been moved. To sit it in front of my office, to be sure.
+</line><line>Portsman:
+I...I see. So that's how you throw suspicion on people. Thanks for the tip. But I think your conjecture is a little off the race track.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Conjecture's Rebuttal --</textEffects></captions>
+<line>Portsman:
+Now you're just spouting nonsense.
+I had the girl open my office door.
+After that, I was in my room the entire time.
+You don't have a single reason to suspect me!
+</line>
+<hr />
+<line>Edgeworth:
+<textEffects>(So he intends to claim his innocence to the end, does he?)</textEffects>
+</line><line>Portsman:
+I'm as pure and innocent as my jacket. And Ms. Byrde is as dirty and guilty as the jacket she wears.
+</line><line>Byrde:
+My jacket's not dirty, I'll have you know! I just washed it yesterday!
+</line><line>Edgeworth:
+Please calm down, for I intend to show who is the one truly covered in slime here.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Conjecture's Rebuttal --</textEffects></captions>
+<line>Portsman:
+<textEffects>Now you're just spouting nonsense.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>I had the girl open my office door.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>After that, I was in my room the entire time.</textEffects>
+</line>
+
+
+<line>Portsman:
+<textEffects>You don't have a single reason to suspect me!</textEffects>
+</line>
+
+<line>Edgeworth:
+<textEffects>(He seems to be trembling a little... One more little push... All I have to do is find the flaw in his testimony!)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+That, was a lie.
+</line><line>Portsman:
+Wh-What are you talking about!? How was that a lie!?
+</line><line>Edgeworth:
+This is a note that the victim left for you, Mr. Portsman.
+</line><line>Portsman:
+A note?
+</line><line>Edgeworth:
+It was left under your door. Or did you not notice? And right here, it says, "but you're out."
+</line><line>Portsman:
+............
+</line><line>Edgeworth:
+You were not in your room when the victim came to call on you. So then, where were you and what were you doing?
+</line><line>Portsman:
+Aaaaaaaaah!
+</line><line>Edgeworth:
+Shall I explain it in full detail for you? You were busy snooping around in my room, the very room you had Ms. Byrde open for you!
+</line><line>Portsman:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Portsman:
+Th-That's just nonsense! You have no evidence that I made the girl open your door for me!
+</line><line>Edgeworth:
+Oh, but I do. I have very decisive evidence!
+</line><line>Portsman:
+N-No way!!
+</line><line>Edgeworth
+<textEffects>This is proof positive that you had Ms. Byrde open the door for you!</textEffects>
+</line>
+
+
+<line>Edgeworth:
+I had your door dusted for prints.
+</line><line>Portsman:
+My door? Hah, what for? Come on, I bet you didn't find anything. You sure are good at wasting time.
+</line><line>Edgeworth:
+You're right. I didn't find anything, and definitely not Ms. Byrde's fingerprints.
+</line><line>Portsman:
+Her prints? What do they have to do with anything?
+</line><line>Edgeworth:
+Let's put it this way. If she really was the one who opened your door... ...then her prints should naturally be on the doorknob she touched!
+</line><line>Portsman:
+Aaaack!
+</line><line>Edgeworth:
+Further, all of the prints on my office door's knob have been wiped clean off. I can only assume it's because Ms. Byrde's fingerprints were on it. Don't you think it's time you gave up your charade? We know you stole into my office with the intent of stealing something from me. And Detective Faith found you out. Possibly because he heard sounds coming from a room whose occupant was on leave. Mr. Portsman, you killed Mr. Faith to silence him. And I had the misfortune to return when I did; you had to threaten me as you escaped.
+</line><line>Portsman:
+............
+</line><line>Edgeworth:
+As I said when you had the gun to my back... ...no one gets away with committing murder in my office.
+</line><line>Portsman:
+.........Heh heh. Heh heh heh heh heh heh heh heh...
+</line><line>Edgeworth:
+.........!
+</line><line>Portsman:
+Haaaaa ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!
+</line><line>Gumshoe:
+And just what's so funny, pal!?
+</line><line>Portsman:
+Well, that look of stiff seriousness on the face of this office's finest prosecutor... ...as he makes a huge mistake in accusing me is simply too much to bear. There's just nothing else like it in the world!
+</line><line>Edgeworth:
+What!?
+</line><line>Byrde:
+Mr. Edgeworth just explained it all, and he even backed it up! You're the murderer! Stop trying to be slippery and just admit to the crime already!
+</line><line>Portsman:
+And as I said earlier, it's all so circumstantial, so full of conjecture. You say you checked my doorknob for prints? Well, I can readily confess that I had wiped that knob down well.
+</line><line>Byrde:
+Eh?
+</line><line>Portsman:
+I'm a little obsessive-compulsive, you see. I didn't want to touch a doorknob that you had touched. Which is why I wiped the knob down as soon as I could after you opened the door. After that, it makes perfect sense that only Jim's and my own prints would be on there.
+</line><line>Gumshoe:
+You! You made that up just now, didn't you!?
+</line><line>Portsman:
+Furthermore, as for the note Jim left for me, do you know exactly when that was? For all we know, he could've left it there before I arrived at the office. Like, early evening, for example.
+</line><line>Edgeworth:
+Are you saying you failed to notice a note in your doorway?
+</line><line>Portsman:
+Hey, even geniuses fail at times. I was probably too preoccupied by work-related matters, although that's no excuse.
+</line><line>Byrde:
+Now that's just a flat-out lie! There's no way you didn't notice a note that size!
+</line><line>Portsman:
+Ah, but you can't prove that, can you?
+</line><line>Edgeworth:
+............
+</line><line>Byrde:
+Say something, Mr. Edgeworth! Back me up here, sir!
+</line><line>Edgeworth:
+<textEffects>(Nngh... Portsman makes a good point. I can't prove that he didn't simply overlook it.)</textEffects>
+</line><line>Portsman:
+Besides, I have an airtight alibi.
+</line><line>Edgeworth:
+Airtight, you say?
+</line><line>Portsman:
+I only realized that I had one just now as we were talking. I guess it would've been better for all of us if I had told you sooner!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Portsman's Alibi --</textEffects></captions>
+<line>Portsman:
+If memory serves, you came back to this office at around 2 AM, correct?
+And it was then that you had that unfortunate confrontation at gunpoint with the culprit.
+But at exactly that time, I was down in Criminal Affairs!
+Ask around. I'm sure the other detectives will corroborate my story. It's the perfect alibi!
+</line>
+<hr />
+<line>Edgeworth:
+Do you really think it's that perfect!?
+</line><line>Portsman:
+Like I said, I don't care. Ask around all you like! You'll see for yourself.
+</line><line>Edgeworth:
+......... Detective Gumshoe!
+</line><line>Gumshoe:
+Sir, yes, sir! I'll go check out his alibi, sir! Be right back!
+</line>
+<hr />
+<line>Gumshoe:
+M-Mr. Edgeworth, sir! I think we're in trouble! It's just like Mr. Portsman said! The guys down in Criminal Affairs said they saw him at around 2 AM!
+</line><line>Portsman:
+You see?
+</line><line>Edgeworth:
+............ <textEffects>(All of the evidence points to him being the culprit. So there must be a contradictory point in his alibi somewhere!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Portsman's Alibi --</textEffects></captions>
+<line>Portsman:
+<textEffects>If memory serves, you came back to this office at around 2 AM, correct?</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>And it was then that you had that unfortunate confrontation at gunpoint with the culprit.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>But at exactly that time, I was down in Criminal Affairs!</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>Ask around. I'm sure the other detectives will corroborate my story. It's the perfect alibi!</textEffects>
+</line>
+
+<line>Edgeworth:
+<textEffects>(Portsman's alibi may seem perfect at first glance... ...but I know there's a hole in it somewhere. All I need to do is "Press" him a little and see what comes of it.)</textEffects>
+</line>
+<hr />
+<line><i>After pressing all statements:</i>
+</line><line>Edgeworth:
+<textEffects>(Impossible! He actually DOES have the perfect alibi!)</textEffects>
+</line><line>Portsman:
+What's wrong? Why the sudden sullen look on your face?
+</line><line>Gumshoe:
+Can't you say anything back, Mr. Edgeworth!?
+</line><line>Portsman:
+Heh, I think we've reached the end of the line and it's time to get off this crazy train. You there!
+</line><line>Officer:
+Sir!
+</line><line>Portsman:
+Please escort the young lady out. But remember, be gentle.
+</line><line>Gumshoe:
+M-Maggey!!
+</line><line>Byrde:
+Detective Gumshoe!!
+</line><line>Edgeworth:
+<textEffects>(Is there... nothing I can do? There must be a way to turn this situation around! If I only had a clue... Did I miss something that can help me cast doubt on his <span style="color:green"><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Mr Portsman&#39;s alibi – The intruder I met could not have been Portsman. Then who could it have been?">alibi</textEffects></span><textEffects> (Mr Portsman's alibi – The intruder I met could not have been Portsman. Then who could it have been?)</textEffects></span>? I need to calmly think this through one more time, and with <textEffects>Logic</textEffects>!)</span>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+Which could mean... ...that there was <textEffects><span class="hidden"><span class="explain" style="text-decoration: underline dotted" title="Another visitor – Maybe the victim and his killer weren&#39;t the only visitors to my office tonight.">another person</textEffects></span><textEffects> (Another visitor – Maybe the victim and his killer weren't the only visitors to my office tonight.)</textEffects></span> who paid a visit to my office tonight.
+</line>
+
+
+</td></tr></tbody></table>
+<line>Edgeworth:
+If we suppose that the second culprit's gun was the one that was pointed at my back...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Mr. Portsman. It seems that I need to amend my assumptions regarding this case.
+</line><line>Portsman:
+Great! So you've finally come to your senses.
+</line><line>Byrde:
+Mr. Edgeworth!
+</line><line>Gumshoe:
+Sir! What are you saying!?
+</line><line>Edgeworth:
+This has been a big misunderstanding on my part from the start. I had assumed that the person I ran into was the killer, but that may not be the case.
+</line><line>Portsman:
+What do you mean?
+</line><line>Edgeworth:
+The person I ran into was just your average <textEffects>thief</textEffects>.
+</line><line>Gumshoe:
+A <textEffects>thief</textEffects>...? But, sir doesn't that cause some sort of contradiction in the facts?
+</line><line>Edgeworth:
+Not at all. It simply means that the killer was someone else. And it means that in actuality, two culprits stole into my office tonight!
+</line><line>Gumshoe:
+Wh-What do you mean TWO!?
+</line><line>Edgeworth:
+It explains both why my shelves were disturbed twice and how there were two guns. Mr. Portsman tricked Ms. Byrde and gained entry into my office.
+</line><line>Portsman:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Portsman:
+Now you're just leading the argument. You still don't have any actual proof, you know!
+</line><line>Edgeworth:
+If you could please go along with my hypothetical scenario for now, Mr. Portsman. In the end, if you really are innocent, you should have nothing to worry about.
+</line><line>Portsman:
+Grr...!
+</line><line>Edgeworth:
+Now then, returning to my scenario, Mr. Portsman was out to steal something from me... ...which is why he checked my secret safe and ransacked my shelves. This is the first time.
+</line><line>Gumshoe:
+So then... this would be when the files were put back in the wrong order, right?
+</line><line>Edgeworth:
+Correct. And then, just when he was about to look somewhere else... ...who should walk in but his own partner, Mr. Faith.
+</line><line>Gumshoe:
+But why did Mr. Faith come into your room, sir?
+</line><line>Edgeworth:
+He probably had business with Mr. Portsman, which is why he was in the area. But that's when he noticed sounds coming from my office would be my guess.
+</line><line>Byrde:
+Oh! Because you were supposed to be away, right!?
+</line><line>Gumshoe:
+And he must've thought it was odd, so he came into this office to check it out!
+</line><line>Edgeworth:
+Correct. And as a detective, that was the right thing to do.
+</line><line>Byrde:
+But when he came in, he found his own partner standing there...
+</line><line>Edgeworth:
+Because it was Mr. Portsman, Mr. Faith probably let his guard down. But Mr. Portsman was not so merciful as to let him leave alive. He waited for a chance and stole Mr. Faith's gun from him, and then...! He killed him. He silenced Mr. Faith for catching him in the act of stealing.
+</line><line>Portsman:
+..................
+</line><line>Edgeworth:
+This was the moment in which the first shot was fired, the one that landed in my files. Following that, Mr. Portsman wiped the gun down and left it behind as he made his exit. He could afford to do that because he had also left the fake dying message behind.
+</line><line>Gumshoe:
+You're such a complicated troublemaker, you know that!?
+</line><line>Edgeworth:
+Well, if things were as simple as that, then all would be solved. However... ...there was yet another visitor to my room, and this is where it gets complicated.
+</line><line>Portsman:
+There was another...?
+</line><line>Gumshoe:
+...Visitor, sir?
+</line><line>Edgeworth:
+Yes, and this other person's objective was also <textEffects>to steal something from me</textEffects>. Now then, even after Mr. Portsman left, the door to my office remained unlocked. However, this new visitor had no way of knowing that, and so... ...they stole the master key from the security guard's room... ...and then entered my room and searched through my shelves. This was the second time they were disturbed, and it seems the thief found their prize.
+</line><line>Gumshoe:
+The stolen 0 file, right, sir!?
+</line><line>Edgeworth:
+Correct. Only, just as the thief was about to leave with the file, I appeared. The thief then threatened me with their own gun, and made their escape. The second bullet was fired during that brief encounter.
+</line><line>Gumshoe:
+So the shelves getting messed up twice and the two bullets... It was all because two different people were doing those things at two different times!
+</line><line>Edgeworth:
+Precisely. So now do you see, Mr. Portsman? The person I met was just a thief, and was not, in fact, Mr. Faith's killer! Your alibi for the time frame in which I ran into the other person is now irrelevant... ...because we now know that the murder took place during the first culprit's visit!
+</line><line>Portsman:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Portsman:
+Ha, ha, ha, ha, ha.
+</line><line>Gumshoe:
+What's so funny, pal!?
+</line><line>Portsman:
+Absolutely splendid! Your scenario explains everything!
+</line><line>Gumshoe:
+Of course it does! It's Mr. Edgeworth, after all!
+</line><line>Portsman:
+But you know, it still doesn't change the fact that it's all circumstantial.
+</line><line>Edgeworth:
+!
+</line><line>Portsman:
+Supposing if, and that's a big "if", your theory is right... ...it would indeed render my alibi, which has withstood scrutiny, mind you, irrelevant. But there is still one defining point of your argument for which you have no evidence. Your supposition that I was the "first visitor".
+</line><line>Gumshoe:
+Grrrrrrr! Mr. Edgeworth! You can't let him get away with that, sir!
+</line><line>Edgeworth:
+.........But he has a point. I have absolutely no proof at this point.
+</line><line>Byrde:
+Don't say that, sir...
+</line><line>Gumshoe:
+I-I don't believe this! Don't worry Maggey, I'll do something if I must!
+</line><line>Portsman:
+You know something? I find your attitude to be somewhat peculiar, Mr. Edgeworth. If the person you met really was just a plain ol' thief... ...then why is that person not your main suspect? That is, if your theory is correct.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Argument</textEffects>
+<textEffects>-- Portsman's Alibi, Pt. 2 --</textEffects></captions>
+<line>Portsman:
+That thief you ran into should be your real suspect, wouldn't you say?
+We should be out there looking for that thief right now. They might still be nearby.
+I hate to repeat myself, but as I've already said, I was training in my room.
+And when Jim came to deliver some evidence to me, I was down at Criminal Affairs.
+So I can't be expected to know what happened around here after I left.
+</line>
+<hr />
+<line>Edgeworth:
+So you think we should be out there looking for the thief?
+</line><line>Portsman:
+Of course! Now isn't the time to be wasting time on dead-end discussions!
+</line><line>Edgeworth:
+I don't think it's at all "dead-ended". I find your alibi to be fascinating. Let's continue where we left off, shall we?
+</line><line>Portsman:
+............
+</line><line>Edgeworth:
+<textEffects>(I know he's lying. I know he was here, at the scene of the crime. I just have to find a way to prove it.)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Rebuttal</textEffects>
+<textEffects>-- Portsman's Alibi, Pt. 2 --</textEffects></captions>
+<line>Portsman:
+<textEffects>That thief you ran into should be your real suspect, wouldn't you say?</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>We should be out there looking for that thief right now. They might still be nearby.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>I hate to repeat myself, but as I've already said, I was training in my room.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>And when Jim came to deliver some evidence to me, I was down at Criminal Affairs.</textEffects>
+</line>
+
+<line>Portsman:
+<textEffects>He brought me two items, a gun and a pendant, that are related to yesterday's case.</textEffects>
+</line>
+
+
+<line>Portsman:
+<textEffects>So I can't be expected to know what happened around here after I left.</textEffects>
+</line>
+
+<line>Edgeworth:
+<textEffects>(I know he's lying. I know he was here, at the scene of the crime. I just have to find a way to prove it.)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+Only two pieces? I believe the proper phrase here is, "you fail."
+</line><line>Portsman:
+E-Excuse me?
+</line><line>Edgeworth:
+You fail as a prosecutor, Mr. Portsman, as you intend to keep evidence hidden from me.
+</line><line>Portsman:
+What are you talking about? I-I haven't hidden anything from you...
+</line><line>Edgeworth:
+Well, here's a piece I think you should read. Carefully.
+</line><line>Byrde:
+Ah! It says that Mr. Faith was bringing three pieces!
+</line><line>Edgeworth:
+Yes, and this is the victim's real dying message to you, Mr. Portsman.
+</line><line>Portsman:
+He...! I can't believe...! To get tripped up by simple arithmetic...!
+</line><line>Edgeworth:
+Where is the missing piece of evidence!?
+</line><line>Portsman:
+...I... It's...
+</line><line>Edgeworth:
+You have it, don't you? Only the guilty would make such a face. Detective Gumshoe!
+</line><line>Gumshoe:
+You don't have to say it, sir! I'll pat the guy down from head to toe!
+</line><line>Portsman:
+Wh--! Don't come any closer! I'm warning you!
+</line><line>Gumshoe:
+This is all part of the investigation, PAL, so don't even think about stopping me!
+</line><line>Portsman:
+Noooooooooooooooo!!!
+</line><line>Gumshoe:
+Hey! What's this!? He had this on him, sir!
+</line><line>Edgeworth:
+Despite what you said, it would appear that you do have something to hide.
+</line><line>Gumshoe:
+But why would he hide something like that!?
+</line><line>Edgeworth:
+Hmph. There's only one reason why anyone would hide evidence of this caliber. Because it would unequivocally point to that person himself as the real killer.
+</line><line>Portsman:
+.........Nnngh...
+</line><line>Edgeworth:
+Let's examine this video tape in a little more detail! For the section of the tape that will drive the last nail into his coffin!
+</line><line><i>Leads to examination of tape</i>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Gumshoe:
+Ah! That's blood, isn't it!?
+</line><line>Edgeworth:
+Yes, and I believe this is what the "good prosecutor" was trying to hide from us! This blood is still fresh.
+</line><line>Gumshoe:
+You mean, this might be Detective Faith's blood!?
+</line><line>Portsman:
+...N-N-N-N-No! No! You've got it all wrong!
+</line><line>Edgeworth:
+Hmph, no amount of denial can save you. We have but to run a blood test to find the truth.
+</line><line>Portsman:
+Nnngh...
+</line><line>Edgeworth:
+You told us that you had received evidence from the victim earlier. Now you will tell us when and how did the victim's blood find its way onto this video.
+</line><line>Byrde:
+Yeah! It's totally suspicious!
+</line><line>Edgeworth:
+Was it at the moment of his death!? Did Detective Faith have this video tape on his personage when you killed him!?
+</line><line>Portsman:
+You know very well there's no way to prove that!
+</line><line>Edgeworth:
+Not even if we were to examine this tape for fingerprints?
+</line><line>Portsman:
+Gnaagh!
+</line><line>Edgeworth:
+If I had to take a guess... ...I'd say that the only ones on here would belong to the murderous you, and Mr. Faith!
+</line><line>Portsman:
+No! Impossible! I--! I'm--! Iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!
+</line>
+<hr />
+<captions aligned="center"><textEffects>March 14, 5:47 AMHigh Prosecutors' OfficesRoom 1202</textEffects></captions>
+<line>
+Gumshoe:
+Mr. Portsman has been placed under arrest for the murder of Detective Buddy Faith, sir!
+</line><line>Edgeworth:
+Very good.
+</line><line>Gumshoe:
+And the results we got back from the lab techs on the tape turned out to be real solid, sir! The bloodwork came back, and it was definitely Mr. Faith's blood on there. And as a bonus, they were also able to lift a few of Mr. Faith's fingerprints as well!
+</line><line>Byrde:
+Thank you so very much, Mr. Edgeworth! I still can't believe I got to see your cool deduction skills outside the courtroom! I'm impressed beyond words, sir!
+</line><line>Edgeworth:
+It was nothing. I'm just sorry you got caught up in a murder in my office. Please accept my apologies.
+</line><line>Byrde:
+Aww, it was nothing. Really. Compared to what I've been through, I mean! I consider myself lucky that it was only a burglary and a murder this time, sir! If it had been a hold-up, or a hostage situation, I'd have thrown my hands up in the air. I think I'm finally rising up from a "Goddess of Misfortune" to just an "Unlucky Person"!
+</line><line>Edgeworth:
+<textEffects>(Something tells me we should have hired a different person for security detail...)</textEffects>
+</line><line>Gumshoe:
+You know something, sir? That Mr. Portsman really was one corrupt prosecutor.
+</line><line>Edgeworth:
+And why would you say he was "corrupt"?
+</line><line>Gumshoe:
+Well, I heard that there were a number of suspicious things related to his court cases. There's even rumors about how some of the evidence he uses is forged, sir.
+</line><line>Edgeworth:
+<textEffects>(Forged evidence, huh...)</textEffects>
+</line><line>Gumshoe:
+And they say he even decided not to prosecute a few cases for some really vague reasons.
+</line><line>Byrde:
+Oooh! That guy was a complete disgrace to the entire profession!
+</line><line>Edgeworth:
+We never did get around to asking what his reason was for breaking into my office.
+</line><line>Gumshoe:
+Yeah... Whenever we got near that topic, he just clammed up.
+</line><line>Edgeworth:
+<textEffects>(Although, we can be pretty certain that it was to steal something.)</textEffects>
+</line><line>Gumshoe:
+This is just between you and me, sir, but... ...there's a rumor that some sort of huge organization is involved behind the scenes.
+</line><line>Edgeworth:
+Oh? Well, well...
+</line><line>Edgeworth:
+With Mr. Portsman not willing to divulge anything, it certainly lends credence to that rumor. ...It would seem that we haven't heard the last of this.
+</line><line>Gumshoe:
+Huh!? Then Mr. Portsman isn't the bad guy!?
+</line><line>Edgeworth:
+I didn't say that. But rather, that there are still many more mysteries for us to solve. <textEffects>For example, we still haven't figured out the significance to this piece of evidence...</textEffects>
+</line>
+
+
+<line>Edgeworth:
+The person who stole this file... the other villain of the night...
+</line><line>Gumshoe:
+...Yeah, I wonder who it was?
+</line><line>Edgeworth:
+And what happened to the stolen pages? <textEffects>(I wonder... Who in the world was it that held me up at gunpoint?)</textEffects>
+</line><line>Forensics:
+Mr. Edgeworth, sir!
+</line><line>Edgeworth:
+Yes?
+</line><line>Forensics:
+I came across this while I was processing your office earlier, sir.
+</line><line>Edgeworth:
+This card--!
+</line><line>Gumshoe:
+What is it, sir? Is that a bird or something on there?
+</line><line>Edgeworth:
+It's not just any bird... It is the mark of the raven. A three-legged raven. Even you should know what this is, Detective.
+</line><line>Gumshoe:
+Oh! It's about that thing, isn't it? That Great Thief everyone's talking about!?
+</line><line>Edgeworth:
+Yes, it is the mark of the Great Thief "<textEffects>Yatagarasu</textEffects>"! Under the mark of a legendary bird, the Yatagarasu is <textEffects>noble</textEffects> to the end, a modern Robin Hood. Labeled "mysterious" and "phantom-like", the <textEffects>Yatagarasu</textEffects> appears and vanishes at will. Though we don't know much about this thief's ultimate goal, we do know the targets. The Yatagarasu likes to find and make public, evidence of corrupt dealings of all sorts. The theft is always performed in silence and always with perfection. Once a target is chosen, no dramatic calling card or announcement is sent forth. Instead, the chosen corporation is infiltrated without even the target noticing. Some days later, the evidence that was found is sent out to the mass media... ...along with this single card. Although, it has been a while since the Yatagarasu's last appearance...
+</line><line>Gumshoe:
+Hey, Mr. Edgeworth! Look, something's written on the back!
+</line><line>Edgeworth:
+What? Let me see!
+</line><line>Gumshoe:
+It's the location of where the thief put the stolen files!
+</line><line>Edgeworth:
+<textEffects>(So the person who stole the contents of the file was the Yatagarasu...?)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+"Yatagarasu". "Organization". Quite a few key words are popping up in this mystery. The murder in my office... The return of the Great Thief "Yatagarasu"... Looking back, I can't say I didn't see these events coming... ...for they were heralded by the incidents that began to occur <textEffects>two days ago</textEffects>.
+</line>
+<div style="text-align: right;">THE END</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</xml>

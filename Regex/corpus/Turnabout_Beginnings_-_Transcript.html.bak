@@ -1,0 +1,2191 @@
+<xml>
+
+<title>Turnabout Beginnings</title>
+
+<line>
+The girl... Let her go!
+</line><line>Shut up! C-Come closer... And I kill her!
+</line><line>Sorry, but you're not going to get the chance...
+</line>
+<center><textEffects>*BANG!*</textEffects></center>
+<hr />
+<line>I'm reading through the file of an old court case. It was the first case of my long-time mentor, Mia Fey... Her very first client was a death row inmate who had recently broken out of prison. That was a whole year before Mia and I ever met.
+</line>
+<hr />
+<center><textEffects>-- 6 Years Earlier --Mia FeyFirst Trial</textEffects></center>
+<line>
+</line>
+<center><textEffects>February 16, 9:24 AMDistrict CourtDefendant Lobby No. 4</textEffects></center>
+<line>
+Mia:
+<textEffects>(Ugh... I'm so nervous. I feel like I'm going to die. I never should've accepted this case...)</textEffects> Eeeeeeek! ...Ah! G-G-Good morning! <textEffects>(Don't be so jumpy, Mia!)</textEffects>
+</line><line>???:
+I-I din't do nuttin'! I swear! I din't kill nobody!
+</line><line>Mia:
+<textEffects>(Terry Fawles... ...My first client. Sentenced to death 5 years ago, and now... a prison escapee.)</textEffects>
+</line><line>Fawles:
+...
+</line><line>Mia:
+<textEffects>(Just relax, Mia! Make small talk and try to relax him!)</textEffects> ...Err, umm... So why did you escape anyway?
+</line><line>Fawles:
+Ah. Ah. UGGA!
+</line><line>Mia:
+Eeeeek! I'm sorry! I'm sorry!
+</line><line>Fawles:
+...Ugh. I din't do nuttin'! I din't kill nobody! I never... I never lie! I din't escape from nowhere!
+</line><line>Mia:
+Err... But, Mr. Fawles... The police just recaptured you two days ago.
+</line><line>Fawles:
+... Ugh. Sorry. I told a little lie.
+</line><line>Mia:
+<textEffects>(Oh boy...)</textEffects>
+</line><line>Fawles:
+But anyway, I din't do it! I never killed nobody!
+</line><line>Mia:
+Umm, sorry for asking but... You're on death row, right?
+</line><line>Fawles:
+Uh. Uh... UGGA!
+</line><line>Mia:
+Eeeeeek! I'm really, really sorry!
+</line><line>Fawles:
+They sentenced me to die 5 years ago! But I was tricked I tell you! That woman! She lied in her testimony! ...That's why I got the death penalty! I swear it! I din't kill her! I could never do that!
+</line><line>Mia:
+<textEffects>(Two days ago, he escaped from the police wagon when it crashed... Then about 8 hours later... A policewoman was murdered before the police could recapture him. The police believe that Terry Fawles did it.)</textEffects> Umm... After you escaped, did you meet a policewoman?
+</line><line>Fawles:
+... Yeah... I did. ...She's the reason I escaped.
+</line><line>Mia:
+<textEffects>(So that much is true... He did meet with the victim.)</textEffects>
+</line><line>Fawles:
+But I din't kill her! She was alive when I left! She was alive...! It-It's true!
+</line><line>Mia:
+<textEffects>(I can trust him... right? I mean, I should...)</textEffects>
+</line><line>???:
+Ha...! You're not going to figure out the truth by just staring at the guy...
+</line><line>Mia:
+Y-You're... Why are you here?
+</line><line>???:
+I came to see how our little kitten was doing all alone in the big, scary lion's den. ...I thought maybe you'd like someone to play with.
+</line><line>Mia:
+Err, where is Mr. Grossberg?
+</line><line>???:
+Ha...! That old man is probably still in bed. I bet he's clutching an empty bottle and mumbling in his sleep. Aren't I good enough? After all, it's me... Diego Armando!
+</line><line>Mia:
+I-I didn't say... So, Diego Armando, the finest attorney at Grossberg Law Offices, is here for me...?
+</line><line>Armando:
+No, no, no... You've got it all wrong! Today, YOU'RE the finest! After all, it took an amazing amount of guts to take this case! Imagine... An escaped death row convict for a first client!
+</line><line>Mia:
+Yeah, err... Th-Thanks. <textEffects>(I sure wish I could get out of it though!)</textEffects>
+</line><line>Armando:
+Ha...! Relax. I just heard some good news. The prosecutor for today is fresh out of his diapers as well.
+</line><line>Mia:
+R-Really!?
+</line><line>Armando:
+However... Unlike a certain somebody who I won't mention... ...he's earned the reputation as a "genius" since beginning his law career.
+</line><line>Mia:
+<textEffects>(G-Genius...?)</textEffects>
+</line><line>Armando:
+Well, it's about time to head in, Kitten. Sharpen those claws of yours. It's go time!
+</line><line>Mia:
+<textEffects>(A solitary confinement cell for the condemned must be the world's loneliest place. ...And that's what my client ran away from. Every other lawyer gave up on him... But not me. When I saw those overflowing eyes and heard that simple, child-like voice... I just had the feeling that he was telling the <span style="color:#E16935">truth</textEffects>.)</span>
+</line>
+<hr />
+<center><textEffects>February 16, 10:00 AM
+District CourtCourtroom No. 4</textEffects></center>
+<line>
+Judge:
+Court is now in session for the trial of Terry Fawles.
+</line><line>Mia:
+The defense is ready, Your Honor.
+</line><line>???:
+The prosecution has been ready for a while, Your Honor.
+</line><line>Judge:
+I understand the lawyers for both sides are newcomers...?
+</line><line>Mia:
+Y-Y-Yes, Your Honor. I'm Mia Fey.
+</line><line>Edgeworth:
+Miles Edgeworth... Your Honor.
+</line><line>Judge:
+So you're the new prosecutor everyone is talking about, eh? They say you joined the prosecutor's office at quite an early age.
+</line><line>Edgeworth:
+At 20... Your Honor.
+</line><line>Armando:
+I guess our little kitten hasn't earned herself much of a reputation yet, huh?
+</line><line>Mia:
+<textEffects>(Come on, Mia! You can't lose! Not to someone younger than you!)</textEffects>
+</line><line>Edgeworth:
+...Hmph.
+</line><line>Judge:
+Young people running a trial. I'm not too sure how I feel about that. ...Now then, the defendant in this case is currently a felon on death row. Two days ago, he escaped from a police wagon. Is that correct?
+</line><line>Edgeworth:
+Precisely.
+</line><line>Armando:
+But the defendant is not on trial for escaping prison. On the day that the defendant escaped, a policewoman was murdered...
+</line><line>Mia:
+So we're here to determine if Mr. Fawles was responsible for her death...?
+</line><line>Armando:
+You got it, Kitten.
+</line><line>Judge:
+Well then, Mr. Edgeworth. Let's hear your opening statement.
+</line><line>Edgeworth:
+Yes, Your Honor. It was five years ago. The defendant, Terry Fawles, was sentenced to death in this very court. His crimes were <textEffects>kidnapping</textEffects>, <textEffects>extortion</textEffects>... and <textEffects>murder</textEffects>. The girl he threw off the bridge was only 14 years old.
+</line><line>Judge:
+A truly horrible crime. I remember it well. There was no decisive evidence, so the trial was long and protracted.
+</line><line>Edgeworth:
+Correct. But in the end, what finally decided the case was... ...a certain <textEffects>witness's testimony</textEffects>.
+</line><line>Mia:
+A witness's testimony...
+</line><line>Edgeworth:
+The testimony of Detective Valerie Hawthorne; the person who confronted this criminal. She arrested Mr. Fawles at the scene and later testified against him. She said she witnessed Mr. Fawles throw his young victim into the river. For those who are not aware, Eagle River is well-known for its powerful current. Most bodies that fall in are never recovered...
+</line><line>Mia:
+<textEffects>(So Ms. Hawthorne's testimony was the one that put him away...)</textEffects>
+</line><line>Judge:
+That policewoman you just mentioned... That wouldn't be...?
+</line><line>Edgeworth:
+Exactly. The victim. The same woman that was killed 2 days ago... Police Sergeant... Valerie Hawthorne.
+</line><line>Judge:
+Aha...! I see... The man who was sentenced to death based on her testimony escaped two days ago... ...with only one thing on his mind. To take revenge against the woman who convicted him. ... Hmm... Aha! The truth is becoming clear to me now!
+</line><line>Mia:
+Huh?
+</line><line>Judge:
+Yes, yes... It's quite obvious that the defendant is guilty.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" /></a>
+</line><line>Mia:
+W-Wait a minute! That's not right! At least hear the case before you decide on the outcome, Your Honor!
+</line><line>Judge:
+Grrrngh... Watch yourself, Ms. Fey! I'm not sure I care for your word choice, or your tone of voice.
+</line><line>Edgeworth:
+Young people these days simply don't know how to respect their elders.
+</line><line>Mia:
+<textEffects>(Why you...! You're even younger than me, you hypocrite!)</textEffects>
+</line><line>Judge:
+Now then, Mr. Edgeworth, please call your first witness.
+</line><line>Edgeworth:
+I call the detective who was in charge of the initial investigation of this case.
+</line>
+<hr />
+<line>Edgeworth:
+Witness... State your name and occupation.
+</line><line>Gumshoe:
+Gumshoe. Dick Gumshoe. I'm the homicide detective in charge of the case, sir! I finally got promoted to the detective division half a year ago!
+</line><line>Mia:
+I don't believe anyone asked you about that.
+</line><line>Gumshoe:
+Hey, ma'am! You got any idea how much work it takes... ......
+</line><line>Mia:
+Wh-What is it?
+</line><line>Gumshoe:
+You... Y-You're really gorgeous...
+</line><line>Mia:
+Excuse me?
+</line><line>Gumshoe:
+No, seriously... My heart... It's aching for you...
+</line><line>Edgeworth:
+Detective. Pull yourself together and try to be professional. Otherwise... I'll write you up on contempt so quick that something other than your heart will ache!
+</line><line>Gumshoe:
+Urk... O-OK, I-I got it!
+</line><line>Judge:
+...Now, Detective. Tell us about the incident.
+</line><line>Gumshoe:
+Yes, sir! Right away! The victim was Sergeant Valerie Hawthorne, a veteran on the police force. She was stabbed in the back with a knife and died from excessive blood loss.
+</line><line>Judge:
+That much is already stated in the autopsy report. The court would like to hear more details about the incident itself.
+</line><line>Gumshoe:
+Yes, sir! I gotcha! OK! Let's take a look at this aerial map of the area here! This is a sketch of <textEffects>Dusky Bridge</textEffects>, an old suspension bridge. And the river that runs under there is Eagle River. The victim and the defendant met there... On top of the bridge. After stabbing her in the back, the killer carried the victim back to his car. He was recaptured at a police checkpoint as he was trying to make his getaway, sir.
+</line><line>Judge:
+Hmm... I see...
+</line><line><textEffects>Dusky Bridge Map added to the Court Record.</textEffects>
+</line><line>Judge:
+Was the victim's blood found on the bridge?
+</line><line>Gumshoe:
+The victim, Sergeant Valerie Hawthorne, was wearing a thick coat, sir. Unfortunately, no traces of blood were found on the bridge.
+</line><line>Judge:
+Hmm... Mr. Edgeworth. I warn you that I absolutely despise conjecture. If there was no blood on the bridge, then you have no proof that they even met there!
+</line><line>Edgeworth:
+Your Honor. If you would listen to the testimony we have prepared, I'm sure you'll be convinced. The two of them most certainly did meet on the bridge that day...
+</line><line>Judge:
+Why, Mr. Edgeworth... I'm not sure I like you wagging your finger at me as though I were some hoser! Detective, proceed with your testimony!
+</line><line>Gumshoe:
+Um... Yes, sir!
+</line><line>Mia:
+<textEffects>(Here we go, Mia! Hang on...!)</textEffects>
+</line><line>Armando:
+OK now... Listen carefully, Kitten. One little mistake and this guy will drink you for morning tea! Trust me and get ready.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Summary of the Incident --</textEffects></center>
+<line>Gumshoe:
+On the day of the incident, an unknown person phoned the sergeant and asked to meet.
+Sergeant Hawthorne went to Dusky Bridge at the designated time and met with Mr. Fawles.
+And that's where she was brutally murdered, sir.
+The criminal stuffed her body into his car trunk and tried to make a getaway.
+Mr. Fawles was arrested at a police checkpoint we set up at the base of the mountain.
+</line>
+<hr />
+<line>Judge:
+Hmm... Well, you certainly have established the importance of the bridge.
+</line><line>Edgeworth:
+...Naturally.
+</line><line>Judge:
+Now, would the defense please hurry up and proceed with the cross-examination.
+</line><line>Mia:
+Y-Yes, Your Honor! C-C-Cross-examination... Coming right up!
+</line><line>Armando:
+Hey, hey! Settle down there, Kitten! If you keep trembling like that, you're gonna make me spill my coffee!
+</line><line>Mia:
+I-I-I'm not t-trembling! It-It-It's just cold in here!
+</line><line>Armando:
+The courtroom can be a cold battlefield alright. Especially... for a beginner.
+</line><line>Mia:
+I-I don't need you to worry about me...! I mean... I mean, the defendant, the witness... everyone's a beginner in here!
+</line><line>Armando:
+Ha...! You got me there. But maybe you should keep your claws out, and show them what you've got... Kitten.
+</line><line>Mia:
+<textEffects>(It's OK, Mia. Stay calm... Just remember those court procedure videos you stayed up all last night watching!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Summary of the Incident --</textEffects></center>
+<line>Gumshoe:
+<textEffects>On the day of the incident, an unknown person phoned the sergeant and asked to meet.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Sergeant Hawthorne went to Dusky Bridge at the designated time and met with Mr. Fawles.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>And that's where she was brutally murdered, sir.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>The criminal stuffed her body into his car trunk and tried to make a getaway.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Here's a photo of the trunk. But I don't see anything strange, do you? Anyway...</textEffects>
+</line>
+
+
+<line>Gumshoe:
+<textEffects>Mr. Fawles was arrested at a police checkpoint we set up at the base of the mountain.</textEffects>
+</line>
+
+<line>Armando:
+Listen up, Kitten. There's a big trap waiting for you in that testimony.
+</line><line>Mia:
+A t-trap?
+</line><line>Armando:
+Walk into it carelessly, and it'll leave more than just a flesh wound. Fun, huh?
+</line><line>Mia:
+No, it's NOT!
+</line><line>Armando:
+Well, if you want to have any chance at all, you'd better get some more information. And if you're going to get caught in a trap, it's best to get caught early. You can always look for <textEffects>contradictions</textEffects> afterwards. 
+</line><line>Mia:
+<textEffects>(The ever-famous "<span style="color:#E16935">contradictions</textEffects>". I sure hope I can find some of those...)</span>
+</line>
+<hr />
+<line>Mia:
+...Witness! ............
+</line><line>Gumshoe:
+............
+</line><line>Edgeworth:
+............
+</line><line>Judge:
+............ Wh-What is it...? Do you have something to say, Ms. Fey!?
+</line><line>Mia:
+I-I'm sorry! I-I totally forgot what I was going to say... This is... This is the first time I've ever had to actually address someone like that...
+</line><line>Judge:
+Grrgh... You should have practiced before coming to court! Honestly, Ms. Fey... I'm not sure I like this!
+</line><line>Armando:
+Hmph...! Say there, little Kitten, want a piece of my coffee candy?
+</line><line>Mia:
+Candy?
+</line><line>Armando:
+Well, you're still too young to be drinking real coffee.
+</line><line>Mia:
+<textEffects>(Grrr... Come on, Mia! Shake it off! You're a lawyer!)</textEffects> Detective!
+</line><line>Gumshoe:
+Y-Yes, ma'am!
+</line><line>Mia:
+This photo... You said that there was nothing peculiar about it. ...Is that correct?
+</line><line>Gumshoe:
+Y-Yeah, that's what I said!
+</line><line>Mia:
+Well then, I suggest you take another look at the note written by the victim!
+</line><line>Gumshoe:
+The n-n-note...?
+</line><line>Mia:
+It very clearly says, "Wear <textEffects>white scarf</textEffects> for identification."... The caller must have forgotten what the victim looked like. Thus, this special request.
+</line><line>Gumshoe:
+Aaah... I, umm...!
+</line><line>Mia:
+I have one very simple question for you, Detective. Where is the white scarf? I can't seem to find it in this photo...
+</line><line>Gumshoe:
+Um... Well, to be honest, we didn't find it in the trunk, ma'am...
+</line><line>Mia:
+And you stopped there!? You should have looked for it!
+</line><line>Gumshoe:
+Aaaaaaarrrggg...!
+</line><line>Judge:
+The caller told her to wear it to identify herself, so I'd expect she did just that! Well, Mr. Edgeworth!? What do you have to say about this!?
+</line><line>Edgeworth:
+*sigh* I see the defense is a little... lacking.
+</line><line>Mia:
+...!
+</line><line>Edgeworth:
+The scarf you are searching so desperately for... ...Is it this one, perchance?
+</line><line>Mia:
+...Ah!
+</line><line>Gumshoe:
+Wh-Where did you find that, sir!?
+</line><line>Edgeworth:
+On Dusky Bridge. I was there first, and decided to conduct my own investigation.
+</line><line>Gumshoe:
+Wh-Why...? Why didn't you tell me?
+</line><line>Edgeworth:
+I made a decision to keep all pieces of evidence in my personal satchel. It's the safest place I know.
+</line><line>Armando:
+Hmph! That hot-shot sure has a flair for the dramatic...
+</line><line>Edgeworth:
+It's not exactly "white", as the caller requested... But as you can see, it's close enough, for what it was intended for.
+</line><line>Judge:
+Hmmm... It looks like it spent some time in the mud.
+</line><line>Edgeworth:
+Not surprising... It was drizzling on the mountain that day.
+</line><line>Mia:
+<textEffects>(Prosecutor Edgeworth... He was intentionally hiding that scarf the whole time!)</textEffects>
+</line><line>Judge:
+The court will accept the scarf into evidence.
+</line><line><textEffects>Scarf added to the Court Record.</textEffects>
+</line><line>Edgeworth:
+Now, if the attorney for the defense is finished embarrassing herself... ...I'd like to move on with the testimony. That IS alright with you, isn't it, Ms. Fey?
+</line><line>Mia:
+<textEffects>(Boy would I like to wrap this scarf around his smarmy little neck...)</textEffects>
+</line><line>Edgeworth:
+Very good. Now, if we're done with this mud-covered scarf business... ...the prosecution moves to establish conclusively, and with hard evidence that... ...Ms. Hawthorne and Mr. Fawles did indeed meet on that bridge that day. Further, we will show exactly what occurred there.
+</line><line>Judge:
+That sounds quite promising. I can't wait to hear all about it.
+</line><line>Mia:
+<textEffects>(Argh... Everything is moving at his whim...)</textEffects>
+</line><line>Armando:
+Don't forget, Kitten. There's a reason why everyone considers this kid a genius.
+</line><line>Mia:
+<textEffects>(A genius, huh...)</textEffects>
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Events on Dusky Bridge --</textEffects></center>
+<line>Gumshoe:
+Actually, there's an <textEffects>eyewitness</textEffects> who was there when the incident took place.
+This photo was accidentally taken by the witness. It shows her wearing the scarf, sir.
+It was drizzling that day; unfortunately, it's a little hard to see what's going on.
+Anyway, the criminal shoved the victim down from behind and stabbed her in the back!
+...That must have been when the scarf fell off.
+</line>
+<hr />
+<line>Judge:
+Hmm. Looking at this photo... ...you really get the sense that this bridge is very high up.
+</line><line>Edgeworth:
+It is about a 40 feet drop from the bridge to the Eagle River down below.
+</line><line>Judge:
+Mr. Edgeworth, who took this photo anyway?
+</line><line>Edgeworth:
+Let's just say that it was a well-intentioned third party.
+</line><line>Judge:
+Aha! A potential witness! So why isn't this person in the courtroom?
+</line><line>Gumshoe:
+Well... They said they absolutely did not want to testify.
+</line><line>Edgeworth:
+...The person in question is very delicate, Your Honor. Besides, as long as we have this photo, we see no reason to compel her to testify.
+</line><line>Judge:
+... I'm not sure how I feel about that!
+</line><line><textEffects>Witness's Photo added to the Court Record.</textEffects>
+</line><line>Edgeworth:
+So, as you can see, Terry Fawles had both the motive and the opportunity. I think it's quite clear at this point what happened on that bridge.
+</line><line>Judge:
+... Hmm. Aha! The truth is becoming clear to me now!
+</line><line>Mia:
+Huh?
+</line><line>Judge:
+Yes, it's quite obvious. He's clearly guilty.
+</line><line>Mia:
+N-Not again! That's not fair! I haven't even done my cross-examination yet!
+</line><line>Judge:
+Hmm...
+</line><line>Mia:
+<textEffects>(What do you mean, "Hmm"!?)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Events on Dusky Bridge --</textEffects></center>
+<line>Gumshoe:
+<textEffects>Actually, there's an eyewitness who was there when the incident took place.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>This photo was accidentally taken by the witness. It shows her wearing the scarf, sir.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>It was drizzling that day; unfortunately, it's a little hard to see what's going on.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Anyway, the criminal shoved the victim down from behind and stabbed her in the back!</textEffects>
+</line>
+
+
+<line>Gumshoe:
+<textEffects>...That must have been when the scarf fell off.</textEffects>
+</line>
+
+
+<line>Armando:
+Heh, talk about a surprise. I had no idea there was a photo.
+</line><line>Mia:
+S-So what do I do...&#160;?
+</line><line>Armando:
+You really still believe him? Mr. Crybaby, I mean?
+</line><line>Mia:
+Of course I do!
+</line><line>Armando:
+Hmph...! So the little kitten believes in fairy tales, huh... In that case, the answer is obvious. If what you believe is the truth... ...then that means that somewhere, hidden in that testimony, is a contradiction. One huge contradiction waiting to be discovered. ...That's your chance.
+</line>
+<hr />
+<line>Mia:
+So at the time of the crime, there was a light drizzle coming down, correct?
+</line><line>Gumshoe:
+Yeah, and fog, too. Just a generally soggy atmosphere.
+</line><line>Mia:
+Well, I have evidence that doesn't go with the soggy atmosphere.
+</line><line>Judge:
+But this is a photo of the victim's body that was found in the car trunk.
+</line><line>Mia:
+Considering the conditions at the scene of the crime, <textEffects>something isn't right</textEffects>.
+</line><line>Edgeworth:
+...
+</line><line>Judge:
+Well by all means... Please enlighten us as to what isn't right! <textEffects>What is it about this photo of the trunk that doesn't fit with the conditions that day?</textEffects>
+</line>
+
+
+<line>Mia:
+Naturally the answer is... right here!
+</line><line>Judge:
+The victim's... coat? As far as I can see, there is nothing strange about it.
+</line><line>Mia:
+That's exactly what's strange! Remember the testimony! What were the conditions on the bridge that day? It was drizzling and foggy. Dusky Bridge was all wet. If the victim really had fallen down on her stomach on top of the bridge... ...then the front of her coat should have been covered in mud!
+</line><line>Gumshoe:
+Urk...!
+</line><line>Edgeworth:
+...!
+</line><line>Judge:
+That... That's exactly right! The other day I fell on a muddy street and my gorgeous playoff beard was befouled!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+...I do admit that the crime scene was quite wet that day. However! That doesn't mean that the top of the bridge itself was muddy! If Your Honor had fallen in the shower instead of on a muddy street... ...his glorious hockey beard, pride of the Legal League, would be wet, but not muddy!
+</line><line>Judge:
+Fortunately, I have yet to test that. Still, your point is well-taken.
+</line><line>Edgeworth:
+Can you prove that the surface of the bridge was muddy that day?
+</line><line>Mia:
+<textEffects>(The <span style="color:#E16935">surface of the bridge</textEffects>, huh...)</span>
+</line><line>Armando:
+Ha...! A real man wouldn't stand for a taunt like this!
+</line><line>Mia:
+<textEffects>(Neither would a real woman!)</textEffects> Of course I can!
+</line><line>Edgeworth:
+...!
+</line><line>Mia:
+<textEffects>Here is the evidence that proves the surface of the bridge was muddy!</textEffects>
+</line>
+
+
+<line>Mia:
+The evidence is... this scarf!
+</line><line>Judge:
+Ah...!
+</line><line>Mia:
+It should be obvious... If the scarf fell onto the bridge and got this muddy... It means that the bridge was obviously covered in mud!
+</line><line>Edgeworth:
+Urrrnngh...! No... I can't be outwitted by this novice bimbo...!
+</line><line>Mia:
+<textEffects>(Hey! Same to you, buddy!)</textEffects>
+</line><line>Judge:
+Ms. Fey's assertion makes perfect sense to me...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+I do admit that there appears to be a contradiction between... ...the condition of the victim's coat and her scarf. However! The real question is... why is there a contradiction?
+</line><line>Mia:
+Huh?
+</line><line>Edgeworth:
+For every contradiction, there exists an <textEffects>explanation</textEffects>. Let's look at what the explanation in this case may be, shall we?
+</line><line>Mia:
+A-Alright...! <textEffects>(It's not like he's really giving me a choice here...)</textEffects>
+</line><line>Armando:
+Ha...!
+</line><line>Armando:
+You're doing pretty good. ...For a little kitten.
+</line><line>Mia:
+M-Mr. Armando!
+</line><line>Armando:
+No matter what he says, a contradiction always comes down to a <textEffects>lie</textEffects>. It's either the <textEffects>victim</textEffects> discovered in the trunk... ...the witness's photo showing the <textEffects>defendant and the victim</textEffects>... ...or the <textEffects>witness's testimony</textEffects> that stated she saw the moment of the murder. Just relax and think it over. It's pretty simple, isn't it? The <textEffects>false evidence</textEffects>... It's one of those three.
+</line><line>Judge:
+Hmph! What you said just now! I'm not sure I like that!
+</line><line>Mia:
+Th-That wasn't me, Your Honor! It was the coffee aficionado over here that said it!
+</line><line>Judge:
+This court is not in the habit of accepting false evidence, you know!
+</line><line>Armando:
+Blame it on him, Your Honor. He's the one trying to slip false evidence into the court.
+</line><line>Mia:
+...!
+</line><line>Armando:
+But we won't let him! We'll expose his evidence as the flimsy scam it really is!
+</line><line>Mia:
+Y-Yes! The false evidence in this case is the...
+</line>
+
+
+
+<line>Mia:
+It is a no-brainer. Obviously it's the witness that's suspicious! During his earlier testimony, the detective pointed out a crucial fact. "The criminal <textEffects>shoved the victim down from behind</textEffects> and stabbed her in the back." Now, is that testimony exactly what the witness claims to have seen?
+</line><line>Gumshoe:
+Yeah. ...That's what the witness told us.
+</line><line>Mia:
+That testimony... is filled with holes. After all, the victim's coat isn't dirty at all.
+</line><line>Judge:
+Hmm... That's true.
+</line><line>Armando:
+Ha...! It's not just true. It's the truth. If there was a truly decisive witness in this case... ...I'm certain that boy wonder over there would have called them in the first place!
+</line><line>Mia:
+...Your Honor! The defense requests to cross-examine the eyewitness! The testimony presented so far is not only vague, but contradictory as well!
+</line><line>Judge:
+Well, Mr. Edgeworth? It appears that we'll need to hear from your mystery witness after all.
+</line><line>Edgeworth:
+... *sigh* You should brace yourself. ...For the brutal truth.
+</line><line>Mia:
+...?
+</line><line>Edgeworth:
+Your Honor, the prosecution has no intention of hiding the witness from the court. We are prepared to present our witness at any time.
+</line><line>Judge:
+Very well... Please bring forth your witness at this time.
+</line><line>Mia:
+<textEffects>(What Mr. Edgeworth said... kind of worries me... What does he mean by "<span style="color:#E16935">the brutal truth</textEffects>"?)</span>
+</line>
+<hr />
+<line>Judge:
+Now, let's proceed with the testimony. Mr. Edgeworth. Please go right ahead.
+</line><line>Edgeworth:
+Thank you, Your Honor. The prosecution summons... ...the woman who saw the events that day with her very own eyes.
+</line><line>Mia:
+<textEffects>(This is it, Mia! The battle begins here!)</textEffects>
+</line>
+<hr />
+<line>Edgeworth:
+...Witness. What is your name and occupation? ...
+</line><line>Judge:
+...
+</line><line>Mia:
+<textEffects>(Everyone is so silent that I can hear their hearts going pitter-patter...)</textEffects>
+</line><line>Judge:
+Hmm... Ohh... When I look at you... How can I put it...? You look as scrumptous <i>[sic]</i> as a double-double and a dozen doughnut holes... I feel like I want to hurry up and hand down a verdict just to have a bite...
+</line><line>Mia:
+<textEffects>(Hey, hey! Not so fast!)</textEffects>
+</line><line>Edgeworth:
+...*sigh* As I said before... This witness is very sensitive and delicate. I would ask the court to please exercise care when addressing her.
+</line><line>Judge:
+Yes, indeed... Thank you, Mr. Edgeworth. You are a true gentleman. Ms. Fey! You could learn a lot from this man!
+</line><line>Mia:
+<textEffects>(...If he's such a gentleman, he sure doesn't act like one to me.)</textEffects>
+</line><line>???:
+Umm... Sir?
+</line><line>Judge:
+Hmmm... Eh? Yes, my dear?
+</line><line>???:
+This is my first time, so I'm sure I'll make a lot of mistakes. Anyway... I just wanted to say I'm sorry for all the trouble I might cause...
+</line><line>Judge:
+Hmmmmm... Not at all! It's no trouble at all!
+</line><line>Mia:
+Now then... May we please have your name and occupation?
+</line><line>Melissa:
+My name is, umm... ...Melissa Foster. I'm a college student... A-A freshman in the literature department.
+</line><line>Edgeworth:
+You were on the scene when the unfortunate event occurred, correct?
+</line><line>Mia:
+...And you were the one who took this photo? Is that accurate?
+</line><line>Melissa:
+Waaaaaah! H-How can you be so mean...?
+</line><line>Judge:
+Now see here! What are you doing shoving that in her face like that!?
+</line><line>Mia:
+Huh? B-But it's just a photograph! It's not like it's something dangerous!
+</line><line>Judge:
+Next time I'll be forced to penalize you!
+</line><line>Mia:
+<textEffects>(Uh oh... I don't like the turn this has taken...)</textEffects>
+</line><line>Melissa:
+...
+</line><line>Mia:
+...? <textEffects>(Is she... staring at me?)</textEffects>
+</line><line>Melissa:
+Umm... And you would be...?
+</line><line>Mia:
+Huh? I-I'm the defense lawyer. ...My name is Mia Fey.
+</line><line>Melissa:
+... ...I see. So you are...
+</line><line>Judge:
+Now then, young lady. Could you please give us your testimony?
+</line><line>Melissa:
+Yes, Your Honor... I-I'll do my best.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- The Witness's Photograph --</textEffects></center>
+<line>Melissa:
+I... I was using my camera to take some pictures of wild flowers.
+Then, I noticed there were two people standing up on the suspension bridge.
+Suddenly, they just started fighting!
+That's when I hurried and took the photo that shows the crucial moment.
+And right after that, I called the police.
+</line>
+<hr />
+<line>Judge:
+Hmm... By the way, where were you standing when the incident occurred...?
+</line><line>Edgeworth:
+I believe the map would be of help here.
+</line><line>Melissa:
+Umm... I was standing right over... here. I was standing in a beautiful field, surrounded by tall cliffs.
+</line><line>Judge:
+So you took the photo from that location, eh.
+</line><line>Melissa:
+I brought the camera I was using at the time, just like Mr. Edgeworth asked me to.
+</line><line>Judge:
+Ho ho ho. What a cute camera... Just like its owner.
+</line><line><textEffects>Camera added to the Court Record.</textEffects>
+</line><line>Judge:
+...Alright then, Ms. Fey. Time for your cross-examination. But I warn you, make the witness cry again, and you'll feel the wrath of my gavel.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- The Witness's Photograph --</textEffects></center>
+<line>Melissa:
+<textEffects>I... I was using my camera to take some pictures of wild flowers.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Then, I noticed there were two people standing up on the suspension bridge.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Suddenly, they just started fighting!</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>That's when I hurried and took the photo that shows the crucial moment.</textEffects>
+</line>
+
+
+<line>Melissa:
+<textEffects>And right after that, I called the police.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>The victim turned around and tried to run away, but...</textEffects>
+</line>
+
+
+<line>Melissa:
+<textEffects>She only got about 10 yards before she was stabbed in the back.</textEffects>
+</line>
+
+
+<line>Mia:
+<textEffects>(If Terry Fawles isn't the criminal... Then there must be something strange in that girl's testimony!)</textEffects>
+</line><line>Armando:
+Be careful, Kitten. That girl has the judge wrapped right around her little finger. You're going to have a tough time poking holes in that testimony of hers.
+</line><line>Mia:
+<textEffects>(You're going to have to come up with something really good, Mia!)</textEffects>
+</line>
+<hr />
+<line>Mia:
+Witness! Your testimony is a joke!
+</line><line>Melissa:
+Huh... Wh-What...? B-But I... I just...
+</line><line>Judge:
+Ms. Fey! I thought I warned you not to make the witness cry!
+</line><line>Mia:
+One short testimony and two bad contradictions... There's no possible excuse!
+</line><line>Judge:
+You say there were... two contradictions!?
+</line><line>Mia:
+It's simple. Just take a look at the diagram of the area. According to her testimony, the two of them were in the middle of the bridge. But if they were, and the victim had <textEffects>turned around</textEffects> and tried to run... Well, then...
+</line><line>Judge:
+S-She would've hit a <textEffects>dead-end</textEffects>...!
+</line><line>Mia:
+You said 10 yards, but she couldn't have ran even 5! Because Dusky Bridge is collapsed on that side!
+</line><line>Melissa:
+Waaaaaah!
+</line><line>Judge:
+Wh-What does all this mean!?
+</line><line>Mia:
+It's very simple, Your Honor. This charming, little witness told a charming, little lie. That's all there is to it.
+</line><line>Melissa:
+Nnnn...ggg...urk...
+</line><line>Judge:
+Th-This beautiful, young lady has been l-lying to the court...?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Just a moment, Your Honor.
+</line><line>Mia:
+<textEffects>(M-Mr. Edgeworth...!)</textEffects>
+</line><line>Edgeworth:
+Your Honor... Allow me to personally apologize for the confusion.
+</line><line>Judge:
+What do you mean?
+</line><line>Edgeworth:
+There's one <textEffects>major mistake</textEffects> in this diagram.
+</line><line>Mia:
+What did you say!?
+</line><line>Judge:
+What are you referring to?
+</line><line>Edgeworth:
+It's all because this diagram was made <textEffects>after the incident occurred</textEffects>. It's a very old bridge... We couldn't find any official blueprints of it.
+</line><line>Judge:
+S-So you're saying...?
+</line><line>Edgeworth:
+I'm saying that even though this bridge is currently in disrepair... ...there's no evidence that can prove that the bridge was broken during the incident.
+</line><line>Mia:
+Th-That's ridiculous...!
+</line><line>Edgeworth:
+You can't actually tell the condition of the bridge from this photo... I apologize to the court for not being more clear when I presented the evidence.
+</line><line>Judge:
+Hmm. Hmmmm...
+</line><line>Armando:
+Ha...! That guy is good.
+</line><line>Mia:
+Huh? What do you mean?
+</line><line>Armando:
+He planned it from the beginning. He's a genius alright... That diagram of the bridge was his insurance policy.
+</line><line>Mia:
+<textEffects>(What!? That coward!)</textEffects>
+</line><line>Judge:
+Well, Ms. Fey... It seems you've once again made a reckless accusation.
+</line><line>Mia:
+...!
+</line><line>Melissa:
+I-I'm so sorry! I should have been more careful myself...!
+</line><line>Judge:
+No, no, no, no! It wasn't YOUR fault at all!
+</line><line>Edgeworth:
+Now then... Shall we go on with the trial? I'd like to establish, once and for all, what it was that the witness actually saw.
+</line><line>Judge:
+Indeed. Alright, young lady... May I ask you to please proceed with your testimony?
+</line><line>Melissa:
+But I... It's so hard to go on...!
+</line><line>Judge:
+We're all on your side, Ms. Foster!
+</line><line>Edgeworth:
+There's no need to worry. Just tell us what you saw.
+</line><line>Melissa:
+Y-Yes, sir!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Running From the Crime --</textEffects></center>
+<line>Melissa:
+After he stabbed her in the back, he quickly picked her up in his arms.
+Then he carried her over to the car.
+I suppose that was the only way he could make sure the body stayed hidden.
+He couldn't just leave the body on top of the bridge.
+Oh, I'm sorry... I'm only supposed to talk about what I saw.
+</line>
+<hr />
+<line>Judge:
+Hmm... Witnessing such violence must have been difficult.
+</line><line>Melissa:
+Yes, sir... I-I'm still shaken up...
+</line><line>Armando:
+If he accepts this testimony as it is, we're finished.
+</line><line>Mia:
+D-Don't say that...!
+</line><line>Armando:
+Oh well... Maybe I'll stop off at my favorite café on the way home. They make a really great mocha latté...
+</line><line>Mia:
+This trial isn't over yet!
+</line><line>Armando:
+Ha...! That's what I like to hear...
+</line><line>Judge:
+Alright, Ms. Fey. Your cross-examination, if you please.
+</line><line>Mia:
+<textEffects>(The contradiction is staring you right in the face, Mia! Go on the attack!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Running From the Crime --</textEffects></center>
+<line>Melissa:
+<textEffects>After he stabbed her in the back, he quickly picked her up in his arms.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Then he carried her over to the car.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>I suppose that was the only way he could make sure the body stayed hidden.</textEffects>
+</line>
+
+
+<line>Melissa:
+<textEffects>The killer broke into the trunk of the stolen car and hid the body in there.</textEffects>
+</line>
+
+
+<line>Melissa:
+<textEffects>He couldn't just leave the body on top of the bridge.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Oh, I'm sorry... I'm only supposed to talk about what I saw.</textEffects>
+</line>
+
+<line>Mia:
+<textEffects>(Something about this testimony is bothering me, but what...?)</textEffects>
+</line><line>Armando:
+Hey, Kitten... Have you ever put salt in your coffee?
+</line><line>Mia:
+No... Why would I!?
+</line><line>Armando:
+Why not?
+</line><line>Mia:
+Huh...?
+</line><line>Armando:
+It may actually go better with coffee than sugar, right?
+</line><line>Mia:
+...
+</line><line>Armando:
+Listen. My point is if you're not sure, you might as well add a ton of salt to it. It might... bring out the rust in something. Like a piece of evidence.
+</line><line>Mia:
+<textEffects>(He's right, Mia... Go present something. You've got nothing to lose!)</textEffects>
+</line><line>Armando:
+By the way, I wouldn't put salt in my coffee. The two don't go well, after all.
+</line>
+<hr />
+<line>Mia:
+Well, Ms. Foster... It looks like you've done it this time.
+</line><line>Melissa:
+...? D-Done what?
+</line><line>Mia:
+Made a <textEffects>crucial mistake</textEffects>.
+</line><line>Judge:
+A c-crucial mistake? Like what, Ms. Fey!?
+</line><line>Mia:
+"The killer broke into the trunk of the stolen car and hid the body in there." You're saying you saw that, right? With your very own eyes?
+</line><line>Melissa:
+Y-Yes... And...?
+</line><line>Mia:
+It's simple, Ms. Foster. Take a look at the diagram. The place you claim to have taken the photo from that day is here. Do you see what I mean? Even if you tried to see the car... ...this outcropping of rock is directly in the way.
+</line><line>Melissa:
+Ah...!
+</line><line>Mia:
+That's right, Ms. Foster.
+</line><line>Mia:
+From where you were standing, you could not have possibly seen the killer's car.
+</line><line>Melissa:
+Aaaaah...!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+I admit that the diagram shows a large outcropping of rock. However... It isn't so tall that it would stop her from seeing the car!
+</line><line>Melissa:
+Th-That's right! It-It's not high at all... I-I was able to see his car just fine!
+</line><line>Mia:
+I'm so sorry... But that just doesn't wash.
+</line><line>Melissa:
+...!
+</line><line>Mia:
+I believe it was the witness who presented <textEffects>this as evidence</textEffects> to the court, yes? This is the location that the photo was taken from. Your own photo tells the whole story! You can clearly see the left side of the bridge... But the outcropping that is being referred to is really more like a <textEffects>cliff</textEffects>.
+</line><line>Judge:
+Ah!
+</line><line>Mia:
+Your view should have been completely cut off by this cliff! But still you claim to have been able to see the killer's car!
+</line><line>Melissa:
+... Noooooo!
+</line><line>Judge:
+Or-Order! Order in the court! What is the meaning of all this ballyhoo...!?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Your Honor... Don't jump to any hasty conclusions. The fact that the escapee fled in a stolen car was reported on the news. After witnessing a murder, I'm sure you can appreciate that the witness was very upset. She must have heard about the stolen car and convinced herself that she saw it.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+But she was repeatedly warned before starting her testimony! She was told to testify only about what she saw with her own eyes!
+</line><line>Judge:
+Hmmmmm... Oh!
+</line><line>Melissa:
+Err... Mr. Judge?
+</line><line>Judge:
+Wh-What is it?
+</line><line>Melissa:
+I think... I think I must have remembered things wrong...
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Mia:
+Hey! Wait a minute! You can't just say that...!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Ms. Fey, no one on the face of the planet is perfect.
+</line><line>Judge:
+Hmmmm... Yes, indeed... Quite true! You know what they say... "To err is human, to forgive, divine." I'm inclined to give the benefit of the doubt to our witness here.
+</line><line>Mia:
+What...!? Th-That's not fair...!
+</line><line>Armando:
+Ha...! Save the tears for later, Kitten!
+</line><line>Mia:
+M-Mr. Armando!
+</line><line>Armando:
+Don't look back until the trial is over. Now is the time to go forward.
+</line><line>Mia:
+B-But...! But that wasn't fair!
+</line><line>Armando:
+OK, Kitten, you need to relax. Then you need to remember... The other kitten's testimony!
+</line>
+<hr />
+<line>Melissa:
+The killer broke into the trunk of the stolen car and hid the body in there.
+</line>
+<hr />
+<line>Armando:
+So tell us... How did you know that? How did you know that he <textEffects>broke into the trunk</textEffects>?
+</line><line>Mia:
+Aha...!
+</line><line>Armando:
+Until you can explain how you knew that... ...you're going to have a lot of very suspicious people on this side of the courtroom.
+</line><line>Melissa:
+...
+</line><line>Judge:
+W-Well, witness?
+</line><line>Melissa:
+Well, I'm certain that he broke into the trunk. Because... Because there were marks left on the trunk lid. I'm certain they were <textEffects>scratch marks</textEffects> from when he broke into it...!
+</line><line>Judge:
+W-What...!? L-Let me see that photo! It's true... These certainly look like scratch marks around the keyhole! HMMMM...! It's obvious that this trunk has been broken open. Well, Ms. Fey? Are you satisfied...?
+</line><line>Mia:
+<textEffects>(The judge is on her side! I can't make any mistakes here! What she just said... Is there a contradiction in there somewhere...?)</textEffects>
+</line>
+
+
+<line>Mia:
+Melissa Foster. It looks like you've finally betrayed yourself.
+</line><line>Melissa:
+What...!?
+</line><line>Mia:
+You said you were in a field taking photos of wild flowers. But even so, you knew about the scratches... The question is when! When did you get a chance to see those scratches!?
+</line><line>Melissa:
+...
+</line><line>Mia:
+<textEffects>(Finally...! I've finally got her!)</textEffects>
+</line><line>Armando:
+Ha...! I'm getting pretty tired of waiting over here!
+</line><line>Edgeworth:
+Then perhaps it would be faster if Ms. Fey explained herself.
+</line><line>Mia:
+Your Honor! There's only one possible explanation! The reason the witness had seen the scratches was...
+</line>
+
+
+
+<line>Mia:
+There's only one way that the witness had the chance to see those scratches.
+</line><line>Judge:
+Y-Yes? What was it?
+</line><line>Mia:
+Naturally... When she opened the trunk... and stuffed the corpse in herself!
+</line><line>Edgeworth:
+...!
+</line><line>Mia:
+The person who really hid the body in the trunk of that car was... Melissa Foster! It was you that did it, wasn't it!?
+</line><line>Melissa:
+Th-That's ridiculous! I could never...! It was the man in the prison garb! He-He's the one that...
+</line><line>Mia:
+I don't think so, Ms. Foster. If Mr. Fawles had been the one that put the corpse in the trunk... ...he would have simply used the car key. There was no need to break it open.
+</line><line>Melissa:
+B-But...! He stole the car...!
+</line><line>Mia:
+He stole it from a young couple that had been waiting at a red light. Which means that the key would have still been in the ignition.
+</line><line>Melissa:
+Oh...! I-I... I see...
+</line><line>Mia:
+Thank you for telling us about the scratches, Ms. Foster. Without that, we never would have uncovered the truth. It couldn't have been Mr. Fawles that put the body in the trunk!
+</line><line>Melissa:
+Nooooo!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+P-Preposterous! To even suggest that the witness put the body in there! If that were true... then how do you explain the photo that she took? The corpse could only have been put in the trunk <textEffects>when the incident occurred</textEffects>. And we already know that at the time, she was taking photographs!
+</line><line>Mia:
+<textEffects>(Now is your chance, Mia! Finish this thing!)</textEffects> On the contrary, I'm not so certain about that anymore, Mr. Edgeworth.
+</line><line>Edgeworth:
+...!
+</line><line>Mia:
+There's no need to think too deeply about it. <textEffects>What I'm saying is the shutter for this may not have been pushed by Ms. Foster herself!</textEffects>
+</line>
+
+
+<line>Mia:
+I don't think you can make a mistake about it. Take a look at her camera. It has a timer built into it! Even a mini-tripod!
+</line><line>Judge:
+Hmmmm...!
+</line><line>Mia:
+Almost as if the camera was brought just to take this picture!
+</line><line>Melissa:
+...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+What are you trying to say then, Ms. Fey!? That when the crime occurred, Ms. Foster <textEffects>wasn't in the field</textEffects> as she claimed!?
+</line><line>Mia:
+<textEffects>(Well, if she really did use the camera's auto-timer... ...then the answer is yes, she was <span style="color:#E16935">somewhere else</textEffects>.)</span> Exactly. She was NOT in the field.
+</line><line>Judge:
+Hmm... Would the defense please explain further.
+</line><line>Armando:
+Listen... This is a crucial point. "Where was Ms. Foster when the incident occurred...?" In answering that question, we'll also make clear Ms. Foster's true identity.
+</line><line>Judge:
+Well then, please answer this question. <textEffects>Where was Melissa Foster when the incident on the bridge occurred?</textEffects>
+</line>
+
+
+
+<line>Mia:
+Naturally, the witness was right here!
+</line><line>Judge:
+B-But that's... But that's where the victim, Ms. Hawthorne was standing! Order! Order! Order! Ms. Fey! What on earth...!?
+</line><line>Mia:
+Your Honor, if I may... After parting with the "victim" on the bridge, the defendant fled by car. But this would mean that there was no time to put the victim in the trunk. In other words, if someone put the body in the trunk... ...it could only have been <textEffects>before</textEffects> the defendant met the "victim"!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+How asinine! Of course Mr. Fawles met with the victim! The only person with the opportunity to have put the victim in the trunk... ...is the same man that killed her, Terry Fawles!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+You still don't understand, do you, Mr. Edgeworth? By the time the witness's photo was taken, the victim was already dead... The person in the photo was NOT Valerie Hawthorne!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+What!? I've never heard anything more ridiculous in my entire life! Then who exactly is the "<textEffects>victim</textEffects>" in this photo!?
+</line><line>Mia:
+It's obvious, isn't it? It's your own witness.
+</line><line>Melissa:
+...!
+</line><line>Judge:
+Wh-Wh-Whaaaat...!?
+</line><line>Mia:
+It's the only possible explanation. The woman that Mr. Fawles met on the bridge that day was not Valerie Hawthorne! It was you! Melissa Foster!
+</line><line>Melissa:
+M-M-Me...!?
+</line><line>Mia:
+Let's remember that it was raining and foggy on the mountain that day. Mr. Fawles himself believed that the woman in front of him was Valerie Hawthorne!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+But the defendant knew Valerie Hawthorne very well! After all, she was the woman whose testimony helped get him convicted!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+But since then, my client has spent five hard years in a federal penitentiary! He couldn't remember exactly what she looked like anymore!
+</line><line>Edgeworth:
+You are just making this up as you go along! Where's your proof!?
+</line><line>Mia:
+<textEffects>(I've got it all right here! This piece of evidence will blow this case wide open...!)</textEffects> <textEffects>At the time of the incident, Mr. Fawles had forgotten what Valerie Hawthorne looked like!</textEffects>
+</line>
+
+
+<line>Mia:
+Mr. Fawles had forgotten the victim's face. That's why he needed some piece of <textEffects>identification</textEffects>. Namely, this muddy <textEffects>scarf</textEffects>!
+</line><line>Melissa:
+Ah...!
+</line><line>Mia:
+It was Mr. Fawles who requested that she wear this scarf to identify herself. That's already been proven by the note the victim left!
+</line><line>Edgeworth:
+...
+</line><line>Mia:
+In other words, as long as you were wearing a scarf like he asked... ...anyone could have pretended to be Valerie Hawthorne!
+</line><line>Melissa:
+...
+</line><line>Mia:
+Well? What do you have to say to that, Melissa Foster!?
+</line><line>Melissa:
+Nnng...Gggh...Unnn...! N-N-N-N-N-Nnnnoooooooo!!!
+</line>
+<hr />
+<line>Judge:
+Err... Ahh... Where's Ms. Foster...?
+</line><line>Edgeworth:
+She's collecting herself in the Lobby.
+</line><line>Judge:
+Hmmmmm...
+</line><line>Mia:
+<textEffects>(It's obvious that Melissa Foster did it. She hid the body in the trunk and disguised herself as the <span style="color:#E16935">victim</textEffects>... She set up the camera to snap a <textEffects>fake photo</textEffects> of them together...)</span>
+</line><line>Armando:
+The only question is... why did she do it...?
+</line><line>Mia:
+Well, isn't that obvious? She's the <textEffects>true criminal</textEffects>!
+</line><line>Armando:
+Ha...!
+</line><line>Judge:
+Well, we'll have to wait for Ms. Foster to compose herself before we start again. Until then, this court is in recess. The defense and the prosecution are instructed to wait in the lobby.
+</line><line>Mia:
+Yes, Your Honor.
+</line><line>Edgeworth:
+Understood.
+</line><line>Judge:
+Very well! This court is in recess!
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<center><textEffects>February 16, 1:14 PM
+District CourtDefendant Lobby No. 4</textEffects></center>
+<line>
+Mia:
+Mr. Fawles, I...
+</line><line>Fawles:
+UGGAAAA!
+</line><line>Mia:
+Eeeeeek! I'm sorry! I-I'm sorry!
+</line><line>Fawles:
+I wanna say thanks. You're real good! You really hooked me up!
+</line><line>Mia:
+Thanks! We're almost there! Once I prove that she committed the crime...
+</line><line>Armando:
+...Yeah, but there's one more big obstacle we've got to get past.
+</line><line>Mia:
+Ob-Obstacle...?
+</line><line>Armando:
+Yeah. Motive. Why would Melissa Foster kill that policewoman anyway?
+</line><line>Mia:
+<textEffects>(<span style="color:#E16935">Motive</textEffects>, huh...)</span>
+</line><line>Armando:
+Anyway... We're still badly in need of information.
+</line><line>Mia:
+Information... Right...
+</line><line>Armando:
+What we need the most is info about this Melissa Foster herself. All we know is that she's a student studying literature. And one more thing.
+</line><line>Mia:
+...What is it?
+</line><line>Armando:
+Well, the <textEffects>incident that happened 5 years ago</textEffects>, of course. The kidnapping-murder case that Zebra Boy is on death row for...
+</line><line>Fawles:
+I din't do nuttin'! I din't kill nobody! I never lie!
+</line><line>Mia:
+Mr. Fawles! In that case... Tell us more about it. ...About what happened 5 years ago.
+</line><line>Fawles:
+... OK. I trust you. That day. 5 years ago. I dream of it. Every day. This picture. It reminds me everything. Bridge looks same. Just like then... 5 years ago... Like it could fall apart... Fall apart any minute...
+</line><line>Mia:
+<textEffects>(So it's been broken like that for at least 5 years...)</textEffects>
+</line><line>Armando:
+Ha...! Sorry buddy, but you sound like the one that could fall apart at any minute.
+</line><line>Fawles:
+It true. I did... ...I did kidnap her. ...Five years ago. I kidnapped. My girlfriend. Dahlia Hawthorne.
+</line><line>Mia:
+Y-Your g-girlfriend? Huh...?
+</line><line>Armando:
+Hey, hold on there! Did you say, "<textEffects>Hawthorne</textEffects>"!?
+</line><line>Mia:
+<textEffects>(The victim's last name...!)</textEffects>
+</line><line>Fawles:
+Dahlia Hawthorne... Valerie's <textEffects>little sister</textEffects>.
+</line><line>Mia:
+Wh-Wh-Whaaat!? Are you serious!?
+</line>
+<hr />
+<line>The girl... Let her go!
+</line><line>Shut up! C-Come closer... And I kill her!
+</line><line>Sorry, but you're not going to get the chance...
+</line>
+<hr />
+<line>Mia:
+<textEffects>(The detective back then was Valerie Hawthorne!)</textEffects> At first I thought shooting someone for a kidnapping was crossing the line, but... If it was to protect her little sister, I can understand why she did it...
+</line><line>Fawles:
+Wrong! No protect sister! Valerie betray me! Betray us!
+</line><line>Mia:
+What do you mean she betrayed you!?
+</line><line>Fawles:
+Everything. All lies. All make-believe. Kidnapping, too...
+</line><line>Mia:
+A make-believe kidnapping?
+</line><line>Fawles:
+Dahlia. My girlfriend. My love. My Teen Angel.
+</line><line>Mia:
+<textEffects>(Ugh. Did he actually say, "My Teen Angel"? He's seen one too many soap operas.)</textEffects>
+</line><line>Fawles:
+I do anything she says. Anything Dahlia says...
+</line><line>Mia:
+<textEffects>("Anything Dahlia says"...?)</textEffects> H-Hold on a minute! What you're saying is that the kidnapping 5 years ago was planned by...
+</line><line>Fawles:
+Yeah. Me and Dahlia... ...And Valerie, too.
+</line><line>Mia:
+<textEffects>(Valerie was in on it!?)</textEffects>
+</line><line>Fawles:
+Dahlia's family rich. Jewelry business. We get one jewel... That's what we thought... Me and Dahlia wrote kidnap note. We send to her dad. Asked for 2 million dollar diamond. Tell him make exchange on Dusky Bridge. ...We tell him Valerie make transfer 'cause she new detective.
+</line><line>Armando:
+Having a police detective in your pocket is a useful thing alright. In the end, you were planning on splitting the 2 million three ways, huh...
+</line><line>Fawles:
+Yeah, but! That woman! That woman! Valerie! She do it for real! She shoot at me for real! Me and Dahlia!
+</line>
+<hr />
+<center><textEffects>*BANG!*</textEffects></center>
+<hr />
+<line>Fawles:
+I was shot in arm. Dahlia... She jump in river.
+</line><line>Mia:
+<textEffects>Jump</textEffects>...? You don't mean she jumped on purpose, do you?
+</line><line>Fawles:
+I couldn't do it! I could never push her...! Anyway, I blacked out... Wake up with police all over.
+</line><line>Armando:
+...And that's when they decided to give you the death sentence.
+</line><line>Fawles:
+I couldn't believe it. That woman. She betrayed me.
+</line>
+<hr />
+<line>Valerie:
+That man... Terry Fawles... He killed her! He threw her off the bridge! He threw my beloved sister into the roaring river 40 feet below!
+</line>
+<hr />
+<line>Fawles:
+...These 5 years... All I wonder is... Why! ...Why! ...Why! ...Why! Why did she lie!? That's all I want to know!
+</line><line>Armando:
+So that's why you called her. You wanted to hear the truth from Valerie herself.
+</line><line>Fawles:
+Yes... but I forget what she look like. So I tell her to wear scarf. I don't want to hurt her! ...Just ask why! Why! Why did you lie...? Why did you betray me...? I just want to hear answer come from her mouth. That's all!
+</line><line>Mia:
+<textEffects>(So that's why... That's why you made a crazy escape like that...)</textEffects>
+</line><line>Armando:
+Just one thing, Zebra Boy... My senses are tingling all over. Tell me, Mr. Fawles... Where is it?
+</line><line>Mia:
+...Huh? Where's what?
+</line><line>Armando:
+Come on now, Kitten... The ransom. The <textEffects>2 million dollar diamond</textEffects>. Remember that now? Did you give it back to Pops? Did the police take it?
+</line><line>Fawles:
+...I dunno.
+</line><line>Mia:
+Huh? You don't know?
+</line><line>Fawles:
+No really. I dunno. It's gone. With Dahlia.
+</line><line>Mia:
+...With Dahlia?
+</line><line>Fawles:
+That day. On the bridge... Dahlia put it. In backpack... Now gone. With Dahlia. Gone... Forever... Into Eagle River...
+</line><line>Mia:
+<textEffects>(It <span style="color:#E16935">disappeared</textEffects> with Dahlia, huh...? Wait a minute...!)</span>
+</line><line>Bailiff:
+...You can come back in now! We're about ready to go!
+</line><line>Mia:
+Mr. Fawles! Just one more question! When you said, "<textEffects>with Dahlia</textEffects>", do you mean the diamond is still missing...? Along with the body of Dahlia Hawthorne?
+</line><line>Fawles:
+... Never found her... My sweet Dahlia...
+</line><line>Mia:
+<textEffects>(They never found her...!)</textEffects>
+</line><line>Fawles:
+Swallowed by river... Gone... Dahlia... My Teen Angel...
+</line><line>Armando:
+Your "Teen Angel"...? How old was she anyway?
+</line><line>Fawles:
+Just 14...
+</line><line>Mia:
+F-F-Fourteen!? <textEffects>(I guess you were robbing cradles before diamonds...)</textEffects>
+</line><line>Armando:
+She plans a fake kidnapping and disappears into the river with a rock worth 2 mil... Man oh man... Angels these days.
+</line><line>Mia:
+<textEffects>(Fawles takes the fall... And gets a one-way ticket to Death Row... Is Dahlia Hawthorne an angel or is she really a...)</textEffects>
+</line><line>Armando:
+...It's time, Kitten. It looks like we have a few more aces up our sleeve now.
+</line><line>Mia:
+...You bet!
+</line><line><textEffects>Diamond added to the Court Record.</textEffects>
+</line><line>Armando:
+The training wheels come off now, Mia! You've got to strike while the iron is hot! That's one of my rules. Remember it.
+</line>
+<hr />
+<center><textEffects>February 16, 1:49 PM
+District CourtCourtroom No. 4</textEffects></center>
+<line>
+Judge:
+Now then, let's continue with the trial of Mr. Terry Fawles. ...Witness. Are you feeling better?
+</line><line>Melissa:
+Y-Yes, Your Honor... I-I'll try my best.
+</line><line>Judge:
+Hmm... You're a brave young lady.
+</line><line>Mia:
+<textEffects>(Not this again...)</textEffects>
+</line><line>Edgeworth:
+I can understand a defense lawyer wanting to get her client off the hook... However! To try to pin the crime on an innocent student is...
+</line><line>Mia:
+What are you talking about!?
+</line><line>Edgeworth:
+My witness is not the person on trial here. She's an innocent bystander who witnessed a violent crime. ...That's all. What possible reason would a girl like this have for murdering a policewoman!
+</line><line>Judge:
+Hmm... It's certainly hard to imagine this woman as a murderer...
+</line><line>Mia:
+<textEffects>(Her <span style="color:#E16935">motive</textEffects>, huh... I figured that's what I had to establish next...)</span>
+</line><line>Judge:
+Well, Ms. Fey? Do you have any evidence of a motive?
+</line><line>Mia:
+... Err, yes! Of course! ...I think.
+</line><line>Armando:
+Hah...! You're still acting as tame as a kitten... Kitten.
+</line><line>Mia:
+Mr. Armando...
+</line><line>Armando:
+Listen... A lawyer is someone who smiles no matter how bad it gets.
+</line><line>Mia:
+...!
+</line><line>Armando:
+Smiling on the outside while your guts are twisted in knots is the mark of a pro.
+</line><line>Mia:
+...Maybe so, but I wish you would quit grinning at me like that.
+</line><line>Melissa:
+Umm... Excuse me... May I speak, Mr. Judge?
+</line><line>Judge:
+Of course! Mr. Judge is ready anytime you like!
+</line><line>Melissa:
+I'd like... I'd like to say something. Some people here are suspicious of me, right? Th-That's why... I... I at least wanted you, Mr. Judge, to know that it's not true...
+</line><line>Judge:
+Hmmmmm! I see! You're such an honest and upstanding young lady.
+</line><line>Armando:
+It looks like this witness is a real professional.
+</line><line>Mia:
+Wh-What do you mean!?
+</line><line>Armando:
+Look at that 100-watt smile. ...Just when things are darkest for her... CLICK. She lights right up!
+</line><line>Judge:
+Very well then! Let's hear what the witness has to say!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Melissa Foster's History --</textEffects></center>
+<line>Melissa:
+I... I was out of the country until the year before last.
+Until I entered college, I had never even been to Eagle Mountain before...
+And I certainly don't have any reason for wanting to hurt a police officer.
+Holding a grudge and killing the officer who testified against you 5 years ago...
+Or kidnapping a poor girl... I just think the defendant is a terrible, horrible monster!
+</line>
+<hr />
+<line>Judge:
+Hmm... Out of the country, eh...
+</line><line>Edgeworth:
+Precisely. Furthermore, she has no possible motive for committing murder.
+</line><line>Judge:
+Hmm, indeed...
+</line><line>Armando:
+You're up to bat, Kitten. Sharpen those claws and put on your best smile.
+</line><line>Mia:
+Y-You bet! <textEffects>(Somehow, I have to tie her to this case...)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Melissa Foster's History --</textEffects></center>
+<line>Melissa:
+<textEffects>I... I was out of the country until the year before last.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Melissa:
+<textEffects>Naturally, I didn't know either the victim or the defendant.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Until I entered college, I had never even been to Eagle Mountain before...</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>And I certainly don't have any reason for wanting to hurt a police officer.</textEffects>
+</line>
+
+<line>Melissa:
+<textEffects>Holding a grudge and killing the officer who testified against you 5 years ago...</textEffects>
+</line>
+
+
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line>Melissa:
+<textEffects>I guess I'm lucky I wasn't wearing a white scarf.</textEffects>
+</line>
+
+
+
+<line>Mia:
+...Witness. Have you ever seen this note?
+</line><line>Melissa:
+N-Note...? I, err... No, never...
+</line><line>Judge:
+It's top-secret evidence. There's no reason that you would have.
+</line><line>Mia:
+Hmm, I wonder about that...
+</line><line>Melissa:
+Wh-What do you mean...?
+</line><line>Mia:
+This note shows Mr. Fawles's instructions to the victim regarding their meeting. It says... "Wear <textEffects>white scarf</textEffects> for identification."
+</line><line>Edgeworth:
+White... Scarf...? AAAAAAH!!!
+</line><line>Mia:
+Witness! You KNEW what this note said! There's no other possible reason for you to mistake the scarf's color!
+</line><line><i>Leads to:</i>
+"Ugh... Unn... Urgh...!"
+</line>
+</td></tr></tbody></table>
+
+
+<line>Mia:
+You've said several times in your testimony that the victim was wearing a scarf... ...A white scarf, correct?
+</line><line>Melissa:
+Yes... Is something wrong...?
+</line><line>Mia:
+That's what I'd like to know. ...Ms. Foster. Have a look at this. It's the victim's scarf!
+</line><line>Melissa:
+Ah...!
+</line><line>Mia:
+I'm sure people would disagree about what to call this color. ...However! It certainly is not white! You KNEW what the note said!
+</line><line>Edgeworth:
+She knew... the contents of the note...? N-NOOOOOOOO!
+</line><line>Mia:
+It says, "Wear white scarf for identification." That's the reason why you said it was white!
+</line><line><i>Leads to:</i>
+"Ugh... Unn... Urgh...!"
+</line>
+</td></tr></tbody></table>
+<line>Melissa:
+<textEffects>Or kidnapping a poor girl... I just think the defendant is a terrible, horrible monster!</textEffects>
+</line>
+
+<line>Mia:
+<textEffects>(I can't let her get away with these lies...!)</textEffects>
+</line><line>Armando:
+Listen to me. She's neck-deep in this whole thing... Somehow, you're just going to have to get her to show the court her true self.
+</line>
+<hr />
+<line>Melissa:
+Ugh... Unn... Urgh...!
+</line><line>Mia:
+Well, Ms. Foster!?
+</line><line>Melissa:
+NOOOOOOOOO!
+</line><line>Judge:
+Order! Order! Order! Mr. Edgeworth! I'm waiting for an explanation!
+</line><line>Edgeworth:
+I'm quite sure this note wasn't leaked to the public!
+</line><line>Mia:
+And yet...! This witness knew exactly what the note said! At the time of the murder, the number of people that knew were quite... limited. Terry Fawles is one. The person who wrote the note, Valerie Hawthorne, is another. And finally... One more person.
+</line><line>Judge:
+Did you say... "One more person"?
+</line><line>Armando:
+That's right... A person that no one would have suspected... Have you figured it out, Kitten?
+</line><line>Mia:
+Yup! <textEffects>The third person that knew the contents of the note was...!</textEffects>
+</line>
+
+
+<line>Mia:
+And that person is... Dahlia Hawthorne!
+</line><line>Judge:
+Dahlia Hawthorne...? I've never heard that name before.
+</line><line>Mia:
+Look at the victim's note. This is what it says... "Talk to <textEffects>Dahlia</textEffects>. Tell her this time..." There is her name, right there.
+</line><line>Judge:
+Wh-What's this... So who is this person!? This... Dahlia Hawthorne...
+</line><line>Edgeworth:
+*sigh*... Ms. Fey must be desperate if she's trying to bring the dead back to life.
+</line><line>Judge:
+The d-dead...?
+</line><line>Edgeworth:
+Dahlia Hawthorne was the victim's deceased younger sister. She was killed in a crime 5 years ago.
+</line><line>Judge:
+Killed in a crime...? Y-You don't mean...!?
+</line><line>Edgeworth:
+Yes. She was kidnapped... And killed. By Terry Fawles!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+You said she was "killed"... But was she really?
+</line><line>Edgeworth:
+What are you implying...?
+</line><line>Mia:
+Of course, people thought she had died 5 years ago... ...when she fell off of Dusky Bridge and was lost in the Eagle River. However! Her corpse was never found!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+She was declared legally dead 5 years ago! As far as the law is concerned, Dahlia Hawthorne is officially dead.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+But the fact remains that her body was never recovered! Dahlia Hawthorne was 14 years old, 5 years ago. If she were still alive, she would be 19 now. ...Melissa Foster. I believe that's the same age you are!
+</line><line>Melissa:
+Ah...!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Even you couldn't...! Ms. Fey...! You're not saying...!
+</line><line>Mia:
+But I am. That's precisely what I'm saying. This "witness" before us is the girl that was kidnapped and killed 5 years ago! This girl is in fact <textEffects>Ms. Dahlia Hawthorne</textEffects>!
+</line><line>Judge:
+WHA...! WHAAAAAAT!
+</line><line>Armando:
+Ha...! Nice work... That was like tossing a grenade into a 3-alarm fire! But unless you can tie all the loose ends together... ...you're nothing but a hit-and-run arsonist.
+</line><line>Mia:
+I... I understand. <textEffects>(If I can expose her true nature, I can turn this whole case on its head! Now is my chance to make Mr. Edgeworth squirm...!)</textEffects>
+</line><line>Judge:
+Hmm... Hmm... Hmmm... Witness! Just who are you anyway!?
+</line><line>Melissa:
+I... I... I'm...
+</line><line>Edgeworth:
+I didn't think it'd come to this. That's enough... You don't have to say anymore, witness.
+</line><line>Melissa:
+... Yes. I understand.
+</line><line>Judge:
+Wh-What! Mr. Edgeworth! Explain yourself!
+</line><line>Edgeworth:
+Your Honor. I have an admission to make. I honestly never thought the defense would pursue the matter this far...
+</line><line>Judge:
+You don't...! You don't mean...!
+</line><line>Edgeworth:
+...Yes. The prosecutor's office isn't filled with fools, you know. Naturally, we conduct full background checks on all of our witnesses.
+</line><line>Mia:
+Wh-What did he say...?
+</line><line>Armando:
+Ha...! It looks like the kid knew. He knew her true identity from the get-go.
+</line><line>Mia:
+No way...! But then why...!
+</line><line>Armando:
+If you hadn't revealed her secret, he wasn't going to say anything about it. All he wanted was her testimony, so he made a little trade.
+</line><line>Edgeworth:
+Let me introduce you to... ...the victim's younger sister, Ms. Dahlia Hawthorne.
+</line><line>Judge:
+But... But... I thought she died 5 years ago...?
+</line><line>Edgeworth:
+We thought so as well... But... Well, as you can see...
+</line><line>Mia:
+Why!? Why did she hide her identity for 5 years!?
+</line><line>Edgeworth:
+That has nothing to do with the current case. She was merely an accidental witness to a crime...
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+Accidental...? I don't believe that for a minute! For the last 5 years, she's been playing the role of victim! And now we find her acting suspiciously at another murder scene!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+...Really, Ms. Fey! Your strategy is clearly obvious. You're trying to pin your client's crime on an innocent witness in order to win... ...At any cost.
+</line><line>Mia:
+H-How dare you!
+</line><line>Edgeworth:
+Please, let us take a moment to think. Five years ago, this girl was kidnapped and nearly killed.
+</line><line>Judge:
+Hmm...
+</line><line>Edgeworth:
+But even worse than that... 5 years later... ...Dahlia Hawthorne lost something much more precious. Her big sister. Ms. Fey must be insane to even suggest that she murdered her.
+</line><line>Mia:
+Whaaaaat!?
+</line><line>Judge:
+...I'm inclined to agree with the prosecutor's logic. Ms. Fey! Do you have any evidence to back up your assertion!? What possible reason would this witness have for killing her beloved sister!?
+</line><line>Mia:
+W-Well you see... <textEffects>(I thought I was winning, but somehow he's <span style="color:#E16935">turned it around</textEffects> on me!)</span>
+</line><line>Armando:
+Ha...! I think you need a little push in the right direction, Kitten...
+</line><line>The defense is prepared to present evidence supporting our claim!
+</line><line>Mia:
+Ah! That wasn't me! It was this guy... This crazy coffee addict...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+I think we've heard enough empty threats from you, old man.
+</line><line>Armando:
+Ha...! What makes you think they're empty, boy?
+</line><line>Edgeworth:
+Because your protégé looks like she's sweating bullets!
+</line><line>Mia:
+Ah...! <textEffects>(I AM sweating bullets!)</textEffects>
+</line><line>Armando:
+...You think you're in a tough spot, huh?
+</line><line>Mia:
+Of course! Aren't I?
+</line><line>Armando:
+...No. You've just arrived at the moment of truth, that's all. Whether you win or lose... That's up to you.
+</line><line>Mia:
+<textEffects>(Up to me...?)</textEffects>
+</line><line>Edgeworth:
+*sigh*... The rashness of youth. How charming.
+</line><line>Mia:
+<textEffects>(This coming from someone younger than me!)</textEffects>
+</line><line>Judge:
+Now then, let's not waste any more time. ...Ms. Fey. <textEffects>What motive would this witness have for murdering her own sister, Valerie Hawthorne?</textEffects>
+</line>
+
+
+<line>Mia:
+...The story starts after Terry Fawles escaped. He called Valerie and told her he wanted to meet. This is the note she left... It says, "Talk to Dahlia. Tell her this time, the whole truth must come out." ...Valerie Hawthorne gave Dahlia a warning. She told her she was going to reveal to the world the whole truth.
+</line><line>Judge:
+The whole truth...?
+</line><line>Mia:
+There was a dangerously important <textEffects>secret</textEffects> between Valerie and Dahlia. That's the reason Dahlia felt she had to kill Valerie... To keep her mouth shut permanently!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+A terrific story, Ms. Fey! If you like fiction, that is. Enlighten the court, Ms. Fey. What was this secret that was so important? Where's your evidence!?
+</line><line>Armando:
+Dahlia and Valerie Hawthorne, and Terry Fawles... There's only one important secret that connects them all...
+</line><line>Mia:
+Oh, yes... I know this secret. ...Your Honor! The defense would like to request further testimony.
+</line><line>Judge:
+Wh-What testimony?
+</line><line>Mia:
+Regarding the kidnapping 5 years ago. We believe it will explain a lot of things. Such as the nature of the important secret between the Hawthorne sisters!
+</line><line>Dahlia:
+Ugh...!
+</line><line>Judge:
+...Very well. I'll grant your request for further testimony. I know it will be painful for you, but can enlighten us once more, my little maple leaf?
+</line><line>Dahlia:
+Y-Yes, I-I'll try. Mr. Judge...
+</line><line>Mia:
+<textEffects>(Putting on the old charm one more time, Dahlia? But this will be the last time you hide behind your womanly wiles!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- 5 Years Ago --</textEffects></center>
+<line>Dahlia:
+Five years ago, I was kidnapped by Mr. Fawles.
+The ransom price was a raw diamond. My sister, Valerie, brought it to the bridge...
+After she made the exchange, she shot Mr. Fawles in the arm!
+That's when Mr. Fawles tried to kill me by shoving me off the bridge from behind!
+I survived, but I was afraid I might be kidnapped again for my family's money...
+So I decided to change my identity and start a new life...
+</line>
+<hr />
+<line>Judge:
+Hmmm...
+</line><line>Edgeworth:
+...The kidnapping left her emotionally scarred. With her sister's help, she left the Hawthorne family and started all over again. And we're to believe after all that, she murdered her sister? Preposterous!
+</line><line>Judge:
+Thank you, Mr. Edgeworth. ...Ms. Fey?
+</line><line>Mia:
+Y-Yes, Your Honor.
+</line><line>Judge:
+As you've heard, the witness is still traumatized from the kidnapping. ...I'll ask you again to be extremely gentle in your cross-examination.
+</line><line>Mia:
+<textEffects>(...Mr. Edgeworth got the jump on me again...)</textEffects>
+</line><line>Armando:
+Ha...! If we're not allowed to fight, then let's twist some arms. ...Listen up. We've still got that info... That ace up our sleeve.
+</line><line>Mia:
+...What info?
+</line><line>Armando:
+Come on, Kitten. Don't say you've forgotten already. The fact that the kidnapping 5 years ago was staged!
+</line><line>Mia:
+<textEffects>(That's right, it was a <span style="color:#E16935">fake kidnapping</textEffects>! Terry Fawles told us that in the lobby.)</span>
+</line>
+<hr />
+<line>Fawles:
+I do anything she says. Anything Dahlia says...
+</line>
+<hr />
+<line>Mia:
+What you're saying is that the kidnapping 5 years ago was planned by...
+</line><line>Fawles:
+Yeah. Me and Dahlia... ...And Valerie, too.
+</line>
+<hr />
+<line>Mia:
+<textEffects>(Yes! That's it! The <span style="color:#E16935">fake kidnapping</textEffects> is your best shot, Mia! That's her <textEffects>secret</textEffects>!)</span>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- 5 Years Ago --</textEffects></center>
+<line>Dahlia:
+<textEffects>Five years ago, I was kidnapped by Mr. Fawles.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>The ransom price was a raw diamond. My sister, Valerie, brought it to the bridge...</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>After she made the exchange, she shot Mr. Fawles in the arm!</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>That's when Mr. Fawles tried to kill me by shoving me off the bridge from behind!</textEffects>
+</line>
+
+
+<line>Dahlia:
+<textEffects>I survived, but I was afraid I might be kidnapped again for my family's money...</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>So I decided to change my identity and start a new life...</textEffects>
+</line>
+
+<line>Armando:
+It's the moment of truth for this witness, too. Once the truth about this <textEffects>staged kidnapping</textEffects> comes out... Everyone in the court will know how much of a Jezebel she really is!
+</line><line>Mia:
+<textEffects>(I've just got to prove that kidnapping was a hoax!)</textEffects>
+</line>
+<hr />
+<line>Mia:
+You say that Mr. Fawles pushed you into the Eagle River... However, that's hard to believe.
+</line><line>Dahlia:
+B-But it's true! I felt a push on my back... I'm certain of it! It was Mr. Fawles!
+</line><line>Mia:
+I'm sorry... I guess I wasn't clear enough. I shouldn't have said, "that's hard to believe." I should've said, "That's <textEffects>impossible</textEffects>."
+</line><line>Dahlia:
+I-Impossible...?
+</line><line>Mia:
+I ask that the court recall the condition of Dusky Bridge, now and 5 years ago. That bridge hasn't changed one bit in these last 5 years. If someone had pushed you from behind as you have claimed... ...instead of being carried away by the river... ...you would have been smashed by the <textEffects>bedrock</textEffects> below! A most certain death.
+</line><line>Dahlia:
+...
+</line><line>Mia:
+Do you understand now, Dahlia Hawthorne? The very notion that my client pushed you from behind is impossible!
+</line><line>Dahlia:
+... Aaaaaah!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Your Honor, this event occurred 5 years ago! Why, for all we know, the water level in the river may have been higher back then.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+But it's 40 feet from the bridge to the river! A small change in the water level wouldn't have made a difference!
+</line><line>Edgeworth:
+Ugggh!
+</line><line>Judge:
+Y-You're right! If the events occurred just as the witness has testified... ...then the defendant couldn't have pushed the witness into the river. Young lady! What is the meaning of this!?
+</line><line>Dahlia:
+Uuuh! I... I... I, err... You see, I...
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Just a moment, Your Honor! It's true that the witness testified that the defendant pushed her into the river... However! She never stated that she fell from the <textEffects>back end</textEffects> of the bridge!
+</line><line>Mia:
+What... What do you mean?
+</line><line>Edgeworth:
+After being shot in the arm, it's plausible that Mr. Fawles panicked! Therefore, he could have unwittingly pushed her off the <textEffects>side</textEffects> of the bridge!
+</line><line>Judge:
+If that's true, she would have fallen into the river! Well, Miss Hawthorne!? Is Mr. Edgeworth's explanation correct...?
+</line><line>Dahlia:
+... Now that you mention it... I do remember now. When I fell off the bridge... ...my skirt got caught on one of the bridge's side wires!
+</line><line>Mia:
+You can't be serious!
+</line><line>Judge:
+Order! Order in the court!
+</line><line>Edgeworth:
+It seems Ms. Fey's assault has finally reached its conclusion.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+<textEffects>(Not now, Mia...! This is no time to retreat!)</textEffects> Unfortunately for you... this is just the start of Ms. Fey's assault!
+</line><line>Edgeworth:
+Wh-What?
+</line><line>Mia:
+I believe your reasoning went something like this, Mr. Edgeworth. "After being shot in the arm, it's plausible that Mr. Fawles panicked! Therefore, he could have unwittingly pushed her off the side of the bridge!" However! Once again, I'm forced to say, "That's impossible!"
+</line><line>Edgeworth:
+R-Ridiculous! What's so impossible about it!?
+</line><line>Mia:
+<textEffects>Because your flawed logic contradicts the Court Record!</textEffects>
+</line>
+
+
+<line>Mia:
+Your Honor! All of the answers are right here in this photo! Take a look at the wires supporting both sides of the bridge! They extend up to about five feet off the ground... It would be impossible to push someone off from there!
+</line><line>Dahlia:
+NNNNOOOOOOO!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+B-But let's remember the size and strength of the defendant! Wires like this wouldn't be a problem for him! He could have easily picked up a 14 year old girl and thrown her over!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+So young, and already so forgetful, Mr. Edgeworth. Mr. Fawles had been shot in the right arm.
+</line><line>Judge:
+Ah...!
+</line><line>Mia:
+And more importantly... ...Valerie Hawthorne had her gun trained on him... at point-blank range!
+</line><line>Edgeworth:
+Ugh...!
+</line><line>Mia:
+So! Mr. Fawles throwing the witness off the bridge? That is clearly impossible!
+</line><line>Edgeworth:
+GWAAAAAAAHHH!
+</line><line>Judge:
+Order! Order! Wh-What is the meaning of this!? 
+</line><line>Mia:
+Dahlia Hawthorne! You jumped into the Eagle River <textEffects>intentionally</textEffects>!
+</line><line>Judge:
+What...!? What is this...!?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Indeed! What do you mean by such a ridiculous remark!?
+</line><line>Dahlia:
+Y-Yes! It's ridiculous! My sister was there to help me! She had her gun and handcuffs. She could have saved me... Jumping into a raging river like that... That would have been suicide!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+Perhaps... But still, that's exactly what you did! You were probably confident that you could handle the swift current. But even more so... ...the witness had a much more compelling reason for jumping into the river!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Oh? Then what was it!? What was so important that she'd want to jump into the river!?
+</line><line>Mia:
+The witness is still alive. This fact alone explains everything! <textEffects>This is why she risked her life by jumping into the rapids of the Eagle River!</textEffects>
+</line>
+
+
+<line>Mia:
+Five years ago... ...something else disappeared along with Dahlia that day. The item that Valerie brought up the mountain with her... The 2 million dollar diamond!
+</line><line>Dahlia:
+...!
+</line><line>Edgeworth:
+AAAAAHHH!! N... No... It-It can't be...!
+</line><line>Mia:
+Yes. Dahlia had it all planned from the beginning! The 2 million dollars... She was going to keep it all for herself! She forced Mr. Fawles to help her fake the kidnapping...
+</line>
+<hr />
+<center><textEffects>*BANG!*</textEffects></center>
+<hr />
+<line>Mia:
+At the last minute, she betrayed him and threw herself into the river... ...with the ransom tucked away safely in her backpack...
+</line><line>Edgeworth:
+Why that's... that's simply ridiculous!
+</line><line>Judge:
+Order! Order! Order!
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+Y-Your Honor! Five years ago, the witness was only 14 years old! Do you really think a 14 year old is capable of such a demonic plan!?
+</line><line>Mia:
+This woman IS a demon. And there was one more person who helped make a demon out of her. Her sister... Valerie Hawthorne.
+</line><line>Judge:
+Y-You mean the victim was involved in the kidnapping plot as well!?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+But she was a detective then! You're saying she participated in her sister's kidnapping!?
+</line><line>Mia:
+Precisely! I'm sure that it weighed heavily on her conscience for the past 5 years. This is the sole reason behind the victim's murder.
+</line><line>Judge:
+What do you mean by that?
+</line><line>Mia:
+On the day of the murder... ...after receiving the phone call from Mr. Fawles, Valerie called her sister, Dahlia. And then she told her what she was planning to do.
+</line><line>Judge:
+"Planning to do"...?
+</line><line>Edgeworth:
+She was going to tell the whole truth... As she wrote in her note!
+</line><line>Mia:
+THAT is what sealed Valerie Hawthorne's fate... THAT is when you hatched your demonic plan to kill two birds with one stone. A plan that would ensure neither of your accomplices to the kidnapping would talk. And THAT is why... ...you killed your sister, Valerie Hawthorne!
+</line><line>... Hee hee...
+</line><line>Judge:
+Wh-Who is that!? Laughing at a time like this!
+</line><line>Dahlia:
+Forgive me. It's just hilarious...
+</line><line>Judge:
+W-Witness? Is that you?
+</line><line>Dahlia:
+You amuse me, woman! MS. MIA FEY...
+</line><line>Mia:
+...!
+</line><line>Dahlia:
+You can certainly weave an exciting tale... Naturally... you have the evidence to back it up, don't you?
+</line><line>Mia:
+Ev-Evidence...?
+</line><line>Dahlia:
+Evidence that I planned the kidnapping, of course... That at 14, I plotted it with Mr. Fawles and my sister.
+</line><line>Mia:
+W-Well, I...
+</line><line>Dahlia:
+And one more thing. What happened to the 2 million dollar diamond? If you can't provide evidence to at least show that...
+</line><line>Judge:
+Hmmmmm... Well, Ms. Fey?
+</line><line>Mia:
+I... I don't know...
+</line><line>Dahlia:
+What a joke. YOU, MS. FEY... Are you stupid or something?
+</line><line>Mia:
+Nnrgh...! <textEffects>(How can I prove a fake kidnapping that happened 5 years ago!? I don't even have decisive proof of Valerie Hawthorne's murder...)</textEffects>
+</line><line>Judge:
+Well it seems... that we've come to the end. To be honest, the witness's behavior does raise certain suspicions... However, I am forced to reject the assertions made by the defense.
+</line><line>Dahlia:
+Of course you are.
+</line><line>Mia:
+<textEffects>(Is this it...? Is it really over...? That girl has made a fool of me and there's nothing I can do about it!)</textEffects>
+</line><line>Armando:
+Ha...! Without evidence the trial is over? Who decided that?
+</line><line>Mia:
+M-Mr. Armando!
+</line><line>Armando:
+Come on now, Kitten. Haven't you figured out that you can make your own rules? For example, even if there's no evidence, there's still <textEffects>testimony</textEffects>!
+</line><line>Mia:
+<textEffects>(T-Testimony...?)</textEffects>
+</line><line>Armando:
+On the day in question, Dahlia Hawthorne murdered her sister, Valerie Hawthorne. She hid her body in the trunk of Mr. Fawles's stolen car and then went to meet with him... ...disguised as her sister, Valerie Hawthorne. That's what you think, right?
+</line><line>Mia:
+Y-Yes, that's right...
+</line><line>Armando:
+In that case, there's only one answer, right? There is only one <textEffects>person</textEffects> left who can <textEffects>testify</textEffects> about Valerie Hawthorne's murder!
+</line><line>Mia:
+<textEffects>(Since there's no proof, there's only one thing left to do! Who is the one <span style="color:#E16935">person</textEffects> who can <textEffects>testify</textEffects> to that demon woman's crimes...?)</span>
+</line>
+
+
+<line>Mia:
+Your Honor! The defense wishes to call a new witness!
+</line><line>Judge:
+A new witness?
+</line><line>Mia:
+Yes! We would like to hear the testimony of Terry Fawles!
+</line><line>Edgeworth:
+The defendant...!?
+</line><line>Mia:
+There's only one person that can shed any further light on the situation... Only one person that knows what Dahlia's role in the kidnapping was... Only one person that can say whether the person in the photo is <textEffects>Valerie Hawthorne</textEffects>... ...or whether it was in fact her younger sister <textEffects>Dahlia</textEffects>, disguised as her. There's only one person who can solve this riddle once and for all... And that person is... Terry Fawles!
+</line><line>Judge:
+Well, Mr. Edgeworth? What is your take on this?
+</line><line>Edgeworth:
+... Why not? The prosecution has no objection.
+</line><line>Judge:
+Very well. Bailiff! Bring the defendant to the witness stand!
+</line><line>Mia:
+<textEffects>(This is my last chance, Mr. Fawles... My last chance to establish Dahlia's guilt... You're all I have left!)</textEffects>
+</line>
+<hr />
+<line>Judge:
+Defendant, you've heard everything that's been said up to this point, yes?
+</line><line>Fawles:
+Uhh... Umm... I don't believe it! No way! Dahlia died! Five years ago! Valerie betrayed me!
+</line><line>Mia:
+Mr. Fawles... I don't know what she said to you 5 years ago, but one thing is clear. Dahlia is very much alive. And you were used. For 2 million dollars.
+</line><line>Fawles:
+That's... Not... True...
+</line><line>Judge:
+Mr. Fawles. There's only one question I want the answer to. Two days ago on Dusky Bridge... who did you meet? Was it Valerie Hawthorne? Or was it Dahlia Hawthorne?
+</line><line>Fawles:
+Dahlia... Dahlia... Did you... betray me? ... Five years ago she promised... She promised... Never, ever betray each other...
+</line><line>Dahlia:
+Terry...
+</line><line>Fawles:
+Dahlia! It-It's true! You are alive...!
+</line><line>Dahlia:
+You don't trust me anymore? That makes me sad.
+</line><line>Fawles:
+Tell the truth! The real truth! I... I believed in you!
+</line><line>Dahlia:
+... I shouldn't NEED to say it. You should already know...
+</line><line>Fawles:
+...!
+</line><line>Dahlia:
+But... There is one thing that I WILL say. My life is in your hands right now, Terry.
+</line><line>Fawles:
+Dah...lia...
+</line><line>Judge:
+I will allow Mr. Fawles to testify once and once only. Well then, Mr. Fawles. Yours will be the final testimony in this trial.
+</line><line>Fawles:
+...
+</line><line>Judge:
+Witness!
+</line><line>Fawles:
+GAAAAAAAHHH!!!!
+</line><line>Judge:
+Eeeeek! I'm sorry! I apologize!
+</line><line>Fawles:
+Uwah! Uwah! UWAAAAH!! W-Water! P-Please! Water!
+</line><line>Mia:
+Hmm?
+</line><line>Fawles:
+Can't talk... Need water...
+</line><line>Armando:
+Ha...! Oh well, I guess it'll have to be my coffee instead. At least it'll match the way he's probably feeling right now... Darker and bitterer than Hell itself.
+</line><line>Fawles:
+UWAAAAAH...
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Who Terry Fawles Saw --</textEffects></center>
+<line>Fawles:
+That day... 4 PM... I stopped the car. I was in front of bridge...
+She wasn't there...So, I waited on bridge.
+I watched my car from bridge. I never put no body in that car!
+Finally, one woman came. She stood front of me.
+We talked... Then she left.
+That was... That was Valerie. Not my Dahlia!
+</line>
+<hr />
+<line>Mia:
+Mr. Fawles! You're covering for her! Do you think she would do the same for you...!?
+</line><line>Edgeworth:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Edgeworth:
+That's enough, Ms. Fey! His last statement was a fitting way to end the final testimony of the trial...
+</line><line>Mia:
+...!
+</line><line>Judge:
+Well then, Ms. Fey... Please proceed with your cross-examination.
+</line><line>Mia:
+<textEffects>(Is this how you want it to end, Mr. Fawles? Another guilty verdict to go along with your death sentence!?)</textEffects>
+</line><line>Armando:
+There's only one person who can stop it... You, Kitten. ...I think.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Who Terry Fawles Saw --</textEffects></center>
+<line>Fawles:
+<textEffects>That day... 4 PM... I stopped the car. I was in front of bridge...</textEffects>
+</line>
+
+<line>Fawles:
+<textEffects>She wasn't there... So, I waited on bridge.</textEffects>
+</line>
+
+
+<line>Fawles:
+<textEffects>I watched my car from bridge. I never put no body in that car!</textEffects>
+</line>
+
+
+<line>Fawles:
+<textEffects>Finally, one woman came. She stood front of me.</textEffects>
+</line>
+
+
+<line>Fawles:
+<textEffects>We talked... Then she left.</textEffects>
+</line>
+
+
+<line>Fawles:
+<textEffects>That was... That was Valerie. Not my Dahlia!</textEffects>
+</line>
+
+<line>Armando:
+I know it's obvious, but... he's clearly lying. He's been cursed... by Dahlia Hawthorne. He'll probably go to his grave still believing in her.
+</line><line>Mia:
+Mr. Fawles...
+</line><line>Armando:
+Even if you can show he's lying, the poor guy will still be cursed... You'll still have to point out the contradiction anyway. That's the curse of being a defense lawyer, I guess...
+</line>
+<hr />
+<line>Mia:
+So when you got to the bridge, no one had arrived, huh? So you waited on the bridge... You're sure of that?
+</line><line>Fawles:
+... Yeah. I'm sure.
+</line><line>Mia:
+You're sure, huh...? Well then I'm sure too, Mr. Fawles... I'm sure that you're lying.
+</line><line>Fawles:
+Huh! Uhh... Wah... Wah! Wah! WAAAH!!
+</line><line>Edgeworth:
+Oh? I would love to hear your rationale on this, Ms. Fey...
+</line><line>Mia:
+You want to know who arrived at the bridge first? Just look at this photo. It's perfectly clear. Obviously the person that came first would be the one at the <textEffects>end</textEffects> of the bridge, right?
+</line><line>Edgeworth:
+B-But that's the <textEffects>victim</textEffects> at the end of the bridge!
+</line><line>Mia:
+Precisely my point. In other words, Mr. Fawles... You must have arrived at the bridge <textEffects>after</textEffects> she did.
+</line><line>Fawles:
+Nng... Urkkk... Ahhh... Ggggaah... Blah...
+</line><line>Mia:
+... Umm, Mr. Fawles. Please don't get so worked up. We just want the truth.
+</line><line>Fawles:
+... I got there around 4 o'clock. It's true.
+</line><line>Mia:
+...!
+</line><line>Fawles:
+I... I had somewhere to go. A special place...
+</line><line>Judge:
+Did you go to this special place before you went to the bridge?
+</line><line>Fawles:
+Yeah... It's an old temple about 15 minutes from the bridge. Five years ago, me and Dahlia... We promised each other... We swore we wouldn't betray each other... She brought a <textEffects>memento</textEffects>... To represent... our love.
+</line><line>Mia:
+A memento...?
+</line><line>Fawles:
+Five years ago, I hid it under base of tree there. It's a special memory for me. This is it... This is what I went to get.
+</line><line>Judge:
+This little bottle on a necklace is your memento? It's quite charming... but it looks empty.
+</line><line>Mia:
+Your Honor! You heard what my client said. He arrived at the scene at 4 o'clock. But he then left his car unattended and walked away! He was gone for approximately 30 minutes!
+</line><line>Edgeworth:
+Urk...!
+</line><line>Mia:
+With that much time... ...Dahlia Hawthorne could have easily hidden the body in the trunk of his car!
+</line><line>Edgeworth:
+N-NOOOOOOO!
+</line><line>Judge:
+Indeed... There certainly was enough time for it!
+</line><line>Mia:
+<textEffects>(I've still got a chance!)</textEffects> Mr. Fawles! There's no mistaking it!
+</line><line>Fawles:
+............ Urp!
+</line><line>Mia:
+Huh? Mr. Fawles...!?
+</line><line>Fawles:
+Th-That's enough... Please...
+</line><line>Judge:
+W-Witness?
+</line><line>Fawles:
+I-I promised her... 5 years ago... If it ever happens... ...that we can't trust each other no more... Then... ...we're supposed to... drink... bottle... Ugh...
+</line><line>Edgeworth:
+N-No! Stop the trial! Your Honor! We need a recess!
+</line><line>Fawles:
+I... I was stupid... Couldn't... keep... promise... So I did it... I... drank... this...
+</line><line>Mia:
+No! We are so close! Just a little more... I was going to prove your innocence!
+</line><line>Fawles:
+No... Don't want that... Don't... trust... self... Maybe kill again... Kill sweet Dahlia... again...
+</line><line>Mia:
+Mr. Fawles!
+</line><line>Fawles:
+Mr. Ar... Armando... Th-Thanks... For the... coffee...
+</line><line>Mia:
+MR. FAAAAAAAAWLES!!!!
+</line>
+<hr />
+<line>Mia:
+And so my first trial ended... Suddenly, and tragically. It ended with no winners... Only losers. I ended up with a wound that cut so deep into my soul, I thought it'd never heal. I'm sure it was the same for the young prosecutor as well. But one person... The true criminal, Dahlia Hawthorne... She left the courtroom with a secret smile on her demonically sweet face.
+</line>
+<hr />
+<line>Armando:
+Unforgivable... That witch...
+</line><line>Mia:
+M-Mr. Armando...
+</line><line>Armando:
+We were so close to the truth. It was right there in front of us. You were just a little too soft, Kitten...
+</line><line>Mia:
+It's my fault! It's all my fault that Mr. Fawles killed himself!
+</line><line>Armando:
+Don't cry, Kitten. You're going to make my coffee all salty.
+</line><line>Mia:
+I-I knew it...! I kn-knew I wasn't cut out for this...!
+</line><line>Armando:
+............... Mia...
+</line><line>Mia:
+...!
+</line><line>Armando:
+Don't you get it? You can't cry yet. The only time a lawyer can cry is when it's all over.
+</line><line>Mia:
+M-Mr. Armando...
+</line>
+<hr />
+<line>No matter how tough the case... No matter how bitter the memories... ...they always fade over time. Then you file them away and eventually forget them... One year later, in this very same courthouse... I, myself, got wrapped up in "that case". Only after that, did Dahlia Hawthorne get put on trial for her crimes. The verdict that was ultimately handed down to her was... "<textEffects>Guilty</textEffects>", of course. Naturally, when the verdict was read, she had a perfect, angelic smile on her face. It was finally all over. At least, that's what I thought at the time. Unfortunately... I couldn't have been more wrong... It's been 5 years, but now something has happened that's made me remember all this. 
+</line>
+<div style="text-align: right;">Episode 4: TurnaboutBeginningsTHE END</div>
+<hr />
+
+
+
+
+</xml>

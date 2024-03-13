@@ -1,0 +1,1570 @@
+<xml>
+
+<title>English Turnabout</title>
+
+<line>
+<i>Anime cutscene</i>
+Guard:
+Who's there?! Is somebody there? It's probably nothing, but... Hey, what are you doing?!
+</line>
+<hr />
+<div style="text-align: right;">PrologueEnglish Turnabout</div>
+<line>
+<i>English Courtroom Lobby</i>
+</line><line>Phoenix:
+<textEffects>(Ugh... I'm feeling queasy...)</textEffects>
+</line><line>Maya:
+Come on, Nick! It's just like I said!
+</line><line>Phoenix:
+Oh... M-Maya. What do you mean?
+</line><line>Maya:
+You're such a <textEffects>worrywart</textEffects>. I knew you'd get all jittery before the trial.
+</line><line>Phoenix:
+It's not like that! It's just...I didn't expect to have to stand in a foreign court...
+</line><line>Maya:
+Yeah, we don't know much about the court system here.
+</line><line>Phoenix:
+The Legal League of Attorneys would like this to be an exemplary case.
+</line><line>Maya:
+Hmm. So that'd make you an exemplary attorney. I hope you don't infect any British lawyers with your nervous attitude.
+</line><line>Phoenix:
+You're making it sound like I'm a virus or something... My name is <textEffects>Phoenix Wright</textEffects>. I'm a defence attorney. And this is <textEffects>Maya Fey</textEffects>, my...uhm...assistant, of sorts.
+</line><line>Maya:
+"Of sorts"?!
+</line><line>Phoenix:
+I guess I should explain why she's dressed up like that... But it's a long story and we don't have the time. We've come to England on the Legal League of Attorneys' exchange. I'm acting as a representative of the American Legal League...
+</line><line>Maya:
+You know, they probably sent you because you don't ever seem to be busy.
+</line><line>Phoenix:
+We weren't supposed to stand in court, so we thought it'd be like a vacation. But here we are. As usual, we've been dragged into a strange case.
+</line><line>Maya:
+Hey, Nick. So, what do you suppose this trial's all about? What if it was this?! Look, check out today's newspaper. "Elusive jewel thieves at large in London! Scotland Yard on red alert!" Wouldn't THAT be cool?
+</line><line>Phoenix:
+Ugh. Maya, don't get your hopes up. We're here on an exchange. It should be a simple, textbook trial.
+</line><line>Maya:
+Really?
+</line><line>Phoenix:
+London's a big city. What are the odds of us getting a case like that?
+</line><line>Maya:
+Well, that's boring.
+</line><line>???:
+...Sorry to have kept you waiting.
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Darklaw:
+How do you do? I am Ms Darklaw, teacher at the Owl Cote School for Young Women. Espella, this man is your defence lawyer.
+</line><line>Espella:
+Pleased...to meet you...
+</line>
+<hr />
+<line>Phoenix:
+Phoenix Wright, attorney at law. Pleased to meet you.
+</line><line>Espella:
+............
+</line><line>Phoenix:
+Uhm... I'm Phoenix Wright, your attorney. Pleased to meet you...
+</line><line>Espella:
+............
+</line><line>Phoenix:
+<textEffects>(What's with this girl? Can't she hear me?)</textEffects> Is this girl...the defendant in today's case?
+</line><line>Darklaw:
+That is correct. She's the pupil I'd like you to represent. She's pleading guilty, so there's not much you need to do.
+</line><line>Phoenix:
+Pleading guilty...?
+</line><line>Darklaw:
+I suggest you accept the punishment proposed by the prosecution.
+</line><line>Phoenix:
+Wh-what...? <textEffects>(What kind of request is that...?)</textEffects>
+</line><line>Maya:
+Uhm, Espella? ...What are you accused of?
+</line><line>Espella:
+............
+</line><line>Darklaw:
+Have you not received the case materials?
+</line><line>Phoenix:
+No, we haven't. And we weren't told anything...
+</line><line>Darklaw:
+My, my. Forgive me for this oversight. Here, this is the case file.
+</line><line>Attorney! Defendant! The court hearing will begin now. Please proceed to the courtroom.
+</line><line>Darklaw:
+Well then. I entrust Espella to you.
+</line><line>Phoenix:
+That's... Wait, WHAT? <textEffects>(No way! I didn't even have time to look through the case file!)</textEffects>
+</line><line>Darklaw:
+Espella, please be a good girl and don't cause any trouble.
+</line><line>Espella:
+............ ...I'm...
+</line><line>Phoenix:
+......! <textEffects>(Did she just mumble something?)</textEffects>
+</line><line>Espella:
+I'm...not a witch.
+</line><line>Phoenix:
+E...Espella? What did you just say?
+</line><line>Espella:
+............
+</line><line>Chop-chop, defence! Let's not keep everyone waiting!
+</line><line>Phoenix:
+</line>
+<center><textEffects>(And so, another trial begins. And as always, I've got no idea what's going to happen!)</textEffects></center>
+<line>
+Maya:
+All right! Let's do it, Nick!
+</line>
+<hr />
+<line><i>English Courthouse</i>
+</line><line>Judge:
+The court is now in session for the trial of Espella Cantabella.
+</line><line>Flynch:
+The prosecution is ready, Your Honour.
+</line><line>Judge:
+How about the defence? Are you ready?
+</line><line>Phoenix:
+Uh...uhm... Yes, well I guess you could call it "ready", Your Honour.
+</line><line>Flynch:
+Hmph. I hear it's your first appearance in a British court.
+</line><line>Phoenix:
+Well, yes, that's right.
+</line><line>Flynch:
+The Legal League of Attorneys' exchange, was it? Sounds like fun. Hope you're enjoying the sights. You can take it easy today. Don't worry, Prosecutor Flynch will take care of everything!
+</line><line>Maya:
+He's treating us like amateurs, Nick!
+</line><line>Phoenix:
+<textEffects>(Oh boy... This looks bad. Can I really defend this girl?)</textEffects>
+</line><line>Espella:
+............
+</line>
+<hr />
+<line>Judge:
+Ah, I see. Well, since this is your first case here... I will ask you a few simple questions, to make sure we're on the same page.
+</line><line>Phoenix:
+Oh! Er, yes. That's...that's fine by me. <textEffects>(Dang, time to sink or swim.)</textEffects>
+</line><line>Judge:
+Answer my questions, then, Mr Wright. What is the name of the defendant?
+</line>
+
+
+
+<line>Phoenix:
+That would be Espella Cantabella, Your Honour.
+</line><line>Judge:
+That is correct.
+</line><line>Phoenix:
+<textEffects>(Phew, that's the first hurdle...)</textEffects>
+</line><line>Flynch:
+Hmph. I see you're terribly proud of yourself for answering that basic question.
+</line><line>Phoenix:
+Ugh...
+</line><line>Judge:
+Let's move on to the next question. What is the <textEffects>nature of the offence</textEffects>?
+</line><line>Phoenix:
+<textEffects>(Hmmm...<span style="color:#E16935">what crime</textEffects> is Espella accused of?)</span>
+</line><line>Maya:
+You know, Espella seems like such a timid girl. You think it's something minor, like shoplifting?
+</line><line>Phoenix:
+Maybe. I wouldn't call it "minor", though... <textEffects>(It can't be anything major like that large-scale jewel theft...)</textEffects>
+</line><line>Judge:
+Please answer the question. Can you name the <textEffects>two</textEffects> offences?
+</line><line>Phoenix:
+Uhm... <textEffects>(Did he just say "two"?)</textEffects>
+</line><line>Maya:
+N-Nick! Think! What other petty offence could it be?
+</line><line>Phoenix:
+I don't know! I'm clueless about this case. We weren't told anything about it at all!
+</line><line>Flynch:
+My, my. Could it be that our esteemed visitor left his common sense back home?
+</line><line>Phoenix:
+...!
+</line><line>Flynch:
+All the evidence is in the <textEffects>Court Record</textEffects>. You haven't forgotten that, have you?
+</line><line>Phoenix:
+Ah... <textEffects>(That's it! The <span style="color:#E16935">Court Record</textEffects>...)</span>
+</line><line>Maya:
+Right! That's what you always refer to! The <textEffects>Court Record</textEffects>! Touch the <textEffects>Court Record</textEffects> icon to view it at any time!
+</line><line>Phoenix:
+Y-yeah, it just slipped my mind... <textEffects>(It must be the nerves...)</textEffects>
+</line><line>Maya:
+Okay, let's check it now! Touch <textEffects>Court Record</textEffects>!
+</line><line>Phoenix:
+<textEffects>(The <span style="color:#E16935">Court Record</textEffects> holds all the evidence from this case. I'd better take a look!)</span>
+</line><line>Judge:
+Right, defence, you've had enough time to ponder my question. What is Miss Cantabella accused of?
+</line>
+
+
+
+<line>Phoenix:
+Well, according to the Case Outline, it was <textEffects>theft</textEffects> and <textEffects>assault</textEffects>.
+</line><line>Flynch:
+Indeed. What disgusting crimes.
+</line><line>Judge:
+Hmph. Is that correct, defendant?
+</line><line>Espella:
+...Yes.
+</line><line>Maya:
+No kidding... She doesn't look like a violent girl, at least not to me.
+</line>
+<hr />
+<line>Judge:
+Now that that's settled... Prosecutor Flynch. Please briefly outline the case for the court.
+</line><line>Flynch:
+Yes, Your Honour. The incident took place on a small freighter, moored at a harbour on the River Thames. The freighter was carrying goods away from London. The defendant illegally boarded the ship and tried to steal some of its cargo...but she was discovered by a crew member and captured by the ship's security guard.
+</line><line>Phoenix:
+<textEffects>(So she was caught <span style="color:#E16935">red-handed</textEffects>...)</span>
+</line><line>Judge:
+And she violently resisted when found by the crew member?
+</line><line>Phoenix:
+"Violently resisted"...?
+</line><line>Flynch:
+Indeed. She picked up a steel pipe and hit the crew member on the head.
+</line><line>Phoenix:
+<textEffects>(Sounds pretty vicious...)</textEffects>
+</line><line>Maya:
+So that's the "assault" she's accused of...
+</line><line>Judge:
+And what did the defendant attempt to <textEffects>steal</textEffects> from the freighter?
+</line><line>Flynch:
+A stuffed toy, Your Honour. It's the Metropolitan Police mascot, PC Badger.
+</line><line>Maya:
+Oh, Nick! I want one!
+</line><line>Phoenix:
+<textEffects>(I see that "mascot" made a career for itself in England. Who would've thought...?)</textEffects>
+</line><line>Judge:
+I think we all have a clear picture of the incident now. The prosecution may begin.
+</line><line>Flynch:
+The prosecution calls its first witness. Bring him in!
+</line><line>Phoenix:
+<textEffects>(There's something fishy about this trial... And there's something even fishier about my client... There isn't an ounce of expression on her face... I'd better keep my eyes wide open!)</textEffects>
+</line>
+<hr />
+<line>Flynch:
+Witness, state your name and profession.
+</line><line>???:
+............ A ship is always at risk...at every hour, minute and second! That's where I come in. I am a peacekeeper...the one and only guardian to an otherwise defenceless ship! The name's Smiles. Johnny Smiles... Security guard supreme.
+</line>
+<hr />
+<line>Flynch:
+Er...yes. According to the police report, the witness was patrolling the freighter on the night of the crime.
+</line><line>Smiles:
+Yeah...I was! Patrolling the freighter! And my <textEffects>expertly trained</textEffects> eyes leave nothing unseen!
+</line><line>Phoenix:
+<textEffects>(I'll go blind if he keeps smiling like that.)</textEffects>
+</line><line>Judge:
+Very well, Mr Smiles. We would like to hear your testimony. Describe what happened during your night patrol.
+</line><line>Smiles:
+Yessir! Johnny Smiles will reveal all!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>- Patrolling on the Night of the Crime -</textEffects></center>
+<line>Smiles:
+That night, I went on patrol as usual, ZZZO.
+My keen ears latched on to some suspicious noises coming from the cargo hold.
+I sprinted at full speed to the cargo hold, but I was too late to stop the blow.
+The next moment, I captured the criminal... expertly!
+Within seconds I had established there was nothing out of order at the crime scene.
+</line>
+<hr />
+<line>Judge:
+Hmph... And so... The <textEffects>woman you arrested</textEffects> was...?
+</line><line>Smiles:
+It was the defendant, Espella Cantabella, sir!
+</line><line>Flynch:
+And as per standard patrolling procedure, all lights were on and you saw her clearly. Is that correct, Mr Smiles?
+</line><line>Smiles:
+Y-yessir! I am an expert after all!
+</line><line>Phoenix:
+<textEffects>(Huh? Is it just me or did he hesitate before saying that?)</textEffects>
+</line><line>Judge:
+The defence may <textEffects>cross-examine</textEffects> the witness.
+</line><line>Phoenix:
+Y-yessir! <textEffects>(Argh! I'm starting to talk like that guy.)</textEffects>
+</line><line>Flynch:
+Let us see now how skilled our visiting barrister is.
+</line><line>Judge:
+Hmph, yes. By the way, Mr Wright.
+</line><line>Phoenix:
+Y-yes, Your Honour?
+</line><line>Judge:
+Our <textEffects>cross-examination</textEffects> process should be the same as anywhere else... But just in case, would you like to have it explained to you?
+</line><line>Phoenix:
+<textEffects>(The <span style="color:#E16935">cross-examination</textEffects> procedure... Should I ask for an explanation?)</span>
+</line>
+
+
+<line>Maya:
+Okay, let's do it, Nick!
+</line><line>Judge:
+The defence may now cross-examine the witness.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>- Patrolling on the Night of the Crime -</textEffects></center>
+<line>Smiles:
+<textEffects>That night, I went on patrol as usual, ZZZO.</textEffects>
+</line>
+
+
+<line>Smiles:
+<textEffects>My keen ears latched on to some suspicious noises coming from the cargo hold.</textEffects>
+</line>
+
+
+<line>Smiles:
+<textEffects>I sprinted at full speed to the cargo hold, but I was too late to stop the blow.</textEffects>
+</line>
+
+
+<line>Smiles:
+<textEffects>The next moment, I captured the criminal... expertly!</textEffects>
+</line>
+
+
+<line>Smiles:
+<textEffects>Within seconds I had established there was nothing out of order at the crime scene.</textEffects>
+</line>
+
+
+
+<line>
+</line>
+
+
+<hr />
+<line>Phoenix:
+You're saying that there was nothing out of order in the cargo hold... Well, that's a bit funny.
+</line><line>Smiles:
+Huh?
+</line><line>Phoenix:
+The point is, one of the crates in the cargo hold appears to have been tampered with.
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Ah, that. The defendant must've smashed it with the pipe. Nothing odd about it.
+</line><line>Phoenix:
+Please take a look at the crime scene photo. There's this broken crate where the fight took place. But also... there's <textEffects>another crate</textEffects> here that seems kind of strange, don't you think?
+</line><line>Flynch:
+Argh...
+</line><line>Phoenix:
+This crate, sitting quite a distance away from where the fight took place, appears to have been forced open. Isn't this the sort of thing a security guard should immediately notice?
+</line><line>Smiles:
+Ehm...
+</line><line>Phoenix:
+You testified that you <textEffects>established there was nothing out of order</textEffects> at the crime scene. So how come...you didn't notice something so obvious?
+</line><line>Smiles:
+Ughhhhh!
+</line><line>Judge:
+Order! Order! That's...that's certainly a serious oversight. Particularly for someone claiming to be an expert.
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Whether the witness is an expert or not... bears no relevance to this case! What matters is that he saw the defendant hit the victim with a steel pipe!
+</line><line>Smiles:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest?cb=20170905154731" class="image"><img alt="Shout matta.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout matta.xi uk.png" data-image-key="Shout_matta.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905154731" class="lazyload" /></a>
+</line><line>Smiles:
+What you just said... I'm afraid I can't let that slide.
+</line><line>Flynch:
+E-excuse me?
+</line><line>Smiles:
+I am an expert guard! Focused, thorough, precise. A true professional! To prove it, I will testify once more! You're all dying to know why I ignored that one crate, huh?
+</line><line>Phoenix:
+...!
+<textEffects>(Wh-what?)</textEffects>
+</line><line>Judge:
+Very well. The witness shall continue his testimony.
+</line><line>Maya:
+What excuse do you think he'll come up with, Nick?
+</line><line>Phoenix:
+Who knows... I've got a bad feeling about this, though. <textEffects>(What did he actually see?)</textEffects>
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>- What I Saw at the Crime Scene -</textEffects></center>
+<line>Smiles:
+It's only natural that I missed the other crate. The lights in the cargo hold weren't on!
+But of course I had this! A guard's best friend is his trusty pocket torch!
+The emergency light was on, mind. So it wasn't so dark I couldn't see.
+I saw that girl stand right in front of the crew member as she attacked!
+And there was no one else in that room. You have Johnny's word for it!
+</line>
+<hr />
+<line>Flynch:
+W-wait a moment! The security company claims that the <textEffects>lights were on</textEffects> during the patrol!
+</line><line>Smiles:
+Yes, yes. That's the official procedure, you see. But those light controls can be such a pain in the... Wait, no, that's not it! I mean... The truth is, an <textEffects>expert</textEffects> like me doesn't need those lights to do his work! Not when I've got this! The focused beam of my trusty torch cuts through darkness like a laser!
+</line><line>Judge:
+The witness will refrain from pointing the torch in this direction! Justice may be blind, but I'd rather not be!
+</line><line>Smiles:
+Oops, sorry, Your Honour.
+</line><line>Judge:
+This "trusty torch" shall be added to the Court Record as evidence.
+</line><line>Torch added to the Court Record.
+</line><line>Judge:
+...Eww, what is that?!
+</line><line>Phoenix:
+What is it, You Honour?
+</line><line>Judge:
+This...this pocket torch is covered in something sticky!
+</line><line>Smiles:
+Ah, it seems my sweet little buddy's been up to some mischief.
+</line><line>Judge:
+"Sweet little buddy"? Do you mean your chocolate?
+</line><line>Phoenix:
+<textEffects>(Johnny left sticky fingerprints all over his flashlight...)</textEffects>
+</line><line>Maya:
+Ugh... Don't look at me! I'm not touching it...
+</line><line>Judge:
+The defence may cross-examine the witness.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>- What I Saw at the Crime Scene -</textEffects></center>
+<line>Smiles:
+<textEffects>It's only natural that I missed the other crate. The lights in the cargo hold weren't on!</textEffects>
+</line>
+
+<line>Smiles:
+<textEffects>But of course I had this! A guard's best friend is his trusty pocket torch!</textEffects>
+</line>
+
+<line>Smiles:
+<textEffects>The emergency light was on, mind. So it wasn't so dark I couldn't see.</textEffects>
+</line>
+
+<line>Smiles:
+<textEffects>I saw that girl stand right in front of the crew member as she attacked!</textEffects>
+</line>
+
+
+<line>Smiles:
+<textEffects>And there was no one else in that room. You have Johnny's word for it!</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(Oh, man. Some guard he is...)</textEffects>
+</line><line>Maya:
+That prosecutor could have at least checked if the lights were on or not.
+</line><line>Phoenix:
+Yeah. You know...maybe this hasn't been all that properly investigated.
+</line><line>Maya:
+......! You think so?
+</line><line>Phoenix:
+<textEffects>(In any case...some things the guard said are kinda strange. Let's see what he says when I show him some evidence!)</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+You're sure the defendant was standing <textEffects>right in front</textEffects> of the crew member?
+</line><line>Smiles:
+Absolutely! They were facing each other the entire time.
+</line><line>Phoenix:
+Well, that's weird...because it clearly contradicts this evidence!
+</line><line>Flynch:
+What...what do you mean?
+</line><line>Phoenix:
+According to the victim's medical report, the blow was dealt to the <textEffects>back</textEffects> of the head.
+</line><line>Smiles:
+...The back of the head...
+</line><line>Phoenix:
+Do you understand now? If they were facing each other, there's no way the victim could have been hit from behind!
+</line><line>Smiles:
+Ye............
+</line>
+<center>Yesssssssssssir!</center>
+<line>
+Judge:
+Witness! Can you offer an explanation for this contradiction?
+</line><line>Flynch:
+Yes... Explain yourself. It's the first I'm hearing of this!
+</line><line>Smiles:
+Yessir, I...um... It's... It's...strange, isn't it...? I'm totally sure they were fighting face-to-face! I'd swear this melting chocolate bar on it!
+</line><line>Phoenix:
+<textEffects>(It doesn't look like he's lying. But then...)</textEffects>
+</line><line>Maya:
+Hey, Nick! Look at me!
+</line><line>Phoenix:
+Wh-what are you doing, Maya?!
+</line><line>Maya:
+I was just checking if I could hit the back of your head while you were facing me. It doesn't seem doable. Especially for someone as vertically challenged as me.
+</line><line>Phoenix:
+How about you keep your dangerous little "experiments" inside that head of yours, Maya...? I kind of like living, thanks. <textEffects>(At least we've learned a couple of important things... First, that this witness is unreliable! And second... that the prosecution didn't investigate this case properly! If my gut feeling is right... there's much more to this case than meets the eye! Now's my chance. What should I do?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+Your Honour! The defence asserts once more... that the defendant, Espella Cantabella, is <textEffects>innocent</textEffects>!
+</line><line>Judge:
+Wh-what...?!
+</line><line>Flynch:
+This is...foolishness! Just who do you think you are, anyway? Waltzing in here, with your ridiculous assumptions. Balderdash, I say! That's not how it was supposed to be!
+</line><line>Phoenix:
+......! <textEffects>(What did he just say? "Not how it was supposed to be"?)</textEffects>
+</line><line>Judge:
+In light of this new development, the court's opinion... is that the defendant is in no way cleared of suspicion. However... The witness' <i>[sic]</i> testimony has been proven unreliable.
+</line><line>Phoenix:
+<textEffects>(That's more like it! Looks like I'm starting to win over the judge!)</textEffects>
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Don't forget that the defendant admits all charges! Surely her guilt is beyond doubt!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+The defendant is just a schoolgirl! You can't go on her confession alone! So far we have established only one thing! That Mr Smiles is neither an expert nor even a reliable witness!
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest?cb=20170905154731" class="image"><img alt="Shout matta.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout matta.xi uk.png" data-image-key="Shout_matta.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905154731" class="lazyload" /></a>
+</line><line>Smiles:
+In my long, six-month career as a security guard... never have my professionalism and expertise been questioned.
+</line><line>Maya:
+Isn't six months barely past the probation period?
+</line><line>Smiles:
+You're saying Goldilocks there is innocent. In other words, that she didn't assault anyone... and that she didn't steal this toy? Isn't that so, Mr Lawyer?
+</line><line>Phoenix:
+Yes. At least... we have yet to see any proof that she tried to steal it.
+</line><line>Smiles:
+............ Heh heh...heh heh heh... I got you there.
+</line><line>Phoenix:
+Huh? What...? Got me how?
+</line><line>Smiles:
+I have...heh. A decisive piece of evidence! The proof that that girl was trying to kidnap PC Badger!
+</line><line>Phoenix:
+Whaaaaaat?!
+</line><line>Flynch:
+You DO?!
+</line><line>Phoenix:
+<textEffects>(Even Flynch is shocked...)</textEffects>
+</line><line>Smiles:
+When I seized the girl at the crime scene... she was clasping this in her hand! She didn't even seem to notice.
+</line><line>Judge:
+And what would that be?
+</line><line>Flynch:
+It...it would appear to be PC Badger's <textEffects>tag</textEffects>, Your Honour.
+</line><line>Judge:
+Now that you mention it...this mascot does have some sort of an ill-fitting tag attached. What's this engraved on the tag? Is that an <textEffects>address</textEffects>?
+</line><line>Phoenix:
+Oh? You mean there's an <textEffects>address</textEffects> written on there?
+</line><line>Flynch:
+It would appear to be <textEffects>Scotland Yard's</textEffects>, and their telephone number. It is Scotland Yard's mascot, after all.
+</line><line>Phoenix:
+This tag...it's been <textEffects>ripped from</textEffects> one of the PC Badger toys?
+</line><line>Smiles:
+Yessir! The suspect was caught in the act of nicking this very toy! The tag was ripped off during the fight!
+</line><line>Phoenix:
+Wh-what?! Then this tag is...
+</line><line>Smiles:
+What we have here is the decisive evidence that she was trying to steal the cargo!
+</line><line>Phoenix:
+No waaaaaaaaaaaaaay! <textEffects>(I wasn't expecting evidence like that!)</textEffects>
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+W-witness! I was never informed of such evidence! If you had this in your possession, why didn't you hand it in to the police?!
+</line><line>Smiles:
+Sorry, Mr Prosecutor. I am an expert at what I do... and my expert advice to myself was that I'd better keep this as my "<textEffects>secret weapon</textEffects>"! So I waited for the right moment to <textEffects>single-handedly</textEffects> settle this trial!
+</line><line>Flynch:
+Ughhhhh...
+</line><line>Phoenix:
+<textEffects>(Looks like Flynch and I are both in uncharted waters now.)</textEffects>
+</line><line>Judge:
+This tag is <textEffects>vital evidence</textEffects>. It will be added to the Court Record.
+</line><line>Torn Tag added to the Court Record.
+</line>
+<hr />
+<line>Flynch:
+Uhm, defence? Mr Wright, was it?
+</line><line>Phoenix:
+Yes, Prosecutor Flynch?
+</line><line>Flynch:
+Your appearance in this court was a very hastily decided affair...
+</line><line>Phoenix:
+That's true. That call from the Attorney's Association came out of nowhere...
+</line><line>Flynch:
+Perhaps, in all the confusion, the request from your "client" escaped your attention. Were you not instructed to <textEffects>accept</textEffects> the sentence proposed by the prosecution?
+</line><line>Phoenix:
+...!
+</line><line>Maya:
+Come to think of it, Ms Darklaw did say something about that before the trial...
+</line>
+<hr />
+<line>Darklaw:
+She's pleading guilty, so there's not much you need to do. I suggest you accept the punishment proposed by the prosecution.
+</line>
+<hr />
+<line>Flynch:
+That's what you were asked to do. You have convinced us all of your skill, so your good name will not suffer. Why not simply admit the defendant is guilty and call it a day, hmm?
+</line><line>Phoenix:
+............
+</line><line>Judge:
+Hmph... What do you say to that, Mr Wright? Depending on your stance on this matter, the court may now pass the verdict.
+</line><line>Phoenix:
+<textEffects>(My stance? That's something I don't need to think twice about!)</textEffects>
+</line>
+
+
+<line>Phoenix:
+The defence requests that the trial continue!
+</line><line>Flynch:
+Wh-what?!
+</line><line>Phoenix:
+The defence stands by its assertion... that Espella Cantabella...is <textEffects>not guilty</textEffects>.
+</line><line>Flynch:
+............ Very well, Mr Wright. If that's your desire, then I, too, have a request to make. ...Your Honour.
+</line><line>Judge:
+Yes, Prosecutor Flynch?
+</line><line>Flynch:
+The prosecution calls its second witness.
+</line><line>Phoenix:
+......!
+</line><line>Smiles:
+H-hey, wait a second! What about me? Come on, guys, don't forget about Johnny! Let me start over from the top, no detail omitted!
+</line><line>Flynch:
+I suggest you leave the witness stand and go back to witnessing your crimes on television.
+</line><line>Smiles:
+Y-yes............ Yessssssssssssssir!
+</line>
+<hr />
+<line>Judge:
+I believe a break is in order. The court will now adjourn for a 15 minute break. Mr Flynch, prepare your witness. Is that understood?
+</line><line>Flynch:
+...Yes, Your Honour.
+</line><line>Phoenix:
+The defence has no objections. <textEffects>(Looks like Flynch finally got serious about this case. And that means... the real game starts now!)</textEffects>
+</line>
+<center>To Be Continued...</center>
+<hr />
+<line><i>English Courtroom Lobby</i>
+</line><line>Phoenix:
+Phew. Glad the first part's over. That witness was quite a...character.
+</line><line>Maya:
+I bet he'd love to be one...in a crime drama. He'd end up making it a comedy, though. I'd hate it if poor Espella was found guilty because of his shaky testimony. But at least now it looks like we might be able to get Espella a "not guilty" verdict.
+</line><line>Phoenix:
+Yeah, I hope that cheered Espella up a bit.
+</line><line>Darklaw:
+............
+</line><line>Phoenix:
+...Ack! <textEffects>(I forgot about Darklaw!)</textEffects>
+</line><line>Maya:
+She's reading my newspaper.
+</line><line>Phoenix:
+Maybe it's just me, but she doesn't look pleased...
+</line><line>Darklaw:
+......! Oh, it's you. I appreciate your efforts, Mr Wright...
+</line><line>Phoenix:
+Uhm, thank you.
+</line><line>Darklaw:
+But while I understand your drive to win this case...
+</line><line>Phoenix:
+M-my drive?
+</line><line>Darklaw:
+...This is not the time for your personal ambitions.
+</line><line>Phoenix:
+I don't...
+</line><line>Darklaw:
+I told you before, didn't I? That Espella is pleading guilty, and that you should accept the proposed punishment.
+</line><line>Espella:
+............
+</line><line>Darklaw:
+This...incident has already been settled between our school and the police.
+</line><line>Maya:
+But, Ms Darklaw! Espella could be <textEffects>innocent</textEffects>!
+</line><line>Darklaw:
+Believe me, it will be in Espella's best interest if you end the trial as soon as possible. The more this trial drags on, the more traumatic it is for this poor girl.
+</line><line>Phoenix:
+I...I'm sorry... <textEffects>(She may be saying that she's guilty...but is she, really?)</textEffects>
+</line><line>Espella:
+............
+</line><line>Darklaw:
+In any case, Mr Wright... We don't want our school being shoved into the limelight because of this case. So if you could please refrain from picking at meaningless details, such as that toy... Get this trial over with quickly. This is your client's wish, Mr Wright.
+</line><line>Phoenix:
+............ I understand. I'll do my best.
+</line><line>Darklaw:
+It's a relief to hear that... Let's go, Espella.
+</line><line>Espella:
+...Yes, Ms Darklaw.
+</line>
+<hr />
+<line>Maya:
+What the heck was that all about?! We've been bustin' our butts in there trying to prove that Espella is innocent, and she expects us to just give up NOW?!
+</line><line>Phoenix:
+Why are you yelling at ME, Maya...? <textEffects>(But when you think about it, Darklaw's acting very strange...)</textEffects>
+</line><line>Maya:
+Her own pupil's on trial, and she just stands around reading other people's newspapers.
+</line><line>Phoenix:
+Yeah... What's she so busy reading about, anyway? There's nothing about Espella in that paper. <textEffects>(Was she checking the soccer scores or something?)</textEffects>
+</line><line>Newspaper added to the Court Record.
+</line><line>Phoenix:
+The break is almost over. We'd better go back. <textEffects>(Flynch looked really confident about this new witness... I'm Espella's defence attorney. I'll stand by her no matter what.)</textEffects>
+</line>
+<hr />
+<line><i>English Courthouse</i>
+</line><line>Judge:
+The court will now reconvene. Prosecution, is your witness ready?
+</line><line>Flynch:
+Of course, Your Honour. Bailiff, please bring her in!
+</line>
+<hr />
+<line>Judge:
+Witness, state your name and occupation.
+</line><line>???:
+My name is Olivia Aldente.
+</line><line>Aldente:
+The warm winds of the Mediterranean Sea carry the spicy scent of a seafood stew... A 'ot Sicilian stew that soothes the 'earts of sailors braving the raging waters. Blessed be the Sicilian cuisine and il nostro mare!
+</line>
+<hr />
+<line>Flynch:
+Yes... Ms Aldente is employed as a cook on the freighter where the crime happened.
+</line><line>Judge:
+A cook? That's, uhm...interesting attire you are wearing, Miss Aldente.
+</line><line>Aldente:
+This is my work outfit. It gets very 'ot in the kitchen, you know.
+</line><line>Judge:
+It will be a pleasant change after that chocaholic guard. He got up my nose.
+</line><line>Phoenix:
+<textEffects>(Nice to see the judge is remaining impartial...)</textEffects>
+</line><line>Flynch:
+Ms Aldente discovered the defendant in the cargo hold when she went for supplies.
+</line><line>Phoenix:
+She found Espella? That would make her... the <textEffects>crew member</textEffects> that Johnny saw fighting with Espella!
+</line><line>Flynch:
+That is right, Mr Wright. Ms Aldente was the first person to discover the intruder.
+</line><line>Judge:
+Then she is the victim of assault! Hit with a steel pipe...how cruel!
+</line><line>Aldente:
+If I'd only 'ad my precious kitchen knife with me at the time... I'd 'ave shown 'er my eccezionale cutting skills. *giggle*
+</line><line>Maya:
+Nick, look at that! She's an <textEffects>expert</textEffects> potato peeler! You'd better watch out around her!
+</line><line>Phoenix:
+...I'll keep that in mind.
+</line><line>Judge:
+Witness, we will now hear your testimony. Describe to us what happened in the cargo hold.
+</line><line>Aldente:
+Certamente! Gladly!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>- When I Found the Girl -</textEffects></center>
+<line>Aldente:
+I went to the cargo hold to check the supplies. It was past 10:00pm.
+And I found that girl, 'iding and clutching one of them bizzarro toys.
+She made as if to run away, so I tried to stop 'er. Then she grabbed a pipe.
+She's short, but she fiercely swung the pipe at me. I tried to dodge...
+but she 'it me on the 'ead. I blacked out for a few minutes...
+</line>
+<hr />
+<line>Judge:
+Hmph. According to the medical report, you suffered a laceration to your head, correct?
+</line><line>Aldente:
+Ah, that. It's covered by the chef 'at, so you can't see it now... But when I chop up veggies, it 'urts in the rhythm of the strikes, chop-chop-chop!
+</line><line>Judge:
+That sounds most terrible, Miss Aldente.
+</line><line>Aldente:
+I should 'ave been more careful, but she looked like a little, piccola girl.
+</line><line>Maya:
+Hmm. Olivia is much taller than Espella...
+</line><line>Phoenix:
+Yeah. Espella's about the same size as you.
+</line><line>Maya:
+I may be short, but I'm well-proportioned, and that's what matters!
+</line><line>Flynch:
+Your Honour, the prosecution would like to present... the decisive evidence that proves the defendant's guilt.
+</line><line>Phoenix:
+......!
+</line><line>Flynch:
+This is a photograph of the defendant's <textEffects>fingerprints</textEffects> on the steel pipe. As you can see, the fingerprints are very clear. They were left by the assailant. They have already been examined and found to be <textEffects>those of the defendant</textEffects>.
+</line><line>Judge:
+Hmph... Well, that settles it. This is undoubtedly <textEffects>decisive</textEffects> evidence.
+</line><line>Phoenix:
+Wh-what?! <textEffects>(The fingerprints on the weapon are Espella's?)</textEffects>
+</line><line>Flynch:
+Just to put your inquisitive mind at peace, Mr Wright, there were no other fingerprints.
+</line><line>Judge:
+This photograph shall be added to the evidence.
+</line><line>Fingerprint Photo added to the Court Record.
+</line><line>Flynch:
+Heh heh. Have I not warned you, Mr Wright? Further examination is but a waste of time.
+</line><line>Maya:
+Nick... What do we do now? This evidence clearly points to Espella...
+</line><line>Phoenix:
+............ We're pleading that Espella's not guilty. And if she's innocent, then... this witness is <textEffects>lying</textEffects>! All we need to do is expose that lie. <textEffects>(I've got to think straight and focus on finding the truth!)</textEffects>
+</line><line>Judge:
+The defence may cross-examine the witness.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>- When I Found the Girl -</textEffects></center>
+<line>Aldente:
+<textEffects>I went to the cargo hold to check the supplies. It was past 10:00pm.</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>And I found that girl, 'iding and clutching one of them bizzarro toys.</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>She made as if to run away, so I tried to stop 'er. Then she grabbed a pipe.</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>She's short, but she fiercely swung the pipe at me. I tried to dodge...</textEffects>
+</line>
+
+
+<line>Aldente:
+<textEffects>but she 'it me on the 'ead. I blacked out for a few minutes...</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(There doesn't seem to be anything wrong with her testimony... Still...)</textEffects>
+</line><line>Maya:
+Hmm? Got any ideas, Nick?
+</line><line>Phoenix:
+This one piece of evidence has been <textEffects>on my mind</textEffects>... It's not something easy to see but...it feels <textEffects>out of place</textEffects>.
+</line><line>Maya:
+Hmm. I didn't notice anything. I'd better take a second look at the Court Record.
+</line><line>Phoenix:
+<textEffects>(I've got nothing concrete, just a hunch to go on, but...should I present "that"?)</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+You're claiming that the defendant swung the pipe at you... Well, that's impossible.
+</line><line>Aldente:
+Why do you say that, sweetie?
+</line><line>Phoenix:
+The defendant's fingerprints were found on the pipe. However... There is a contradiction here!
+</line><line>Flynch:
+A...contradiction? Im...impossible!
+</line><line>Judge:
+That is most interesting. Well then, the defence shall explain... What in the photo of the fingerprints contradicts the testimony?
+</line>
+
+
+
+<line>Phoenix:
+According to the witness' <i>[sic]</i> testimony, the defendant held the pipe like this... In order to hit the witness on the head, she <textEffects>raised the pipe</textEffects> like so.
+</line><line>Aldente:
+That is preciso what she did!
+</line><line>Phoenix:
+And then she struck from above. But here's the problem... Think about the fingerprints that she would have left, had she done just that...
+</line><line>Judge:
+What are you getting at, Mr Wright?
+</line><line>Phoenix:
+Look closely at the way I'm holding the pipe. In this situation, the fingerprints... would look like this. The thumb is <textEffects>above</textEffects> the other fingers.
+</line><line>Judge:
+Indeed, there's no doubt about it.
+</line><line>Phoenix:
+Now take a look at the fingerprints that were actually left on the pipe.
+</line><line>Judge:
+Goodness! The...the thumb. It's... ...<textEffects>below</textEffects> the other fingers!
+</line><line>Flynch:
+Wh-whaaaat?!
+</line><line>Phoenix:
+That's right. Ms Aldente...
+</line><line>Aldente:
+What...what is it...?
+</line><line>Phoenix:
+Had the defendant attacked you as you described... the fingerprints would have been <textEffects>the other way around</textEffects>. Which means... something's not right with your testimony!
+</line><line>Aldente:
+......Argh!
+</line><line>Judge:
+Order! Order! What is the meaning of this? These fingerprints were submitted as decisive evidence! How come this contradiction was not brought to light before! <i>[sic]</i>
+</line><line>Flynch:
+Ah! Noooooo!
+</line><line>Phoenix:
+Ms Aldente, what do you have to say about this?
+</line><line>Aldente:
+............
+</line><line>Phoenix:
+Uh... Excuse me, Ms Aldente?
+</line><line>Aldente:
+Know 'ow to bring out the full sweetness of a sweet potato?
+</line><line>Phoenix:
+Huh?
+</line><line>Aldente:
+You use a pinch of salt. Interesting, right? You use salt to make something taste sweeter.
+</line><line>Phoenix:
+I'm not following...
+</line><line>Aldente:
+I remember it now. It was <textEffects>the other way around</textEffects>, not as you'd expect it...
+</line><line>Phoenix:
+...!
+</line><line>Aldente:
+I'm sorry, I got a bit confused. You'd normally 'old a pipe like that... But she's so small and the pipe is 'eavy. She 'eld it <textEffects>the other way</textEffects>.
+</line><line>Judge:
+The <textEffects>other way</textEffects>?
+</line><line>Aldente:
+Not like this... She 'eld it in this way!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+But you testified that she "<textEffects>fiercely swung the pipe</textEffects>" at you!
+</line><line>Aldente:
+I'm telling you I got confused. Olivia's sorry, okay?
+</line><line>Phoenix:
+How could you mistake the way she held the pipe if she was right in front of you?!
+</line><line>Aldente:
+Oh, why don't you go fry an egg! What does it matter if she 'eld it one way or another? You wouldn't call a slightly salted sweet potato a salty potato, 'cause it's still a sweet potato, no matter what you add to it.
+</line><line>Flynch:
+The witness probably has a point, doesn't she, Mr Wright?
+</line><line>Phoenix:
+Ugh...
+</line><line>Judge:
+So the defendant attacked the witness holding the pipe <textEffects>backhanded</textEffects>... It seems a bit unnatural, but it does make sense, I suppose.
+</line><line>Flynch:
+Indeed it does, Your Honour. There is no problem with this evidence after all.
+</line><line>Judge:
+Does the defence agree?
+</line><line>Phoenix:
+<textEffects>(If I agree there are no problems with this evidence, we'll be one step away from losing this case... There's gotta be a contradiction somewhere in that fishy testimony! Could Espella have hit Olivia holding the pipe <span style="color:#E16935">backhanded</textEffects>?)</span>
+</line>
+
+
+<line>Phoenix:
+Well, Ms Aldente, I'm afraid that... you're in a pickle now.
+</line><line>Aldente:
+I...I don't really see why.
+</line><line>Phoenix:
+Adding a pack of lies to a testimony can turn things very sour for a witness.
+</line><line>Judge:
+Hmph. It would seem that the defence is prepared to prove its claim... that there is a contradiction in this witness' <i>[sic]</i> testimony.
+</line><line>Phoenix:
+Correct, Your Honour. <textEffects>(I won't know until I try...)</textEffects>
+</line><line>Judge:
+The defence shall now present evidence to the court! The evidence contradicting the assertion that the defendant hit the witness holding the pipe backhanded is...
+</line>
+
+
+<line>Phoenix:
+Ms Aldente, you previously testified... that you were using that hat to cover the wound you received in the assault.
+</line><line>Aldente:
+It's normal for signorinas to cover up things they don't want others to see...
+</line><line>Phoenix:
+That's not all. You also described the defendant as "<textEffects>little</textEffects>", if you recall. That is to say, Ms Cantabella is, at the very least, <textEffects>shorter</textEffects> than you.
+</line><line>Aldente:
+I've grown tall and 'ealthy thanks to the wonderful Mediterranean sunshine!
+</line><line>Phoenix:
+Let me ask you then... How did a girl shorter than you, holding a heavy pipe <textEffects>backhanded</textEffects>, manage to land a blow to the <textEffects>back of your head</textEffects>? I'd say it's impossible.
+</line><line>Aldente:
+...!
+</line><line>Flynch:
+Uh...
+</line><line>Phoenix:
+The fingerprints on the weapon show that the defendant held it backhanded. But even if she didn't... it is highly unlikely she would be able to hit Ms Aldente's head like that!
+</line><line>Judge:
+O-order! I will have order! What is the defence getting at...?
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Even if it was "highly unlikely"... It cannot be proven that it was impossible! Ms Cantabella's fingerprints were found on that pipe, Your Honour. Nothing can change the fact that it was the defendant who held the weapon!
+</line><line>Phoenix:
+.........!
+</line><line>Judge:
+Hmm... That is so. Does the defence have any comments?
+</line><line>Phoenix:
+<textEffects>(I can't deny that... It's clear that Espella did hold that pipe...)</textEffects>
+</line><line>Maya:
+Hmm... She held it <textEffects>like this</textEffects>, right? Why would she do that? It'd be hard to hit anyone like this.
+</line><line>Phoenix:
+...! <textEffects>(When she holds it like that, it looks as if...)</textEffects>
+</line><line>Judge:
+The court recognises the validity of the prosecution's objection. Fingerprints on the weapon prove that it was used by the defendant...
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+The defendant's fingerprints may be on the pipe. However... That <textEffects>doesn't prove</textEffects> she hit anyone with it!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Nonsense! What else would she pick up a steel pipe for?!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+Oh, I think I've got a pretty good idea...
+</line><line>Aldente:
+............
+</line><line>Judge:
+Well then, the defence may elaborate on its idea.
+</line><line>Phoenix:
+<textEffects>(What I say next will turn this trial around!)</textEffects> The defendant's fingerprints were left on the weapon when she...
+</line>
+
+
+
+<line>Phoenix:
+Well, naturally... she held the pipe with both hands when she <textEffects>stopped it</textEffects> from coming down on her head.
+</line><line>Judge:
+S-stopped it...?
+</line><line>Flynch:
+W-with both hands...?
+</line><line>Maya:
+That's right! Like this!
+</line><line>Aldente:
+......!
+</line><line>Phoenix:
+Please take another look at this photo. These are not the fingerprints of an assailant... but rather, the fingerprints of a <textEffects>victim</textEffects> who was defending herself!
+</line><line>Aldente:
+Ah!
+</line><line>Phoenix:
+Which brings us to the conclusion... that Ms Cantabella <textEffects>didn't attack</textEffects> the witness! She was in fact a <textEffects>victim</textEffects>, desperately trying to defend herself!
+</line><line>Flynch:
+This cannot be!
+</line><line>Phoenix:
+And if Ms Cantabella was a <textEffects>victim</textEffects>... Who was the <textEffects>real assailant</textEffects>? There's only one person who could have done it.
+</line><line>Aldente:
+...!
+</line><line>Phoenix:
+The only other person at the crime scene... was Olivia Aldente! ...It was you, wasn't it?
+</line><line>Aldente:
+Kyaaaaaah!
+</line><line>Judge:
+Order! Order! Order! If I cannot have order, the court will be adjourned!
+</line><line>???:
+</line>
+<center>Be quiet, ALL OF YOU!</center>
+<line>
+Aldente:
+You just don't quit, do you...? A lousy lawyer like you should get the chop! 'Ow about I show you my knife up close?!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Have you lost your mind, Mr Wright? The witness is the victim, not the assailant! There are no fingerprints other than the defendant's on the weapon!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+Look at the witness' <i>[sic]</i> outfit. She's wearing <textEffects>gloves</textEffects>. That's why she left no fingerprints!
+</line><line>Aldente:
+Arghhhhhhhhhh! You prickly sea urchin!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+But you cannot be sure she was wearing gloves that night!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+The witness has called this her "work outfit". So she must have been wearing it when she went to check supplies!
+</line><line>Aldente:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest?cb=20170905154731" class="image"><img alt="Shout matta.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout matta.xi uk.png" data-image-key="Shout_matta.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905154731" class="lazyload" /></a>
+</line><line>Aldente:
+You devious lawyer, slippery as an eel! It was me because I 'ad gloves on?! As if it was only me wearing gloves!
+</line><line>Maya:
+Umm, she's the only one in the courtroom wearing gloves.
+</line><line>Aldente:
+There was...THAT guy! The guard! 'E was wearing gloves too!
+</line><line>Judge:
+The guard... Oh, was that the previous witness?
+</line><line>Flynch:
+Oh, that's right! Gloves are part of the guard's uniform, by <textEffects>regulation</textEffects>!
+</line><line>Aldente:
+See! That guard, Johnny, 'e was wearing gloves that night too!
+</line><line>Judge:
+Hmph. What do you say to that, Mr Wright? Since you're claiming that <textEffects>the assailant is the person who had gloves on</textEffects>, that would make the guard a suspect as well.
+</line><line>Phoenix:
+<textEffects>(Could Johnny be the culprit?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+Johnny Smiles is not the culprit!
+</line><line>Aldente:
+Why not?! Anyone with gloves could've done it, didn't you just say that?!
+</line><line>Phoenix:
+<textEffects>(Um, no, I didn't...)</textEffects>
+</line><line>Judge:
+However, it does seem plausible that the guard could have done it. He was wearing gloves, after all.
+</line><line>Phoenix:
+I'm afraid that's impossible, Your Honour. ...And I have <textEffects>proof</textEffects>.
+</line><line>Judge:
+You...do?
+</line><line>Flynch:
+Fascinating. Let's see this "proof", if you really have it... Please enlighten us as to why Smiles cannot be the culprit. Provide the proof!
+</line>
+
+
+<line>Phoenix:
+Mr Smiles is, to put it nicely, what you may call a <textEffects>free spirit</textEffects>. There is no guarantee he would follow the rules and wear his full uniform! And this evidence proves he did not wear gloves!
+</line><line>Flynch:
+W-wait! Don't throw that filthy torch at me!
+</line><line>Judge:
+Will someone please wipe the chocolate off this evidence?!
+</line><line>Phoenix:
+No, Your Honour, this chocolate is <textEffects>the evidence</textEffects>.
+</line><line>Aldente:
+What...?
+</line><line>Phoenix:
+Mr Smiles was snacking on a chocolate bar during his patrol. That's why his flashlight is in this sorry state... and covered in his <textEffects>chocolatey fingerprints</textEffects>. Therefore, we know that he didn't wear gloves when patrolling the ship that night! Rule-breaking, chocolate-loving Johnny Smiles was not the culprit!
+</line><line>Aldente:
+Wh-whaaat...? That's ridicolo! It's too silly!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+Y-Your Honour! The defence has merely pointed out a possibility! To call this witness a criminal without actual evidence against her is preposterous!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+The prosecution's duty is to clear what doubts there may be regarding the defendant's guilt! And I have demonstrated that there is, at the very least, a possibility that the witness is not telling the truth.
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+"At the very least", Espella Cantabella is not innocent! As corroborated by PC Badger, the toy that she attempted to steal!
+</line><line>Aldente:
+...! Ah...
+</line><line>Phoenix:
+<textEffects>(What was that? Did Olivia just freeze for a second?)</textEffects>
+</line><line>Judge:
+Prosecutor Flynch. Explain to the court about this toy...this new piece of evidence.
+</line><line>Flynch:
+This is the stuffed toy the defendant tried to steal that night.
+</line><line>Judge:
+Hmm... <textEffects>One of its legs</textEffects> would appear to be missing. The poor thing.
+</line><line>Flynch:
+This mishap befell PC Badger as the witness and defendant were fighting. The captain of the freighter reported the damage after the defendant's arrest.
+</line><line>Phoenix:
+<textEffects>(So this is the stuffed animal Olivia snatched from Espella...)</textEffects>
+</line><line>Judge:
+I see. The court would like to hear the witness' <i>[sic]</i> testimony regarding this evidence.
+</line><line>Flynch:
+...Witness, your testimony. Excuse me... Witness, you have been asked to testify!
+</line><line>Aldente:
+...Ah... I'm so very sorry! I got a little upset from all these accusations! I'm not used to this...to being called a liar...
+</line><line>Flynch:
+Ah, yes. It's only natural. Don't worry about that. It's all that slimy attorney's fault!
+</line><line>Phoenix:
+<textEffects>(Wh-why do I feel like an eel on a chopping board...?)</textEffects>
+</line><line>Judge:
+The witness will now testify. Tell us how you retrieved this toy from the defendant.
+</line><line>Aldente:
+Gladly! Oh, il nostro mare!
+</line><line>Maya:
+I wonder what she's saying. I don't get it.
+</line><line>Phoenix:
+<textEffects>(Whatever she said, I'll make sure this is the last time she says it in court!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>- About PC Badger -</textEffects></center>
+<line>Aldente:
+I wrestled this toy back from that thief and then gave it to the police.
+When I found that girl, I thought I couldn't let 'er get away with our precious cargo!
+Naturalmente, I 'ad to get that toy back from 'er first. Its leg got ripped off, though.
+But there's no way I could've attacked 'er with the pipe! I was 'olding the toy in one 'and.
+I don't remember much about when I was 'it. But I got the toy back, at least.
+</line>
+<hr />
+<line>Judge:
+Ah, I see. What a commendable attitude, going to such lengths to protect the cargo.
+</line><line>Aldente:
+I may not be a security guard, but I'll do what it takes for the sake of our ship!
+</line><line>Phoenix:
+<textEffects>(It didn't do much good in the end. This PC Badger is way too damaged to be sold.)</textEffects>
+</line><line>Aldente:
+These lovely little toys are made at a workshop in London. We transport them down the River Thames, distributing them to children as we go.
+</line><line>Phoenix:
+<textEffects>(Didn't she call them "bizzaro toys" earlier? And now suddenly they're "cute"?)</textEffects>
+</line><line>Judge:
+And what about fingerprints on this toy?
+</line><line>Flynch:
+It is a soft toy, after all, so no usable fingerprints were found.
+</line><line>Judge:
+Hmph. Well, that is unfortunate. Regardless, the court accepts it into evidence.
+</line><line>Stolen Toy added to the Court Record.
+</line><line>Judge:
+The defence may now cross-examine the witness.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>- About PC Badger -</textEffects></center>
+<line>Aldente:
+<textEffects>I wrestled this toy back from that thief and then gave it to the police.</textEffects>
+</line>
+
+
+
+
+<line>Phoenix:
+The evidence...is this!
+</line><line>Flynch:
+That...that's...
+</line><line>Judge:
+Is this the tag that was hanging from PC Badger's neck?
+</line><line>Aldente:
+T-tag...?
+</line><line>Phoenix:
+This is the evidence received earlier from Mr Smiles.
+</line>
+<hr />
+<line><i>Leads to:</i>
+"When I seized the girl at the crime scene..."
+</line>
+</td></tr></tbody></table>
+<line>Aldente:
+<textEffects>When I found that girl, I thought I couldn't let 'er get away with our precious cargo!</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>Naturalmente, I 'ad to get that toy back from 'er first. Its leg got ripped off, though.</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>But there's no way I could've attacked 'er with the pipe! I was 'olding the toy in one 'and.</textEffects>
+</line>
+
+<line>Aldente:
+<textEffects>I don't remember much about when I was 'it. But I got the toy back, at least.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(So that's it, huh.)</textEffects>
+</line><line>Maya:
+Well, Nick?
+</line><line>Phoenix:
+This one's easy. I know what to do.
+</line><line>Maya:
+You're finally starting to act like your normal self! That jet lag must've hit you like a ton of bricks, huh?
+</line><line>Phoenix:
+<textEffects>(There is a clear contradiction in Olivia's testimony. It's time to present some evidence and expose her lies!)</textEffects>
+</line>
+<hr />
+<line>Smiles:
+When I seized the girl at the crime scene... she was clasping this in her hand! She didn't even seem to notice.
+</line><line>Judge:
+And what would that be?
+</line><line>Flynch:
+It...it would appear to be PC Badger's <textEffects>tag</textEffects>, Your Honour.
+</line>
+<hr />
+<line>Phoenix:
+Strange, isn't it? Something was definitely ripped off this plushie... But it wasn't <textEffects>its leg</textEffects>... It was the <textEffects>tag</textEffects>.
+</line><line>Aldente:
+.........!
+</line><line>Phoenix:
+You noticed it too, didn't you, Ms Aldente? If this is the stuffed animal that Ms Cantabella was holding when you found her... then why is the <textEffects>tag</textEffects> still on it?!
+</line><line>Aldente:
+Kyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+</line><line>Judge:
+Order! Order! I will have order! What is the meaning of this...?
+</line><line>Aldente:
+Hey, you...tasteless-looking prosecutor over there!
+</line><line>Flynch:
+Y...yes...?
+</line><line>Aldente:
+What's this about a <textEffects>tag</textEffects>?! You didn't tell me anything about that!
+</line><line>Flynch:
+If...if you'll please calm down...
+</line><line>Phoenix:
+It's no use blaming the prosecutor.
+</line><line>Aldente:
+...!
+</line><line>Phoenix:
+He didn't even know this <textEffects>tag</textEffects> existed.
+</line>
+<hr />
+<line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+W-witness! I had not been informed of such evidence! If you had this in your possession, why didn't you hand it in to the police?!
+</line><line>Smiles:
+Sorry, Mr Prosecutor. I am an expert at what I do... and my expert advice to myself was that I'd better keep this as my "<textEffects>secret weapon</textEffects>"! So I waited for the right moment to <textEffects>single-handedly</textEffects> settle this trial!
+</line>
+<hr />
+<line>Phoenix:
+For better or for worse, <textEffects>this tag's existence</textEffects> has only recently come to light. Neither the prosecution, nor you, Your Honour, knew about it before this trial.
+</line><line>Aldente:
+Gwah!
+</line><line>Judge:
+But then...why is there a tag on this toy? How come this toy has a <textEffects>tag</textEffects>?
+</line><line>Phoenix:
+The answer is simple. There is a tag on this stuffed animal because...
+</line>
+
+
+
+<line>Phoenix:
+There is only one possibility... Ms Aldente. Before handing the plushie in to the police, you <textEffects>swapped it for another</textEffects>!
+</line><line>Aldente:
+Kyaaaaaaaaaaah! Listen to yourself! Why would I even do something like that?! Ridicolo! And...that's right, that tag must be a fake!
+</line><line>Phoenix:
+A fake? Why would you think that?
+</line><line>Aldente:
+That chocolate freak must be trying to frame me, that's what it is!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Phoenix:
+Mr Smiles has no motive to do something like that!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+No motive? It doesn't require much thinking to come up with one. He <textEffects>wanted attention</textEffects>.
+</line><line>Aldente:
+Yes, what 'e said! The guard lied to show off, that's all there is to it!
+</line><line>Phoenix:
+<textEffects>(Did Johnny produce bogus evidence to draw attention to himself?)</textEffects>
+</line>
+
+
+<line>Aldente:
+What......
+</line><line>Flynch:
+How do you plan to check it?
+</line><line>Phoenix:
+By checking the <textEffects>fingerprints</textEffects>, of course.
+</line><line>Flynch:
+Fingerprints... Arghhh!
+</line><line>Phoenix:
+According to Mr Smiles' testimony... when he seized Ms Cantabella, she was holding the tag <textEffects>in her hand</textEffects>. Therefore... her fingerprints should still be on that tag!
+</line><line>Aldente:
+Kyaaaaaaah!
+</line><line>Judge:
+Bailiff! Have this evidence investigated immediately!
+</line><line>Maya:
+That was awesome, Nick! We've almost got her now!
+</line><line>Phoenix:
+Mr Flynch, I have a question for you.
+</line><line>Flynch:
+Wh-what is it?
+</line><line>Phoenix:
+When you searched the crime scene...did you find a toy <textEffects>without a tag</textEffects>?
+</line><line>Judge:
+Hmph. Well, Mr Flynch? Did you?
+</line><line>Flynch:
+Ugh... N-no... We, uhm... Considering the circumstances, it did not seem necessary to investigate quite so thoroughly... But at the very least, I can tell you that all the toys in the crate had tags on.
+</line><line>Phoenix:
+............ Excuse me, Your Honour?
+</line><line>Judge:
+What is it, Mr Wright?
+</line><line>Phoenix:
+It appears no stuffed animal was found without a tag. Which means that it may still be <textEffects>hidden</textEffects> at the crime scene.
+</line><line>Flynch:
+...Ah...
+</line><line>Phoenix:
+Your Honour, the defence requests that the ship be searched! Thoroughly this time! Send a forensics team there immediately!
+</line><line>Judge:
+You're requesting another search?
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+What? Surely you can't be serious! Whether the toy was <textEffects>swapped</textEffects> or not... It doesn't matter in the least! They are all the same! Any of them will do just fine!
+</line><line>Phoenix:
+...That is exactly why it's important.
+</line><line>Flynch:
+...!
+</line><line>Phoenix:
+All these plushies are the same. There's no need to <textEffects>swap</textEffects> one for another. And yet... Why is the witness getting so worked up about it?
+</line><line>Flynch:
+That's... That's just...
+</line><line>Phoenix:
+<textEffects>(I had a feeling that there was something odd about this case... A stolen stuffed animal...and an assault connected to it... There had to be more to it. There had to be...<span style="color:#E16935">another crime</textEffects> under the surface.)</span>
+</line><line>Maya:
+Nick!
+</line><line>Phoenix:
+<textEffects>(This is it. What should I do...?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+...Your Honour! The defence insists on a search! Should a plushie without a tag be found on the ship... then there's a strong possibility that this case will be resolved!
+</line><line>Flynch:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest?cb=20170905153715" class="image"><img alt="Shout igiari.xi uk" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout igiari.xi uk.png" data-image-key="Shout_igiari.xi_uk.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/a/a8/Shout_igiari.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905153715" class="lazyload" /></a>
+</line><line>Flynch:
+...The prosecution does not acknowledge the need for-
+</line><line>???:
+Nooooooooooooooo!
+</line><line>Aldente:
+You can't! No, no! You can't search it again! You just can't!
+</line><line>Judge:
+W-witness...
+</line><line>Phoenix:
+Ms Aldente! Why did you swap the stuffed animal? And why are you so afraid of having the ship searched? PC Badger holds all the answers!
+</line><line>Aldente:
+........................
+</line><line>Judge:
+I...I say! Mr Wright! Could it be...that you already know the <textEffects>reason</textEffects> behind the swap?
+</line><line>Phoenix:
+<textEffects>(Of course, I don't have any definitive proof. But... when it comes to pointing out a <span style="color:#E16935">possibility</textEffects>, I might have something. Hmm...)</span>
+</line><line>Judge:
+Very well then. Let's see some evidence! Do you have any evidence that would explain why Miss Aldente is against the search?
+</line>
+
+
+<line>Phoenix:
+There is a certain article in this newspaper... "Elusive jewel thieves at large in London! Scotland Yard on red alert!"...
+</line><line>Judge:
+Oh, that robbery. I have heard about it, of course. A group of thieves robbed a jewellery shop and made away with about 50 pieces of jewellery. Many extremely valuable stones were stolen, as well. Scotland Yard's under great pressure to find them.
+</line><line>Flynch:
+All packages sent out from London are being scrutinised by the police. And what does this have to do with our case? Nothing!
+</line><line>Phoenix:
+I beg to differ. The jewel theft took place in London... and that's where our freighter picked up its cargo.
+</line><line>Flynch:
+L-London... Ah... It...it can't be. Witness...?!
+</line><line>Phoenix:
+That night, you discovered the defendant in the cargo hold. She was holding one of the plushies. You knew you had to get it back. You had to get it back at all costs. But why go so far for a mere plushie? There is only one possible reason! You couldn't afford to have the police discover what was <textEffects>inside</textEffects> of it!
+</line>
+<hr />
+<line>Judge:
+We have just received a report from the team investigating the crime scene. This toy was hidden between a storage unit and a pipe.
+</line><line>Flynch:
+Ah!
+</line><line>Phoenix:
+............
+</line><line>Judge:
+The toy has been cut open and the contents examined... and this was found inside. A <textEffects>pink diamond</textEffects> worth approximately £100,000.
+</line><line>Flynch:
+We have also received a report from the crime lab. The defendant's fingerprints have been found on the tag.
+</line><line>Phoenix:
+Do you have anything to say, Ms Aldente?
+</line><line>Aldente:
+............ I lost, didn't I?
+</line><line>Judge:
+So...so you are a...
+</line><line>Aldente:
+Yeah, I'm one of them. I'm one of the jewel thieves. My role was to get the loot out of London. The police never check the regular shipments from that workshop. We decided to take advantage of that blind spot.
+</line><line>Flynch:
+Indeed, the regular direct delivery service has been overlooked by the police.
+</line><line>Judge:
+Possibly because that workshop produces the very mascots representing the police!
+</line><line>Aldente:
+The other crew 'ad nothing to do with it. I used their ship...that's all.
+</line><line>Phoenix:
+It was you who hid the jewels <textEffects>inside</textEffects> the plushies...
+</line><line>Aldente:
+There was one jewel in each toy. I was carrying them away one by one.
+</line><line>Judge:
+The defendant happened to pick one of those toys up...
+</line><line>Aldente:
+I 'ad my 'eart stand still when I saw that girl in the cargo hold. Whenever I was free, I stood guard in front of that room...and yet she got in somehow. So there she was in the room with the 'idden loot, one of the toys, in 'er 'and!
+</line><line>Maya:
+Uhm. So, how did Espella get in there?
+</line><line>Aldente:
+I don't know if she was trying to steal the toy or what. But I just 'ad to get it back from 'er! No matter the cost! Then I 'anded in a different toy. I made it look like it was ripped in the fight. It would 'ave been over for me if the police 'ad found any of the jewels...
+</line><line>Phoenix:
+</line>
+<center>............</center>
+<line>
+Flynch:
+</line>
+<center>............</center>
+<line>
+Judge:
+</line>
+<center>............</center>
+<line>
+Maya:
+But, wait... Who was it in the end? Who hit Olivia?
+</line><line>Phoenix:
+<textEffects>(Oh, I almost forgot about that...)</textEffects>
+</line><line>Aldente:
+</line>
+<center>At first...I thought it must 'ave been...that... little girl that 'it me... But now I don't know.</center>
+<line>
+Phoenix:
+You don't know?
+</line><line>Aldente:
+</line>
+<center>No one else was supposed to be in that room... But what if there was someone in the shadows... Some mischievous person 'idden in the darkness...</center>
+<hr />
+<line>Judge:
+This was a most unusual case. It cannot be said that all mysteries have been resolved... but it has become clear that Ms Cantabella is innocent.
+</line><line>Flynch:
+Ugh......
+</line><line>Judge:
+Well then, Mr Wright.
+</line><line>Phoenix:
+Yes, Your Honour?
+</line><line>Judge:
+It would seem that I owe you thanks for helping us see the truth.
+</line><line>Phoenix:
+N-no need to thank me, Your Honour. I was just doing my job, like I always do.
+</line><line>Maya:
+Is that really the smartest thing you could come up with?
+</line><line>Judge:
+And...Mr Flynch.
+</line><line>Flynch:
+Y-yes, Your Honour!
+</line><line>Judge:
+This trial was part of the Legal League of Attorneys' exchange programme, wasn't it? May this trial serve as a lesson for you too! Is that understood?
+</line><line>Flynch:
+............Oh... It is as you say, Your Honourrrrrrrrrr! Don't look! Don't look! Don't look! Don't LOOK! Without my glasses...I can't see and I don't want to be seen! Where are they? Where are they? Where are they? Where...
+</line><line>Judge:
+Ahem, well then. The court has reached its verdict. I pronounce the defendant, Espella Cantabella...
+</line>
+<center><b>Not Guilty</b></center>
+<hr />
+<line><i>English Courtroom Lobby</i>
+</line><line>Maya:
+Congratulations! You did it, Nick!
+</line><line>Phoenix:
+Yeah...thanks. <textEffects>(I guess I should be happy... but Darklaw's cold gaze is staring daggers through me!)</textEffects>
+</line><line>Darklaw:
+............ Thank you, Mr Wright. You are better than I thought. Had I known earlier, I would have asked you to prove Espella innocent from the very start.
+</line><line>Phoenix:
+Um, I'm glad you're happy about the verdict.
+</line><line>Darklaw:
+Espella, come and thank Mr Wright.
+</line><line>Espella:
+............ Thank you, Mr Wright.
+</line><line>Phoenix:
+G-glad I could help...
+</line><line>Espella:
+............
+</line><line>Maya:
+...Hmm? Hey, Espella. What's that big book you've got there?
+</line><line>Espella:
+............
+</line><line>Darklaw:
+Oh, please forgive her. She's a bit shy, you see. She's very fond of books. At any rate, now Espella can return to her peaceful life at our boarding school. And it's all thanks to your hard work, Mr Wright.
+</line><line>Espella:
+............
+</line><line>Darklaw:
+Now, please excuse us. We have some formalities to attend to.
+</line><line>Phoenix:
+Oh. Yes, of course.
+</line><line>Darklaw:
+...Mr Wright. You were truly outstanding in that courtroom today. Farewell.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Phew, it's finally over.)</textEffects>
+</line><line>Maya:
+You know, something's still bothering me about this case.
+</line><line>Phoenix:
+...?
+</line><line>Maya:
+The person who hit Olivia... where did they go?
+</line><line>Phoenix:
+<textEffects>(That's true... We don't know who actually assaulted Olivia.)</textEffects> If it wasn't Espella... there must have been <textEffects>another person</textEffects> at the crime scene.
+</line><line>Maya:
+But neither Olivia nor Johnny saw anyone else!
+</line><line>Phoenix:
+The room was dark, save for the emergency light. I'm sure someone hid in the shadows. And Johnny was wearing sunglasses... I'm amazed he saw anything at all. He missed all those clues, so it's not much of a stretch to imagine he missed the perpetrator too.
+</line><line>Maya:
+Hmm...
+</line><line>Phoenix:
+How about we head back now?
+</line><line>Maya:
+Okay! Let's go check out Tower Bridge while we still have some daylight left!
+</line>
+<hr />
+<line>Maya:
+Oh!
+</line><line>Phoenix:
+Hmm? What is it, Maya?
+</line><line>Maya:
+There, on the couch... Isn't that Espella's book? It IS the book she was holding. We should return it to her. Hey, Nick, let's see what kind of stuff Espella likes to read.
+</line><line>Phoenix:
+Just quit it, Maya...
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Maya:
+Labyrinthia, huh?
+</line><line>Phoenix:
+Maya, look!
+</line><line>Maya:
+Hey, Nick... Look, that's us, isn't it?
+</line>
+<center>To Be Continued...</center>
+<hr />
+<hr />
+<hr />
+
+
+
+
+</xml>

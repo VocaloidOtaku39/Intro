@@ -1,0 +1,276 @@
+<xml>
+
+<title>London (episode)</title>
+
+<line>
+<i>Thames Riverside</i>
+</line><line>Luke:
+Wow! It's been ages since we were last here, Professor!
+</line><line>Espella:
+Oh...I think I remember this place. Isn't this...
+</line><line>Layton:
+That's right. This is where we came right after you were snatched away by witches. In fact, it's where our investigations began.
+</line><line>Phoenix:
+There seem to be a lot of people around, given the time of day.
+</line><line>Maya:
+I've seen a bunch of other people wearing top hats just like you, Professor. Has there been some kind of English top hat revival?
+</line><line>Layton:
+Not of note. Perhaps there was a wedding... At any rate, I thought I'd introduce you to some places related to last year's <textEffects>incident</textEffects>.
+</line><line>Maya:
+Wow, that sounds like fun! Right, Nick?
+</line><line>Layton:
+Well then, without any further ado, shall we make our way to the next location?
+</line>
+<hr />
+<line><i>Bridge Tunnel</i>
+</line><line>Luke:
+...Ah! This is where we ran into the "<textEffects>Great Witch</textEffects>", isn't it?
+</line><line>Espella:
+Hee hee... Eve was really on <textEffects>top form</textEffects> that night, wasn't she?
+</line><line>Maya:
+You said it! That scene was super intense... My eyes were totally glued to the screen!
+</line><line>Layton:
+Our next stop is a famous London park.
+</line><line>Espella:
+Oh, you mean the park where Carmine and I were trying to escape from the witches in his car?
+</line><line>Phoenix:
+That must be where that crazy crash happened, right? After that, Carmine took his leave for the rest of the game...
+</line><line>Luke:
+If we're lucky, the park should still be open at this time. There's something I'd like to show you all, but I better go on ahead and get it ready.
+</line><line>Maya:
+Hey, check it out! It's that <textEffects>Walled In</textEffects> puzzle. If you solve the puzzle, you get to enter this spooky <textEffects>secret room</textEffects>!
+</line><line>Layton:
+Ah yes...that puzzle was a little arduous, as I recall. Moving all those heavy blocks around was quite the physical challenge.
+</line><line>Espella:
+There's a bit of a crowd around it, so I'm not sure we can get much nearer.
+</line><line>Maya:
+Yup... Tons of top hats here, too. I can't even see the pattern on the wall.
+</line><line>Layton:
+Not to worry. Let's head towards the park, instead. Although now that the mysterious accident has been cleared away, there's nothing particularly eye-catching about it.
+</line><line>Phoenix:
+<textEffects>(Well, makes sense...)</textEffects>
+</line>
+<hr />
+<line><i>Park - Car-Crash Site</i>
+</line><line>Phoenix:
+What the...?!
+</line><line>Maya:
+Woah! No kidding! I didn't know cars could fly like that.
+</line><line>Layton:
+This is most peculiar... I'm quite certain that <textEffects>accident</textEffects> had already been cleared away.
+</line><line>???:
+</line>
+<center>Layton! What brings you here this evening?</center>
+<line>
+Layton:
+Well, if it isn't Inspector Chelmey.
+</line><line>Maya:
+Wow, the famous Inspector Chelmey! Pleased to meet you, sir!
+</line><line>Chelmey:
+I can't imagine what you're all doing here... That mysterious <textEffects>incident</textEffects> has long since been cleared up.
+</line><line>Layton:
+You say that, Inspector, but there would appear to be something rather out of place up in that tree, would there not?
+</line><line>Chelmey:
+Hmph! Well, needless to say, Scotland Yard has no intention of divulging any such information to the likes of you lot.
+</line><line>Layton:
+............
+</line><line>Chelmey:
+............ Then again, I suppose it can't hurt to fill you in on the basics... That vehicle is what you might call... a game-set-piece <textEffects>tourist attraction</textEffects>.
+</line><line>Espella:
+Game-set-piece...?
+</line><line>Chelmey:
+All on account of your game being such a <textEffects>big hit</textEffects>, of course.
+</line><line>Phoenix:
+H-how flattering...I guess.
+</line><line>Chelmey:
+Ever since your little collaboration was released, this right here's become a popular spot amongst fans. Tour guides are dressing up as the main characters and leading fans around on tours of the city.
+</line><line>Layton:
+Ah... That would explain it, then... Namely, the reason behind our seeing so many top hats around this evening.
+</line><line>Chelmey:
+Spot on, Layton. Believe it or not, those people are <textEffects>dressing up as you</textEffects>.
+</line><line>Layton:
+How intriguing... I imagine I must look like a fan as well. You might even say I'm impersonating myself...
+</line><line>Phoenix:
+Say, what about the car up there? Was that reconstructed for the tour?
+</line><line>Chelmey:
+Hmph! As I said before, Scotland Yard has no intention of divulging any information on the matter. None!
+</line><line>Phoenix:
+............
+</line><line>Chelmey:
+............ Well... I suppose just a little scrap of info is only fair. That vehicle is what you might call the <textEffects>main tourist magnet</textEffects> of this whole bleedin' park.
+</line><line>Espella:
+Tou-rist-mag-net...?
+</line><line>Chelmey:
+You heard me right. They felt something really memorable was needed at the end of the tour, see... So some bright spark decided they'd call on a bit of audience participation to recreate the accident as the tour's "grand finale".
+</line><line>Maya:
+Wait...<textEffects>recreate</textEffects> the accident? As in... "Hey, let's throw this car into a tree again" recreate? No way...
+</line><line>Chelmey:
+I tell you, some of these game fans are brave as a bobby. First, they drive along a predetermined course... then that stone statue over there gets up and chucks the vehicle and its occupants up into that tree, as precisely as possible.
+</line><line>Phoenix:
+I was kinda hoping you'd say something a little more reassuring... Like, with <textEffects>flawless precision</textEffects>...
+</line><line>Chelmey:
+You know, that there vehicle was thrown into the tree just a moment ago.
+</line><line>Layton:
+I'm astonished that such a plan could manage to obtain approval.
+</line><line>Chelmey:
+Well, you know Londoners... They're all daredevils at heart. It's pretty popular with the folk over at Scotland Yard, too.
+</line><line>Maya:
+Hmmm... But...doesn't it strike anyone as a little weird?
+</line><line>Chelmey:
+...Weird? What do you mean by that, missy?
+</line><line>Maya:
+That statue was supposed to have been moved by <textEffects>witchcraft</textEffects>, wasn't it? But there's no such thing as <textEffects>witchcraft</textEffects> here in London!
+</line><line>Espella:
+That's right! How do you explain that, Inspector?
+</line><line>Chelmey:
+Listen, you lot! How many times do I need to say it? I have no intention of divulging that kind of sensitive information!
+</line><line>Espella:
+............
+</line><line>Chelmey:
+............ Hey-ho... I suppose just a little hint wouldn't be out of order. ...But this is the last time, you hear me? Now, anyone who's cleared this game already knows that magic isn't the real deal.
+</line><line>Maya:
+Exactly...
+</line><line>Chelmey:
+Well, truth is, that stone bloke over there is in fact a <textEffects>robotic</textEffects> bloke, created with the very latest ultra-advanced technology.
+</line><line>Espella:
+Ro-bo-tic...?
+</line><line>Chelmey:
+It just so happens that research has been carried out day and night over at Labrelum Inc., in order to make magic a reality. ...That "statue" is a <textEffects>prototype</textEffects> that came about through their research.
+</line><line>Phoenix:
+Hmm... But what's a prototype like that doing here?
+</line><line>Chelmey:
+Well, seems Labrelum were rich enough to buy up that part of the park.
+</line><line>Maya:
+B-but why would they go placing a statue like that in the park?
+</line><line>Chelmey:
+There's a good reason for that. You see... when that <textEffects>upstart detective</textEffects> took Espella and fled Labyrinthia, they needed some way of grabbing his car and lobbing it into a tree.
+</line><line>Phoenix:
+Th-that's so improbable, it's ridiculous...
+</line><line>Chelmey:
+Funny you should say that... Labrelum's <textEffects>corporate slogan</textEffects> is: "<textEffects>making the impossible improbable</textEffects>".
+</line><line>Layton:
+If I may interject, why exactly is that sta- ...that robot picking up tourists' cars and throwing them into that tree?
+</line><line>Chelmey:
+Peh! Why not investigate that yourself, Layton? ............ Well, apparently, the president of Labrelum is no longer in need of magic, so he's donated the statue to the people of London.
+</line><line>Phoenix:
+............ Inspector Chelmey, do you mind if I ask you something?
+</line><line>Chelmey:
+What is it?
+</line><line>Phoenix:
+You've been telling us since the start that you have no intention of divulging any information... but now it kind of feels like you've <textEffects>told us everything</textEffects>.
+</line><line>Chelmey:
+............
+</line><line>Phoenix:
+I mean... Why make a big deal about "divulging" things if you're just gonna tell us anyway?
+</line><line>Chelmey:
+............ ............ Do you have any idea what you've just said?
+</line><line>Phoenix:
+Huh...?
+</line><line>Chelmey:
+Don't you lot understand the whole fierce <textEffects>authoritative hierarchy</textEffects> going on between Layton and me?
+</line><line>Espella:
+Au-tho-ri-ta-tive-hi-er-ar-chy...?
+</line><line>Chelmey:
+I always have to say something like: "Keep your nose out of police affairs, Layton." Even though everyone already knows from the start which of us is more talented...
+</line><line>Phoenix:
+Um... Right, I guess...
+</line><line>Chelmey:
+To be downright honest, I'd be more than happy to tell Layton everything I know. But I can't just do that, now can I? ...No, that would be too simple. I've got to stand firm under the steely gaze of all the players and put on an air of <textEffects>superiority</textEffects>. That's my sad fate, as Layton's <textEffects>rival</textEffects>!
+</line><line>Maya:
+No kidding... Well, sounds like that's a weight off your shoulder, Inspector.
+</line><line>Phoenix:
+It's good to vent a little, once in a while. I mean, this is a <textEffects>Special Episode</textEffects>, after all.
+</line><line>Layton:
+Inspector, you needn't think about things so much... It's certainly not something worth worrying about. In truth, I have never once considered you to be my <textEffects>rival</textEffects>.
+</line><line>Chelmey:
+............ ............ ............ What the devil is that supposed to mean? Tell me...what are you getting at?
+</line><line>Layton:
+............ My dear Inspector Chelmey, it simply means that I see you not as a <textEffects>rival</textEffects>, but rather as a <textEffects>friend</textEffects>.
+</line><line>Chelmey:
+As...a...friend, you say? Well, yes, that's...just what I was getting at.
+</line><line>Maya:
+Is it me, or has anyone else noticed those looooooong, awkward <textEffects>pauses</textEffects> between Inspector Chelmey's answers?
+</line><line>Phoenix:
+I'd abandon that line of questioning if I were you, Maya...
+</line><line>Chelmey:
+Normally, of course, that kind of free-flowing information only comes from Constable Barton.
+</line><line>Layton:
+Constable Barton, you say?
+</line><line>Chelmey:
+He's the one who gives too much away, meaning I have to say something like: "Oi, shut it, Barton! I'll do the talking." But he isn't around today, which is why I felt the need to pause. Hence all the uncomfortable <textEffects>silences</textEffects> before I answered...
+</line><line>Layton:
+Now that you mention it... Constable Barton is rather conspicuous by his absence this evening.
+</line><line>Espella:
+Um... Speaking of being absent... What about Luke? We haven't seen him since he left us and went on ahead.
+</line><line>Maya:
+Hey, that's right! Luuuuuke! Heeeeeey, Luuuuuuuuke! Don't tell me he's been abducted by a <textEffects>witch</textEffects>! Not after all we've been through!
+</line><line>Layton:
+Fear not, Miss Fey. I can assure you, he's quite all right.
+</line><line>Espella:
+What do you mean, Mr Layton?
+</line><line>Layton:
+If you're concerned about Luke's whereabouts, then I have something that may be able to offer some clarity.
+</line><line>Maya:
+Huh...? Does that mean what I think it means?
+</line><line>Layton:
+Quite right, Miss Fey. It's time for a <textEffects>puzzle</textEffects>.
+</line><line>Phoenix:
+Again with the puzzles...
+</line><line>Layton:
+It would appear that before Luke went on ahead, he left us a <textEffects>message</textEffects>. If we can solve this puzzle, we'll no doubt gain an important <textEffects>clue</textEffects> as to his current whereabouts.
+</line>
+
+<line>
+Phoenix:
+So..."<textEffects>Layton loves his afternoon tea</textEffects>" is meant to be some kind of clue...?
+</line><line>Maya:
+Way to state the obvious, Luke...
+</line><line>Espella:
+Yes...we all know Mr Layton loves his tea.
+</line><line>Chelmey:
+I'd hardly call it a revelation.
+</line><line>Layton:
+Ho ho, indeed. It would seem there was no <textEffects>clue</textEffects> to be had after all.
+</line><line>Chelmey:
+Where in the blazes has Barton got to, anyway?! I could've sworn he was here when that youngster arrived...
+</line><line>Espella:
+Oh...so, Luke did come to this park after all?
+</line><line>Maya:
+And, guys, remember what he said? "There's <textEffects>something I want to show you all</textEffects>, but I've got to jolly well get it ready first, guvnors"... Or something like that.
+</line><line>Phoenix:
+To me, that "<textEffects>something</textEffects>" sounds like it can only be referring to one thing...
+</line><line>Layton:
+Remind me... What was it that you said a moment ago, Inspector? Something about that <textEffects>attraction</textEffects> being popular amongst your colleagues at Scotland Yard...?
+</line><line>Chelmey:
+Well, yes, I remember saying that, all right. But what are you suggesting?
+</line><line>Phoenix:
+Do you think the "<textEffects>something</textEffects>" he wanted to show us and this "<textEffects>attraction</textEffects>" could be the same thing?
+</line><line>Maya:
+You mean... Luke and Constable Barton...
+</line><line>Espella:
+Oh, no! What shall we do?
+</line><line>Layton:
+...!
+</line><line>Maya:
+</line>
+<center>Luuuuuuuuuke!</center>
+<line>
+Layton:
+</line>
+<center>Luke! Are you in there?
+<line>
+</line>
+........................</center>
+<line>
+Espella:
+...Oh! I think I hear something coming from the top of the tree!
+</line>
+<center>............Professor............ How...are we...supposed to get down... from up here?</center>
+<line>
+Maya:
+............
+</line><line>Phoenix:
+Well, at least it seems like Luke is okay... thank goodness.
+</line>
+<center>To Be Continued...</center>
+</xml>

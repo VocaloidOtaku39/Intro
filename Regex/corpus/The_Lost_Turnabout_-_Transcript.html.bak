@@ -1,0 +1,1710 @@
+<xml>
+
+<title>The Lost Turnabout</title>
+
+<line>
+</line>
+</th></tr>
+<tr>
+<td class="navbox1rowname">
+</td>
+<td colspan="2" class="navbox1rowdata">
+<line>Phoenix:
+<textEffects>(I guess I should say, "Yes" for now.)</textEffects>
+</line><line>Judge: 
+Are you ready, Mr. Wright?
+</line><line>Phoenix: 
+Yes, Your Honor. <textEffects>(... Wait a sec... If her life is in my hands... I should really do the responsible thing...)</textEffects>
+</line><line><i>Leads to:</i>
+"Actually, you see, Your Honor... My memory is kind of..."
+</line>
+</td></tr></tbody></table>
+
+<line>Phoenix:
+Actually, you see, Your Honor... My memory is kind of...
+</line><line>Judge:
+The court will not hear the defense's excuses. Because the defendant is a member of the police, this case is under great scrutiny. Therefore, we must make this trial fair but swift. I believe I have told you this before. I hope you're not telling me you've forgotten!
+</line><line>Phoenix:
+<textEffects>(Actually, I did...)</textEffects>
+</line><line>Judge:
+Mr. Payne, your opening statement, please.
+</line><line>Payne:
+Yes, Your Honor. As I'm sure you're well aware, the defendant is accused of killing her <textEffects>lover</textEffects>. What's worse, her lover was a fellow <textEffects>police officer</textEffects>!
+</line><line>Phoenix:
+A policeman? You did WHAT to a policeman!?
+</line><line>Byrde:
+It wasn't me! And besides, Dustin and I... We weren't "lovers" like that!
+</line><line>Payne:
+In any case... The prosecution will prove that the guilty party is none other than the defendant!
+</line><line>Judge:
+Very well. Mr. Payne, please call your first witness.
+</line><line>Payne:
+Hee, hee, hee. It's been a while, Mr. Wright. Let's see what you've learned since last time. I won't show you any mercy this time, rookie!
+</line><line>Phoenix:
+Okaaay... <textEffects>(And who are you again!?)</textEffects>
+</line><line>Payne:
+Please bring Detective Dick Gumshoe to the stand.
+</line><line>Byrde:
+Here we go! Don't let me down, Mr. Wright!
+</line><line>Phoenix:
+<textEffects>(Nowhere to hide... I'm sooo dead...)</textEffects>
+</line>
+<hr />
+<line>Payne:
+Witness, please state your name and occupation.
+</line><line>Gumshoe:
+My name is Dick Gumshoe, sir.  I'm the detective in charge of homicides down at the precinct, sir.
+</line><line>Judge:
+You don't look very well, Detective.
+</line><line>Gumshoe:
+Well, sir, the defendant... She works under me, so, you know...
+</line><line>Phoenix:
+You work under that detective?
+</line><line>Byrde:
+Yes, sir! And while I was a trainee, he was always watching out for me, sir! He's such a wonderful guy, sir! I'll never forget what he's done for me!
+</line><line>Phoenix:
+<textEffects>(OK, calm down, I believe you.)</textEffects>
+</line><line>Payne:
+Detective Gumshoe. Please describe for us the details of this murder.
+</line><line>Gumshoe:
+Yes, sir. It happened at the park near headquarters, "<textEffects>Exposé Park</textEffects>". The victim was one of the local cops, Dustin Prince. He was pushed down from the benches on the upper path, sir. The landing beat his body up bad and snapped his neck.
+</line><line>Payne:
+The details are listed in the report that was distributed yesterday...
+</line><line>Judge:
+Ah, yes. This <textEffects>autopsy report</textEffects>, correct?
+</line><line>Phoenix:
+<textEffects>(Why do I not remember getting a copy...?)</textEffects>
+</line><line>Judge:
+I see everything is in order here. Even the estimated time of death is unusually well documented!
+</line><line>Gumshoe:
+The victim's watch stopped from the impact of the landing, sir. The results of the autopsy confirmed the time of death.
+</line><line>Payne:
+If I may, Your Honor, the prosecution would like to submit this photograph.
+</line><line>Judge:
+Very well. The court accepts it into evidence.
+</line><line><textEffects>Crime Photo 1 added to the Court Record.</textEffects>
+</line><line>Judge:
+Now then, I recall at yesterday's preliminary hearing, a very important piece of <textEffects>evidence</textEffects> was brought to our attention.
+</line><line>Payne:
+Yes, Your Honor.
+</line><line>Gumshoe:
+Yes, sir.
+</line><line>Phoenix:
+Yes... I guess?
+</line><line>Judge:
+Mr. Wright! Is your head on right today!? There was a very crucial piece of evidence found under the victim's body!
+</line><line>Phoenix:
+Um, was there?
+</line><line>Byrde:
+Have you lost your mind!?
+</line><line>Phoenix:
+Well, actually... Um, it's just nerves. Give me a second.
+</line><line>Byrde:
+Whaaaat!? How can you talk like such an amateur!? I thought you were a pro, sir! ... Alright, sir. I'll help you through this! At a time like this, maybe you ought to take a glance at the <textEffects>Court Record</textEffects>!
+</line><line>Phoenix:
+...Court Record?
+</line><line>Byrde:
+Yup! Info about <textEffects>evidence</textEffects> and <textEffects>people</textEffects> involved with this case are all listed there, sir! You can look at the Court Record by touching <textEffects>the Court Record Button</textEffects>!
+</line><line>Phoenix:
+<textEffects>The Court Record Button</textEffects>...? You really know what you're talking about, huh?
+</line><line>Byrde:
+It's too bad I'm a cop, right? Just think! I could totally be a legal aide instead!
+</line><line>Judge:
+Mr. Wright.
+</line><line>Phoenix:
+Yes, Your Honor!
+</line><line>Judge:
+Court is in session. Save your chit-chat for later!
+</line><line>Phoenix:
+S-Sorry, Your Honor... <textEffects>(Well, I guess I'd better check the <span style="color:#E16935;">Court Record</textEffects>, and see what I can find... What was it again? <textEffects>The Court Record Button</textEffects>...?)</span>
+</line><line>Judge:
+Alright, Mr. Wright. Let's see if your notes are in order. What was the piece of evidence found underneath the victim's body?
+</line>
+
+
+
+<line>Phoenix:
+That's simple, Your Honor. <textEffects>A broken pair of glasses</textEffects>.
+</line><line>Judge:
+That's right.
+</line><line>Gumshoe:
+The victim grabbed the criminal's glasses as he was being shoved, sir, and held onto them as he fell.
+</line><line>Phoenix:
+...
+</line><line>Byrde:
+Hey! Why are you giving me the evil eye!?
+</line><line>Phoenix:
+Those glasses you're wearing...
+</line><line>Byrde:
+Nnnngh...
+</line><line>Byrde:
+Yes, this is my spare pair. But these glasses they found at the scene of the crime are not mine! I swear, sir!
+</line><line>Phoenix:
+You sure about that?
+</line><line>Byrde:
+Look, it was a coincidence that on that same day, I accidentally stepped on mine!
+</line><line>Phoenix:
+<textEffects>(A "coincidence" she says... Urk...)</textEffects>
+</line><line>Payne:
+Eh hee hee hee hee hee hee! Your Honor. I have further evidence to present.
+</line><line>Judge:
+Oh? You have more?
+</line><line>Payne:
+And this evidence is very decisive.
+</line><line>Judge:
+Very well! Let's hear from our witness about this "evidence".
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Decisive Evidence --</textEffects></center>
+<line>Gumshoe:
+There's something even more incriminating than the glasses under the victim's body, sir.
+During his date, the victim was pushed from the bench area.
+But he managed to write the culprit's name on the ground where he landed.
+I don't like saying it, but it was clearly the defendant's name, "Maggie", sir.
+With this piece of evidence and the glasses, it's hard to say she's not the culprit.
+</line>
+<hr />
+<line>Payne:
+This is a picture of the writing, Your Honor.
+</line><line>Judge:
+Why, this is...! Yes, I can see the name is clearly written here.
+</line><line>Payne:
+The prosecution would like to submit this picture.
+</line><line>Judge:
+Understood. The court accepts it into evidence.
+</line><line><textEffects>Crime Photo 2 added to the Court Record.</textEffects>
+</line><line>Phoenix:
+As if the glasses alone didn't make you look suspicious, the victim even wrote your name clear as day on the ground!
+</line><line>Byrde:
+But, but, but, I already told you! Those glasses aren't mine!!
+</line><line>Phoenix:
+And how do you explain his dying message?
+</line><line>Byrde:
+... It's a conspiracy! I'm not guilty, sir!
+</line><line>Judge:
+Mr. Wright, you may <textEffects>cross-examine</textEffects> the witness.
+</line><line>Phoenix:
+Cross-examine?
+</line><line>Byrde:
+This is it! I'm counting on you!
+</line><line>Phoenix:
+Sure... But what am I supposed to do?
+</line><line>Byrde:
+WHAT!? This isn't like you at all! Normally, this is the part where you get in the witnesses' faces!
+</line><line>Phoenix:
+Get in their faces and do what?
+</line><line>Byrde:
+I guess there's no way around it! OK, I'm going to lend you a hand! The prosecution's witnesses all hide things from the court, which means they <textEffects>lie</textEffects> from time to time.
+</line><line>Phoenix:
+Lie? But... isn't that detective your superior?
+</line><line>Byrde:
+Well, even if they don't mean to lie, sometimes people just <textEffects>remember things wrong</textEffects>.
+</line><line>Phoenix:
+Hmm, like that detective. He does sort of look like a scatterbrain...
+</line><line>Byrde:
+It doesn't matter! Either way, it's bad for us, sir! That's why when you question witnesses, you have to find and <textEffects>expose their lies</textEffects>!
+</line><line>Judge:
+Mr. Wright. Your cross-examination, please.
+</line><line>Phoenix:
+Y-Yes, Your Honor. <textEffects>(Talk about trial by fire. Here goes nothing. As long as I can "<span style="color:#E16935;">expose the lies</textEffects>", we should be alright.)</span>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Decisive Evidence --</textEffects></center>
+<line>Gumshoe:
+<textEffects>There's something even more incriminating than the glasses under the victim's body, sir.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Gumshoe:
+<textEffects>During his date, the victim was pushed from the bench area.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>But he managed to write the culprit's name on the ground where he landed.</textEffects>
+</line>
+
+
+<line>Gumshoe:
+<textEffects>I don't like saying it, but it was clearly the defendant's name, "Maggie", sir.</textEffects>
+</line>
+
+
+<line>Gumshoe:
+<textEffects>With this piece of evidence and the glasses, it's hard to say she's not the culprit.</textEffects>
+</line>
+
+
+<line>Byrde:
+Don't give up! Keep that fighting spirit going!
+</line><line>Phoenix:
+I'm glad you're all pumped up, but...
+</line><line>Byrde:
+I really want to see your "<textEffects>special move</textEffects>", sir!
+</line><line>Phoenix:
+My what??
+</line><line>Byrde:
+You always look so cool when you <textEffects>present</textEffects> evidence!
+</line><line>Phoenix:
+<textEffects>Present</textEffects>... evidence?
+</line>
+
+
+<hr />
+<line>Phoenix:
+... ... ...
+</line><line>Judge:
+Wh-What is it?
+</line><line>Phoenix:
+... <textEffects>(What... What's come over me...? Without thinking, I just blurted out, "<span style="color:#E16935;">Objection!</textEffects>"... And I yelled it at the top of my lungs, finger outstretched, ready to take on my opponent! What a rush!)</span>
+</line><line>Phoenix:
+Detective Gumshoe!
+</line><line>Gumshoe:
+Y-You talking to me, pal?
+</line><line>Phoenix:
+Please state the defendant's name for me!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+What are you trying to prove with this futile exercise, Mr. Wright?
+</line><line>Phoenix:
+You'll see. This is a very crucial line of questioning! Actually, Mr. Payne, you can answer. The defendant's name, if you please.
+</line><line>Payne:
+Wh-Where is this ridiculous question coming from? The defendant's, uh, name is, uh... "Maggie Byrde".
+</line><line>Phoenix:
+I think someone needs to check the Court Record.
+</line><line>Payne:
+What...? It says right here that it's "Maggey Byrde". Aaaah!!
+</line><line>Phoenix:
+It looks like the bird caught the cat napping!
+</line><line>Judge:
+What's going on here!?
+</line><line>Gumshoe:
+I have no idea either, sir!
+</line><line>Phoenix:
+As you can see, the victim did indeed leave a name, "<textEffects>Maggie</textEffects>". However, the defendant's name is actually spelled, "<textEffects>Maggey</textEffects>"! This is a blatant <textEffects>contradiction</textEffects> of facts!
+</line><line>Judge:
+Ohh!
+</line><line>Gumshoe:
+How about that? I hadn't even noticed!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+But, but, but...! But maybe the victim didn't know how to spell her name correctly...
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Phoenix:
+May I remind you that it was you who said, "The defendant is accused of killing her <textEffects>lover</textEffects>." If they were truly lovers, it would be impossible for him to have not known her name!
+</line><line>Payne:
+Noooo!
+</line><line>Judge:
+This is very true. Mr. Payne.
+</line><line>Payne:
+Y-Yes, Your Honor?
+</line><line>Judge:
+Are you absolutely certain that the defendant and the victim, Dustin Prince, were, in fact, lovers?
+</line><line>Payne:
+Y-Yes, I am quite certain, Your Honor. They were a well-known couple in the police force.
+</line><line>Judge:
+Detective Gumshoe. Please testify for the court the relationship between the victim and the defendant.
+</line><line>Gumshoe:
+Yes, sir...
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Dustin and Maggey --</textEffects></center>
+<line>
+Gumshoe:
+Officer Prince and Officer Byrde had been going out for half a year.
+It sounded like they were even talking about marriage.
+The day of the incident just happened to be the victim's birthday, sir.
+Maggey... I mean Officer Byrde, had gotten Officer Prince a present.
+It was something she had gotten over 2 months ago.
+I should know, 'cause she came to me to ask what she should get for him.
+</line>
+<hr />
+<line>Judge:
+Oh... Those two sound like they were close...
+</line><line>Payne:
+Nevertheless, tragedy struck.
+</line><line>Judge:
+Hmm, yes, I see... You may cross-examine the witness, Mr. Wright.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Dustin and Maggey --</textEffects></center>
+<line>Gumshoe:
+<textEffects>Officer Prince and Officer Byrde had been going out for about half a year.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>It sounded like they were even talking about marriage.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>The day of the incident just happened to be the victim's birthday, sir.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Maggey... I mean, Officer Byrde, had gotten Officer Prince a present.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>It was something she had gotten over 2 months ago.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line>Gumshoe:
+<textEffects>I should know, 'cause she came to me to ask what she should get for him.</textEffects>
+</line>
+
+<line>Phoenix:
+...
+</line><line>Byrde:
+Wh-What is it this time?
+</line><line>Phoenix:
+That testimony didn't sound like it had any <textEffects>contradictions</textEffects> in it to me. There just wasn't anything that really stuck out as odd.
+</line><line>Byrde:
+Yeah... I wonder what would happen if you tried to get more information from him?
+</line><line>Phoenix:
+Get more information?
+</line><line>Byrde:
+Yeah! You know! Like how they "<textEffects>press</textEffects>" people on those old cop shows, sir!
+</line><line>Phoenix:
+So I should try "<textEffects>pressing</textEffects>" him, huh?
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(I don't know where this will lead me, but...)</textEffects> Of course it is relevant! That glove is the key to this whole case!
+</line><line>Byrde:
+Yes! Bluffing to the max! Now, THIS is the Mr. Wright I know! I'm so happy you're back, sir! I was wondering how long it'd take! This is great!
+</line><line>Phoenix:
+<textEffects>(Hmm, <span style="color:#E16935;">pressing</textEffects> people... It feels like I've done this before. As if I used to do this to squeeze information from even the most tight-lipped people.)</span>
+</line><line>Judge:
+Very well. If you are that convinced, then let's hear some more about this matter.
+</line><line>Gumshoe:
+Actually, I brought the glove with me today.
+</line><line>Phoenix:
+And?
+</line><line>Judge:
+Why didn't you say so earlier? Hurry and show the glove to this court!
+</line><line>Gumshoe:
+Well, I didn't think it had anything to do with this case... Anyway, this is it, sir.
+</line><line>Judge:
+It's, uh... rather yellow, isn't it?
+</line><line><textEffects>Baseball Glove added to the Court Record.</textEffects>
+</line><line>Gumshoe:
+Officer Prince really liked the color yellow.
+</line><line>Phoenix:
+And that's why you had to special order it?
+</line><line>Byrde:
+Yup, that's right! That, and one other reason...
+</line><line>Judge:
+I think this court has heard enough. It is clear that the victim and the defendant were involved with each other.
+</line><line>Payne:
+Yes, that's correct, Your Honor.
+</line><line>Judge:
+Now, if that is true, it brings up an important question. Was the name "Maggie" really written by the victim?
+</line><line>Payne:
+I see your point, Your Honor. Detective Gumshoe, please tell the court a little more about the name on the ground.
+</line><line>Gumshoe:
+Yes, sir.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Writing on the Ground --</textEffects></center>
+<line>Gumshoe:
+We first looked into the handwriting, sir.
+Unfortunately, we couldn't confirm that it was the victim's handwriting.
+Next, we checked the victim's pointer finger.
+We found out that there was sand trapped under the victim's fingernail.
+There were also scratches on the skin that were caused by him writing on the ground.
+From this, we could confirm that the victim wrote this name with his right hand.
+</line>
+<hr />
+<line>Judge:
+Hmm... Yes, a perfectly logical conclusion. Now then, Mr. Wright, you may cross-examine the witness.
+</line><line>Phoenix:
+Thank you, Your Honor.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Writing on the Ground --</textEffects></center>
+<line>Gumshoe:
+<textEffects>We first looked into the handwriting.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Unfortunately, we couldn't confirm that it was the victim's handwriting.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>Next, we checked the victim's pointer finger.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>We found that there was sand trapped under the victim's fingernail.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>There were also scratches on the skin that were caused by him writing on the ground.</textEffects>
+</line>
+
+<line>Gumshoe:
+<textEffects>From this, we could confirm that the victim wrote this name with his right hand.</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(Listening to this, you would think there was only one conclusion... that the name was definitely written by the victim...)</textEffects>
+</line><line>Byrde:
+But don't you think that would be really strange, sir!? If Dustin really wrote that message with his right hand, do you think I would have gone through that much trouble to get him his present?
+</line><line>Phoenix:
+<textEffects>(The <span style="color:#E16935">present</textEffects>...? What about it...?)</span>
+</line>
+<hr />
+<line>Phoenix:
+Detective Gumshoe. Take a look at this.
+</line><line>Gumshoe:
+That's the glove, right?
+</line><line>Phoenix:
+Could you tell the court what is special about this glove?
+</line><line>Gumshoe:
+What's special? Um, never really thought about it, but uh... It's REALLY yellow... ... And that's about it.
+</line><line>Phoenix:
+Yes, it's REALLY yellow, but that is only one of its qualities.
+</line><line>Gumshoe:
+Huh?
+</line><line>Phoenix:
+There's another reason why it's special.
+</line><line>Judge:
+And what would that be?
+</line><line>Phoenix:
+It's very simple.
+</line><line>Phoenix:
+This glove is made for a <textEffects>left-handed</textEffects> person!
+</line><line>Gumshoe:
+Left-handed...?
+</line><line>Judge:
+Why, you're absolutely right! This glove is made to be worn on the <textEffects>right hand</textEffects>!
+</line><line>Phoenix:
+That is why it had to be custom-made. I have never seen a bright yellow left-hander's glove for sale. Have you?
+</line><line>Gumshoe:
+Well, um... no.
+</line><line>Phoenix:
+So, Detective. Which hand did the victim use to write the name with, again...?
+</line><line>Gumshoe:
+That's easy! Look, it's obvious from this picture that it was his... W-W-Wait a sec...
+</line><line>Phoenix:
+Don't forget that the victim was <textEffects>left-handed</textEffects>!
+</line><line>Gumshoe:
+Aaaaah!!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+This is... This is... I mean... I... Objec--
+</line><line>Judge:
+Overruled. Mr. Wright, I would like to know what your line of reasoning proves.
+</line><line>Phoenix:
+There is only one conclusion that can be drawn! A left-handed person could not have written a message with his right hand! Therefore! The person who wrote the name "<textEffects>Maggie</textEffects>" could not have been the victim!
+</line><line>Judge:
+Order! Order! When you think about it that way, then yes, it is not possible that this name was written by the victim himself.
+</line><line>Gumshoe:
+Then that means Maggey is...!
+</line><line>Payne:
+No... IT'S NOT POSSIBLE!!
+</line><line>Judge:
+Mr. Payne.
+</line><line>Payne:
+Y-Y-Yes, Your Honor?
+</line><line>Judge:
+The evidence the prosecution has presented has failed to prove the defendant's guilt. In fact, I believe you have proven her to be <textEffects>innocent</textEffects>!
+</line><line>Payne:
+NOOOOOOO!
+</line><line>Byrde:
+Alright! You did it, Mr. Wright! Whew! I feel like I can breathe again!
+</line><line>Judge:
+It seems that we have reached the conclusion. You did a fine job once again, Mr. Wright.
+</line><line>Phoenix:
+Me, Your Honor? Ah, well, thank you, sir...
+</line><line>Byrde:
+See, you got complimented by the judge again! You're really good! And that's why you can't give up being a lawyer, sir!
+</line><line>Phoenix:
+<textEffects>(Are you joking!? I'm more than ready to retire!)</textEffects>
+</line><line>Judge:
+I will now announce my verdict. This court finds the defendant, Maggey Byrde...
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+No!! Not yet! I mean, please give me a few more minutes, Your Honor.
+</line><line>Judge:
+Wh-What is the meaning of this, Mr. Payne!?
+</line><line>Payne:
+The prosecution is not finished yet!
+</line><line>Phoenix:
+What do you mean!?
+</line><line>Payne:
+We would like to call our <textEffects>next witness</textEffects> to the stand!
+</line><line>Phoenix:
+Whaaaaaaaaaat!?
+</line><line>Judge:
+And what did this witness... witness?
+</line><line>Payne:
+The moment the victim was <textEffects>pushed to his death</textEffects>! What's more, he saw the very <textEffects>face of the culprit</textEffects>!
+</line><line>Phoenix:
+What the heck!?
+</line><line>Judge:
+Order! Order in the court! I believe a recess is in order. Afterward, we will hear from this new witness.
+</line><line>Phoenix:
+<textEffects>(I had a feeling that was a bit too easy... Hmm, I need more information. I'll have to see what I can find out during this recess. I can't let my guard down! It's only going to get tougher from here!)</textEffects>
+</line><line>Judge:
+Court is adjourned for recess!
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<center><textEffects>September 8, 11:43 AMDistrict CourtDefendant Lobby No. 1</textEffects></center>
+<line>Byrde:
+A-Amnesia!? I can't believe my lawyer's trying to defend me in such a state...
+</line><line>Phoenix:
+... I... Uh...
+</line><line>Byrde:
+Why didn't you tell me, sir!?
+</line><line>Phoenix:
+I'm sorry I didn't mention it to you.
+</line><line>Byrde:
+Oh! I know what to do! I heard you can fix something like this with a really strong shock to your system! Come on, lower your head a little! <textEffects>A Maggey Kick</textEffects> should be all you need!
+</line><line>Phoenix:
+Ah, no, no, no. I think I'll pass on this one.
+</line><line>Byrde:
+Come on!... Ah, I'm sorry. Whenever I see someone in trouble, I have a hard time leaving them alone... I tend to stick my nose where it doesn't belong and try to tackle everyone's problems.
+</line><line>Phoenix:
+<textEffects>(Well, my head's one problem you won't be tackling today...)</textEffects> Well, we're here to solve your problem first. We can deal with mine later. For now, do you think you can fill me in on a few things?
+</line><line>Byrde:
+Of course! I'd be honored to! Ah, well, I guess we'll start with my name and then I can tell you about me!
+</line><line>Phoenix:
+No, no, that's ok. Really. I think I know you and your name pretty well by now. I was wondering if you could help me figure out a few things about myself. So, my name is "Phoenix Wright"? What a weird name.
+</line><line>Byrde:
+Hmmmm... This is serious. You really don't remember. I'll tell you what, sir. You can have this back, and maybe it'll help!
+</line><line>Phoenix:
+...? This is... a business card?
+</line><line>Byrde:
+I got this from you. It's my most prized possession! You can borrow it for now, but please give it back, OK!?
+</line><line>Phoenix:
+OK. <textEffects>(There are some numbers written on the back...)</textEffects>
+</line><line>Byrde:
+Oh, that's your cell phone number!
+</line><line><textEffects>Phoenix's Business Card added to the Court Record.</textEffects>
+</line><line>Phoenix:
+I guess for now, we should stop talking about me, and start talking about this case.
+</line><line>Byrde:
+This case...?
+</line><line>Phoenix:
+Yup. Can you think of anything that would be helpful for me to know?
+</line><line>Byrde:
+Um, what can I tell you...? Ah, um... Hmm... I can't think of anything other than the incident with that cell phone, but...
+</line><line>Phoenix:
+...<textEffects>Cell phone</textEffects>?
+</line><line>Byrde:
+Yeah! Your eyes lit up when we talked about it at the Detention Center, sir!
+</line><line>Phoenix:
+...!
+</line><line>Phoenix:
+Hurry up then and tell me! This might be very important!
+</line><line>Byrde:
+OK! Roger!
+</line>
+<hr />
+<line>Byrde:
+It was on the day of the crime, just before 6 PM... I picked up a lost cell phone while on a walk with Dustin.
+</line><line>Phone:
+<textEffects>...............</textEffects>
+</line><line>Byrde:
+All of a sudden, the phone began to ring...
+</line><line>Phone:
+<textEffects>...*beep*...</textEffects>
+</line><line>Byrde:
+"Um, hello?"
+</line><line>???:
+<textEffects>"Oh, thank you! I've been searching for my phone."</textEffects>
+</line><line>Byrde:
+"Is this yours? Oh, I'm glad you called! We can meet up and I can give this back!"
+</line><line>???:
+<textEffects>"I'll be right there, um... I'm sorry, I didn't catch your name..."</textEffects>
+</line><line>Byrde:
+"You can call me Maggey!"
+</line>
+<hr />
+<line>Byrde:
+We agreed to meet up at 6 PM. Dustin and I waited for the person to show up... but they never did.
+</line><line>Phoenix:
+Hmmmm... So where is the phone you found now?
+</line><line>Byrde:
+I gave it to you yesterday!
+</line><line>Phoenix:
+Huh? To me? <textEffects>(Is it that phone in my pocket...?)</textEffects> Y-You mean this?
+</line><line>Byrde:
+Do you think it has anything to do with the murder?
+</line><line>Phoenix:
+I... don't really know... But if my eyes "lit up"...
+</line><line>???:
+AAAAAAAAAAAAAAAAAAHHHHH!! YOU WERE HERE ALL ALONG!! You're so mean!! I called you a million times but you wouldn't pick up! And when I went to check in the courtroom, everyone had already left...
+</line><line>Phoenix:
+<textEffects>(Ack! Now who in the heck is this? Let me guess. I'm supposed to know this girl too...)</textEffects>
+</line><line>???:
+Hey, good morning, Maggey!
+</line><line>Byrde:
+And a good morning to you, too, Maya! 
+</line><line>Maya:
+So!? So!? How's it going!?
+</line><line>Byrde:
+Is there a word for "worse than abysmal"...?
+</line><line>Maya:
+Oh? And what if I said that everything will be fine? That's right! It's Maya to the rescue with the ultra-decisive super-important evidence! Here you are, Nick! The thing you wanted me to bring!
+</line><line>Phoenix:
+Huh? Oh, ah, thanks... <textEffects>(What the heck is this? A list? It has about 20 people's names and phone numbers written on it.)</textEffects>
+</line><line>Maya:
+It was kind of tough, but I managed to find out some dirt! It looks like these guys are up to no good.
+</line><line>Phoenix:
+"No good"? As in?
+</line><line>Maya:
+There's a <textEffects>group of con artists</textEffects> the police are currently investigating. I think these guys are members of that group.
+</line><line><textEffects>Names List added to the Court Record.</textEffects>
+</line><line>Phoenix:
+Why would a group of con artists pop up in a case like this?
+</line><line>Maya:
+Don't look at me!
+</line><line>Phoenix:
+Hmm... And where did you get this list from in the first place?
+</line><line>Maya:
+Whaaaaat!? Why are you asking that!? You're the one who asked me to look this up yesterday!
+</line><line>Phoenix:
+Oh... is that right?
+</line><line>Maya:
+These numbers were in the memory of that <textEffects>phone</textEffects> Maggey found.
+</line><line>Phoenix:
+Hmm, so that's where they're from.
+</line><line>Maya:
+You're awfully forgetful these days, Nick. I hope I never get to be a forgetful old prune like you!
+</line><line>Byrde:
+Um, Maya... Actually, Mr. Wright is...
+</line><line>Bailiff:
+Mr. Wright! Recess is now over. Please bring the defendant and return to the courtroom immediately!
+</line><line>Maya:
+Oh, oops! Guess you have to get going! We can talk about you being old later, Nick!
+</line><line>Byrde:
+W-Wish us luck!
+</line><line>Phoenix:
+<textEffects>(I guess I have all the pieces now... More or less. All that's left is to put it all together. I'm not going to lose this. I can't!)</textEffects>
+</line><line>Maya:
+Come on, Nick. Better get a move on!
+</line><line>Phoenix:
+Y-Yeah.
+</line>
+<hr />
+<center><textEffects>September 8, 11:54 AMDistrict CourtCourtroom No. 2</textEffects></center>
+<line>Judge:
+The court will now reconvene. Please call your next witness to the stand, Mr. Payne.
+</line><line>Payne:
+Yes, Your Honor. But before I do, if I may say a few words...
+</line><line>Judge:
+What is it, Mr. Payne? 
+</line><line>Payne:
+It's about the next witness. He has a tendency to say things that rub people the wrong way, you see, so I ask that the court might be a little lenient on...
+</line><line>Judge:
+There is no need to give a preface. Just hurry up and call your witness, please.
+</line><line>Payne:
+Y-Yes, Your Honor. ...The prosecution calls its next witness; a drifter who was taking a walk in the park on the day of the murder!
+</line>
+<hr />
+<line>Payne:
+Please state your name for the court, witness. 
+</line><line>???:
+Before I do, I'd like to clarify a little something.
+</line><line>Payne:
+Huh? Oh, alright, go ahead.
+</line><line>???:
+Just now, you introduced my wonderful self to the court, correct? Perhaps as a "drifter who was <textEffects>taking a walk</textEffects>"? 
+</line><line>Payne:
+D-Did I?
+</line><line>???:
+But I will not stand for that! Now you've tinted the court's eyes and colored me wrongly. Sure, I suppose calling me a university student would not be the absolute truth, but to give in and <textEffects>just settle would be as evil as death</textEffects> and I can't have that! Everything in my life is to be of the utmost, highest, <textEffects>top grade quality</textEffects>, you understand. I am merely looking for that perfect, top notch, <textEffects>unbeatable university</textEffects>, don't you see...? I have a rigorous selection process and I was in serious thought during my "<textEffects>walk</textEffects>" as...
+</line><line>Payne:
+Yes, yes, I understand. I'm very sorry. I will be more careful from now on.
+</line><line>Maya:
+Wh-What is he? A human chatterbox?
+</line><line>Phoenix:
+Ugh... I have to question HIM?
+</line><line>???:
+Fashion! Cars! Women! Glasses! And of course, University! First-rates only need apply!
+</line><line>Phoenix:
+<textEffects>(Glasses...? But you aren't wearing glasses...)</textEffects>
+</line><line>Judge:
+That's enough! Your name, witness.
+</line><line>???:
+Oh? Is that how you want to play this? Using your power and influence to keep the young people down. I see how you work now. You old people and your dirty tricks. You thought you had me, but you thought wrong.
+</line><line>Judge:
+I-I'm sorry. It won't happen again.
+</line><line>Phoenix:
+<textEffects>(Oh man...)</textEffects>
+</line><line>Wellington:
+I forgive you. Alright, I suppose I can tell you my name. I am Richard Wellington, the "Drifting Virtuoso" with a Ph.D. in Drifting, as it were. If you wanted to, you could call me a "University Student in Transit".
+</line><line>Payne:
+Ahem, Mr. Wellington. On the day of the murder, you were taking a... er, strolling through the park, correct?
+</line><line>Wellington:
+It would appear that you are attached to that word. If you must, then by all means. But I remind you that I am in no way a prepubescent boy, "out on a walk" with mommy. If you must know, I am--
+</line><line>Payne:
+Anyway! Please testify to this court what you saw during your walk through the park!
+</line><line>Wellington:
+See, you said it again! "<textEffects>Taking a walk</textEffects>"... You know, you--
+</line><line>Judge:
+What you witnessed will do, Mr. Wellington!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- What I Saw That Day --</textEffects></center>
+<line>Wellington:
+I was at the park all afternoon, deep in thought about my life situation.
+I don't remember the time all that well, but I do believe it was past 6 PM.
+All of a sudden, a police officer falls from above, right in front of my eyes.
+Without a thought, I looked up, and there I met the eyes of a charming, young lady.
+Of course I remember her sweet face. It was that of the pretty defendant there.
+The only other thing I saw was the banana that fell with the police officer.
+</line>
+<hr />
+<line>Judge:
+Hmm, that was certainly a decisive testimony.
+</line><line>Maya:
+Decisive!? Nick, did you hear what he just said!?
+</line><line>Phoenix:
+Yeah.
+</line><line>Maya:
+That's all you have to say? How can you be so calm!?
+</line><line>Phoenix:
+<textEffects>(It's strange... My mind is very calm and clear.)</textEffects> Maybe it's because I... believe in <textEffects>my client</textEffects>.
+</line><line>Maya:
+You mean Maggey?
+</line><line>Phoenix:
+Yes. And if she really is innocent, then that can only mean one thing: That guy is lying!
+</line><line>Judge:
+You may now question the witness, Mr. Wright.
+</line><line>Phoenix:
+<textEffects>(I'll find out the truth, no matter how well you craft your lies!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- What I Saw That Day --</textEffects></center>
+<line>Wellington:
+<textEffects>I was at the park all afternoon, deep in thought about my life situation.</textEffects>
+</line>
+
+<line>Wellington:
+<textEffects>I don't remember the time all that well, but I do believe it was past 6 PM.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Wellington:
+<textEffects>All of a sudden, a police officer falls from above, right in front of my eyes.</textEffects>
+</line>
+
+<line>Wellington:
+<textEffects>Without a thought, I looked up, and there I met the eyes of a charming, young lady.</textEffects>
+</line>
+
+<line>Wellington:
+<textEffects>Of course I remember her sweet face. It was that of the pretty defendant there.</textEffects>
+</line>
+
+<line>Wellington:
+<textEffects>The only other thing I saw was the banana that fell with the police officer.</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(If my client is innocent, there is no way he could've seen what he says he did.)</textEffects>
+</line><line>Maya:
+Which means if we can somehow show he's lying...
+</line><line>Phoenix:
+Yeah, that's exactly what we need do. <textEffects>(She's right. She's got a sharp mind, but I just wish I could remember who she is...)</textEffects>
+</line><line>Maya:
+Is everything OK, Nick...?
+</line>
+<hr />
+<line>Phoenix:
+Mr. Wellington. I believe I have <textEffects>the bananas</textEffects> you saw... right here!
+</line><line>Wellington:
+Ah, so you knew about the bananas, too. Why didn't you say so earlier? But don't think you can use this as a way to pull more information out of me.
+</line><line>Phoenix:
+<textEffects>(And that's where you'd be wrong.)</textEffects>
+</line><line>Judge:
+M-Mr. Wright. What is the meaning of this?
+</line><line>Payne:
+Isn't that the baseball glove?
+</line><line>Wellington:
+Huh!? Wh-Wh-What!? A baseball glove??
+</line><line>Phoenix:
+Doesn't it look delicious? Care for a bite?
+</line><line>Wellington:
+Th-That's... That's not... It's a... Noooooooo!
+</line><line>Phoenix:
+Your Honor! I think this proves one very important fact! This witness...
+</line>
+
+
+
+<line>Phoenix:
+By the way, just how bad are your eyes?
+</line><line>Wellington:
+Huh? How... What... You... Why are you asking me about this all of a sudden!?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Your Honor, it is very simple to mistake a glove for a bunch of bananas...
+</line><line>Judge:
+No, I don't think so. Objection overruled.
+</line><line>Wellington:
+Y-Y-You... You're one of those people. Yes, you know what I mean. You're like those people who refused to accept <textEffects>Galileo</textEffects> for his Copernican Theory! You're too used to your world view to realize that there are other, new <textEffects>possibilities</textEffects>! Sure, <textEffects>in the end</textEffects>, we find out that it is in fact, a glove, not bananas. However... when <textEffects>viewed from afar</textEffects>, I do think there is room enough for doubt, don't you...?
+</line><line>Phoenix:
+And that is why I asked you how bad your eyesight is!
+</line><line>Wellington:
+They're both 20/200. I suppose you're going to tell me that's terrible, right!?
+</line><line>Judge:
+Why are you not wearing your glasses today then?
+</line><line>Wellington:
+... Ummm... That's because I lost them recently, you see... Of course, I was planning on getting a new pair made right away! But you know, my glasses are no ordinary glasses, so to replace them--
+</line><line>Phoenix:
+How about when you witnessed the crime? Were you wearing your glasses then?
+</line><line>Wellington:
+...!
+</line><line>Phoenix:
+How about it, witness!?
+</line><line>Wellington:
+Y-You are an unrelenting, evil man. You're like those people who rejected <textEffects>Joan of Arc</textEffects> and put her to death! She was brave and <textEffects>courageous</textEffects>, only to be caught by horrible, unrighteous people. And while she didn't do anything wrong, she was still gruesomely <textEffects>burned</textEffects> at the--
+</line><line>Phoenix:
+Which boils down to you were not wearing your glasses at that time! Therefore! The identity of the "woman" at the scene of the crime and that of the defendant can not be proven to be the same by this witness!
+</line><line>Wellington:
+...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+But the height difference was only 9 feet! It was very possible for him to see the face of the culprit standing on the upper path!
+</line><line>Judge:
+Hmm... Witness. Please be more accurate in your testimony. Remember, a person's life is at stake.
+</line><line>Wellington:
+Y-Yes, Your Honor!
+</line><line>Judge:
+Now then, please continue with your testimony.
+</line><line>Payne:
+Please tell the court what happened next, in the moments after you witnessed the crime.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- What Happened Next --</textEffects></center>
+<line>Wellington:
+The girl on the upper path ran away as soon as she realized I was there.
+After that, I immediately called the police station to report the crime.
+It must've been 6:45 PM when I made the call.
+They must have a lot of free time on their hands since they showed up within 10 minutes.
+</line>
+<hr />
+<line>Judge:
+Hmm... So the person who was on the upper path saw you and then ran away.
+</line><line>Wellington:
+Yes, that is correct. Which is why, even someone without a superior brain like mine can understand that... that girl is the murderer!
+</line><line>Judge:
+You may question the witness now, Mr. Wright.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- What Happened Next --</textEffects></center>
+<line>Wellington:
+<textEffects>The girl on the upper path ran away as soon as she realized I was there.</textEffects>
+</line>
+
+<line>Wellington:
+<textEffects>After that, I immediately called the police station to report the crime.</textEffects>
+</line>
+
+
+<line>Wellington:
+<textEffects>It must've been 6:45 PM when I made the call.</textEffects>
+</line>
+
+
+<line>Wellington:
+<textEffects>They must have a lot of free time on their hands since they showed up within 10 minutes.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(I can't find anything out of the ordinary in his testimony...)</textEffects>
+</line><line>Maya:
+Why don't you take one more look at the Court Record?
+</line><line>Phoenix:
+Yeah, I guess I should.
+</line>
+<hr />
+<line>Phoenix:
+Mr. Wellington, would you please take a look at this?
+</line><line>Judge:
+You mean the victim's autopsy report?
+</line><line>Phoenix:
+According to this, the murder occurred at <textEffects>6:28 PM</textEffects>.
+</line><line>Wellington:
+So what of it?
+</line><line>Phoenix:
+You said that you called the police immediately after the murder took place. However, by the time you had called the police, it was already <textEffects>6:45 PM</textEffects>. There is clearly a <textEffects>15 minute</textEffects> gap here! Do you deny it!?
+</line><line>Wellington:
+Aaaack!
+</line><line>Phoenix:
+I think this court would like to hear what you were doing during this 15 minute gap!
+</line><line>Wellington:
+Grrrrrr!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+The witness was in shock at the time after witnessing a terrible murder! It's only to be expected that he would be a little dazed...
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Phoenix:
+Fifteen minutes is hardly what I would call "a little dazed"!
+</line><line>Payne:
+Aaaaah! 
+</line><line>Judge: 
+Mr. Wellington.
+</line><line>Wellington:
+Y-Yes?
+</line><line>Judge:
+Explain yourself. What were you doing during those 15 minutes?
+</line><line>Wellington:
+...
+</line><line>Phoenix:
+Answer the question!
+</line><line>Wellington:
+... I... Uhh... Telephone... Err... I mean...
+</line><line>Phoenix:
+Spit it out! 
+</line><line>Wellington: 
+I... I was searching for a phone booth!
+</line><line>Phoenix:
+A phone booth?
+</line><line>Judge:
+You mean, you don't have a cell phone?
+</line><line>Wellington:
+...! You and your questions! As if you're trying to open all the layers of a Matryoshka doll. You must think you're really something special!
+</line><line>Phoenix:
+Witness!
+</line><line>Wellington:
+I-I lost my cell phone! There! Are you happy!?
+</line><line>Phoenix:
+You lost it...?
+</line><line>Judge:
+Unbelievable! You lose your glasses, and your cell phone! You must be very scatterbrained when it comes to your belongings.
+</line><line>Wellington:
+What!? Are you saying that first-rate people are never allowed to lose things!? Haven't you ever heard that all geniuses have a <textEffects>strange</textEffects> quirk or two? So by that rationale, since I have my own quirk, it would mean that I am a <textEffects>genius</textEffects> I don't think simple, <textEffects>plain people</textEffects> like you can underst--
+</line><line>Judge:
+Enough!
+</line><line>Phoenix:
+<textEffects>(Oh man, oh man... Wait! Hold on a second. He lost... his <span style="color:Orange;">cell phone</textEffects>?)</span>
+</line><line>Maya:
+Nick! That cell phone! Could it be...?
+</line><line>Phoenix:
+You mean this phone Maggey found? There's no way...!
+</line><line>Phoenix:
+<textEffects>(Boy, I didn't see this coming. What should I do now...?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+Mr. Wellington! Where is your cell phone right now?
+</line><line>Wellington:
+Heh, what are you getting all excited about? You seem to be a little confused. I found my phone, I'll have you know. See. Here is it.
+</line><line>Phoenix:
+Oh... I see... 
+</line><line>Maya:
+Hmm, looks like he's got his phone. And I thought that just maybe this was his.
+</line><line>Phoenix:
+Hmm...
+</line><line>Judge:
+Well then, I think we've cleared this issue up. At the time of the murder, the witness did not have his cell phone because he had lost it. Therefore, the delay in his call was caused by his search for a phone booth.
+</line><line>Wellington:
+Well, that's the gist of it. I guess you could put it that way and leave it at that.
+</line><line>Judge:
+Do you have any further questions, Mr. Wright? 
+</line>
+
+
+<line>Phoenix:
+Your Honor! The witness' testimony does not make sense! I don't believe that there was ever a need for the witness to search for a phone!
+</line><line>Wellington:
+H-How dare you!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+You can't just make outrageous claims like that! You do have some sort of proof, don't you?
+</line><line>Phoenix:
+Well, yeah... O-Of course! <textEffects>(This evidence should be good enough, I think...)</textEffects>
+</line><line>Judge:
+Alright. Let's have this proof, then. Please present proof that the witness had no need to search for a public phone booth!
+</line>
+
+
+<line>Phoenix:
+It's quite simple, actually. Please take a look at this.
+</line><line>Judge:
+At the crime scene photo?
+</line><line>Payne:
+Is there a problem with it?
+</line><line>Phoenix:
+Oh, there's nothing wrong with the picture. But if you don't understand my logic after looking at it, something is wrong with you!
+</line><line>Wellington:
+Noooo!
+</line><line>Judge:
+It's... It's... A phone booth!
+</line><line>Phoenix:
+That is correct! All the defendant had to do was walk three steps! Mr. Wellington! Why did you not use the phone that was right in front of you!?
+</line><line>Wellington:
+Ooooooougn!
+</line><line>Judge:
+Order! Order!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Wh-What does reporting the crime a little late prove for you!?
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Phoenix:
+The witness can't explain what he was doing for those 15 minutes! That is reason enough to throw suspicion on his testimony! 
+</line><line>Judge:
+Yes, this is very true. What do you have to say for yourself, witness!? 
+</line><line>Wellington:
+... 
+</line><line>Maya:
+Then I bet this phone really is his, Nick! He must've killed Dustin to get his phone back! 
+</line><line>Phoenix:
+But Maggey said that she was going to return it to him. So there was no reason for him to kill for it. And on top of that, we still have the phone she found anyway. 
+</line><line>Maya:
+Hmm... But if he wasn't looking for his cell phone, was he looking for something else...? 
+</line><line>Phoenix:
+<textEffects>(Was he...?)</textEffects>
+</line><line>Judge:
+Mr. Wright. 
+</line><line>Phoenix:
+Yes, Your Honor? 
+</line><line>Judge:
+Do you have any thoughts you would like to share with the court? Can you offer an explanation as to what the witness was doing during those 15 minutes? 
+</line>
+
+
+<line>Judge:
+Alright. Let's hear your explanation. However, be forewarned that if your explanation is not persuasive, you will be <textEffects>penalized</textEffects>. Think carefully before you present, Mr. Wright. 
+</line><line>Phoenix:
+Yes, Your Honor! <textEffects>(Urk. I probably shouldn't have said there was only one possibility...)</textEffects>
+</line><line>Judge:
+Please present to the court the one piece of evidence that will answer the following: "Why didn't the witness call the police right away?"
+</line>
+
+
+<line>Phoenix:
+Mr. Wellington! 
+</line><line>Wellington:
+Wh-What!? Don't do that! You almost made me have a heart attack! 
+</line><line>Phoenix:
+These are your glasses, aren't they? 
+</line><line>Wellington:
+Ah! Where... Where did you find--!? Ghaaaa! 
+</line><line>Phoenix:
+I believe the court all heard what you just confessed to: That these glasses are in fact yours! I'll tell you where they were found, Mr. Wellington. These glasses were found <textEffects>under the victim's body</textEffects>. 
+</line><line>Wellington:
+U-Under the v-victim's body!? 
+</line><line>Judge:
+Order! Order! 
+</line><line>Wellington:
+N-Now, w-wait a second! Hold on! I-I didn't confess or confirm a-any-anything! 
+</line><line>Phoenix:
+Your Honor! I think the answer is quite clear here! As he fell, Dustin Prince grabbed the culprit's glasses. The culprit knew that he had to find his glasses, and searched frantically for them. What he didn't realize was that they were under the victim's body! And that is why it took him 15 minutes to make that call! 
+</line><line>Judge:
+M-Mr. Wright! Are you...? Are you indicting the witness as <textEffects>the real murderer</textEffects>!? 
+</line><line>Phoenix:
+Of course! That is precisely what I am doing! 
+</line><line>Wellington:
+Oooo...OOOOWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH! 
+</line><line>Phoenix:
+</line>
+<center><textEffects>(I know I'm right!He is the real murderer!)</textEffects></center>
+<line>Maya:
+Did you figure it out, Nick!? 
+</line><line>Phoenix: 
+More or less. Turns out this <textEffects>cell phone</textEffects> was the key to this case after all. Anyway, now is our chance to deep-six this guy. I'll sink him in one shot! 
+</line><line>Maya: 
+Yeah! This is so exciting, watching you work again! 
+</line><line>Phoenix: 
+<textEffects>(Somehow, my old self is coming back to me. It's time to sink or swim; everything rests on the edge of a knife! This is the moment I've been waiting for...)</textEffects>
+</line><line>Judge: 
+Order! Order!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne: 
+Your Honor! The defense... The defense is making a mockery of this court! Without any solid ground to stand on, he accuses the witness of being the murderer! 
+</line><line>Wellington: 
+Y-Y-Yeah! That-That's right! I... I'm no criminal! Th-This third-rate, fraud of a lawyer... 
+</line><line>Phoenix: 
+In that case, why don't we look at it from a different perspective. Let's hear your explanation as to why you are NOT the murderer! 
+</line><line>Wellington: 
+Why, that's... That's easy... Um... Uh... For example... There's um... The name the victim wrote! What about that...? 
+</line><line>Phoenix: 
+Oh, you mean the name "Maggie"? 
+</line><line>Wellington: 
+Y-Yeah! Even an idiot like you can read that, right? 
+</line><line>Phoenix: 
+But we already know this was not written by the victim himself. After all, the defendant's name is "Maggey" and the victim was left-handed. 
+</line><line>Judge:
+So basically, you are saying that in order to make the defendant look guilty, the real criminal used the victim's right hand to write her name on the ground? 
+</line><line>Wellington: 
+B-But... But, but!! Wouldn't that mean that the real criminal was someone the defendant knew? Otherwise, how else would that person know her name was "Maggie", er "Maggey"!? 
+</line><line>Judge: 
+That is a good point. The witness didn't even know of Ms. Byrde before this trial. 
+</line><line>Phoenix:
+<textEffects>(Ah, I forgot! Hmm, was there any way this creep could've known Maggey's name beforehand?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(It would be best if I could prove that the witness had a chance to learn... that the defendant's name was "<span style="color:#E16935;">Maggey</textEffects>".)</span>
+</line><line>Judge: 
+Now, will the defense please present its case? How could the witness have known the <textEffects>defendant's name</textEffects>? 
+</line>
+
+
+<line>Phoenix: 
+Mr. Wellington.
+</line><line>Phoenix: 
+You didn't have your cell phone with you on the day of the murder, correct?
+</line><line>Wellington: 
+So what if I didn't?
+</line><line>Phoenix: 
+When you realized you had lost it, what did you do?
+</line><line>Wellington: 
+What did I do?
+</line><line>Phoenix: 
+Didn't you try to find it by calling it?
+</line><line>Wellington: 
+Why you...! How did you...!?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne: 
+Your Honor! These questions have nothing to do with...
+</line><line>Judge: 
+Overruled. Mr. Wright, where are you going with this line of questioning? Do you think there is some relation between this witness' cell phone and the murder?
+</line><line>Phoenix: 
+I do, Your Honor. On the day of the murder, Maggey Byrde picked up a lost phone in the park. And! She also received a phone call from the owner of the phone!
+</line>
+<hr />
+<line>Phone:
+<textEffects>............... ...*beep*...</textEffects>
+</line><line>Byrde:
+"Um, hello?"
+</line><line>???:
+<textEffects>"Oh, thank you! I've been searching for my phone."</textEffects>
+</line><line>Byrde:
+"Is this yours? Oh, I'm glad you called! We can meet up and I can give this back!"
+</line><line>???:
+<textEffects>"I'll be right there, um... I'm sorry, I didn't catch your name..."</textEffects>
+</line><line>Byrde:
+"You can call me <textEffects>Maggey</textEffects>!"
+</line>
+<hr />
+<line>Phoenix: 
+That was when you learned that her name was "<textEffects>Maggey</textEffects>"!
+</line><line>Wellington: 
+Uh, um, nnngh...
+</line><line>Phoenix: 
+But you made one fatal mistake.
+</line><line>Judge: 
+Fatal mistake?
+</line><line>Phoenix: 
+My client's name is "<textEffects>Maggey</textEffects>" but the name that was written on the ground was "<textEffects>Maggie</textEffects>". This is a mistake that could only occur if all you knew was how her <textEffects>name sounded</textEffects>!
+</line><line>Wellington: 
+EEEEEEEEEK!
+</line><line>Judge: 
+Order! Order!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne: 
+B-But, Your Honor! The witness has no motive!
+</line><line>Judge: 
+And your point is?
+</line><line>Payne:
+It's very simple, Your Honor. A person usually would not kill someone without a reason. Mr. Wellington had no reason to kill anyone!
+</line><line>Wellington: 
+That is absolutely correct! I don't have a motive!
+</line><line>Judge: 
+Hmm... Mr. Wright.
+</line><line>Phoenix: 
+Your Honor? 
+</line><line>Judge: 
+Can you explain what motive this witness could have had?
+</line><line>Phoenix: 
+... It's very simple, Your Honor.
+</line><line>Wellington: 
+...!
+</line><line>Maya: 
+Are you sure, Nick!?
+</line><line>Phoenix: 
+If I said I can't offer an explanation, then the trial's over, right?
+</line><line>Maya: 
+Yeah, but...
+</line><line>Judge: 
+Now then, please present to this court proof that the witness had a <textEffects>motive</textEffects>!
+</line>
+
+
+
+<line>Wellington: 
+You... You looked up all those numbers...?
+</line><line>Phoenix: 
+Of course. This list of phone numbers was stored in the cell phone's memory. The names and numbers belong to people who are <textEffects>members of a certain con artists' group</textEffects>.
+</line><line>Payne: 
+Wh-Wh-Wh-Wh-What!? C-C-Con artists!?
+</line><line>Phoenix: 
+Can you explain why these numbers were on your phone, Mr. Wellington!?
+</line><line>Wellington: 
+Th-This... This is an outrage! An invasion of privacy! Looking up the phone numbers on a person's phone is a worse crime than murder! Y-You're one of those people! You're just like the cops who raided that brilliant artist, <textEffects>Maurice Utrillo</textEffects>'s atelier! They disrupted a genius at work and interrupted his <textEffects>dialogue with the Goddess</textEffects> of--
+</line><line>Phoenix: 
+I don't care, Mr. Wellington! All I want is for you to tell us what this list is about!
+</line><line>Wellington: 
+Do you think you -- any of you, can know what it's like to be a refined man like me!?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne: 
+Your Honor! This-This is... This is unjust badgering of the witness!
+</line><line>Judge: 
+Objection overruled. Mr. Wright! What is the meaning of this!? Why would the witness have the numbers of a group of con artists on his phone!?
+</line><line>Phoenix: 
+Isn't that obvious!? The witness is...
+</line>
+
+
+
+<line>Phoenix: 
+Mr. Wellington is a member of this very group!
+</line><line>Wellington: 
+Nooooo!
+</line><line>Phoenix: 
+All of your "friends'" phone numbers are stored right here on this phone. If anyone were to look into these phone numbers, it would be all over for you. That is why you had to kill.
+</line><line>Wellington: 
+Noooo! This is tooooo much!!
+</line><line>Judge: 
+Hmm, that does make quite a bit of sense. Well, Mr. Wellington? Would you care to explain?
+</line><line>Wellington: 
+... I... Um, I...
+</line><line>Phoenix: 
+<textEffects>(I got you now!)</textEffects>
+</line><line>Wellington: 
+I... I... That... I... That police officer...
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Your Honor!
+</line><line>Judge: 
+What is it, Mr. Payne?
+</line><line>Payne: 
+Your Honor! This-This is... This... This is unjust badgering of the witness!
+</line><line>Judge: 
+You said the exact same thing only a few seconds ago.
+</line><line>Payne: 
+P-P-P-P-Please! Please, let's think about the content of that phone call!
+</line>
+<hr />
+<line>Phone:
+<textEffects>...*beep*...</textEffects>
+</line><line>Byrde:
+"Um, hello?"
+</line><line>???:
+<textEffects>"Oh, thank you! I've been searching for my phone."</textEffects>
+</line><line>Byrde:
+"Is this yours? Oh, I'm glad you called! We can meet up and I can give this back!"
+</line>
+<hr />
+<line>Payne: 
+The defendant had already promised that she would return the phone. After that, all Mr. Wellington had to do was meet Ms. Byrde to get his phone back. Why, then, would he need to kill anyone!?
+</line><line>Judge: 
+Hmm... That is a valid point. What does the defense think about this point?
+</line><line>Phoenix: 
+<textEffects>(Hmm... If you think about it logically, then it makes sense...)</textEffects>
+</line><line>Maya: 
+Then maybe we should be thinking outside the box!
+</line><line>Phoenix: 
+<textEffects>(Yeah! If we think like that... Let's see... Maybe that slimeball saw something at the crime scene that made him commit murder.)</textEffects>
+</line><line>Judge: 
+Your thoughts, Mr. Wright?
+</line><line>Phoenix: 
+Hmm, well... I don't think Mr. Wellington went to pick up his phone in a very friendly manner.
+</line><line>Payne: 
+But he was promised his phone, so why would he have been unfriendly to the defendant?
+</line><line>Phoenix: 
+I think he must have seen something that <textEffects>didn't agree</textEffects> with him when he got there.
+</line><line>Judge: 
+Well, then Mr. Wright... What was this "something" that <textEffects>didn't agree</textEffects> with the witness?
+</line>
+
+
+<line>Phoenix:
+What Mr. Wellington saw was... the victim.
+</line><line>Payne:
+T-The... The victim!? You mean Dustin Prince!?
+</line><line>Phoenix:
+Dustin Prince had gone on his date right after his shift was over. With no time to change, he went to the park still wearing his <textEffects>police uniform</textEffects>!
+</line><line>Judge:
+Oh! 
+</line>
+<hr />
+<line><textEffects>"The girl that picked up my phone is with a policeman!"</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+He couldn't have known they were going out so he began to worry. He was afraid the policeman would ask a few questions before returning the phone. 
+</line>
+<hr />
+<line><textEffects>"If I do anything suspicious, he might run a check on my phone..."</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+In his mind, it was possible they had already run a check on the phone!
+</line><line>Judge:
+And he went into a panic, is what you're saying?
+</line><line>Phoenix:
+Exactly. Officer Prince was murdered simply because he was in uniform!
+</line><line>Judge:
+Mr. Payne. Do you have any comments?
+</line><line>Payne:
+I, um... I'm thinking...
+</line><line>Judge:
+Hmm, it seems the truth has come out at last. The witness... Mr. Wellington, you are--
+</line><line>Wellington:
+Ha... Ah ha ha... AhahahahahahaaahahaahahaahahahahahaHahahaAhahahahahaHahahaHahhaahaAAAHAHAhhahahahahAHAHAHAHAHAHAHAHAHAWAHAHAHAHAHAWAHAHAHAHAWAHAAHAHAHWAHAHAHAHAAAAAA Ha ha ha ha... Impressive... Not bad for a person with a third-rate education...
+</line><line>Phoenix:
+What's that supposed to mean!?
+</line><line>Wellington:
+The evidence... Evidence!
+</line><line>Maya:
+Uuugh! That guy is really creeping me out--
+</line><line>Wellington:
+All you've been waving around and talking about is that "suspicious" cell phone. Suspicious phone number this, suspicious con group that! They're all on that phone! But who's to say that phone is really mine!? Where's your proof!? Your evidence!?
+</line><line>Phoenix:
+You want proof that this phone is yours?
+</line><line>Wellington:
+Ahahahaha! Ahehehehehe! I already told you earlier! That phone I lost -- I've already found it! You don't have even the slightest idea who the phone in your hand belongs to! You can be sure it isn't mine, you simpleton!
+</line><line>Phoenix:
+WHAT!?
+</line><line>Wellington:
+Hehehehe... Heh... Hehehehe... It feels good to see you squirm.
+</line><line>Judge:
+Hmm... We do seem to have a problem on our hands with this phone. Whose phone is it? Without knowing that, it's meaningless as evidence.
+</line><line>Phoenix:
+Your Honor! <textEffects>(This is bad... I can't let him turn the tables on me like this!! Hmm... This cell phone... There has to be something I've overlooked. There's got to be! Hmm... Maybe...)</textEffects>
+</line>
+
+
+<line>Phoenix:
+I got it! We should check for fingerprints!
+</line><line>Judge:
+Finger...prints...?
+</line><line>Phoenix:
+Yes, Your Honor. Mr. Wellington must have left some prints on this phone! 
+</line><line>Maya:
+Nick! Don't you remember!? When you got that from Maggey, you wiped it off!
+</line><line>Phoenix:
+I what!?
+</line><line>Maya:
+You said there was sand all over it, so... 
+</line><line>Phoenix:
+W-Wiped it? I wiped it...?
+</line><line>Maya:
+Pretty thoroughly, too...
+</line><line>Wellington:
+WahahaHahaHAHahaha! It's oh-so-much fun watching third-rate trash babble like morons amongst themselves!
+</line><line>Phoenix:
+<textEffects>(Aaargh! He's made a complete recovery...)</textEffects>
+</line><line>Wellington:
+How many times do I have to say this: my phone is right here! You see? Oh, and incidentally, you can't check the numbers stored on this phone. It must have glitched because all the numbers just magically <textEffects>disappeared</textEffects>!
+</line><line>Phoenix:
+<textEffects>(You've got to be joking! He erased all the numbers I was going to use as evidence!)</textEffects> ... Mr. Wellington...
+</line><line>Wellington:
+What's this? From the way you talk to me, it sounds like you still have some fight left in you.
+</line><line>Phoenix:
+Where did you finally find your cell phone!?
+</line><line>Wellington:
+... ...Heh heh heh... Ah ha ha ha ha ha ha ha ha! Oh, you are too much! And of course you have no idea what I'm talking about!
+</line><line>Phoenix:
+...? ... I... I... Oh my g-- NOW I REMEMBER!!
+</line>
+<hr />
+<line>Phone:
+<textEffects>............ ...*beep*...</textEffects>
+</line><line>Phoenix:
+Huh, looks like they hung up.
+</line><line>???:
+Ah, good. I finally found it.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(So that's when...)</textEffects>
+</line><line>Wellington:
+What's wrong, Mr. Attorney? Why the harsh glare in your eyes...?
+</line><line>Maya:
+Nick! We've worked so hard to get this far, but if you don't do something quick, he's going to get off scot-free!
+</line><line>Phoenix:
+I know. <textEffects>(I know this phone has to be his... But how am I supposed to prove something like that!?)</textEffects>
+</line><line>Judge:
+Mr. Wright. If you cannot prove who the owner of that cell phone is, your indictment has no basis, and therefore, no power. It looks like you came up a penny short.
+</line><line>Phoenix:
+<textEffects>(Where...? Where did I go wrong...?)</textEffects>
+</line><line>Wellington:
+Don't blame yourself, you're merely a third-rate lawyer. You only made one big mistake. Who are you? What are you? That's something you haven't figured out for yourself yet.
+</line><line>Phoenix:
+<textEffects>(Who... I am?)</textEffects>
+</line><line>Judge:
+The court hereby concludes the cross-examination!
+</line><line>Wellington:
+Heh heh heh... If that will be all, I'll have to bid you gentlemen and ladies goodbye. I have a reservation at that ultra-fancy restaurant on the upper side of town.
+</line><line>Payne:
+Thank you for your assistance. You've had a stressful day, so please, bon appetite!
+</line><line>Phoenix:
+<textEffects>(What am I supposed to do!? Am I supposed to just let it go at that?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+Please wait, Your Honor!
+</line><line>Maya:
+Alright, Nick!
+</line><line>Phoenix:
+I think I may be able to prove it!
+</line><line>Judge:
+"Prove it...?" Prove what, Mr. Wright?
+</line><line>Phoenix:
+Everything!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Y-Your Honor! The cross-examination has already ended! If he questions the witness with any more of his badgering...
+</line><line>Judge:
+You will not harass the witness. Is that clear, Mr. Wright?
+</line><line>Wellington:
+Did you hear that? No harassment allowed, Mr. Attorney.
+</line><line>Phoenix:
+Please, Your Honor!
+</line><line>Judge:
+... Very well. But this is your last chance, Mr. Wright.
+</line><line>Phoenix:
+...!
+</line><line>Judge:
+You may present one piece of evidence to the court.
+</line><line>Phoenix:
+<textEffects>(I only get one shot at this!)</textEffects>
+</line><line>Judge:
+If you cannot "prove" everything... It's over. For your client, and for you. Do you fully understand?
+</line><line>Phoenix:
+Yes, Your Hon-
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+I'm sure you are well aware, Your Honor, but the cross-examination period has ended!
+</line><line>Judge:
+Were you paying attention, Mr. Payne? I said that Mr. Wright could present only one more piece of evidence.
+</line><line>Payne:
+Oh...
+</line><line>Judge:
+Now then, Mr. Wright. This is your last chance.
+</line><line>Phoenix:
+<textEffects>(It all comes down to this! It's Go time!)</textEffects>
+</line><line>Judge:
+Please present the one piece of evidence that will explain everything!
+</line>
+
+
+<line>Judge:
+Why, thank you. How nice. Here, please have one of mine.
+</line><line><textEffects>Judge's Business Card added to the Court Record.</textEffects>
+</line><line>Judge:
+Wait, what am I doing!? This isn't the time to be exchanging business cards!
+</line><line>Phoenix:
+Your Honor. There is something very important about that card. And that is...
+</line>
+
+
+<line>Phoenix:
+This card is important because of what is on the back!
+</line><line>Maya:
+Hmm? You wrote your cell phone number on the back, but...
+</line><line>Phoenix:
+But that's exactly it. Can you please call this number from your cell phone?
+</line><line>Maya:
+Huh? Right now!? But court is still in session!
+</line><line>Phoenix:
+It's OK. You'll see.
+</line><line>Maya:
+OK, if you say so.
+</line><line>Judge:
+Is the defense preparing something, Mr. Wright?
+</line><line>Phoenix:
+We are going to call my cell phone now. And then the court will see everything for what it is!
+</line><line>Wellington:
+O-Of all the idiotic, stupid things to...
+</line><line>Phone:
+<textEffects>................</textEffects>
+</line><line>Wellington:
+Aaagh! Wh-What!? Why is my phone...? And what is with this stupid-sounding ringtone!?
+</line><line>Phone:
+<textEffects>...*beep*...</textEffects>
+</line><line>Phoenix:
+Mr. Wellington.
+</line><line>Wellington:
+...!
+</line><line>Phoenix:
+Hmm... How strange... I could almost swear that you're holding MY phone!
+</line><line>Wellington:
+Y-Your... AAAAAAAAAAAH! No, no, no, no, no! It can't...!!
+</line><line>Phoenix:
+By the way, before I forget, thank you very much for the lump on my head this morning.
+</line><line>Wellington:
+Nnnnngh...
+</line><line>Phoenix:
+I don't think I need to explain any further, except to say: When you went to retrieve your cell phone, you mistakenly took the wrong one!
+</line><line>Wellington:
+...Mmgh... AaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaagggggggghhhnn!
+</line>
+<hr />
+<line>Judge:
+So that is what happened. You were knocked out by Mr. Wellington...
+</line><line>Phoenix:
+He is a man who lives on his pride and self-image alone. And in order to hide his involvement with the con artists' group, he has become paranoid, and has lost all ability to make rational judgments.
+</line><line>Judge:
+Hmm...
+</line><line>Payne:
+Then... Then, Mr. Wright... The phone you're holding...
+</line><line>Phoenix;
+It's Mr. Wellington's, naturally.
+</line><line>Judge:
+Speaking of that man, how is he, Mr. Payne?
+</line><line>Payne:
+Ah, he was arrested and has been taken away, Your Honor.
+</line><line>Judge:
+Very well. Now then, this court finds the defendant, Maggey Byrde...
+</line>
+<center><b>Not Guilty</b></center>
+<line>Judge:
+That is all. This court is adjourned!
+</line>
+<hr />
+<center><textEffects>September 8, 2:16 PMDistrict CourtDefendant Lobby No. 1</textEffects></center>
+<line>Byrde:
+I knew that the real you would shine through eventually! I am so moved by what you've done for me, sir! Thank you so much, Mr. Wright!
+</line><line>Maya:
+I feel really bad for Dustin. He didn't do anything to deserve this...
+</line><line>Byrde:
+... It's probably because of me...
+</line><line>Phoenix:
+Huh?
+</line><line>Byrde:
+My whole life has been nothing but a whirlwind of bad luck and failures.
+</line><line>Maya:
+Your whole life? It couldn't have been that bad, could it?
+</line><line>Byrde:
+Since I was 6 months old, when I fell from the 9th floor of my apartment building, I've been hit by all sorts of vehicles, gotten sick from all sorts of foods, failed at almost every test I've ever taken, experienced almost every kind of disaster, and never won or even tied at a game of tic-tac-toe! My life has really been nothing but a <textEffects>string of disasters</textEffects>.
+</line><line>Phoenix:
+That is, uh... pretty bad...
+</line><line>Byrde:
+Up until I went to college, I was known as the "Goddess of Misfortune". And then, at the academy, everyone called me "Lady Luckless".
+</line><line>Maya:
+"Lady Luckless"...
+</line><line>Byrde:
+What's worse is that my misfortune always seems to latch onto those around me.
+</line><line>Maya:
+What do you mean?
+</line><line>Byrde:
+When I see someone in trouble, I always try to help...
+</line><line>Phoenix:
+Ah, that's right. You were talking about this earlier.
+</line><line>Byrde:
+It happened again recently, too, sir. There was an old lady pacing back and forth by the pedestrian crosswalk. I gave her my hand and... before I knew it, we were having dinner at my house.
+</line><line>Maya:
+... Oh.
+</line><line>Byrde:
+I'm sure that Dustin's gone because of me...
+</line><line>Maya:
+That's not true!
+</line><line>Byrde:
+That glove didn't even have any sort of special meaning. It was just a present to say thanks for covering one of my night shifts.
+</line><line>Maya:
+Oh, I see...
+</line><line>Byrde:
+Everything is all my fault! Dustin's death, your head being all messed up...
+</line><line>Phoenix:
+Uh, well, I don't think my head is that messed up yet...
+</line><line>Byrde:
+I'm going to find a new life for myself starting now. The next time we meet, I'm sure I'll... I'm sure I'll have found a whole ocean's worth of good luck by then, sir!
+</line><line>Phoenix:
+Yeah. After all, the "<textEffects>Goddess of Misfortune</textEffects>" is only a name!
+</line><line>Byrde:
+You bet! I'm gonna make it! I promise! Next time we meet, I'll only be an "<textEffects>Unlucky Person</textEffects>", instead of a goddess!
+</line><line>Phoenix:
+Y-Yeah! That's the spirit!
+</line><line>Byrde:
+Well, Mr. Wright, Maya, I should get going.
+</line><line>Maya:
+OK! Good luck to you!
+</line><line>Byrde:
+Thanks! You take care of yourselves, too!
+</line><line>Phoenix:
+*sigh* What a horrible day... I've gotten my memory back, but things are still a little fuzzy...
+</line><line>Maya:
+But you're OK, and that's what counts. You really had me worried! Come on, let's go back to the office.
+</line><line>Phoenix:
+<textEffects>(Hmm... I'm afraid to ask, but here goes...)</textEffects> So, this might sound bad, but... uh... Who are you...?
+</line><line>Maya:
+What!? I thought you said you got your memory back!
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(At that moment, everything really did come back to me...)</textEffects>
+</line><line>Detective Gumshoe... He's someone I've had clashes with in the past during certain cases. But he's also been a good ally during others. The Judge... He's a lovable, kind old man who is easily swayed by other people's opinions. But in the end, he always comes up with the right verdict. ... This person... I haven't got a clue... He seems to know me, but maybe he's mistaking me for someone else...?
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(And this girl...)</textEffects> ...Maya...?
+</line><line>Maya:
+You... You finally remembered!
+</line><line>Phoenix:
+<textEffects>(This is Maya Fey, my assistant. That's right... I have so many unforgettable memories about her. For example...)</textEffects>
+</line><line>Maya:
+Earth to Nick! What's wrong? You keep staring at me! Don't tell me you've missed me?
+</line><line>Phoenix:
+Uh, well, yeah I suppose I have. I feel like I haven't seen you in ages.
+</line><line>Maya:
+Oh? Well, I'm back now. So it's time for us to create new memories together!
+</line><line>Phoenix:
+Alright. Sounds good. <textEffects>(All the phone numbers on my phone were erased by Mr. Wellington. I guess I have to start over from the very beginning...)</textEffects>
+</line><line>Maya:
+Come on, Nick! Let's go to our usual burger joint!
+</line><line>Phoenix:
+OK, OK. <textEffects>(Actually, it hasn't even been two months since she came back into my life.)</textEffects>
+</line>
+<hr />
+<line><textEffects>(And that story... That story began on one rainy afternoon, two months ago...)</textEffects>
+</line>
+<div style="text-align: right;">Episode 1: The Lost TurnaboutTHE END</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+</xml>

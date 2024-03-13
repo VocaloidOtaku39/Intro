@@ -1,0 +1,1370 @@
+<xml>
+
+<title>Turnabout Serenade - Transcript - Part 2 | Ace Attorney Wiki | Fandom</title>
+
+<line>
+</line>
+
+<center><textEffects>July 9, 10:00 AM
+District CourtCourtroom No. 3</textEffects></center>
+<line>
+Judge:
+Court is now in session for... how do I say that?
+</line><line>Klavier:
+"Machi Tobaye", Your Honor. The Pixie of the Arpeggio.
+</line><line>Judge:
+Right, his trial. Court is in session!
+</line><line>Apollo:
+The defense is ready, Your Honor.
+</line><line>Klavier:
+The prosecution is A-OK, Herr Judge.
+</line><line>Judge:
+Hmm... Very well, Prosecutor Gavin.
+</line><line>Klavier:
+Ah, my opening statement, ja?
+</line><line>Judge:
+No, no, actually... There was something else I wanted to ask you about.
+</line><line>Klavier:
+...? Yes?
+</line><line>Judge:
+Say you're going to visit someone in the hospital with an incurable disease... What do you say to them?
+</line><line>Klavier:
+Eh?
+</line><line>Judge:
+I mean, you wouldn't say "get well soon", right? You'd only be kicking them when they're down...
+</line><line>Apollo:
+Um, what are you talking about?
+</line><line>Judge:
+Ahem, actually I'm going to visit someone who is terminally ill. ...Right after this trial. The Chief Justice's son.
+</line><line>Apollo:
+The Chief Justice...?
+</line><line>Judge:
+His son is afflicted with a most terrible disease... He doesn't have long, it seems.
+</line><line>Apollo:
+Ah...
+</line><line>Judge:
+So I thought I'd go pay him a visit. I thought saying something moving might be the order of the day.
+</line><line>Trucy:
+Why don't grown-ups ever just say what's on their mind instead of pretending?
+</line><line>Apollo:
+<textEffects>(She's looking at me with something like... disgust.)</textEffects> ...Hey! What are you looking at me like that for!?
+</line><line>Judge:
+In any case... I'm a bit busy today, so let's wrap this up quickly. Prosecutor Gavin, your opening statement, briefly!
+</line><line>Klavier:
+You're in luck, Herr Judge... I believe you'll be going on your hospital visit sooner than you think.
+</line><line>Apollo:
+...!
+</line><line>Klavier:
+First, to review the victim in this case. Romein LeTouse, age 35. The global manager for diva songstress, Lamiroir. The cause of death: blood loss due to being shot by a <textEffects>large caliber revolver</textEffects>. This report has all the details.
+</line><line>Judge:
+The court accepts this into evidence.
+</line><line><textEffects>LeTouse's Autopsy Report added to the Court Record.</textEffects>
+</line><line>Judge:
+45-caliber... That's quite large, isn't it? A direct hit from that could knock a man off his feet.
+</line><line>Klavier:
+However, the bullet struck him in his shoulder. The damage to his body was slight... death was not immediate. Sadly, his blood loss was such that he could not be saved.
+</line><line>Judge:
+Hmm... I suppose the victim's condition could have been much worse, considering.
+</line><line><textEffects>Crime Photo added to the Court Record.</textEffects>
+</line><line>Klavier:
+...Two shots were fired. One shot missed, the other penetrated and passed through the victim's shoulder. Both bullets were found in the wall at the scene. Observe the diagram... ...This is where the bullets hit.
+</line><line>Judge:
+I see... The court accepts this evidence.
+</line><line><textEffects>Diagram added to the Court Record.</textEffects>
+</line><line>Judge:
+If we're talking about a 45-caliber revolver... ...we must assume that the killer was adept at the weapon's use.
+</line><line>Trucy:
+Really?
+</line><line>Apollo:
+Yeah, apparently, weapons that size have a powerful kickback. If, say, the judge tried to fire one, it'd break every bone in his body.
+</line><line>Judge:
+The defense will take more care in choosing examples!
+</line><line>Klavier:
+...As I was saying, the victim was shot backstage, in a dressing room. This dressing room has only one entrance: this door.
+</line><line>Judge:
+That does seem to be the case, yes.
+</line><line>Klavier:
+However, there were witnesses who heard the gunshots.
+</line><line>Trucy:
+He's talking about you and Ema, huh.
+</line><line>Klavier:
+Yet when the witnesses entered the room... ...it was empty, save for the victim's body, of course.
+</line><line>Judge:
+B-But that's... That's <textEffects>impossible</textEffects>!
+</line><line>Klavier:
+Exactly. This murder was <textEffects>impossible</textEffects>. ...For all but one person.
+</line><line>Judge:
+One person?
+</line><line>Klavier:
+That is, of course... ...the defendant, Machi Tobaye.
+</line><line>Judge:
+Only this defendant could have committed the crime? But how?
+</line><line>Klavier:
+It's quite simple. The circumstances of the crime scene make it clear.
+</line><line>Judge:
+Very well, I assume you have testimony to back up this claim. Let the witness please take the stand!
+</line>
+<hr />
+<line>Klavier:
+Your name and profession, please.
+</line><line>Ema:
+Ema Skye, I'm a detective for the police department. I was on security detail at the concert forum that night.
+</line><line>Apollo:
+<textEffects>(Ema seems... tired, somehow.)</textEffects>
+</line><line>Judge:
+Hmm... Security at the concert, you say?
+</line><line>Ema:
+Some security I was. Couldn't even stop a murder... ......
+</line><line>Judge:
+Now, don't blame yourself! Things like this happen! I've made even bigger mistakes in my career, you know!
+</line><line>Apollo:
+<textEffects>(I'm sure that makes her feel much better.)</textEffects>
+</line><line>Trucy:
+I want to hear about these bigger mistakes!
+</line><line>Klavier:
+In any case... Because you were on security detail, the crime was quickly discovered. And, we were able to identify the killer.
+</line><line>Ema:
+......
+</line><line>Klavier:
+You may give the court your testimony, if you would. Describe the circumstances of that day, and your discovery of the crime, please.
+</line><line>Ema:
+...Alright.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Murderous Circumstances --</textEffects></center>
+<line>Ema:
+The night of the murder, I was on security backstage, at Prosecutor Gavin's request.
+Only people involved with the concert in some way were allowed backstage.
+At the beginning of the third set... I heard shots.
+I went into the room, filled with blaring rock music, and found the body.
+I examined the scene and determined that only the defendant could have done it.
+</line>
+<hr />
+<line>Judge:
+Hmm... It was lucky that a detective was the first on the scene.
+</line><line>Trucy:
+But that door was the only way out of the room, right?
+</line><line>Apollo:
+Yeah, pretty much.
+</line><line>Trucy:
+Then I don't get it. How can they say that <textEffects>Machi did it</textEffects>?
+</line><line>Apollo:
+Looks like we need a bit more information.
+</line><line>Judge:
+Very well, the defense may begin the cross-examination.
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Murderous Circumstances --</textEffects></center>
+<line>Ema:
+<textEffects>The night of the murder, I was on security backstage, at Prosecutor Gavin's request.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>Only people involved with the concert in some way were allowed backstage.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>At the beginning of the third set... I heard shots.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>I went into the room, filled with blaring rock music, and found the body.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>I examined the scene and determined that only the defendant could have done it.</textEffects>
+</line>
+
+<line>Apollo:
+<textEffects>(I know the circumstances under which the body was found... I was there.)</textEffects>
+</line><line>Trucy:
+An examination of the crime scene was enough to nail down the killer?
+</line><line>Apollo:
+I'm sure they have a good reason. <textEffects>(They must have had a good reason to arrest Machi... ...And I'm going to find out what it was!)</textEffects>
+</line>
+<hr />
+<line><i>After pressing first, fourth, and fifth statements:</i>
+</line><line>Judge:
+I believe that's enough of that.
+</line><line>Apollo:
+!
+</line><line>Judge:
+The prosecution has a rather convincing case. The only way in and out of the crime scene was watched. Making the defendant the only one who could possibly leave the scene. Simple, and decisive.
+</line><line>Apollo:
+Ugh...
+</line><line>Judge:
+I believe we've heard enough to determine our verdict. Even if I wasn't in a hurry to make a hospital visit.
+</line><line>Klavier:
+I'm sure the Chief Justice will appreciate the gesture. Unfortunately, we have no direct witnesses. Fortunately, the criminal left decisive evidence for us. That will have to be enough.
+</line><line>Apollo:
+<textEffects>(Argh! It can't be over already!)</textEffects>
+</line><line>Judge:
+Very well, I believe this trial is finished. If the defense has no contradicting evidence...?
+</line><line>Klavier:
+The prosecution has presented our proof, clear and plain. If you have <textEffects>contradicting evidence</textEffects>... ...it'd better be clear and plain.
+</line><line>Trucy:
+Ack, Apollo! They've got us on the ropes already! We'd better come up with something quick!
+</line><line>Apollo:
+I know! I know! <textEffects>(Think! What can get us out of this!? We need <span style="color:#E16935">evidence</textEffects>, or a <textEffects>witness</textEffects>, that can prove Machi is innocent beyond a doubt. Without that... *gulp*)</span>
+</line><line>Judge:
+Mr. Justice? Do you have <textEffects>contradicting proof</textEffects> that can overturn the prosecution's case? If you do, you'd better tell us about it now.
+</line><line>Apollo:
+<textEffects>(This is it... and so soon! If I mess this one up, it's all over...!)</textEffects> The court wants contradicting proof?
+</line>
+
+<line>Apollo:
+This evidence does more than contradict, it flips the whole case on its head!
+</line><line>Judge:
+......
+</line><line>Klavier:
+Thank you for presenting evidence that is both clear and plain, as requested.
+</line><line>Judge:
+Yes... Clearly and plainly wrong! I'm afraid the only thing flipped on its head here was you as a child, Mr. Justice.
+</line><line>Apollo:
+<textEffects>(Ugh... I guess that wasn't it.)</textEffects>
+</line><line>Klavier:
+My claim is clear: the only person who could have fled the scene was the defendant.
+</line><line>Judge:
+And there were no witnesses, either.
+</line><line>Klavier:
+I fear the defense's options are limited, Mr. Justice.
+</line><line>Apollo:
+<textEffects>(Grr! There's only one way out of this... <span style="color:#E16935">Evidence</textEffects>, or a <textEffects>witness</textEffects>, that can prove Machi's innocence beyond a doubt.)</span>
+</line><line>Judge:
+Let's ask the defense once again.
+</line><line><i>Leads back to:</i>
+"Do you have contradicting proof that can overturn the prosecution's case?"
+</line>
+</td></tr></tbody></table>
+
+
+<line>Apollo:
+Prosecutor Gavin, you claim that there were no witnesses to this crime. Are you absolutely sure?
+</line><line>Klavier:
+Absolutely. I'd swear it on my career as a prosecutor... And on my million-seller hit song "Atroquinine, My Love".
+</line><line>Trucy:
+...There he goes again.
+</line><line>Apollo:
+That's too bad, because there was a witness.
+</line><line>Judge:
+Ho ho! Really now? But how did you come to possess knowledge the prosecution clearly does not?
+</line><line>Apollo:
+Because I am the only one in the world who knows this.
+</line>
+<hr />
+<line>Apollo:
+<textEffects>(...What's going on? I just talked to him, and now...)</textEffects>
+</line><line>LeTouse:
+......Nnnh......
+</line><line>Apollo:
+...! <textEffects>(He... He's alive!)</textEffects> Mr. LeTouse! Can you hear me!?
+</line>
+<hr />
+<line>LeTouse:
+...Cold... so cold... Witness...
+</line><line>Apollo:
+You're cold? D-Don't worry, you're going to be fine! Help is on the way!
+</line><line>LeTouse:
+...Can't s...see...
+</line><line>Apollo:
+Hang in there, Mr. LeTouse! Tell me, who was the witness?
+</line><line>LeTouse:
+The wi...witness...is ...si...si...ren...
+</line>
+<hr />
+<line>Judge:
+Whaaat!? The victim said this before he died!?
+</line><line>Klavier:
+Perhaps he did... and perhaps he did not.
+</line><line>Apollo:
+What do you mean by that?
+</line><line>Klavier:
+All we know is what Herr Forehead says he said. It's no testimony, especially since it comes from the defense attorney himself.
+</line><line>Apollo:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Apollo:
+But it's the truth! He said it! I even told you about it! But apparently, you ignored me completely.
+</line><line>Klavier:
+It's my policy to fully investigate everything I deem relevant. Clearly this rookie lawyer thinks he can tell me how to do my job.
+</line><line>Judge:
+...That's enough! Mr. Justice, we need clear contradictory proof from you. This witness of yours, unknown to the prosecution... ...I hope you're right. Failure carries a stiff penalty.
+</line><line>Klavier:
+Perhaps... A stiffer penalty than usual is called for?
+</line><line>Apollo:
+<textEffects>(Urk! There's no backing out now!)</textEffects>
+</line><line>Judge:
+Let's hear the name of your witness, Mr. Justice.
+</line>
+
+
+<line>Judge:
+Lamiroir...?
+</line><line>Apollo:
+Recall Mr. LeTouse's last words.
+</line>
+<hr />
+<line>LeTouse:
+The wi...witness...is ...si...si...ren...
+</line>
+<hr />
+<line>Judge:
+The <textEffects>siren</textEffects>... Ah ha! He meant the "<textEffects>Siren</textEffects>"!
+</line><line>Apollo:
+That's right. The "<textEffects>Siren of the Ballad</textEffects>"... Lamiroir! Lamiroir was only on stage for the second set... ...and she had access to the backstage area. She could have been a witness!
+</line><line>Judge:
+I see... Well, Prosecutor Gavin?
+</line><line>Klavier:
+My claim still stands. There were no witnesses to this crime!
+</line><line>Judge:
+Very well! Let's hear it from the horse's mouth then, shall we? We will now take a break from Detective Ema Skye's cross-examination. ...Please show Lamiroir to the witness stand.
+</line><line>Apollo:
+<textEffects>(Lamiroir would say nothing the night of the murder... Not today, though. Today we'll drag that story out of her no matter what it is!)</textEffects>
+</line><line>Klavier:
+......
+</line>
+<hr />
+<line>Klavier:
+It is my distinct honor to welcome the <textEffects>Siren of the Ballad</textEffects> to our courtroom...
+</line><line>Lamiroir:
+You are too kind.
+</line><line>Judge:
+Ah, y-you can speak English?
+</line><line>Lamiroir:
+Yes... Yes I can. Though I am not very good. ...There is much I do not know.
+</line><line>Judge:
+You speak so well! Have you spent time here before?
+</line><line>Lamiroir:
+Actually, I do not know how I came by my knowledge of your language. Nor where I studied it...
+</line><line>Apollo:
+...? <textEffects>(What does she mean, she doesn't know...?)</textEffects>
+</line><line>Klavier:
+I, too, thought to call her as a witness. But I did not. I had a reason, of course.
+</line><line>Apollo:
+What's that?
+</line><line>Klavier:
+Lamiroir... suffers from amnesia.
+</line><line>Judge:
+Amnesia...?
+</line><line>Lamiroir:
+Lamiroir... is not my true name. Yet I remember nothing of the time before I was given it. ...Nothing of the time before I started singing on stage.
+</line><line>Trucy:
+Whoa! She's even more mysterious than I thought!
+</line><line>Klavier:
+As lauded singer Lamiroir, she lives a good life. There are little difficulties for her, thanks to her success. Yet... I did not wish to subject her to unnecessary stress.
+</line><line>Judge:
+Hmm... I see. I care surprisingly little about people's pasts. You have nothing to fear in this court, Lamiroir.
+</line><line>Lamiroir:
+...Thank you. Yet there is something I do not understand. I am being called as a witness? What might I say? No one will tell me anything of what happened...
+</line><line>Klavier:
+Lamiroir, let me be frank. I did not want to ask you up here to testify. Yet, that young gentleman with the wide forehead over there was adamant that you stand.
+</line><line>Lamiroir:
+Oh my...
+</line><line>Trucy:
+Congratulations, Apollo. You're the bad guy!
+</line><line>Apollo:
+Ugh...
+</line><line>Judge:
+Well, now that you're here, please give us your testimony. ...If nothing else, the sound of your voice is welcome. Tell us what you saw the night of the crime!
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- What I Saw --</textEffects></center>
+<line>Lamiroir:
+As for what I saw... I saw nothing.
+That night, I was invited to sing on stage, and this I did.
+I did not return backstage after the second set.
+Then I was led by the police to Mr. Gavin's dressing room, and told to wait there.
+That was where I learned that something had happened... But I wasn't told the details.
+</line>
+<hr />
+<line>Judge:
+Hmm... I must say, you sound wonderful just testifying.
+</line><line>Apollo:
+<textEffects>(I hope he was too distracted to hear what she was actually saying...)</textEffects>
+</line><line>Klavier:
+There you have it. She saw nothing that night. Now we can only pray that the defense has the sense to admit defeat. ...And refrain from detaining her here longer than need be.
+</line><line>Trucy:
+Wow, you just got badder, Apollo! Way to go!
+</line><line>Apollo:
+Grr...
+</line><line>Judge:
+Very well, Mr. Justice. Keep it short and sweet!
+</line><line>Apollo:
+<textEffects>(Lamiroir wouldn't talk to me the night of the crime. She must know something, and I've got to find out what!)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- What I Saw --</textEffects></center>
+<line>Lamiroir:
+<textEffects>As for what I saw... I saw nothing.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>That night, I was invited to sing on stage, and this I did.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>I did not return backstage after the second set.</textEffects>
+</line>
+
+
+<line>Lamiroir:
+<textEffects>When my performance was finished, I went backstage for just a moment...</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>I saw nothing. The late Mr. LeTouse's body was behind a wall.</textEffects>
+</line>
+
+
+
+<line>Apollo:
+Tell me, Lamiroir... How did you know he <textEffects>had been shot</textEffects>?
+</line><line>Lamiroir:
+Eh. Well, I...
+</line><line>Apollo:
+Immediately following the incident, a <textEffects>gag order</textEffects> was placed on the scene. This is the document proving that. In your testimony, you told the court... "No one told me anything about the incident."
+</line><line>Lamiroir:
+Ah...
+</line><line>Apollo:
+Furthermore, you testified that you had "seen nothing".
+</line><line>Lamiroir:
+...!
+</line><line>Apollo:
+Yet you knew that Mr. LeTouse <textEffects>had been shot</textEffects>! How could you have known!?
+</line><line>Lamiroir:
+...! Yeeeeeeeeeeeeeoooooooowrk!
+</line>
+<hr />
+<line>Judge:
+Lamiroir! You aren't hiding something from this court, I hope!
+</line><line>Lamiroir:
+......
+</line><line>Apollo:
+<textEffects>(That sweet song of hers was sounding a little too sweet!)</textEffects>
+</line><line>Lamiroir:
+Ah, now I remember. Please... allow me to add to my testimony.
+</line><line>Klavier:
+...Of course. All we want to know... is the truth.
+</line><line>Trucy:
+She looks kind of pale, huh?
+</line><line>Apollo:
+She <textEffects>saw something</textEffects>, I know it. Even the victim said so!
+</line><line><i>Changes statement from "I saw nothing. The late Mr. LeTouse's body was behind a wall." to "I saw bullet holes in the wall, and knew Mr. LeTouse had been shot..."</i>
+</line>
+</td></tr></tbody></table>
+<line>Lamiroir:
+<textEffects>I saw bullet holes in the wall, and knew Mr. LeTouse had been shot...</textEffects>
+</line>
+
+
+<line>Lamiroir:
+<textEffects>Then I was led by the police to Mr. Gavin's dressing room, and told to wait there.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>That was where I learned that something had happened... But I wasn't told the details.</textEffects>
+</line>
+
+<line>Apollo:
+<textEffects>(Think, what doesn't ring true about her testimony?)</textEffects>
+</line><line>Trucy:
+...It's hard to imagine Lamiroir lying...
+</line><line>Apollo:
+She might not be lying, but she's hiding something... <textEffects>(What wouldn't she tell me the night of the murder?)</textEffects>
+</line>
+<hr />
+<line>Apollo:
+Lamiroir. They call you the <textEffects>Siren of the Ballad</textEffects>... ...but lies are hardly becoming of such a creature.
+</line><line>Judge:
+...A put-down worthy of our prosecutor, Mr. Justice.
+</line><line>Trucy:
+...Such put-downs are hardly becoming of you, Apollo.
+</line><line>Klavier:
+...Stop polishing your forehead and start polishing your character, ja?
+</line><line>Apollo:
+<textEffects>(C'mon, can't I be cool for once!?)</textEffects> Observe the diagram! Lamiroir, you looked in <textEffects>from the door</textEffects> for just a moment. Correct?
+</line><line>Lamiroir:
+Y-Yes, that is so.
+</line><line>Apollo:
+There were <textEffects>bullet holes</textEffects> in the room, yes. But they were in the wall the door is on!
+</line><line>Lamiroir:
+Eh...
+</line><line>Apollo:
+You see? Assuming you merely glanced into the room... ...you couldn't have seen those bullet holes!
+</line><line>Lamiroir:
+Yeeeeeeeeeeeeeooowrk!
+</line><line>Judge:
+...... Lamiroir.
+</line><line>Lamiroir:
+...Yes.
+</line><line>Judge:
+I'm afraid the defense has raised a good point. It appears you have been holding back something.
+</line><line>Lamiroir:
+...And I must tell you? I must tell you what it is that I <textEffects>saw</textEffects>?
+</line><line>Judge:
+Yes. The happenings in this trial are being recorded. And I'm certain it will be on the news in Borginia. You understand your reputation is at stake. It falls to you to avoid tarnishing it.
+</line><line>Klavier:
+Personally speaking... I still believe that cross-examining her will yield us absolutely nothing.
+</line><line>Apollo:
+But she knew how Mr. LeTouse died! And he named her as a <textEffects>witness</textEffects>! You must have seen something, Lamiroir!
+</line><line>Judge:
+...Very well. Lamiroir... Please continue your testimony.
+</line><line>Lamiroir:
+... Very well, I shall.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- What I Saw 2 --</textEffects></center>
+<line>Lamiroir:
+I was on my way from the stage to the backstage exit.
+There was something like a little window there... That's how I saw it.
+There were two shots... I couldn't do anything to stop it.
+But it wasn't Machi!
+It was a grown person! ...I know it was!
+</line>
+<hr />
+<line>Judge:
+So you did witness the crime! And the killer was... a grown person, you say?
+</line><line>Klavier:
+Ach. This is my first time hearing this, I assure you. Nice play, Herr Forehead.
+</line><line>Apollo:
+......
+</line><line>Judge:
+Very well, Herr... er, Mr. Justice. You may begin your cross-examination!
+</line><line>Trucy:
+Great going, Apollo! You were right about Lamiroir. ...What's wrong? You don't look too happy.
+</line><line>Apollo:
+<textEffects>(This whole thing smells fishy... That's what's wrong.)</textEffects>
+</line><line>Trucy:
+...?
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- What I Saw 2 --</textEffects></center>
+<line>Lamiroir:
+<textEffects>I was on my way from the stage to the backstage exit.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>There was something like a little window there... That's how I saw it.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>There were two shots... I couldn't do anything to stop it.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>But it wasn't Machi!</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>It was a grown person! ...I know it was!</textEffects>
+</line>
+
+<line>Trucy:
+You can't ask for a better testimony than that!
+</line><line>Apollo:
+I'm not so sure it's all that simple, Trucy. <textEffects>(There's a critical flaw in this testimony... And I have to point it out, even if it isn't good for our case...)</textEffects>
+</line>
+<hr />
+<line>Apollo:
+A "<textEffects>grown person</textEffects>"... That's a little vague.
+</line><line>Lamiroir:
+I am sorry. My skill with your language is... lacking, I know.
+</line><line>Judge:
+Certainly you could at least see whether the shooter was male or female?
+</line><line>Lamiroir:
+...... It was a man. A young man.
+</line><line>Judge:
+And you're sure of that?
+</line><line>Lamiroir:
+Yes, his voice was quite clear.
+</line><line>Apollo:
+Voice...?
+</line><line>Judge:
+Hmm... Looking at this diagram, it seems the dressing room was quite cluttered. It does seem likely that you wouldn't have had a clear view of the shooter.
+</line><line>Lamiroir:
+As a singer, I rely more on my ears than my eyes. When I hear a voice, I do not forget it. That voice... was the voice of a man.
+</line><line>Klavier:
+So you heard a voice. But wait... ...Couldn't that have been the victim, Mr. LeTouse?
+</line><line>Lamiroir:
+Absolutely not. Did I not just say that I do not forget a voice? If it was Mr. LeTouse who spoke, I would have known.
+</line><line>Judge:
+Hmm... Indeed. So you were at the window, and you heard the shooter's voice, the voice of a young man.
+</line><line>Trucy:
+Apollo! This is a good testimony! That proves it wasn't Machi!
+</line><line>Apollo:
+......
+</line><line>Judge:
+Indeed... If this turns out to be true, it would cast this case in a considerably different light. What is the defense's opinion of this testimony...?
+</line>
+
+
+<line>Klavier:
+Lamiroir. I understand why you would want to protect Machi. Yet remember, you are the <textEffects>Siren of the Ballad</textEffects>... ...And lies do not become such a creature.
+</line><line>Judge:
+What does the prosecution mean!?
+</line><line>Trucy:
+Apollo! What's he talking about!?
+</line><line>Apollo:
+<textEffects>(How come no one bats an eye when he says stuff like that?)</textEffects>
+</line><line>Klavier:
+I recall the state of the crime scene quite well.
+</line><line>Apollo:
+The state of the room...?
+</line><line>Klavier:
+Yes, and when the murder took place... ...that window was <textEffects>closed</textEffects>. I find it hard to believe you could hear a voice through it.
+</line><line>Lamiroir:
+What!? B-But I... I'm sure...
+</line><line>Klavier:
+...Lamiroir. I have nothing but the highest regard for your musical sense. ...But my opinion of you as a witness is somewhat lesser.
+</line><line>Apollo:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Apollo:
+B-But she's the only <textEffects>eye-witness</textEffects> we have!
+</line><line>Klavier:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Klavier:
+So you say. And the victim named her, the "<textEffects>Siren</textEffects>" as the witness?
+</line><line>Apollo:
+Th-That's right! That's what Mr. LeTouse...
+</line><line>Klavier:
+We heard your claim. We even entertained the possibility. And it brought us to this. Herr Judge!
+</line><line>Judge:
+Yes?
+</line><line>Klavier:
+The prosecution requests that the witness... be excused. Please.
+</line><line>Judge:
+Hmm... I'm afraid I must honor the prosecution's request. There is indeed a question of the witness's credibility.
+</line><line>Apollo:
+B-But if Lamiroir can't testify...
+</line><line>Trucy:
+Then we don't have a chance of proving Machi's innocence.
+</line><line>Judge:
+This cross-examination is over! ...Prosecutor Gavin. You may continue making your case.
+</line><line>Klavier:
+...Danke. Now where were we? Ah yes, I would like to hear from Fräulein Detective again.
+</line><line>Apollo:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Apollo:
+Wait! Let me hear Lamiroir's testimony one last time...
+</line><line>Judge:
+But the cross-examination is already over. Until such a time as a need arises... ...this witness may leave the stand.
+</line><line>Lamiroir:
+...... I'm sorry I could not be of more assistance.
+</line><line>Klavier:
+......
+</line>
+<hr />
+<line>Klavier:
+At last, back to the real trial. Ready, Herr Forehead?
+</line><line>Apollo:
+<textEffects>(Grr... I hope I didn't just miss my only chance.)</textEffects>
+</line><line>Klavier:
+Fräulein Detective, how far had we gotten until we were so rudely interrupted?
+</line><line>Ema:
+Don't ask me!
+</line><line>Klavier:
+I dislike saying the same thing twice. And I never repeat a song for an encore.
+</line><line>Judge:
+...If you would, Ms. Skye.
+</line><line>Ema:
+...Hmph. I believe I was saying that the only way Mr. LeTouse's killer could have escaped... ...was through that air vent on the ceiling.
+</line><line>Judge:
+Ah, yes, there was only one door in the room. And a witness, you, was standing in front of it.
+</line><line>Ema:
+That air vent isn't very big, see. Kind of limits the people who could possibly get through.
+</line><line>Judge:
+I certainly would have a difficult time.
+</line><line>Ema:
+You sure would. Not that you would have been there in the first place, though. Remember, the whole backstage area was off-limits to people not involved with the concert. The only one who meets the conditions for our killer... is the defendant.
+</line><line>Klavier:
+...A virtuoso performance! I couldn't have put it better myself.
+</line><line>Judge:
+Hmm. She does state a clear case. Though, reading the report, something caught my eye.
+</line><line>Klavier:
+Oh? What's that?
+</line><line>Judge:
+The <textEffects>circumstances</textEffects> of the defendant's arrest.
+</line><line>Apollo:
+The circumstances...? <textEffects>(Again...?)</textEffects>
+</line><line>Trucy:
+Hey, that's right, Apollo! Remember when we found Machi? That was bizarre!
+</line><line>Apollo:
+<textEffects>(She's right... Why did Mr. LeTouse's body <span style="color:#E16935">disappear</textEffects> from the room... ...and end up on top of that <textEffects>stage tower</textEffects>? ...Holding a guitar, no less.)</span>
+</line><line>Klavier:
+...A perceptive observation, Herr Judge.
+</line><line>Judge:
+Ah, er, thanks! It was kind of an accident, really. But you work in this job long enough... ...you get a nose for things. Eh he he.
+</line><line>Trucy:
+The judge sure seems pleased with himself!
+</line><line>Klavier:
+Very good, Fräulein Detective. Perhaps you can tie it all together for us. <textEffects>Why</textEffects> was the body <textEffects>moved</textEffects>? And how does that lead us to the killer!?
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- The Missing Body --</textEffects></center>
+<line>Ema:
+I believe Machi stole the body because of some <textEffects>lyrics</textEffects>.
+He moved the body to match Lamiroir's song.
+No one in this country had a motive to kill the victim.
+And, Machi practically left his <textEffects>signature</textEffects> at the scene.
+All of the evidence clearly points to the defendant.
+</line>
+<hr />
+<line>Apollo:
+Lamiroir's... song?
+</line><line>Klavier:
+Yes... "<textEffects>The Guitar's Serenade</textEffects>". You noticed its "<textEffects>code</textEffects>" too, did you not?
+</line><line>Apollo:
+Its "code"...?
+</line><line>Klavier:
+All the events that day followed the lyrics to our song. First, the keys my "<textEffects>heart</textEffects>" held on to so tightly were stolen.
+</line><line>Apollo:
+Then Prosecutor Gavin's guitar burst into flames on stage. Mr. LeTouse's <textEffects>life was taken</textEffects> by a <textEffects>bullet</textEffects>...
+</line><line>Klavier:
+The rest hardly needs explanation... "<textEffects>Guitar, Guitar... Up together to the sky.</textEffects>"
+</line><line>Judge:
+Th-That's mad! It's like a story out of some fairy tale!
+</line><line>Apollo:
+<textEffects>(I admit, I'd forgotten about the song... But there it is now, waiting for me... the grand finale, as it were.)</textEffects>
+</line><line>Trucy:
+Hey! You know I was the one who first noticed that!
+</line><line>Judge:
+I've heard of jumping rope to <textEffects>songs</textEffects>, and counting to <textEffects>songs</textEffects>... ...But killing!?
+</line><line>Klavier:
+It's a wild world out there, Herr Judge.
+</line><line>Judge:
+Very well! We've heard one song and dance, let's get on to the next: the cross-examination!
+</line><line>Apollo:
+<textEffects>(I'm not so sure I'm going to be doing much singing...)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- The Missing Body --</textEffects></center>
+<line>Ema:
+<textEffects>I believe Machi stole the body because of some lyrics.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>He moved the body to match Lamiroir's song.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>No one in this country had a motive to kill the victim.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>And, Machi practically left his signature at the scene.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+<line>Ema:
+<textEffects>All of the evidence clearly points to the defendant.</textEffects>
+</line>
+
+<line>Ema:
+<textEffects>From the state of the crime scene, I conclude the shooter was blind.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+<line>Trucy:
+This doesn't look so good, does it, Apollo?
+</line><line>Apollo:
+No, it doesn't.
+</line><line>Trucy:
+...... What do we do!?
+</line><line>Apollo:
+<textEffects>(First, we don't panic. Even though Machi's case is leaking water by the gallon. Gavin's on a roll, and it's up to me to stop him!)</textEffects>
+</line>
+<hr />
+<line>Apollo:
+This is that evidence!
+</line><line>Judge:
+The photograph of the crime scene...?
+</line><line>Apollo:
+<textEffects>(I don't care much for the smirk on Prosecutor Gavin's face... But this is no time to think twice... Time to press on!)</textEffects> Yes, Your Honor, the crime scene. There is something in here that decisively contradicts the prosecution's point!
+</line><line>Klavier:
+Then perhaps you'd best show us this "something". Get your finger out of the breeze and put it to good use, ja?
+</line><line>Judge:
+Very well, show us what you're talking about, Mr. Justice! <textEffects>The <span style="color:#E16935">contradiction</textEffects> at the scene of the crime is...</span>
+</line>
+
+
+<line>Apollo:
+The contradiction is right here!
+</line><line>Ema:
+The smeared <textEffects>blood stains</textEffects>...!
+</line><line>Judge:
+Hmm... I thought it was just my blurry vision. But it really was blurry! The way the victim's hand is raised above his head... ...Much like a gesture I have seen many times in this court.
+</line><line>Ema:
+It's almost as if he wrote something...?
+</line><line>Trucy:
+Ah ha! I get it! At least, I think I get it!
+</line><line>Klavier:
+Get what, Fräulein?
+</line><line>Trucy:
+When Mr. LeTouse was shot, he tried to write something! And what would he write but the shooter's name? And what would he write it in but his own blood? Pretty good, huh?
+</line><line>Apollo:
+<textEffects>(Thanks for making my point for me...)</textEffects> Yes, in fact, that's what I think happened here.
+</line><line>Judge:
+Hmm... That does seem to be a distinct possibility.
+</line><line>Ema:
+The victim wrote the killer's name... ...It's certainly a logical conclusion.
+</line><line>Trucy:
+Drat! I just wish it wasn't all rubbed out like that.
+</line><line>Judge:
+Of course it's rubbed out. Why, if I were a killer... ...I certainly wouldn't want to leave my own name behind!
+</line><line>Klavier:
+Neither would I.
+</line><line>Ema:
+......
+</line><line>Klavier:
+......
+</line><line>Judge:
+......
+</line><line>Apollo:
+Um... No one has anything else to say?
+</line><line>Judge:
+...About what?
+</line><line>Apollo:
+So the prosecution accepts this? You agree this was the victim making an attempt to record the name of the killer? ...And that the killer tried to rub the name out?
+</line><line>Ema:
+What's your point?
+</line><line>Apollo:
+What's my point!? Let me ask you this: How did the killer know the victim was writing their name?
+</line><line>Ema:
+Well, Mr. LeTouse was writing something in blood. Once the killer saw what it was... ...Wait.
+</line><line>Judge:
+Once he "<textEffects>saw</textEffects>" what it was...?
+</line><line>Apollo:
+But what did you just testify about the shooter?
+</line><line>Ema:
+I said... they were <textEffects>blind</textEffects>. Ack!!!
+</line><line>Apollo:
+Yet the crime scene itself contradicts that! The killer had to have been <textEffects>able to see</textEffects>! Why would they rub out the name in blood otherwise?
+</line><line>Ema:
+Ah... ahh...
+</line><line>Apollo:
+May I remind the court that the defendant, Machi Tobaye, is blind! He couldn't have been the shooter!
+</line><line>Ema:
+Urk... Immmmmmmmposssssibbleee!
+</line><line>Judge:
+Order! Order! Order!!! P-Prosecutor Gavin! Please explain to me what all this means!?
+</line><line>Klavier:
+......
+</line><line>Judge:
+I mean, looking at this photo... It seems quite clear that the shooter <textEffects>could see</textEffects>! Yet, up until now...
+</line><line>Klavier:
+...It seems I owe the court an apology.
+</line><line>Judge:
+Hmm!?
+</line><line>Klavier:
+The Gavinners are a band with law enforcement ties, yet a murder occurred... ...during our concert! Apparently, this caused some confusion over jurisdiction. As a result, some reports were not filed in an entirely timely manner.
+</line><line>Apollo:
+<textEffects>(I... I'm not sure I like the vibe I'm getting here.)</textEffects>
+</line><line>Trucy:
+Hey Apollo, look at him. Why is Prosecutor Gavin all relaxed and smiling like that? Like he knows something we don't... and he's about to tell us.
+</line><line>Klavier:
+Heh heh heh. I've got an idea... Let's rock! ...With these documents. But before that. I have a question for the Fräulein Detective. If I may?
+</line><line>Ema:
+Wh-What?
+</line><line>Klavier:
+Tell me... Why do you think that Machi Tobaye is <textEffects>blind</textEffects>?
+</line><line>Ema:
+Huh...?
+</line><line>Apollo:
+Wh-What did he say?
+</line><line>Ema:
+What are you saying? Of course he's blind!
+</line><line>Klavier:
+Of course...?
+</line><line>Ema:
+H-He's the blind pianist, right? So... So he's... Doesn't Lamiroir lead him around by the hand all the time?
+</line><line>Apollo:
+<textEffects>(No way...)</textEffects>
+</line><line>Klavier:
+I have a report here on the defendant, Machi Tobaye. According to this, Machi Tobaye... ...can see perfectly well.
+</line><line>Ema:
+What...?
+</line><line>Klavier:
+His blindness was merely a publicity ploy by those clever Borginians. He <textEffects>can see</textEffects> quite well.
+</line><line>Apollo:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Apollo:
+B-But you said...
+</line><line>Klavier:
+...What did I say, exactly?
+</line><line>Apollo:
+!
+</line><line>Klavier:
+Herr Forehead, not once in the course of this trial... ...have I claimed <textEffects>the defendant was blind</textEffects>. The only one who did was Fräulein Detective.
+</line><line>Apollo:
+Bu-But that's...
+</line><line>Klavier:
+...A significant fact, yes! Consider: Machi Tobaye sees. And he was the only one who could have fled through the air vent. I see no problems with this.
+</line><line>Ema:
+But what about the bullet holes in the wall?
+</line><line>Klavier:
+Yes, the bullet holes. I believe Herr Forehead neatly explained those for us. He didn't miss because he <textEffects>couldn't see</textEffects>. It was the kickback from the 45-caliber revolver. A simple <textEffects>accident</textEffects>, in other words.
+</line><line>Apollo:
+Ack...!
+</line><line>Klavier:
+How's that? I'm afraid your "objection" has just flown off for brighter skies...
+</line><line>Apollo:
+Urk...
+</line><line>Klavier:
+This is where the real fun begins, Herr Forehead!
+</line><line>Apollo:
+Yeeeeaaaaaaaarrrrrrrrrggh!
+</line>
+<hr />
+<line>Klavier:
+I knew you didn't have what it took.
+</line><line>Ema:
+You... You jerk! Just what was I in here for? Comic relief!?
+</line><line>Trucy:
+Yeah! Apologize!
+</line><line>Klavier:
+Ah ha ha. Oh, sorry!
+</line><line>Trucy:
+That's no way to apologize!
+</line><line>Apollo:
+<textEffects>(He's angered the Trucy now. Look out...)</textEffects>
+</line><line>Judge:
+Ahem. If we can please end the bickering. Now.
+</line><line>Ema:
+Whatever! I'm not leaving! I can't leave like this. I'll come up with some clue to solving this case if it kills me!
+</line><line>Judge:
+But your testimony has already given us enough to convict the defendant...
+</line><line>Apollo:
+<textEffects>(Ugh, don't say that...)</textEffects>
+</line><line>Ema:
+Ah! Ah ha!
+</line><line>Apollo:
+"Ah ha" what?
+</line><line>Ema:
+This blood stain... The criminal tried to wipe it off, right?
+</line><line>Apollo:
+That seems to be what happened, yes.
+</line><line>Ema:
+We might be able to find out what was really written here!
+</line><line>Apollo:
+...! Really...? You can do that?
+</line><line>Ema:
+That's right, with this! It's called <textEffects>Luminol</textEffects>! Maybe you know of it? It's a chemical that reacts to blood.
+</line><line>Klavier:
+Ah yes, have we done those tests yet...?
+</line><line>Ema:
+Hah! As if I'm going to tell you!
+</line><line>Klavier:
+The blood stains covered a section of the carpet. In order to perform blood tests, that section was removed and submitted. Perhaps we should request it here in court now.
+</line><line>Ema:
+Right! Go for it, Apollo!
+</line><line>Apollo:
+Huh? I have to do the test?
+</line><line>Ema:
+You just have to spray the luminol on it! Simple!
+</line><line>Apollo:
+<textEffects>(A chemical that reacts to blood... I've heard of this somewhere.)</textEffects>
+</line><line>Judge:
+...Yes, I believe an analysis is called for. Have at it!
+</line><line>Ema:
+Right, ready? It's easy as pie! Just touch the screen to spray an area. Here! Give it a try!
+</line><line>Apollo:
+<textEffects>(...The eyes of the entire court are focused on me!)</textEffects>
+</line><line>Trucy:
+Apollo! Your hand's shaking!
+</line><line>Apollo:
+<textEffects>(Ugh... Grrrah! Let's do this!)</textEffects>
+</line>
+
+<line>Apollo:
+<textEffects>(Wow... it really works!)</textEffects>
+</line><line>Trucy:
+This must be... this must be the power of science!
+</line><line>Ema:
+It says... "<textEffects>IPXX314206</textEffects>"... ...Is that the killer's name?
+</line><line>Judge:
+Hmm. Maybe it is... if the killer was a robot!
+</line><line>Klavier:
+Ah hah! I have it!
+</line><line>Apollo:
+...So what is it?
+</line><line>Klavier:
+I thought those letters "<textEffects>IPXX</textEffects>" looked familiar. This is an <textEffects>Interpol</textEffects> ID number.
+</line><line>Ema:
+I-Interpol? You mean the international police agency?
+</line><line>Klavier:
+Yes. Most are undercover agents working to solve international crimes. But why would he write that number...?
+</line><line>Apollo:
+Why would Mr. LeTouse even know a number like that!?
+</line><line>Klavier:
+Good show, Fräulein Detective. Rock on.
+</line><line>Ema:
+Eh?
+</line><line>Klavier:
+Your Honor! We can verify this number immediately.
+</line>
+<hr />
+<line>Klavier:
+...Daryan, are you there? Come up to the witness stand! Daryan... you heard what we need. Go check into this Interpol ID number.
+</line><line>Daryan:
+Sure thing. Gimme 30 minutes. No... Gimme 27.
+</line><line>Judge:
+Hmm... I'm not sure what to think of all this. The prosecution's case is airtight, or so it seems. Yet if this number is really that of an Interpol agent...
+</line><line>Ema:
+Oh, wait, I know... What if Machi Tobaye's really an undercover Interpol agent?
+</line><line>Klavier:
+That would be a possibility.
+</line><line>Judge:
+A possibility, yes. And one that would mark him as the killer for certain.
+</line><line>Apollo:
+<textEffects>(Why did LeTouse know an Interpol ID number...? That's what I want to know.)</textEffects>
+</line><line>Klavier:
+Well, we have some time while we await Daryan's report. Let's work on unraveling another mystery, shall we? A curious mystery concerning Machi Tobaye.
+</line><line>Apollo:
+...What are you talking about?
+</line><line>Klavier:
+Fräulein Detective, please accept my apologies. I received word that the defendant <textEffects>could</textEffects>, in fact, <textEffects>see</textEffects>, just before the trial began. It seemed too much of a bother to tell you.
+</line><line>Ema:
+...You had me until that last bit.
+</line><line>Klavier:
+Does this not raise a rather straightforward question?
+</line><line>Ema:
+Well, sure... <textEffects>Why did Machi pretend he couldn't see</textEffects>?
+</line><line>Klavier:
+Exactly... It makes little sense. What do you think, Herr Forehead?
+</line><line>Apollo:
+Huh? Me?
+</line><line>Klavier:
+Machi Tobaye <textEffects>pretended</textEffects> he was blind... ...Do you know why?
+</line><line>Ema:
+How could he know!?
+</line><line>Trucy:
+Wait... Prosecutor Gavin knows why, doesn't he...
+</line><line>Apollo:
+<textEffects>(He's known from the start of the trial. He's been leading us on the whole time!)</textEffects>
+</line><line>Klavier:
+Hmm? Something wrong? Do you think, perhaps, this is all some kind of game? Know that the moment I heard that report... ...I knew why.
+</line><line>Judge:
+Hmm... I suppose people who have sold over a million records really are something else.
+</line><line>Apollo:
+<textEffects>(What does that have to do with anything!?)</textEffects>
+</line><line>Klavier:
+There was a reason why Machi Tobaye <textEffects>pretended to be blind</textEffects>. But it <textEffects>wasn't</textEffects> for his own sake. ...Getting the picture now?
+</line><line>Apollo:
+It wasn't for himself...!?
+</line><line>Judge:
+Well, Mr. Justice? Can you present evidence that shows us why the defendant had to feign blindness?
+</line>
+
+
+</td></tr></tbody></table>
+
+<line>Ema:
+Yeah! Wasn't she supposed to be the "<textEffects>landscape painter in sound</textEffects>" or something?
+</line><line>Klavier:
+Well, since we have her here...
+</line><line>Ema:
+!
+</line><line>Klavier:
+...Why not ask Lamiroir herself? I believe she is still in the witness waiting room.
+</line><line>Trucy:
+A-Apollo, what does this mean for our case!?
+</line><line>Apollo:
+Don't ask me! I had no idea she couldn't see... I hadn't even imagined it until now!
+</line><line>Judge:
+Bailiff! Bring in Lamiroir!
+</line>
+<hr />
+<line>Klavier:
+...Lamiroir. It pains me deeply to call you before us again in this way. And yet I must.
+</line><line>Lamiroir:
+Please, do not be concerned on my behalf.
+</line><line>Apollo:
+<textEffects>(Those eyes... She really can't see? Really?)</textEffects>
+</line><line>Lamiroir:
+...... It is true.
+</line><line>Apollo:
+...!
+</line><line>Lamiroir:
+How funny it is that a tiny lie born in the Borginian countryside... ...would one day grow to entangle the entire world.
+</line><line>Judge:
+So... So you are...!?
+</line><line>Lamiroir:
+Yes. As I mentioned before... ...I have no memory of the time before I became Lamiroir. Know too that my memories begin in darkness. The word "light" has no meaning for Lamiroir.
+</line><line>Judge:
+I see...
+</line><line>Klavier:
+You may recall me saying something toward the beginning of this trial, Herr Forehead.
+</line><line>Apollo:
+...? What's that?
+</line><line>Klavier:
+I believe I said it was unfortunate this crime had no "<textEffects>direct</textEffects>" witnesses.
+</line><line>Apollo:
+Ah...
+</line><line>Klavier:
+Now, Lamiroir, I must ask you to stand once more. Will you testify to the court about your eyes?
+</line><line>Lamiroir:
+Of course. It was never my intent to deceive any of you. May I begin, Your Honor?
+</line><line>Judge:
+Uh, yes, yes of course... Though I admit, I'm a little lost here.
+</line><line>Apollo:
+I think we're all a bit lost here, Your Honor.
+</line>
+<hr />
+<center><textEffects>Witness Testimony</textEffects></center>
+<center><textEffects>-- Lamiroir's Eyes --</textEffects></center>
+<line>Lamiroir:
+I have no memory of the "light".
+I debuted in a world of darkness and sound...
+My producer came up with my PR line before he knew this.
+So, silly as it may sound, I had to pretend I could see.
+Everyone on my staff knew, of course, but no others.
+</line>
+<hr />
+<line>Judge:
+But... this is a murder trial!
+</line><line>Lamiroir:
+I apologize. It was part of my contract, you see. I was to keep my blindness a secret, no matter what. Music is everything for me. I never imagined something like this would...
+</line><line>Klavier:
+She told us the truth in the beginning. When she said she "<textEffects>saw nothing</textEffects>".
+</line><line>Judge:
+Very well. Does the defense have anything to add?
+</line><line>Apollo:
+...... I'd like to cross-examine.
+</line><line>Trucy:
+But, what is there left to ask!?
+</line><line>Apollo:
+There was one thing in her testimony that bothered me.
+</line><line>Klavier:
+Perhaps it is best we let you get it out of your system. Someday you'll come to understand... ...the importance of thinking for yourself.
+</line><line>Judge:
+Very well. The defense may proceed. However... Be aware this court will not tolerate any questions deemed too stressful to the witness.
+</line><line>Apollo:
+...OK. <textEffects>(There was only one part that bothered me... Just let me ask about that and I'll be happy.)</textEffects>
+</line>
+<hr />
+<center><textEffects>Cross Examination</textEffects></center>
+<center><textEffects>-- Lamiroir's Eyes --</textEffects></center>
+<line>Lamiroir:
+<textEffects>I have no memory of the "light".</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>I debuted in a world of darkness and sound...</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>My producer came up with my PR line before he knew this.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>So, silly as it may sound, I had to pretend I could see.</textEffects>
+</line>
+
+<line>Lamiroir:
+<textEffects>Everyone on my staff knew, of course, but no others.</textEffects>
+</line>
+
+<line>Apollo:
+<textEffects>(I suppose that's her confession, of sorts. There's just one part that bothers me... ...And I'm going to get to the bottom of it.)</textEffects>
+</line>
+<hr />
+<line>Apollo:
+When you say your staff, do you include Mr. LeTouse?
+</line><line>Lamiroir:
+Of course. He was my manager.
+</line><line>Apollo:
+<textEffects>(So he knew... and that's what's been bugging me!)</textEffects>
+</line><line>Judge:
+Something the matter, Mr. Justice?
+</line><line>Klavier:
+I believe I know what is bothering our young defense attorney. ...You are thinking of when you discovered the body, yes?
+</line><line>Apollo:
+...!
+</line><line>Trucy:
+Is he right, Apollo?
+</line><line>Apollo:
+...Yes, I was.
+</line>
+<hr />
+<line>LeTouse:
+......Nnnh......
+</line><line>Apollo:
+...! <textEffects>(He... He's alive!)</textEffects> Mr. LeTouse! Can you hear me!?
+</line><line>LeTouse:
+...Cold... so cold... Witness...
+</line><line>Apollo:
+You're cold? D-Don't worry, you're going to be fine! Help is on the way!
+</line><line>LeTouse:
+...Can't s...see...
+</line><line>Apollo:
+Hang in there, Mr. LeTouse! Tell me, who was the witness?
+</line><line>LeTouse:
+The wi...witness...is ...si...si...ren...
+</line>
+<hr />
+<line>Apollo:
+Mr. LeTouse told me to <textEffects>ask the witness</textEffects>, and he named you.
+</line><line>Lamiroir:
+...!
+</line><line>Apollo:
+Why would he do that? He knew you were blind!
+</line><line>Lamiroir:
+I... I don't know...
+</line><line>Klavier:
+Tsk, tsk.
+</line><line>Apollo:
+...!
+</line><line>Klavier:
+What did I just say? You need to learn to think for yourself.
+</line><line>Apollo:
+Meaning what...?
+</line><line>Klavier:
+There is no mystery here if you recall everything he said. Think of his last words once more.
+</line><line>Judge:
+"<textEffects>The witness... siren</textEffects>"? We've heard them many times. Along with a little play-acting by our defense.
+</line><line>Klavier:
+I remember them well myself, but that statement is not to what I refer. I mean what he said <textEffects>before</textEffects> that.
+</line><line>Apollo:
+...<textEffects>Before</textEffects>? <textEffects>(What came before that...?)</textEffects> Ack!
+</line><line>Klavier:
+...That's right. He tried to tell you. When he said "<textEffects>can't see</textEffects>" he <textEffects>wasn't talking about himself</textEffects>. He was talking about the <textEffects>witness</textEffects>!
+</line><line>Judge:
+I see!
+</line><line>Klavier:
+Too bad the defense did not. Well, Herr Forehead? Try relaxing and "looking" at the facts first next time.
+</line><line>Apollo:
+...Urk!
+</line><line>Judge:
+Order! Order!
+</line><line>Klavier:
+Recall Lamiroir's earlier testimony...
+</line>
+<hr />
+<line>Lamiroir:
+I was on my way from the stage to the backstage exit. There were two shots... I couldn't do anything to stop it.
+</line>
+<hr />
+<line>Judge:
+But she couldn't have heard those gunshots! I thought we proved that...
+</line><line>Klavier:
+That is not the most important point here.
+</line><line>Judge:
+Hmm?
+</line><line>Klavier:
+The moment he was shot, Mr. LeTouse "witnessed" her through that window. ...Why else would he have named her as the witness?
+</line><line>Apollo:
+Ah...
+</line><line>Lamiroir:
+But I really did hear them! Two gunshots... and the man's voice!
+</line><line>Klavier:
+Unfortunately, such a thing was impossible. The window was closed. We have already run a simulation, of course.
+</line><line>Lamiroir:
+But it was so clear... If I heard that voice again, I would know it in an instant...
+</line><line>Judge:
+Hmm...
+</line><line>Bailiff:
+...Your Honor!
+</line><line>Judge:
+What is it, Bailiff? Can't you see we're in session here!?
+</line><line>Bailiff:
+We have the results back from the investigation!
+</line><line>Judge:
+The investigation...?
+</line><line>Klavier:
+Ah, the Interpol number that Mr. LeTouse left us.
+</line><line>Judge:
+...! Well let's hear it! ...We will continue this cross-examination afterward. Detective Crescend! Your report please!
+</line>
+<hr />
+<line>Daryan:
+I asked Interpol about that number. I'm sure you'll find their answer intriguing.
+</line><line>Klavier:
+...Quick work as always, Daryan.
+</line><line>Judge:
+Well, tell us about the number! Is the defendant a secret agent!?
+</line><line>Daryan:
+"<textEffects>IPXX314206</textEffects>"... The agent registered under that number... ...was <textEffects>Romein LeTouse</textEffects>.
+</line><line>Klavier:
+What...?
+</line><line>Daryan:
+Our undercover Interpol agent was Mr. LeTouse himself! He was apparently in the middle of an operation.
+</line><line>Apollo:
+So, when he wrote those letters...
+</line><line>Daryan:
+...He was trying to tell us his own identity. And a cautious killer tried to wipe them away.
+</line><line>Trucy:
+Mr. LeTouse was an undercover Interpol agent... So him being Lamiroir's manager...
+</line><line>Apollo:
+...Was just a cover, most likely.
+</line><line>Daryan:
+There's one other important detail I found.
+</line><line>Klavier:
+Well, out with it.
+</line><line>Daryan:
+It concerns that 45-caliber revolver, the murder weapon. Apparently, it belonged to Romein LeTouse. He had an Interpol permit to carry firearms. ...And the registration number on the revolver matched.
+</line><line>Klavier:
+So the victim was killed with his own weapon, which makes sense. It's hard to imagine someone who wasn't an Interpol agent with such a large revolver.
+</line><line>Apollo:
+<textEffects>(So the victim was an Interpol agent on an undercover op... I wonder how that ties into everything.)</textEffects>
+</line><line>Trucy:
+It's got to tie in somehow, you'd think.
+</line><line>Apollo:
+Yeah, somehow...
+</line><line>Judge:
+Thanks for looking into that for us, Detective Crescend. It's a great help.
+</line><line>Daryan:
+Oh, no problem at all, Your Honor. ...I'll be heading out...
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Lamiroir:
+Wait!
+</line><line>Judge:
+La-Lamiroir! Is something the matter?
+</line><line>Lamiroir:
+That voice just now...
+</line><line>Klavier:
+Daryan?
+</line><line>Lamiroir:
+Mr. Daryan, is it...? ............ It was him. I am sure of it.
+</line><line>Judge:
+It was "him"?
+</line><line>Klavier:
+Y-You aren't saying--!?
+</line><line>Lamiroir:
+That voice I heard, talking to Mr. LeTouse... when I heard the gunshots fired. It was him! It was Mr. Daryan!
+</line><line>Klavier:
+Is this some kind of a joke!?
+</line><line>Apollo:
+Whaaaaaaaat!?
+</line><line>Daryan:
+...No way...
+</line>
+<hr />
+<line>Apollo:
+<textEffects>(The courtroom fell into such a chaotic state, the trial had to be suspended temporarily. I'd never seen that happen before. Of course, it's not every day that you get an accusation like that one. Lamiroir, fingering <span style="color:#E16935">Daryan Crescend</textEffects>. Not only is he a guitarist, he's a detective! Could it really have been his voice Lamiroir heard? Things were changing fast, and frankly, I wasn't sure I could keep up with it.)</span>
+</line><line>Trucy:
+Hey! No wimping out now, Apollo!
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+</xml>

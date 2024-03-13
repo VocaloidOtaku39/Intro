@@ -1,0 +1,256 @@
+<xml>
+
+<title>Making Money</title>
+
+<line>
+<i>Town Centre</i>
+</line><line>Birdly:
+And now, without any further ado, behold my latest song...
+</line>
+<center>♪ The esteemed Mr Punchenbaug, Picked up his luncheon bag. Chalice in hand, he looks so grand... Glasses of gold, his latest scoop... The pawnbroker, again is duped ♪</center>
+<line>
+Maya:
+Wooooooh! Here we are in the latest episode, Nick!
+</line><line>Phoenix:
+Yep, and it sounds like Birdly is in top form today.
+</line><line>Maya:
+Yeah, that was pretty funny! Here you go, Birdly! A little something for your song.
+</line><line>Cracker:
+Thank you...thank you!
+</line><line>Bardly:
+</line>
+<center>Thanking you... Many thanks to you..</center>
+<line>
+Luke:
+Hey... Isn't that Mr Bardly dancing and singing way over there?
+</line><line>Espella:
+Do you think he and Mr Birdly are working on some sort of <textEffects>collaboration</textEffects>...?
+</line><line>Layton:
+Perhaps so... Although, I'm not sure it's one entirely of mutual <textEffects>consent</textEffects>.
+</line><line>Bardly:
+</line>
+<center>I wrote the lyrics, he stole my song. I'm over here...something's gone wrong ♪</center>
+<line>
+Maya:
+Did you hear that, Nick? That doesn't sound fair. Maybe we can do something for Bardly. I wonder if there's someone we can lodge a <textEffects>formal complaint</textEffects> with...
+</line><line>Phoenix:
+Lodge a complaint? Yes, Maya... I'm sure Labyrinthia has a customer complaint line you can call...
+</line>
+<hr />
+<line>Maya:
+I did like the song, though, "The Ballad of Emeer Punchenbaug I: The Man with the Golden Dream".
+</line><line>Phoenix:
+More like: "The Man Who Takes People's Gold to <textEffects>Buy</textEffects> His Dreams"...
+</line><line>Luke:
+Hmm...
+</line><line>Maya:
+Hey, what's the matter, Luke?
+</line><line>Luke:
+I think we've been overspending a little... We're a bit low on pocket money.
+</line><line>Layton:
+Oh dear... It could be that we've exceeded our <textEffects>Adventuring Allowance</textEffects> this time.
+</line><line>Maya:
+I guess I'm partially to blame for that... Sorry, Professor! Better find a way to come up with some quick cash...but what? Hey, I know! We could try going to the pawnbroker and selling something <textEffects>valuable</textEffects>.
+</line><line>Layton:
+............ I beg your pardon, Miss Fey, but... would you kindly stop gazing at my <textEffects>right arm</textEffects> in such a manner? It's making me feel rather uneasy.
+</line><line>Maya:
+Okay... Well, scratch that idea.
+</line><line>Phoenix:
+I'm sure there must be other ways of making money here in Labyrinthia...
+</line><line>Maya:
+HEEEEEEEEEY! I've got it! In cases like this, there's only one answer! We have no choice but to use the powers of <textEffects>you know what</textEffects>!
+</line><line>Espella:
+The powers of..."you know what"?
+</line><line>Maya:
+C'mon, it's obvious! I mean the powers of <textEffects>alchemy</textEffects>...duh!
+</line><line>Luke:
+Um...Maya, you have a bit of a sinister look in your eyes right now...
+</line><line>Maya:
+It's settled, then! So what are you guys waiting for? To the alchemist's place!
+</line><line>Layton:
+Lest we forget, Miss Fey, it has already been proven that neither magic nor alchemy actually exist here, has it not?
+</line><line>Maya:
+I believe in Greyerl! I know she can exceed the limitations of "<textEffects>scientific knowledge</textEffects>" if we ask her to.
+</line><line>Phoenix:
+<textEffects>("Exceed the limitations of scientific knowledge"... In other words, turn something into gold for us.)</textEffects>
+</line><line>Maya:
+C'mon, c'mon! Let's go already! It's time to dive into the wild and wonderful world of alchemy!
+</line><line>Phoenix:
+Just follow the smell of gold...
+</line><line>Luke:
+Let's go! It's been a long time since we last saw Miss Greyerl.
+</line><line>Espella:
+Yes! Let's all go and see her!
+</line><line>Layton:
+I'd like to remind you one more time... this right arm of mine is staying firmly where it is.
+</line>
+<hr />
+<line><i>Alchemist's house</i>
+</line><line>Luke:
+Wow! Sir Belduke's residence hasn't changed one bit, has it?
+</line><line>Maya:
+It looks as "alche-misty" as I remember... This place could really use a gardener or something, that's for sure.
+</line><line>Mailer:
+Siiiiiiiirrr!!!
+</line><line>Phoenix:
+<textEffects>(Uuuuurgh... That voice is as piercing as ever... Feels like a needle to the brain.)</textEffects>
+</line><line>Maya:
+Hey! It's Lettie Mailer!
+</line><line>Mailer:
+What's this? Are you all here to see Jean? Hey, Jean...you've got visitors!
+</line><line>Greyerl:
+Hello, everyone. Allow me to welcome you all.
+</line><line>Luke:
+Ah! Miss Greyerl... It's good to see you again.
+</line><line>Greyerl:
+It's so nice of you all to come and visit. This is quite the pleasant surprise.
+</line><line>Phoenix:
+It's been a while. Last time I saw you, you'd only just revealed that you're actually, y'know...<textEffects>a girl</textEffects>.
+</line><line>Greyerl:
+Yes... Ever since the incident in court, I've been able to lead a much more <textEffects>relaxed</textEffects> life.
+</line><line>Layton:
+That's marvellous. I must say, it is refreshing to see that smile of yours, Miss Greyerl.
+</line><line>Mailer:
+I totally disagree!
+</line><line>Layton:
+Eh...?
+</line><line>Mailer:
+Personally, I'd be happier if Jean had stayed <textEffects>male</textEffects>. Y'know, at least for a while longer. Here, look! These are letters, from the girls in town. And not just any letters. Half this satchel is full of Jean Greyerl <textEffects>fan mail</textEffects>!
+</line><line>Greyerl:
+Lettie, please... I-it's embarrassing...
+</line><line>Espella:
+Hee hee. But you're so popular, Jean.
+</line><line>Mailer:
+Well...I better get going. These things need to find their recipients! The letters, I mean. See you later, Jean!
+</line><line>Greyerl:
+Okay, Lettie. Be sure to stop by again for a cup of tea.
+</line><line>Mailer:
+Siiiiiiiirrr!!!
+</line><line>Phoenix:
+<textEffects>(Well, at least Jean seems to be making new friends all around.)</textEffects>
+</line><line>Maya:
+So...Jean, how have things been going for you recently?!
+</line><line>Greyerl:
+That's a somewhat open question... I'm not really sure how best to respond.
+</line><line>Maya:
+Well, okay... How's the whole <textEffects>alchemy</textEffects> thing going? Cooked up any alchemically awesome concoctions lately?
+</line><line>Greyerl:
+Ah...yes, well... In all honesty, I've recently taken to thinking about what Sir Belduke said regarding "the rules of nature". At the present time, I've decided to hold back on alchemy and devote my time to <textEffects>medical science</textEffects> instead.
+</line><line>Maya:
+WHAAAAAAT?!
+</line><line>Layton:
+...Is that so? Well, I think that's wonderful.
+</line><line>Greyerl:
+I'm pleased you agree. There are too few doctors here in Labyrinthia.
+</line><line>Luke:
+Your smiling face says it all, Miss Greyerl. I think you've found your true calling!
+</line><line>Greyerl:
+Thank you, I appreciate the encouragement. Thanks to all you've done for Labyrinthia, each and every day feels more fulfilling. I have my parents living here with me now, too, so we're finally able to enjoy family life together again.
+</line><line>Maya:
+That's...just...wonderful, Jean.
+</line><line>Phoenix:
+<textEffects>(Looks like you can kiss goodbye to that gold, Maya...)</textEffects>
+</line><line>Greyerl:
+As it happens, I've just been out in the <textEffects>woods</textEffects> collecting medicinal herbs.
+</line><line>Phoenix:
+..."Woods"? I guess you must mean the <textEffects>Eldwitch Woods</textEffects>, right?
+</line><line>Espella:
+Oh...Mr Wright, allow me to explain. You see, after all that's happened, they decided to change the name of those woods.
+</line><line>Phoenix:
+Huh?
+</line><line>Espella:
+They're now known as the <textEffects>Nulwitch Woods</textEffects>. Although I'm not exactly sure why...
+</line><line>Phoenix:
+Hmm... Null-witch Woods, huh?
+</line><line>Espella:
+I guess there must be some kind of meaning behind it...
+</line><line>Phoenix:
+Wh-who comes up with these names, anyways...?
+</line><line>Greyerl:
+Oh! I just realised, it's nearly time for my teachers to arrive.
+</line><line>Phoenix:
+You have <textEffects>teachers</textEffects>...?
+</line><line>Greyerl:
+That's right! There's so much to learn... So many subjects to study... And yet, so little time... Devotion to the pursuit of knowledge is a challenge to be relished.
+</line><line>???:
+</line>
+<center>That's the spirit, Jean Greyerl...</center>
+<line>
+Luke:
+M-Miss Primstone! And...Miss Mystere, from the library.
+</line><line>Ridelle:
+Ridelle Mystere, at your service. I trust you are all keeping well.
+</line><line>Ms Primstone:
+Oh dearie, dearie me! If this isn't quite the touching reunion. But there's one thing I would like you to consider...so if you would all pay attention! Ms Primstone's lesson number six! "Reunion leads to nothing but trouble". After a sprinkling of nostalgia, the ashes of the past will once again burst into flames... This is of the utmost importance.
+</line><line>Greyerl:
+As always, Ms Primstone, your teachings are as full of wisdom as they are pertinence. <i>[sic]</i>
+</line><line>Maya:
+I think you might want to consider getting another teacher...
+</line><line>Ridelle:
+Jean, while knowledge is important...the fruit of one's knowledge is also essential in deepening one's understanding of puzzles.
+</line><line>Greyerl:
+Of course, Miss Mystere.
+</line><line>Ridelle:
+Then let's not beat around the bush! It's time for a puzzle! Here we go then, Jean... Which of the following is <textEffects>the odd one out</textEffects>?
+<textEffects> - Knightle <code>&#160;</code> - Shakey
+ - Dewey <code>&#160;</code> - Phoenix</textEffects>
+</line><line>Greyerl:
+Why, surely that must be... <textEffects>Phoenix</textEffects>, Miss Mystere.
+</line><line>Ridelle:
+<textEffects>Correct</textEffects>! Peerless precision and punctuality. The perfect puzzle solution! It's only natural. After all, I am Master Belduke's apprentice!
+</line><line>Luke:
+Hey...th-that's my line!
+</line><line>Ridelle:
+Now, now... There's no room for complacency just yet! When it comes to puzzles, one is never enough. Be prepared for <textEffects>puzzle number two</textEffects> in this series.
+</line><line>Greyerl:
+I'm ready, Miss Mystere.
+</line><line>Ridelle:
+Here we go then, Jean... Which of the following is <textEffects>the odd one out</textEffects>?
+<textEffects> - Eve <code>&#160;</code> - Constantine
+ - Snowy <code>&#160;</code> - Phoenix</textEffects>
+</line><line>Greyerl:
+Why, once again it must surely be... <textEffects>Phoenix</textEffects>, Miss Mystere.
+</line><line>Ridelle:
+<textEffects>Correct</textEffects>! Shrewdness and swiftness were key in this scintillating solution!
+</line><line>Maya:
+Whoooooa... Amazing, huh, Nick? Looks like we have ourselves a good ol' student-teacher <textEffects>face-off</textEffects>!
+</line><line>Phoenix:
+Personally, I'm more concerned that the odd one out is always <textEffects>Phoenix</textEffects>...
+</line><line>Ridelle:
+Ah, if it isn't... Professor Layton. As always, it's an honour and a pleasure to see you, Professor!
+</line><line>Layton:
+The pleasure is all mine, Miss Mystere. I must say, you seem as radiant as ever.
+</line><line>Ridelle:
+We follow the same path, you and I... a never-ending path of perplexing puzzles. I trust that you, too, have been honing your puzzle-solving skills since we last met.
+</line><line>Layton:
+Always, Miss Mystere.
+</line><line>Ridelle:
+Then I'm sure you'll have no trouble at all... with this puzzle!
+</line>
+
+<line>
+Ridelle:
+Ah...as perspicacious as ever, Professor!
+</line><line>Luke:
+Being chased by a big monster and hurling bombs around...I can't decide if that puzzle was super scary, or super fun!
+</line><line>Maya:
+I'm just bummed that the <textEffects>gold bomb</textEffects> had to get destroyed... We'd be loaded if we could've sold that to Price!
+</line><line>Ms Primstone:
+Oh dearie, dearie me! I've never in my life seen such splendid puzzle solving. But there's one thing I would like you to consider, if you would all pay attention! Ms Primstone's lesson number ten! "Puzzles lead to nothing but trouble."
+</line><line>Ridelle:
+What are you saying, Ms Primstone?! That's a step too far, even from you!
+</line><line>Greyerl:
+I have to agree! The exhilaration felt from solving a puzzle is like a <textEffects>beam of light</textEffects> in the mind.
+</line><line>Layton:
+...It is the light of the future. The <textEffects>intellectual illumination</textEffects> within our lives.
+</line><line>Ms Primstone:
+Oh dearie, dearie me!
+</line><line>Maya:
+Umm... How should I put this? The only thing I've learned today is... "Ms Primstone's lessons <textEffects>lead to nothing but trouble</textEffects>".
+</line><line>Phoenix:
+Yup... And I know a certain spirit medium, who shall remain nameless, that causes all sorts of <textEffects>trouble</textEffects> wherever she goes.
+</line><line>Maya:
+Hey... What's THAT supposed to mean?!
+</line>
+<center>To Be Continued...</center>
+</xml>

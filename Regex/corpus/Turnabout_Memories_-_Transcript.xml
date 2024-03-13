@@ -1,0 +1,2119 @@
+<xml>
+
+<title>Turnabout Memories</title>
+
+<line>
+...*huff*...*huff*... Argh! How did I get into this mess? Why...? Why did I do that...?
+</line>
+<hr />
+<line><textEffects>That girl... You shouldn't see her anymore.</textEffects>
+</line><line>Hey! It's none of your business!
+</line><line><textEffects>I'm telling you for your sake. If you continue to see her, it's going to be bad news.</textEffects>
+</line><line>Y-You're lying!
+</line><line><textEffects>Just listen to me. There's something you need to know about that girl... ...</textEffects>
+</line><line>Stop it! D-Don't talk about her like that!
+</line>
+<hr />
+<line>It-It wasn't me! I-I d-didn't... I didn't do it!
+</line>
+<hr />
+<captions aligned="center"><textEffects>-- 5 Years Earlier --
+Mia Fey2nd Trial</textEffects></captions>
+<line>
+</line>
+<captions aligned="center"><textEffects>April 11, 9:40 AM
+District CourtDefendant Lobby No. 3</textEffects></captions>
+<line>
+Mia:
+<textEffects>(Whew, it's finally time... I'm kind of nervous...)</textEffects>
+</line><line>???:
+*Ah-HHHHEM!*
+</line><line>Mia:
+Oh! Mr. Grossberg! Good morning!
+</line><line>Grossberg:
+Ah, Mia. Please calm yourself down! You're going to get yourself arrested for suspicious behavior, you know.
+</line><line>Mia:
+What are you talking about!! I am relaxed, Mr. Grossberg!! Look at me, I'm relaxed!!
+</line><line>Grossberg:
+*Grrrmmphh* L-Let go of my lapels! Hmph... You obviously haven't got the temperament to be a lawyer.
+</line><line>Mia:
+I, err... I'm so sorry! It's just that I'm so nervous today...
+</line><line>Grossberg:
+Oh, that's right. This is your first time in the big leagues, isn't it? Well, never you fear my dear. I, Marvin Grossberg, am at your service!
+</line><line>Mia:
+Umm, actually this is my <textEffects>second time</textEffects> in court...
+</line><line>Grossberg:
+Still, you surprised me... What, with your earnest request last night... "Let me handle this case!" you suddenly said. And quite forcefully, too!
+</line><line>Mia:
+I just found out yesterday. About the case, I mean.
+</line><line>Grossberg:
+What? And you've already learned all the relevant facts?
+</line><line>Mia:
+Well about that... You see... I mean, of course I have! I think.
+</line><line>Grossberg:
+Oh dear... In any case, don't let our client see you're so nervous. You see the poor young man in the pink sweater over there? That's our client.
+</line><line>Phoenix:
+*cough* *sniffle* Good morning there everybody!
+</line><line>Mia:
+Good morning... <textEffects>(Try to keep smiling, Mia!)</textEffects>
+</line><line>Phoenix:
+I, err, I just want to say... I'll give it all I've got! Yup, it'll be fine! No prob! *cough* *achoo* *achoo*
+</line><line>Mia:
+Oh, what's wrong? Do you have a cold or something... Mr. Wry?
+</line><line>Phoenix:
+Actually, it's <textEffects>Wright</textEffects>... Like the flying brothers... People screw it up all the time. And yes I have a cold. That's what this mask is for. My doc says this way, I won't give it to anyone else... Be kind to others, he says...
+</line><line>Mia:
+Right, Mr. Wright! You have nothing to fear in court today! If you are truly innocent... I promise I will save you!
+</line><line>Phoenix:
+Nnnnggghh... P-Please l-let go of my shirt... *cough*
+</line><line>Mia:
+<textEffects>(That's right, he's the one on trial, not you! He's the one who should be nervous! You need to stay strong for your client, Mia!)</textEffects>
+</line>
+<hr />
+<line>Mia:
+My name is Mia Fey. I'm still pretty new at this lawyer thing... The first time I appeared in court was a year ago. But that trial traumatized me so badly, I thought I'd never set foot in another courtroom. It's been one year since then, and well, here I am again. But this time... This time I'll win. For my client... And for myself.
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 11, 10:00 AMDistrict CourtCourtroom No. 2</textEffects></captions>
+<line>
+Judge:
+Court is now in session for the trial of Phoenix Wright.
+</line><line>Mia:
+The defense is ready, Your Honor!
+</line><line>Payne:
+The prosecution is ready, Your Honor.
+</line><line>Judge:
+The defense today is... Ms... Ms... Mia Fey, was it?
+</line><line>Mia:
+Y-Yes, Your Honor. Is there a problem?
+</line><line>Judge:
+I was under the impression that Marvin Grossberg was to be leading the defense.
+</line><line>Mia:
+Yes! Well, you see... Mr. Grossberg had... A-A bit of an emergency...
+</line><line>Judge:
+Emergency? But isn't that him standing there right next to you?
+</line><line>Mia:
+Yes, well...
+</line><line>Judge:
+You... You're just a rookie. Are you sure you can really handle this?
+</line><line>Mia:
+<textEffects>(Don't let him scare you, Mia! Give him your toughest look!)</textEffects> Of course, Your Honor! ... I think.
+</line><line>Judge:
+Hmm... Well, Mr. Payne. Your opening statement, please.
+</line><line>Payne:
+Well, well, well... I can't believe a veteran like me has to spend his time baby-sitting a new defense lawyer.
+</line><line>Mia:
+...!
+</line><line>Payne:
+Don't worry little girl. It will all be over soon.
+</line><line>Mia:
+<textEffects>(What was that all about? Was he trying to trash-talk me?)</textEffects>
+</line><line>Payne:
+Now then, I'd like to proceed with a summary of events on the day in question. The incident occurred on the campus of Ivy University. The murder victim was a student named Doug Swallow. He was a fourth year student studying Pharmacology.
+</line><line>Judge:
+Hmm... It sounds like he was a very bright young man.
+</line><line>Payne:
+Yes, well, next we have a photo taken at the scene of the crime. Students discovered the scene shortly after the murder. They found the victim's body... ...and the defendant, who had obviously bungled his getaway. They then called the police.
+</line><line>Judge:
+Hmm... That certainly makes the defendant look very suspicious indeed. Very well. The court accepts this photo into the record as evidence.
+</line><line><textEffects>Crime Photo 1 added to the Court Record.</textEffects>
+</line><line>Judge:
+By the way... I can't quite tell the <textEffects>cause of death</textEffects> from this photo.
+</line><line>Payne:
+Hee, hee, hee... Your reputation for sagacity is well-earned, Your Honor. The truth is that this victim died a rather <textEffects>unusual death</textEffects>.
+</line><line>Mia:
+An unusual death...!?
+</line><line>Judge:
+What do you mean, Mr. Payne!?
+</line><line>Payne:
+Well... Perhaps the defense would like to take this question.
+</line><line>Mia:
+Huh...!?
+</line><line>Payne:
+A simple question. I thought I might loosen you up a bit. I am a genteel-man, if you will.
+</line><line>Mia:
+Um, a what? <textEffects>(Stand up to him, Mia! Show him what you're made of!)</textEffects>
+</line><line>Grossberg:
+Ah, a perfect opportunity! Well, what was it? The cause! Go on! ... ...Please say you know at least this much.
+</line><line>Mia:
+I-I'm so sorry... I-I didn't get a chance to read through the whole file.
+</line><line>Grossberg:
+*groan* My hemorrhoids are beginning to act up... Now see here! The details of the case are filed under the <textEffects>Court Record</textEffects>. But you knew that already, didn't you?
+</line><line>Mia:
+<textEffects>(Ah! The <span style="color:#E16935">Court Record</textEffects>! I think I can see that by touching the <textEffects>Court Record Button</textEffects>...)</span>
+</line><line>Grossberg:
+All of the weapons we need can be found in the <textEffects>Court Record</textEffects>. Take a good, hard look at the data there and think carefully before you answer, m'dear!
+</line><line>Mia:
+Y-Yes, sir! I'll do just that! <textEffects>(I've got to stay calm! I can't let that prosecutor get the better of me! The <span style="color:#E16935">Court Record</textEffects>... OK, let's take a look! I just touch the <textEffects>Court Record Button</textEffects> here...)</span>
+</line><line>Judge:
+Now then, would the attorney for the defense please answer the question? What was the <textEffects>cause of death</textEffects>?
+</line>
+
+
+
+<line>Mia:
+According to the Court Record, it was a fatal electric shock. In other words, <textEffects>electrocution</textEffects>.
+</line><line>Judge:
+Electrocution? Hmm... But how could such a thing happen? Did the murderer use some type of new, super-powerful stun-gun, perhaps?
+</line><line>Payne:
+The answer to that will become crystal clear as this trial proceeds, Your Honor. But before that, there is one more vital issue.
+</line><line>Mia:
+Wh-What's that?
+</line><line>Payne:
+Why, <textEffects>motive</textEffects> of course. Apparently there was some bad blood between the victim and the defendant.
+</line><line>Judge:
+Bad blood...?
+</line><line>Mia:
+Wh-What do you mean...?
+</line><line>Payne:
+Oopsie! I'm terribly sorry. You're the defense attorney, so you must know all about it. I shouldn't be stealing your spotlight like this.
+</line><line>Mia:
+<textEffects>(I really don't like this guy's smug attitude...)</textEffects>
+</line><line>Grossberg:
+That's Winston Payne for you. He is one smooth operator, if you catch my drift. They don't call him the "Rookie Killer" for nothing, you know.
+</line><line>Judge:
+Now then, let's hear from the defense. What was the source of the bad blood between the victim and the defendant? And this time, I would like to see some supporting <textEffects>evidence</textEffects>!
+</line><line>Mia:
+Ev-Evidence...?
+</line><line>Grossberg:
+Ah, no need to get all worked up over this. As I said, all our weapons can be found in the <textEffects>Court Record</textEffects>. Find the evidence you need and then shove it into Ol' Graybeard's face!
+</line><line>Mia:
+Y-Yes, sir! Into Ol' Graybeard's face!
+</line><line>Judge:
+Err, Mr. Grossberg. Try to set a better example for the young lady!
+</line><line>Grossberg:
+Mia, <textEffects>evidence</textEffects> isn't the only thing in the Court Record. People's <textEffects>profiles</textEffects> are as well. You can <textEffects>toggle</textEffects> between <textEffects>Profiles</textEffects> and <textEffects>Evidence</textEffects>, so be sure to go over it all!
+</line><line>Judge:
+Now then, let's see what you've got. <textEffects>What was the cause of the bad blood between Phoenix Wright and the victim?</textEffects>
+</line>
+
+
+<line>Mia:
+The reason for the bad blood between the two of them was... this woman here.
+</line><line>Judge:
+Dahlia Hawthorne, is it?
+</line><line>Payne:
+Very good, Ms. Fey. You seem to have picked up on at least this much. This woman is the girlfriend of the defendant, Phoenix Wright. But up until about eight months ago, she was with the victim, Mr. Swallow. Clearly she has some part to play in this story.
+</line><line>Judge:
+Hmm...
+</line><line>Grossberg:
+Ah, he's done it again. Before the cross-examination starts, he's already got the judge thinking like he wants.
+</line><line>Judge:
+Very well, Mr. Payne. Please call your first witness!
+</line><line>Payne:
+If it pleases the court, the prosecution would like to call Mr. Phoenix Wright.
+</line><line>Judge:
+What? The defendant himself? Well, Ms. Fey?
+</line><line>Mia:
+<textEffects>(It's fine! After all, Mr. Wright is innocent, right?)</textEffects> The defense has no objection.
+</line><line>Judge:
+Very well. The court calls Mr. Phoenix Wright to the witness stand!
+</line>
+<hr />
+<line>Payne:
+Witness, please state your name and occupation.
+</line><line>Phoenix:
+Oh, ah, yes... My name is Phoenix Wright. My job is, um... Well, right now, I guess I'm a suspect.
+</line><line>Judge:
+No, no. He means what did you do before you were arrested?
+</line><line>Phoenix:
+Oh... *achoo* *achoo* *achoo* I was a university student.
+</line><line>Payne:
+Mr. Wright. You understand that you are suspected in the death of your fellow student, Doug Swa--
+</line><line>Phoenix:
+But! But I didn't do it! I'm innocent I tell you! I'm telling you I was... *achoo* *achoo* *cough* *cough* *achoo* *cough*
+</line><line>Judge:
+Would the defendant please refrain from passing on his cold to the rest of us!
+</line><line>Payne:
+It seems the witness has something he wants to say.
+</line><line>Judge:
+Hmm... Well then, Mr. Wright. Please tell us about your relation to the victim.
+</line><line>Phoenix:
+Right away, Your Honor!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- The Victim and I --</textEffects></captions>
+<line>Phoenix:
+Um, I... I admit I was there...
+But I'm not a killer! All I did was find his body!
+I hardly knew the guy to begin with...
+I never even talked to that stuck-up British wannabe!
+</line>
+<hr />
+<line>Judge:
+Hmm... I see. So you hardly knew the victim?
+</line><line>Phoenix:
+Right! Like I said, I'm not a killer!
+</line><line>Mia:
+Whew... It looks like the judge understands.
+</line><line>Grossberg:
+Mmfph... You're being naïve, you know. Too naïve.
+</line><line>Mia:
+Huh...?
+</line><line>Payne:
+Hee, hee, hee, hee, hee. It seems that you've forgotten one small thing, young lady.
+</line><line>Mia:
+And that would be...?
+</line><line>Payne:
+This witness still has to undergo something called <textEffects>cross-examination</textEffects>.
+</line><line>Mia:
+Cross-examination...?
+</line><line>Grossberg:
+He's right. And it's the defense's duty to carry out the <textEffects>cross-examination</textEffects>. The purpose is to determine if a witness's testimony contains any <textEffects>contradictions</textEffects>.
+</line><line>Mia:
+<textEffects>Contradictions</textEffects>...?
+</line><line>Grossberg:
+If a witness is lying, their statements will <textEffects>conflict</textEffects> with the Court Record.
+</line><line>Mia:
+But... Mr. Wright is my client!
+</line><line>Grossberg:
+Even if he is your client, in court, all lies must be struck down. As a lawyer, that is your duty, you see.
+</line><line>Mia:
+<textEffects>(What does he mean by that? Is he saying that testimony just now... That there was a lie -- a <span style="color:#E16935">contradiction</textEffects>?)</span>
+</line><line>Judge:
+Now then, your cross-examination, if you please, Ms. Fey.
+</line><line>Mia:
+<textEffects>(Please, Mr. Wright... Tell me you haven't been lying! You wouldn't do that to me... would you...?)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- The Victim and I --</textEffects></captions>
+<line>Phoenix:
+<textEffects>Um, I... I admit I was there...</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>But I'm not a killer! All I did was find his body!</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>I hardly knew the guy to begin with...</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>I never even talked to that stuck-up British wannabe!</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>He was always walking around with a huge Union Jack on the back of his shirt.</textEffects>
+</line>
+
+
+<line>Grossberg:
+Well m'dear, do you think you can manage on your own from this point?
+</line>
+
+
+<hr />
+<line>Mia:
+Are you certain you saw the "Union Jack"?
+</line><line>Phoenix:
+Y-Yeah, I'm sure. It was right there on his back.
+</line><line>Judge:
+Ms. Fey, is there some point to this line of questioning?
+</line><line>Mia:
+Your Honor, please take another look at the crime scene photo. As you can see, there's absolutely nothing written on the victim's back.
+</line><line>Phoenix:
+Hey! Wait a minute! He's wearing a leather jacket! The Union Jack was on the back of the t-shirt he was wearing...
+</line><line>Mia:
+I was under the impression that you accidentally came across the body. But, if that was really the case, then you wouldn't know that, would you? You'd have no idea at all <textEffects>what he was wearing</textEffects> underneath that jacket! Mr. Wright... You've been lying to me!
+</line><line>Phoenix:
+... P-P-P-Please forgive me! Waaaaaaaaaaaaaaah!!
+</line><line>Grossberg:
+Mia! You've made our client cry!
+</line><line>Mia:
+Let him! That "P" on his chest doesn't stand for Phoenix anyways! I can't believe I trusted him! Mr. Wright was all wrong!
+</line><line>Payne:
+Hee, hee, hee, hee. That was an impressive bit of cross-examination.
+</line><line>Mia:
+...!
+</line><line>Payne:
+Thank you for uncovering the defendant's lies for me. It's quite clear that this man did not simply "stumble upon" the scene of the crime!
+</line><line>Phoenix:
+Uggghhh...
+</line><line>Mia:
+<textEffects>(Uh oh... Did I go too far?)</textEffects>
+</line><line>Payne:
+By the way, Mr. Wright. You seem to have a rather bad cold. Have you taken any medicine for it?
+</line><line>Phoenix:
+I, err, umm... Yeah, I took some but...
+</line><line>Payne:
+Was the medicine that you took an over-the-counter brand called "Coldkiller X"?
+</line><line>Phoenix:
+Yeah, that's right! It kills colds good! Hey, wait a second... How did you know I'm a big fan of Coldkiller X...?
+</line><line>Payne:
+Hee, hee, hee, hee... Would you happen to have that medicine with you right now?
+</line><line>Phoenix:
+Well... Actually, I seem to have lost it somewhere...
+</line><line>Mia:
+<textEffects>(He lost it? Does this even have anything to do with the case...?)</textEffects>
+</line><line>Payne:
+Mr. Wright... Shall I tell you where your cold medicine is right now?
+</line><line>Phoenix:
+Huh...?
+</line><line>Payne:
+Your Honor! I'd like you to take a look at another photo from the crime scene!
+</line><line>Judge:
+Wh-What's this! In the victim's hand, it's... It's <textEffects>Coldkiller X</textEffects>...!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+Y-Yes, but even I've got a bottle of Coldkiller X in my apartment!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+I'm sorry, but I'm afraid that argument won't work. There's no doubt as to who this bottle of Coldkiller X belonged to. Especially since Mr. Wright's <textEffects>fingerprints</textEffects> were all over it!
+</line><line>Mia:
+Wh-What!?
+</line><line>Payne:
+Sensing his murderous intent, Mr. Swallow must have picked up the bottle of medicine... ...dropped by Mr. Wright and hid it in his hand. His purpose in doing so can only have been to identify his killer as Phoenix Wright!
+</line><line>Judge:
+Order! Order in the court!
+</line><line>Payne:
+Your Honor! I'd like to present this photo and bottle as evidence!
+</line><line>Judge:
+Very well. The court will accept them into the record.
+</line><line><textEffects>Crime Photo 2 added to the Court Record.</textEffects>
+</line><line><textEffects>Coldkiller X added to the Court Record.</textEffects>
+</line><line>Payne:
+Also, the victim's wristwatch was broken.
+</line><line>Judge:
+Broken...?
+</line><line>Payne:
+Yes, it ceased functioning when a large wave of electricity passed through it. Well, Mr. Wright! Do you have some kind of explanation for all of this!?
+</line><line>Phoenix:
+Uggghhh...
+</line><line>Mia:
+<textEffects>(This is really bad...)</textEffects>
+</line><line>Grossberg:
+Oh, my buttocks... My poor, poor hemorrhoids...
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- What Really Happened --</textEffects></captions>
+<line>Phoenix:
+The truth is... I went because he called me.
+He was in the Pharmacology Dept., so we agreed to meet at 2:45 behind that building...
+We talked for a bit, and then at around 3:00, we split up.
+Then later when I went back, I found him lying there.
+I'd been taking Coldkiller X for the last 2 or 3 days...
+But I lost my bottle of it around lunchtime on the day of the accident.
+</line>
+<hr />
+<line>Judge:
+Mr. Wright! That's completely different than the testimony you gave previously!
+</line><line>Phoenix:
+*achoo* *achoo* *achoo* I-I'm sorry, Your Honor! I was afraid you wouldn't believe the truth!
+</line><line>Payne:
+You'll forgive me if I say I hardly find your current testimony any more credible.
+</line><line>Judge:
+Hmm... Ms. Fey, please begin your cross-examination.
+</line><line>Mia:
+<textEffects>(Oh please, Mr. Wright... Don't tell any more lies.)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- What Really Happened --</textEffects></captions>
+<line>Phoenix:
+<textEffects>The truth is... I went because he called me.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>He was in the Pharmacology Dept., so we agreed to meet at 2:45 behind that building...</textEffects>
+</line>
+
+
+
+</td></tr></tbody></table>
+<line>Phoenix:
+<textEffects>We talked for a bit, and then at around 3:00, we split up.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>Then later when I went back, I found him lying there.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>I'd been taking Coldkiller X for the last 2 or 3 days...</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>But I lost my bottle of it around lunchtime on the day of the accident.</textEffects>
+</line>
+
+<line>Grossberg:
+Well, Mia?
+</line><line>Mia:
+I don't know... I can't seem to find any contradictions.
+</line><line>Grossberg:
+The boy isn't exactly what I'd call a natural-born liar, you know. But still, we can't have him continue to spout nonsense.
+</line><line>Mia:
+I know... But what can I do!?
+</line><line>Grossberg:
+Well, I'm certain he must still be hiding something. Information! Right now it's information we need more than anything else!
+</line>
+<hr />
+<line><i>After picking second choice at second statement and pressing sixth statement:</i>
+</line><line>Judge:
+I think that's enough for now. So the defendant and the victim met at approximately the time of his death. And then the defendant returned to the scene for some unknown reason.
+</line><line>Payne:
+I'm not entirely convinced by his explanation about the medicine bottle either.
+</line><line>Judge:
+Let me be frank here, Mr. Wright. Your testimony cannot be trusted.
+</line><line>Phoenix:
+Wh-What do you mean!?
+</line><line>Payne:
+Hee, hee, hee, hee... I knew it was too much work for a little girl.
+</line><line>Mia:
+Hmph...!
+</line><line>Judge:
+However, there is one mystery that still remains.
+</line><line>Payne:
+There is, Your Honor?
+</line><line>Judge:
+<textEffects>How the murder was carried out</textEffects>, of course. Just how was the victim electrocuted? I don't believe the murder weapon has been produced yet, correct?
+</line><line>Payne:
+Well, that is... I... You are correct, Your Honor.
+</line><line>Mia:
+<textEffects>(So <span style="color:#E16935">how exactly was Mr. Swallow killed</textEffects>...? If I could somehow establish how it was done... Maybe I could still come out of this mess smelling like a rose!)</span>
+</line>
+
+
+<line>Mia:
+Your Honor!
+</line><line>Judge:
+Y-Yes, Ms. Fey?
+</line><line>Mia:
+I believe that if we were to piece together everything we've heard up until now... ...we should be able to solve the mystery of how Mr. Swallow died.
+</line><line>Judge:
+Th-That would be most impressive!
+</line><line>Payne:
+Hee, hee, hee, hee... Quite the brash statement coming from a rookie! But even a beginner like you must understand the basic rules of the court, yes? An attorney must be able to substantiate their arguments with <textEffects>evidence</textEffects>!
+</line><line>Mia:
+Hmph! Of course I know that! <textEffects>(Actually, I had totally forgotten about that...)</textEffects>
+</line><line>Judge:
+Now then, Ms. Fey. Let me see what you've got. <textEffects>Show me how you believe the victim was electrocuted!</textEffects>
+</line>
+
+
+<line>Mia:
+As for the cause of death... ...I'd say this picture captures it quite well!
+</line><line>Judge:
+Wh-What!? But there is nothing that even remotely resembles a murder weapon here... Hmm, I'm afraid the defense is going to have to explain this in a bit more detail. <textEffects>Ms. Fey, where exactly in this photo is the murder weapon?</textEffects>
+</line>
+
+
+<line>Mia:
+Well, naturally... it's right here!
+</line><line>Judge:
+That's... That's... What is that?
+</line><line>Mia:
+A severed <textEffects>electrical cable</textEffects>, I believe... Your Honor. Remember the testimony we've heard. The machines the pharmacology students use in their experiments require high voltage... ...and because of that, there are <textEffects>special high-voltage cables</textEffects> strung up everywhere!
+</line><line>Judge:
+So then, the high-voltage cable...!
+</line><line>Mia:
+Yes, the <textEffects>high-voltage cable</textEffects> is the cause of death. That is the most likely explanation!
+</line><line>Judge:
+Hmm... That certainly sounds plausible. Well, Mr. Payne? What do you have to say about this?
+</line><line>Payne:
+Well... I believe some praise is in order.
+</line><line>Mia:
+Don't toy with me, old man!
+</line><line>Payne:
+Now, now. The victim's cause of death may indeed have been a high-voltage cable. However! I want you to think about what that really implies! The only one who had the opportunity to use the cable as a <textEffects>murder weapon</textEffects> was... The defendant!
+</line><line>Phoenix:
+... *achoo*
+</line><line>Judge:
+Hmm... That much is certainly true.
+</line><line>Payne:
+Yes, and that's not all. We have <textEffects>proof</textEffects>. Irrefutable proof that will establish that Mr. Wright was the murderer.
+</line><line>Judge:
+Y-You do!? Well, what is it!?
+</line><line>Payne:
+His <textEffects>fingerprints</textEffects>.
+</line><line>Judge:
+Fingerprints...? You mean that the defendant's fingerprints were on something besides the medicine bottle?
+</line><line>Payne:
+Let's take another look at the crime scene photo. As you can see, the victim is wearing a <textEffects>leather jacket</textEffects>. And as you may know, leather holds <textEffects>fingerprints</textEffects> quite well.
+</line><line>Mia:
+Ah! Y-You mean...?
+</line><line>Payne:
+Yes. It was quite clearly imprinted on the chest area of the victim's jacket. The <textEffects>palm print</textEffects> of the defendant's very own hand!
+</line><line>Judge:
+Wh-Whaaat!?
+</line><line>Payne:
+I can only think of one way Mr. Wright could have left a print like that. Intent on murder, he squarely pushed the victim towards the severed electrical cable!
+</line><line>Judge:
+Order! Order! Order! That's enough! I think we can conclude that there is no reason to continue with this cross-examination.
+</line><line>Grossberg:
+Stick a fork in us, we're done.
+</line><line>Mia:
+M-Mr. Grossberg!
+</line><line>Grossberg:
+My hemorrhoids never lie. The show is over, Mia. I knew that boy was guilty the first time I saw him.
+</line><line>Mia:
+N-No! You're wrong! Mr. Wright is innocent.
+</line><line>Judge:
+No further evidence is required to convince me of this man's guilt!
+</line><line>Mia:
+Y-Your Honor...!
+</line><line>Judge:
+At this time, I am prepared to render a verdict in this case!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Judge:
+Do you have something further to add, Ms. Fey?
+</line><line>Mia:
+Is this what you want, Mr. Wright!?
+</line><line>Phoenix:
+...!
+</line><line>Mia:
+You still haven't told us the truth... the whole truth. If you don't say something now, the judge is going to hand down his verdict!
+</line><line>Phoenix:
+B-But I... I can't! I-I just can't say it! If I told you what really happened, then I'd b-be...
+</line><line>Mia:
+It's OK, Mr. Wright. I'm your attorney. You can trust me.
+</line><line>Phoenix:
+M-Miss Fey...
+</line><line>Mia:
+No matter what it is you have to say... I believe in you and I'll represent you to the very end.
+</line><line>Phoenix:
+...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+We've already established the defendant's guilt. There's no further need for him to say anything.
+</line><line>Phoenix:
+*cough* *cough* W-Wait a minute!
+</line><line>Mia:
+Mr. Wright...
+</line><line>Phoenix:
+I... I'll tell you what really happened!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+But I've already told you, Mr. Wright. There's no need for further...
+</line><line>Phoenix:
+*cough* I-I-I... I did it... I admit it! I pushed him! It's my fault... My f-fault that D-Doug Swallow is dead!
+</line>
+<hr />
+<line><textEffects>That girl... You shouldn't see her anymore.</textEffects>
+</line><line>Hey! It's none of your business!
+</line><line><textEffects>I'm telling you for your sake. If you continue to see her, it's going to be bad news.</textEffects>
+</line><line>Y-You're lying!
+</line><line><textEffects>Just listen to me. There's something you need to know about that girl... ...</textEffects>
+</line><line>Stop it! D-Don't talk about her like that!
+</line>
+<hr />
+<line>Judge:
+... What you just said... Was that the truth!?
+</line><line>Phoenix:
+Y-Yes, I... I was afraid... Afraid that if I told the truth... ...everyone would think I was the murderer for sure!
+</line><line>Judge:
+Well, as things currently stand, we're all absolutely convinced you are!
+</line><line>Phoenix:
+P-Please...! Please give me one more chance to explain! This time I swear... I swear I'll tell the whole truth! It'll be OK, won't it, Miss Fey? I... I believe in you!
+</line><line>Mia:
+Oh! Um, th-thank you. <textEffects>(I still can't believe it... He really did push the victim...)</textEffects>
+</line><line>Grossberg:
+Unnngh... It feels like my hemorrhoids are doing the Harlem Shake!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- When I Pushed The Victim --</textEffects></captions>
+<line>Phoenix:
+That guy... He was talking bad about Dollie...
+I lost my temper and gave him a shove!
+At that moment, I heard some kind of loud noise...
+A little while after I left, I started to get worried.
+So I went back. But h-he was just laying there, d-dead!
+</line>
+<hr />
+<line>Payne:
+Well, the explanation is really quite simple. When you pushed him, Mr. Swallow flew back and touched the electrical cable. He died from the shock. And that, as they say, is that.
+</line><line>Judge:
+Hmm... A simple explanation indeed.
+</line><line>Payne:
+At the time of the incident, a light rain had been falling. Wet from the rain, the victim was more easily electrocuted.
+</line><line>Phoenix:
+B-But! When I pushed him, there weren't any electrical cables nearby! If there had been something like that, even I would've noticed it!
+</line><line>Mia:
+<textEffects>(That's true... Even a dufus like him couldn't miss that!)</textEffects>
+</line><line>Judge:
+Hmm... Ms. Fey. Let me warn you right now that if your cross-examination doesn't yield any new facts... ...I intend to deliver my verdict without further delay. Are we clear on that?
+</line><line>Mia:
+Y-Yes, Your Honor. <textEffects>(Don't give up, Mia! If he is innocent, there must be some kind of evidence somewhere that will prove it!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- When I Pushed The Victim --</textEffects></captions>
+<line>Phoenix:
+<textEffects>That guy... He was talking bad about Dollie...</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>I lost my temper and gave him a shove!</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>At that moment, I heard some kind of loud noise...</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line>Phoenix:
+<textEffects>After I shoved him, he... He fell down on top of his cheap umbrella.</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>A little while after I left, I started to get worried.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>So I went back. But h-he was just laying there, d-dead!</textEffects>
+</line>
+
+<line>Grossberg:
+Unless we can find something that shows his innocence from that testimony, m'dear... I'm afraid the judge will make his final decision with no remorse whatsoever!
+</line><line>Mia:
+Y-Yes, sir! <textEffects>(Right now I need more info; info that will help me turn up some <span style="color:#E16935">contradictions</textEffects>!)</span>
+</line>
+<hr />
+<line>Mia:
+Why didn't you testify about the umbrella from the very beginning?
+</line><line>Phoenix:
+Come on... If I had mentioned that...
+</line><line>Mia:
+I would've been able to counter the prosecution's arguments earlier!
+</line><line>Payne:
+Wh-What do you mean by that?
+</line><line>Mia:
+Take another look at the crime scene photo! According to Mr. Wright, the victim fell on top of his umbrella. However, if you look closely... ...the umbrella is nowhere near the victim. Actually, it's by the electrical pole!
+</line><line>Judge:
+Y-You're absolutely right!
+</line><line>Mia:
+The conclusion here is obvious. After the defendant left, the victim <textEffects>moved</textEffects> from where he fell. In other words... After he was pushed by the defendant, Mr. Swallow was still alive!
+</line><line>Payne:
+Nnnnooooo!!
+</line><line>Judge:
+Order! Order! Order! The victim... He moved...!? Mr. Payne! The umbrella in this photo... Where is it now?
+</line><line>Payne:
+W-Well, it was collected by the police at the crime scene...
+</line><line>Judge:
+I want it presented as evidence immediately!
+</line><line><textEffects>Umbrella added to the Court Record.</textEffects>
+</line><line>Payne:
+B-But the umbrella could have simply been blown there by the wind!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+According to the testimony, the victim fell <textEffects>on top of the umbrella</textEffects>. There's simply no way it could have been blown there by the wind!
+</line><line>Payne:
+Nnn... Gggg... Hrrmph! B-B-But...!
+</line><line>Judge:
+I know this matter of the umbrella seems relatively trivial... But as long as the smallest doubt remains, I cannot render final judgment!
+</line><line>Payne:
+N-N-N... Noooooooooooooooooooooo!!!
+</line><line>Judge:
+However, I still find it hard to believe that a huge hole has been blown in the... ...prosecution's case by the defendant's testimony.
+</line><line><textEffects>Phoenix's Testimony added to the Court Record.</textEffects>
+</line><line>Grossberg:
+Well done, Mia!
+</line><line>Payne:
+......Hee hee. Hee hee hee hee hee...
+</line><line>Judge:
+Mr. Payne! What are you chuckling about?
+</line><line>Payne:
+Pardon me, Your Honor. It seems I was expecting too much of a free ride. It was foolish to think I could establish guilt through cross-examination alone.
+</line><line>Judge:
+I'm afraid I don't follow what you're saying!
+</line><line>Mia:
+... Let me guess. You have <textEffects>another witness</textEffects>.
+</line><line>Payne:
+Exactly! And this witness's testimony will be <textEffects>incontrovertible</textEffects>!
+</line><line>Judge:
+Well!? Who is this witness!?
+</line><line>Payne:
+Ms. Dahlia Hawthorne.
+</line><line>Judge:
+Dahlia Hawthorne? You don't mean... "Dollie"?
+</line><line>Payne:
+I do, Your Honor. The defendant's very own lover is a witness to the whole thing! That's right. She was at the <textEffects>scene of the crime</textEffects> when the murder took place!
+</line><line>Judge:
+Whaaaat!?
+</line><line>Payne:
+I'm sorry to break the bad news to you, my dear.
+</line><line>Mia:
+... "Bad news"? You couldn't be more wrong. Actually... I've been waiting for this.
+</line><line>Payne:
+You can't be serious...
+</line><line>Grossberg:
+Mia! What do you mean by that...?
+</line><line>Judge:
+I think this is a good point for us to stop at. Court will now enter a 20 minute recess. Afterwards, we will listen to the testimony of Ms. Dahlia Hawthorne.
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 11, 11:52 AM
+District CourtDefendant Lobby No. 3</textEffects></captions>
+<line>
+Phoenix:
+Miss Fey... I-I'm sorry about what happened back there... I... I...
+</line><line>Mia:
+It's alright. At least you told us the truth in the end, Mr. Wright.
+</line><line>Phoenix:
+Yeah... So I guess I can start to relax then, huh?
+</line><line>Grossberg:
+Relax, my boy? You can't be serious! After hiding such important facts...
+</line><line>Phoenix:
+B-But...! But the next witness is my Dollie, right? She'll save me! I just know she will!
+</line><line>Mia:
+Why do you think that?
+</line><line>Phoenix:
+Huh!? What do you mean!? She... She's the <textEffects>love of my life</textEffects>, that's why!
+</line><line>Mia:
+The love of your life, huh... Would you mind telling me more about you and... Ms. Dahlia Hawthorne?
+</line><line>Phoenix:
+Sure! No problem! Dollie and I... We first met about eight months ago right here in this very courthouse. Actually, I'm studying to be a lawyer, on the side... Anyway! One day, she and I just bumped into each other in the reading room downstairs. That's why I really think it was <textEffects>fate</textEffects> that brought us together. As soon as I first set eyes on her, I knew she was the one for me. Oh, here! Take a look at this!
+</line><line>Mia:
+...!
+</line><line>Phoenix:
+She gave this to me the day we met as a <textEffects>symbol of our love</textEffects>! She had been wearing it around her neck that day, but then... ...she took it off, but before she gave it to me she said, "I want you to carry this."
+</line><line>Grossberg:
+So she gave it to you as a present, I see.
+</line><line>Phoenix:
+This darling little bottle is filled with memories of my darling little Dollie!
+</line><line>Mia:
+It certainly is a little bottle alright.
+</line><line>Phoenix:
+It makes me so happy, I show it to everyone I meet! I want to share my happiness with the whole world!
+</line><line><textEffects>Dahlia's Present borrowed from Phoenix Wright.</textEffects>
+</line><line>Mia:
+Um, anyway... So after that, you and Ms. Hawthorne started dating?
+</line><line>Phoenix:
+Yeah, but she's so shy. Every time I see her, she always says the same thing to me. "Please give it back now."
+</line><line>Grossberg:
+What a strange girl, asking for a present back like that...
+</line><line>Mia:
+By the way, Mr. Wright. The day you first met Dahlia Hawthorne, eight months ago... It wouldn't happen to have been on August 27th, would it?
+</line><line>Phoenix:
+Huh...? Y-Yeah, it was... But how did you...?
+</line><line>Mia:
+This happened on August 27th, right here in this courthouse.
+</line><line>Phoenix:
+What's this? A newspaper clipping? Let's see... <textEffects>"Murder in the Courthouse?"</textEffects> M-<textEffects>Murder</textEffects>?
+</line><line>Grossberg:
+What are you reading there!? Let me see that! .........! Oh, I see. Mia... I think I understand what you're trying to say. And I think I understand why you suddenly took such a keen interest in this case. You believe <textEffects>there is some relationship</textEffects> between these two cases. Am I correct?
+</line><line><textEffects>Newspaper Clipping added to the Court Record.</textEffects>
+</line><line>Mia:
+I hope you don't mind, Mr. Grossberg... I... I need to finish this myself.
+</line><line>Grossberg:
+Ah, yes, but... I'm afraid what you have will not be enough, m'dear. I'll go and have a look at the downstairs reading room and see what else I can find.
+</line><line>Mia:
+Th-Thank you!
+</line><line>Grossberg:
+I want to do whatever I can to be of help to you, Mia! Well, it looks like recess is about over. We'd better all get moving!
+</line><line>Mia:
+<textEffects>(I guess so... That recess sure seemed longer than 20 minutes though...)</textEffects>
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<captions aligned="center"><textEffects>April 11, 12:13 PM
+District CourtCourtroom No. 2</textEffects></captions>
+<line>
+Judge:
+Court will now reconvene. Mr. Payne, please call your witness.
+</line><line>Payne:
+This next person is someone who witnessed the crime as it happened. The prosecution calls Ms. Dahlia Hawthorne to the stand!
+</line>
+<hr />
+<line>Payne:
+...
+</line><line>Judge:
+...
+</line><line>Mia:
+<textEffects>(Wh-What's with this stiff silence...?)</textEffects>
+</line><line>Judge:
+In my long career as a judge, I have been deceived by many witnesses. It's my job to doubt; to take no one at their word... But in your case, I must admit that you radiate a glow of complete sincerity.
+</line><line>Mia:
+<textEffects>(I can't believe he actually said that!)</textEffects>
+</line><line>Payne:
+Oh! Um, now then, witness. Could you please state your full name?
+</line><line>Dahlia:
+... I, umm...
+</line><line>Judge:
+Don't worry, sweetie. There's no need to be nervous!
+</line><line>Payne:
+If anyone says anything rude, you can be sure, I'll cut them right down to size!
+</line><line>Judge:
+And I will bash them with my gavel!
+</line><line>Mia:
+<textEffects>(I love how they look straight at me when they say that...)</textEffects>
+</line><line>Dahlia:
+Um, thank you... for calming my nerves. You are all so nice... I almost feel right at home.
+</line><line>Payne:
+Not at all!
+</line><line>Judge:
+It was nothing!
+</line><line>Mia:
+If we may move on now... What is your full name and occupation?
+</line><line>Dahlia:
+My name is Dahlia Hawthorne. I'm a junior in Literature at Ivy University. I just want to say... It's an honor for me to be here in your noble presence.
+</line><line>Payne:
+The honor is all mine!
+</line><line>Judge:
+No... The honor is all mine.
+</line><line>Mia:
+<textEffects>(Well, we know whose milkshake brings all the boys to the yard...)</textEffects>
+</line><line>Dahlia:
+...Umm. Sir?
+</line><line>Payne:
+Is there something I can help you with?
+</line><line>Judge:
+You just go on and say whatever is on your mind!
+</line><line>Dahlia:
+I'm sure that there must be some kind of mistake. Feenie wouldn't kill anyone. I just know it!
+</line><line>Judge:
+Yes, yes... I can see why you'd say that.
+</line><line>Mia:
+<textEffects>(She's going to be a tough witness, alright... It only took her 12 seconds to wrap them all around her little finger.)</textEffects>
+</line><line>Judge:
+Now then, please proceed with your testimony. Let's hear about what you witnessed on the day of the incident, if you please.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- What I Witnessed --</textEffects></captions>
+<line>Dahlia:
+I had been planning to go back to Feenie's place after class was over.
+Feenie and Dougie... They were talking behind the building.
+Then suddenly... Dougie got all wobbly and just collapsed.
+That's when Feenie noticed that I was there.
+I went to go and find some other students and they called the authorities.
+</line>
+<hr />
+<line>Judge:
+I-I don't know what to say! According to you, Ms. Hawthorne... ...the defendant didn't do anything wrong!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Young lady. As old as I am, even I recall how hot the flames of young passion can burn. Nevertheless... It is my job to discover the truth. Please, tell us the truth...
+</line><line>Dahlia:
+But... But, I... I would never...
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Mia:
+That's more than enough, witness. I won't allow this to continue.
+</line><line>Judge:
+Wh-What do you mean by that?
+</line><line>Mia:
+Please, just let me proceed with my cross-examination, Your Honor. I, for one, don't plan to win my case on a bunch of paper-thin lies!
+</line><line>Dahlia:
+...Tee hee. You haven't changed a bit... Mia Fey.
+</line><line>Mia:
+...
+</line><line>Payne:
+What's this? So, you two are... acquainted?
+</line><line>Mia:
+Yes. We've met before... Once.
+</line><line>Dahlia:
+...
+</line><line>Judge:
+In any case, Ms. Fey, the floor is all yours.
+</line><line>Dahlia:
+It's good to see you again, Madame Fey!
+</line><line>Mia:
+"Madame"!? <textEffects>(I'm no one's grandma yet, girlie!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- What I Witnessed --</textEffects></captions>
+<line>Dahlia:
+<textEffects>I had been planning to go back to Feenie's place after class was over.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>Feenie and Dougie...They were talking behind the building.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>Then suddenly... Dougie got all wobbly and just collapsed.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Dahlia:
+<textEffects>That's when Feenie noticed that I was there.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>Um, actually, I didn't see the moment he pushed Dougie.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>It didn't look like they were fighting, and I didn't hear any noise either.</textEffects>
+</line>
+
+
+<line>Dahlia:
+<textEffects>I went to go and find some other students and they called the authorities.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Mia:
+<textEffects>(That girl... She's telling a <span style="color:#E16935">super obvious lie</textEffects>, and she knows it. She's just <textEffects>pretending to protect</textEffects> Mr. Wright... Yes, that's got to be it! Way to go, Mia! OK, that means I'm going to have to <textEffects>dig deep to find the contradiction</textEffects> on this one!)</span>
+</line>
+<hr />
+<line>Mia:
+You say you didn't hear any noise. Is that correct?
+</line><line>Dahlia:
+Yes. That's why I was very relaxed, looking at the scenery around me.
+</line><line>Mia:
+That's nice, but I find that just a little odd. I have here, the testimony of your boyfriend, Mr. Phoenix Wright. And he clearly testified to the effect... ...that when he pushed the victim, he heard a sharp, <textEffects>loud noise</textEffects>.
+</line><line>Dahlia:
+H-He said that?
+</line><line>Mia:
+If you were really that close to the two of them, why didn't you hear this noise as well?
+</line><line>Dahlia:
+I...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+W-Well, maybe the noise just wasn't all that memorable.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+But according to Mr. Wright's testimony, it was a sharp noise like a "SNAP"! There's no way a noise like that could fail to make an impression!
+</line><line>Payne:
+Ack!!
+</line><line>Dahlia:
+Umm... May I have a moment to answer?
+</line><line>Judge:
+B-By all means!
+</line><line>Dahlia:
+I know the reason why I didn't hear the noise. You see, the truth is... I had my headphones on, and I was listening to music at the time.
+</line><line>Payne:
+H-H-Headphones...? You mean that <textEffects>both of your ears were covered</textEffects>?
+</line><line>Dahlia:
+The rain was just beginning to let up... But it seemed as though Thor wasn't ready for his fun to come to an end yet. So the sky continued to flash and rumble.
+</line><line>Mia:
+Thunder and lightning, huh...
+</line><line>Dahlia:
+Yes, I'm afraid of the sound of thunder. So I put my headphones on to block it out...
+</line><line>Payne:
+Hee, hee, hee, hee... Well, Your Honor? As you can see, there weren't any contradictions in her testimony after all.
+</line><line>Judge:
+Hmm...
+</line><line>Mia:
+<textEffects>(Wait a sec, Mia! That testimony just now... She <span style="color:#E16935">said something</textEffects> that could totally change this whole case!)</span>
+</line>
+
+
+
+<line>Mia:
+Your Honor! There is a problem with the witness's testimony!
+</line><line>Judge:
+Wh-What do you mean!?
+</line><line>Mia:
+Didn't you notice? She said there was <textEffects>lightning</textEffects>, correct?
+</line><line>Judge:
+Yes... What about it?
+</line><line>Mia:
+Well, lightning is actually a large discharge of <textEffects>electricity</textEffects> in the atmosphere, am I right?
+</line><line>Judge:
+Now's not the time for a science lesson, Ms. Fey!
+</line><line>Mia:
+Yes, Your Honor. Anyway, since the cause of death was <textEffects>electrocution</textEffects>... ...isn't it possible that the victim died from being hit by a <textEffects>bolt of lightning</textEffects>!?
+</line><line>Judge:
+Oh!
+</line><line>Payne:
+Ah!
+</line><line>Dahlia:
+...!
+</line><line>Judge:
+Hmm... I must admit that the thought had not occurred to me!
+</line><line>Mia:
+<textEffects>(Just what kind of thoughts DO occur to this guy anyway?)</textEffects> This entire case is built on the premise that Mr. Doug Swallow was "<textEffects>murdered</textEffects>"... ...but that very premise itself is mistaken! The defense believes that Mr. Swallow was, in fact, the victim of a <textEffects>stray bolt</textEffects>!
+</line><line>Judge:
+I-It appears the defense may be on to something! Could it be that the death was actually accidental?
+</line><line>Mia:
+<textEffects>(Alright, you did it, Mia! I'll be taking that "Not Guilty" now if you don't--)</textEffects>
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Hee, hee, hee, hee, hee... I'm hurt that you have such a low opinion of me, Ms. Fey.
+</line><line>Mia:
+Huh...?
+</line><line>Payne:
+I'm not a fool, you know. The prosecution has done its research, Your Honor. We found that there were <textEffects>no lightning strikes</textEffects> on that day at that location!
+</line><line>Mia:
+Whaaa!?
+</line><line>Payne:
+What's more... We have <textEffects>evidence</textEffects> that the electrical cable is definitely linked to this case.
+</line><line>Judge:
+E-Evidence, Mr. Payne!? Well, what is this evidence?
+</line><line>Payne:
+This affidavit.
+</line><line>Judge:
+And who is this affidavit from?
+</line><line>Payne:
+The Pharmacology students who were conducting experiments in their labs that day. Allow me to read out to the court the testimony of the Pharmacology students. "<textEffects>All equipment in the labs lost power</textEffects> all of a sudden at around <textEffects>3:00 PM</textEffects> that day."
+</line><line>Judge:
+Was it a blackout?
+</line><line>Payne:
+All of the labs' equipment runs of <textEffects>high-voltage</textEffects>, Your Honor.
+</line><line>Mia:
+So you're saying the equipment lost power because...
+</line><line>Payne:
+Precisely. They lost power because of the <textEffects>severed electrical cable</textEffects>. The power outage occurred at approximately <textEffects>3:00 PM</textEffects>...
+</line><line>Judge:
+Which fits with the <textEffects>time of death</textEffects> listed in the autopsy report.
+</line><line>Payne:
+Exactly! In other words... The victim died as a result of touching the severed electrical cable. According to the students, the cables were very old. They were planning on having them replaced in the near future.
+</line><line>Judge:
+Hmm, I see...
+</line><line>Payne:
+Apparently the cables had become so brittle... ...that even the smallest <textEffects>bump</textEffects> would've caused them to break.
+</line><line><textEffects>Students' Testimony added to the Court Record.</textEffects>
+</line><line>Judge:
+However... There is one thing that troubles me. If the cable <textEffects>could have been broken by any small bump</textEffects>... ...then <textEffects>it wouldn't have snapped</textEffects> if it hadn't been bumped into, correct?
+</line><line>Payne:
+W-Well... I suppose you could say that.
+</line><line>Judge:
+Hmm, Ms. Fey. Do you have any thoughts regarding the cause of the severed cable?
+</line><line>Mia:
+Y-Your Honor... <textEffects>(I don't like how this is looking one bit! I have to come up with something to try to regain some momentum!)</textEffects> If it pleases the court, the defense would like to state its opinion.
+</line><line>Judge:
+Well then, let's hear it. <textEffects>Who or what was it that caused the cable to break?</textEffects>
+</line>
+
+
+<line>Mia:
+Your Honor. Please think back to Mr. Wright's testimony.
+</line><line>Judge:
+The defendant's testimony?
+</line><line>Mia:
+He said that after he pushed the victim, he heard a <textEffects>loud, sharp noise</textEffects>. Now, this happened at around 3:00 PM, correct?
+</line><line>Judge:
+Yes, that sounds right. Wait! Are you saying that...
+</line><line>Mia:
+The lab equipment lost power at 2:55 PM... which fits right in Mr. Wright's timeline. In other words, it was <textEffects>Mr. Wright's shove</textEffects> that caused the power outage.
+</line><line>Payne:
+Yes! The prosecution also came to that same conclusion. And it was that very shove that caused Mr. Swallow to be electrocuted!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+I'm afraid I can't agree with you there, Mr. Payne.
+</line><line>Payne:
+Wh-What's that supposed to mean?
+</line><line>Mia:
+Take a good look at <textEffects>where the victim landed</textEffects> after being shoved. See the umbrella? It's by the <textEffects>electrical pole</textEffects>. That's right. The victim banged into that pole as a result of being pushed. It was that impact that caused the <textEffects>cable to break</textEffects>.
+</line><line>Judge:
+Hmm... Well, that makes sense. And then the victim was electrocuted.
+</line><line>Mia:
+I'm sorry Your Honor, but no. It doesn't make sense at all. If the victim was shoved into the far <textEffects>pole</textEffects>... ...then he couldn't have been electrocuted by this severed cable in the foreground here!
+</line><line>Payne:
+AAAAAAAAAAHH!!
+</line><line>Mia:
+In other words... <textEffects>Someone other than my client</textEffects> must have electrocuted the victim!
+</line><line>Judge:
+Order! Order in the court!
+</line><line>Mia:
+<textEffects>(Ah, the lamentations of my enemy. How I've longed to hear them!)</textEffects>
+</line><line>Judge:
+It-It's true... The defense is absolutely correct! There doesn't seem to be any way the defendant could have done it--
+</line><line>Dahlia:
+Umm... Mr. Judge, sir? May I say something? The madame attorney's explanation... She said some things that are a little different than I remember them.
+</line><line>Judge:
+Wh-Wh-
+</line><line>Payne:
+Wh-Wh-
+</line><line>Mia:
+What the...!?
+</line><line>Dahlia:
+Please, just once more. May I please testify one last time? Please... Mr. Judge?
+</line><line>Judge:
+Of course it's alright! Just go right ahead and give your new testimony!
+</line><line>Mia:
+<textEffects>(This is it... She's finally starting to show her true colors!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- What I Witnessed, Part 2 --</textEffects></captions>
+<line>Dahlia:
+The truth is... Feenie pushed him twice.
+The first time was into the electrical pole. That's when the cable broke.
+Then Dougie tried his best to run away from him...
+But Feenie caught up and crashed into him from behind.
+The cable snapping, and Dougie being electrocuted -- it all occured <i>[sic]</i> in less than a minute.
+</line>
+<hr />
+<line>Judge:
+Hmm... So after being shoved... ...the victim got up and tried to run away.
+</line><line>Payne:
+And that is when the defendant pushed him for the second time.
+</line><line>Dahlia:
+I'm so sorry, Feenie... But I... I just have to tell the truth. Am I doing the right thing? Am I, Mr. Judge?
+</line><line>Payne:
+Of course you are, my dear! As painful as it may seem, you are.
+</line><line>Judge:
+Now then, Ms. Fey. You may proceed with your cross-examination!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- What I Witnessed, Part 2 --</textEffects></captions>
+<line>Dahlia:
+<textEffects>The truth is... Feenie pushed him twice.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>The first time was into the electrical pole. That's when the cable broke.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>then Dougie tried his best to run away from him...</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>But Feenie caught up and crashed into him from behind.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>The cable snapping, and Dougie being electrocuted -- it all occured <i>[sic]</i> in less than a minute.</textEffects>
+</line>
+
+
+<line>Mia:
+<textEffects>(If I don't figure out the contradiction here... ...it's all over! She didn't have much time to come up with her lie, so this is my best chance. There must be a hole in her testimony somewhere! Think, Mia!)</textEffects>
+</line>
+<hr />
+<line>Mia:
+That's enough, witness.
+</line><line>Dahlia:
+I'm afraid I don't understand...
+</line><line>Mia:
+You will in a minute. Could you please take a look at this picture?
+</line><line>Dahlia:
+Oh. That medicine... That's the one Feenie likes to take for his cold.
+</line><line>Mia:
+It's not the medicine I want you to look at... It's the <textEffects>wristwatch</textEffects>. It stopped at the <textEffects>precise time</textEffects> the victim was <textEffects>electrocuted</textEffects>. In other words... <textEffects>3:05 PM</textEffects>.
+</line><line>Judge:
+Yes, and your point is, Ms. Fey...?
+</line><line>Mia:
+My point is this! What time was it when the lab <textEffects>suffered that power outage</textEffects> due to the cable snapping?
+</line><line>Payne:
+Well, according to the students' testimony, the answer is clear. It was <textEffects>2:55 PM</textEffects>... Yeeaaaaaaarrrgghhh!!
+</line><line>Mia:
+Would you care to explain to the court, Ms. Dahlia Hawthorne... ...what exactly happened during this <textEffects>10 minute interval</textEffects>!?
+</line><line>Dahlia:
+...!
+</line><line>Mia:
+The defense proposes that... ...it was during this interval that the <textEffects>real murderer</textEffects> killed Mr. Doug Swallow!
+</line><line>Judge:
+Or-Order! Order in the court! What is this all ab--
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Th-This is nonsense! The "real murderer"...!?
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+Even you can't deny that the time between the cable breaking and the electrocution... ...are completely unaccounted for!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Th-Then who was it!? Who else are you saying could've done it!?
+</line><line>Mia:
+There's only one person who could have murdered Mr. Swallow. Only after my client had left the scene... ...was there a window of opportunity for the real killer!
+</line><line>Judge:
+Ms. Fey. Is the defense ready to indict someone as this "<textEffects>real killer</textEffects>"?
+</line><line>Mia:
+<textEffects>(It's finally time. This is the moment I've been waiting for.)</textEffects> Yes, Your Honor. We are ready.
+</line><line>Judge:
+Very well. But remember! If you accuse the wrong person, you will be <textEffects>penalized</textEffects>. Think very carefully before you speak, Ms. Fey. <textEffects>Now then, Ms. Fey. Let's have it. Who is the "real killer"!?</textEffects>
+</line>
+
+
+<line>Mia:
+It could only have been you, Dahlia Hawthorne!
+</line><line>Dahlia:
+Waaaaah! H-How... H-How can you...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Th-The defense is grasping at straws!
+</line><line>Mia:
+<textEffects>Ten minutes</textEffects> passed between the time the cable broke and the time of the electrocution! What exactly were you doing that whole time, Ms. Hawthorne? Were you really listening to some music while "cheering them both on" as they fought? I find it hard to believe that you didn't lift a finger to stop the men "dearest" to you!
+</line><line>Judge:
+Order! Order! Ms. Fey! Wh-What... I mean, why... That is to say...
+</line><line>Mia:
+Ms. Hawthorne! I believe you did witness the two men fighting on that day. However! After Mr. Wright pushed the victim, and subsequently left the scene... ...it was YOU who pushed Mr. Swallow to his death by your very own hands!
+</line><line>Dahlia:
+AAAAAAAAHHH!!! H-How can you say something so mean, Madame Fey...! I... I didn't do anything...!
+</line><line>Judge:
+Ms. Fey! This is a very serious charge you are--
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Phoenix:
+Your Honor! P-Please, I have something I want to say! *achoo*
+</line><line>Judge:
+Y-Y-You! Wh-What is it!?
+</line><line>Phoenix:
+Please... Please strike everything the defense said just now from the record!
+</line><line>Mia:
+What the...!? Are you daft!?
+</line><line>Phoenix:
+You're totally wrong, Miss Fey! Dollie... She... She couldn't do something like that!
+</line><line>Judge:
+Mr. Wright!! Get back in your seat! Bailiff! Grab that man!
+</line><line>Phoenix:
+Aaaarrgghh... *achoo* *achoo* Leave my Dollie alone! *achoo* *cough*
+</line>
+<hr />
+<line>???:
+... *sigh* That boy...
+</line><line>Grossberg:
+He's gotten himself in way over his head.
+</line><line>Mia:
+Oh...! Mr. Grossberg! You're back!
+</line><line>Grossberg:
+It seems I've arrived just in the nick of time. I found the police report on that incident in your newspaper clipping!
+</line><line><textEffects>Police Report added to the Court Record.</textEffects>
+</line><line>Mia:
+Thank you so much! This is exactly what I was hoping for!
+</line><line>Grossberg:
+You'd better take a good look at it... It... err... details how you came to lose your boyfriend.
+</line><line>Judge:
+Now then, the defense has made a very serious accusation. Mr. Payne, what do you have to say about this?
+</line><line>Payne:
+W-Well really, Your Honor... I... I... That is I...
+</line><line>Dahlia: 
+May I interrupt you for just a moment, Mr. Prosecutor?
+</line><line>Payne:
+Ah, don't you worry, my dear. I have this situation well in hand.
+</line><line>Dahlia:
+... ... *sniffle*
+</line><line>Payne:
+Err, that is I... Um... G-G-Go right ahead.
+</line><line>Dahlia:
+Madame Fey, are you seriously accusing me of killing my sweet Dougie?
+</line><line>Mia:
+Yes. I am. Not only am I saying you murdered Doug Swallow... ...but you also tried to pin the whole thing on your current lover, Phoenix Wright!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+I told you that you should let me handle this...
+</line><line>Dahlia:
+... ... *weep*
+</line><line>Payne:
+Urk. Sorry. P-Please go ahead.
+</line><line>Dahlia:
+How can you say that!? I'm absolutely devoted to my dear Feenie. The notion that I would try to frame him is ludicrous! This is all just too much for poor little me to bear!!
+</line><line>Grossberg:
+Ah, I believe the girl is trying to ask what on Earth her motive would be.
+</line><line>Mia:
+<textEffects>(The answer to that lies somewhere in this police report. It must!)</textEffects>
+</line>
+<hr />
+<line>Mia:
+Eight months ago, an incident occurred in the basement cafeteria of this building. And then... that same day the two of them "accidentally" meet...
+</line>
+<hr />
+<line>Mia:
+Your Honor. The defense requests further testimony from Ms. Dahlia Hawthorne!
+</line><line>Judge:
+F-Further testimony...? What about?
+</line><line>Mia:
+About the events of the day when she first met the defendant, Mr. Phoenix Wright.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+What could that possibly have to do with this case!?
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+The witness claims that she has no reason to frame the defendant, am I correct? Well I have evidence that suggests that she, in fact, had a very good reason!
+</line><line>Judge:
+Very well then, the court grants the defense's request. Young lady. Would you mind staying on for just a bit longer?
+</line><line>Dahlia:
+Of course not, Mr. Judge.
+</line><line>Mia:
+<textEffects>(Get ready for the battle of your life, Dahlia Hawthorne!)</textEffects>
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- How I Met My Feenie --</textEffects></captions>
+<line>Dahlia:
+I first met my darling Feenie eight months ago.
+It's like we were destined to meet in this very courthouse's basement reading room.
+The moment our eyes met, my heart skipped a beat!
+We've been going out ever since that fateful day.
+</line><line>Phoenix:
+We're so lovey-wuvey we literally make people sick! It's just jealousy, I think...
+</line>
+<hr />
+<line>Judge:
+Mr. Wright! Do that again and you will be held in contempt of court!
+</line><line>Mia:
+<textEffects>(And now we enter the final act of our little drama!)</textEffects>
+</line><line>Grossberg:
+As we used to say in the days of my youth, "Go get her!"
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- How I Met My Feenie --</textEffects></captions>
+<line>Dahlia:
+<textEffects>I first met my darling Feenie eight months ago.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>It's like we were destined to meet in this very courthouse's basement reading room.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+
+<line>Dahlia:
+<textEffects>I had come to this courthouse to do some research for a paper I was writing.</textEffects>
+</line>
+
+
+<line>Dahlia:
+<textEffects>The moment our eyes met, my heart skipped a beat!</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>We've been going out ever since that fateful day.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Grossberg:
+Listen to me, Mia. That woman has the judge in the palm of her hand, you see. So the only way to discredit her is to find a <textEffects>contradiction</textEffects> in her testimony!
+</line>
+<hr />
+<line>Mia:
+Ms. Hawthorne, you weren't here because of your research paper, were you? Didn't you actually come here for a much more important reason?
+</line><line>Dahlia:
+...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Wh-What is the meaning of that cocky smile on your face, Ms. Fey!?
+</line><line>Mia:
+Eight months ago, right here in this very courthouse, there was another tragedy.
+</line><line>Payne:
+Another tragedy...?
+</line><line>Judge:
+Do you mean the incident in which an attorney was poisoned?
+</line><line>Dahlia:
+...
+</line><line>Mia:
+The <textEffects>name of the suspect</textEffects> in that incident is listed here in this report. And that name is... <textEffects>Dahlia Hawthorne</textEffects>!
+</line><line>Payne:
+What!?
+</line><line>Judge:
+D-Dahlia H-Hawthorne!?
+</line><line>Mia:
+Yes! The sweetie-pie of everyone's eye, Ms. Dahlia Hawthorne! She was the <textEffects>prime suspect</textEffects> in a criminal case just eight months ago!
+</line><line>Judge:
+Order! Order! Order! ... Th-This is unbelievable! It's true then... The loveliest rose can hide the cruelest thorn...
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Ms. Fey! Th-That's not fair! You can't slander my witness with an unrelated case!
+</line><line>Dahlia:
+Umm...
+</line><line>Payne:
+I, Winston Payne, will not allow it!
+</line><line>Dahlia:
+Mr. Prosecutor... I believe I was speaking.
+</line><line>Payne:
+Urk. P-Pardon me... G-Go right ahead...
+</line><line>Dahlia:
+It's true that about eight months ago... ...the police expressed some interest in me.
+</line><line>Judge:
+Hmm... Expressed some interest, huh?
+</line><line>Dahlia:
+Mr. Judge, sir... I know I'm under oath, so I'll tell you the absolute truth. I did not commit the crime that occurred during that incident eight months ago.
+</line><line>Judge:
+I see...
+</line><line>Mia:
+<textEffects>(OK... I've tied the two crimes together! Now I've just got to stay on the offensive!)</textEffects>
+</line><line>Grossberg:
+Well done, Mia! Ooohhh... You've really lit a fire in my heart... And my buttocks! I can hardly tell which is more inflamed, my spirit... or my hemorrhoids!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- The Poisoning --</textEffects></captions>
+<line>Dahlia:
+I met the lawyer who was poisoned to discuss something in the cafeteria that day.
+I left my seat for just a moment, and that's when it happened!
+From what I heard, it was a liquid poison that is lethal at just 2 teaspoons.
+Not only that, I heard it was a very special kind of poison.
+So you see, I'm innocent! I wouldn't even know where to get a poison like that!
+</line>
+<hr />
+<line>Judge:
+Hmm... So that's what happened here eight months ago.
+</line><line>Payne:
+However, as you've heard from the witness's testimony, she had nothing to do with it. I think the defense is just about out of tricks...
+</line><line>Mia:
+I'm terribly sorry, Mr. Payne. But I'm afraid the defense has many more tricks up its sleeve today. And I'll be sure to show them to you before the end of this cross-examination!
+</line><line>Payne:
+Unnggh! What the...!? Why does the defense suddenly feel stronger...?
+</line><line>Grossberg:
+Aha! Mia! You're glowing with a true lawyer's aura, m'dear! That proud posture and self-confidence! Absolutely smashing!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- The Poisoning --</textEffects></captions>
+<line>Dahlia:
+<textEffects>I met the lawyer who was poisoned to discuss something in the cafeteria that day.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>I left my seat for just a moment, and that's when it happened!</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>From what I heard, it was a liquid poison that is lethal at just 2 teaspoons.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>Not only that, I heard it was a very special kind of poison.</textEffects>
+</line>
+
+<line>Dahlia:
+<textEffects>So you see, I'm innocent! I wouldn't even know where to get a poison like that!</textEffects>
+</line>
+
+
+<line>Grossberg:
+So in essence, the main reason Ms. Hawthorne was never arrested for this crime... ...was because no one could show how she could have obtained the poison.
+</line><line>Mia:
+Then all we have to do is find a way to establish how she could've gotten some, right? <textEffects>(Great... Now just how did a lit. student get a hold of poison, of all things...?)</textEffects>
+</line>
+<hr />
+<line>Mia:
+You wouldn't know how to get that kind of poison? I don't believe you.
+</line><line>Dahlia:
+What...!?
+</line><line>Mia:
+In fact, you had easy access to that kind of poison, didn't you? At your boyfriend's lab!
+</line><line>Judge:
+B-Boyfriend!? You mean the victim, Doug Swallow!?
+</line><line>Mia:
+That's right. Up until eight months ago, Ms. Hawthorne was dating Mr. Swallow. And if you'll recall, Mr. Swallow was a <textEffects>Pharmacology</textEffects> student at Ivy University.
+</line><line>Payne:
+Ph-Ph-Pharmacology...
+</line><line>Mia:
+His laboratory contained highly advanced chemistry equipment. In fact, without such equipment... ...the culprit could never have obtained such a rare and <textEffects>special poison</textEffects>!
+</line><line>Dahlia:
+...!
+</line><line>Mia:
+Well, Ms. Hawthorne? It seems you had access to such a poison after all. And then, it was a matter of slipping it into the victim's coffee when he wasn't looking. The only person who could've done that was the one sitting at his very table -- you!
+</line><line>Dahlia:
+NOOOOOOOOOOOO!!
+</line><line>Judge:
+Order! Order! Order! C-C-Could it be...!?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Th-That's nothing but a baseless accus--
+</line><line>Dahlia:
+May I say something, Madame Fey?
+</line><line>Mia:
+What is it, Ms. Hawthorne?
+</line><line>Dahlia:
+The amount of poison in the coffee was 2 teaspoons, correct? In order to carry that much liquid... you would need some kind of <textEffects>container</textEffects>.
+</line><line>Judge:
+Well, yes... That's true.
+</line><line>Dahlia:
+I was searched immediately after the incident took place.
+</line><line>Payne:
+Quite true. In fact the entire courthouse was turned upside down.
+</line><line>Dahlia:
+But... they didn't find a suspicious container anywhere, did they?
+</line><line>Mia:
+<textEffects>(She's right... They even mentioned that in the report!)</textEffects> W-Well, you could've easily gotten rid of something that small!
+</line><line>Dahlia:
+Excuse me, Madame, but this is a court of law! If you're saying I threw the poison container away... ...I think you need to show some kind of proof!
+</line><line>Mia:
+P-Proof...!? <textEffects>(She got me good with that!)</textEffects>
+</line><line>Judge:
+Provide some evidence or I'll have to disallow this line of questioning, Ms. Fey!
+</line><line>Grossberg:
+Unless we can come up with some evidence, we're going to lose this lead!
+</line><line>Mia:
+<textEffects>(The police conducted a full body search of Dahlia and of the entire courthouse. And yet the <span style="color:#E16935">container</textEffects> holding the poison disappeared right after the crime occurred...)</span>
+</line><line>Judge:
+If you're going to accuse the young lady of committing the murder... <textEffects>...then where is the container the poison was carried in? What happened to it?</textEffects>
+</line>
+
+
+<line>Mia:
+You were forced to get rid of the container in a hurry, weren't you? And that's why you passed it on to someone that had nothing to do with the case! <textEffects>Someone</textEffects> that you knew wouldn't be searched!
+</line><line>Judge:
+W-Who is this person!?
+</line><line>Mia:
+Mr. Phoenix Wright, of course.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+So the defendant was this witness's accomplice?
+</line><line>Mia:
+Of course not. She gave the poison to him disguised as... a <textEffects>present</textEffects>.
+</line><line>Dahlia:
+Wh-What...!? B-But... But that's...!
+</line><line>Judge:
+Hmm... That's a charming little necklace. Is this... a little bottle? It's really quite cute. So what about it? What does it mean, Ms. Fey?
+</line><line>Mia:
+The day that the witness met and fell for Mr. Phoenix Wright was eight months ago... August 27th. The very same day as the poisoning incident. Under the pretense of love, the witness gave my client a <textEffects>present</textEffects>. All for the purpose of hiding the one piece of evidence that would give her away!
+</line><line>Judge:
+Whaaat!? Are you saying there's a deadly poison in here!?
+</line><line>Mia:
+No, there's no longer any poison in that bottle. However! I'm certain if the crime lab were to analyze it, they would find a trace amount!
+</line><line>Dahlia:
+......... NOOOOOOOOOO!! WAAAAAAAAAAAAAAAAAAAH!!
+</line><line>Judge:
+Or-Order! Order in the court! Ahh, umm...
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Phoenix:
+On behalf of Dollie, I <textEffects>object</textEffects>!
+</line><line>Payne:
+M-Mr. Wright! Control yourself!
+</line><line>Phoenix:
+I-I won't let you bully her like this...!
+</line><line>Judge:
+Mr. Wright! I thought I told you to stay in your seat!
+</line><line>Mia:
+Mr. Wright... Why? Why are you going through so much trouble to protect her?
+</line><line>Phoenix:
+Why? B-Because...! Because I'm madly in love with her!
+</line>
+<captions aligned="center">............</captions>
+<line>
+Judge:
+Hmmm, hmmmm... "Madly in love"... I haven't heard anyone say that in a long time...
+</line><line>Mia:
+Mr. Wright... Have you ever thought about this... Why exactly would a woman like Dahlia Hawthorne want to date you anyway?
+</line><line>Phoenix:
+W-Well... I guess she must be madly in love with me too...
+</line><line>Mia:
+<textEffects>(Mr. Wright... Please! Open your eyes...!)</textEffects> At this point in the trial, I think it should be obvious to everyone. The real reason that Dahlia Hawthorne is dating you is...
+</line>
+
+
+
+<line>Mia:
+Dahlia Hawthorne was not and is not madly in love with you. The only thing she's after is that bottle necklace you love to wear around your neck!
+</line><line>Phoenix:
+My n-necklace...?
+</line><line>Mia:
+Back there in the waiting room, you said it yourself...
+</line>
+<hr />
+<line>Phoenix:
+Yeah, but she's so shy. Every time I see her, she always says the same thing to me. "Please give it back now."
+</line><line>Grossberg:
+What a strange girl, asking for a present back like that...
+</line>
+<hr />
+<line>Mia:
+For Dahlia Hawthorne, that necklace is <textEffects>irrefutable evidence</textEffects> of her crime. That's why she absolutely had to get it back.
+</line><line>Phoenix:
+Y-You're lying!
+</line><line>Mia:
+But you never gave it back to her. And to make things worse for her, you insisted on showing it to everyone you met. That's why she......
+</line><line>Phoenix:
+...I don't...... I don't believe you... NOOO!! Th-That's a LIE!! Waaaaaaaaaaaaaaaaaaaaaaaah!!
+</line><line>Mia:
+Eeeeeek!!
+</line><line>???:
+M-Mia! Are you alright!?
+</line><line>Ah! The defendant! He-He's <textEffects>getting away</textEffects>!
+</line><line>???:
+Bailiff! Hurry! After him!
+</line>
+<hr />
+<line>Grossberg:
+Mia! Mia! Are you alright!?
+</line><line>Mia:
+Y-Yes, I-I think so...
+</line><line>Grossberg:
+That boy...! He went completely insane!
+</line><line>Mia:
+Where... Where's Mr. Wright?
+</line><line>Grossberg:
+It looks like the bailiff caught him, so he should be brought back here soon.
+</line><line>Mia:
+Thank goodness... ... Oh no!
+</line><line>Grossberg:
+What is it!?
+</line><line>Mia:
+The <textEffects>bottle necklace</textEffects>...! Ms. Hawthorne's "present"...! It's gone...!
+</line><line>Grossberg:
+Whaaaaat...! That's terrible!!
+</line><line>Mia:
+Mr. Wright must have grabbed it when he slammed into me!
+</line><line>Grossberg:
+Foolish boy...! That's the only thing that could have saved him... What in blazes are we supposed to do noooow!!
+</line>
+<hr />
+<line>Judge:
+Mr. Wright!! This sort of behavior is unprecedented in the history of this court!
+</line><line>Phoenix:
+I-I'm sorry...
+</line><line>Payne:
+I'm afraid that your apology is not enough!
+</line><line>Mia:
+Mr. Wright! What did you do with the bottle necklace?
+</line><line>Phoenix:
+F-Forgive me... I... I... I'm sorry...
+</line><line>Mia:
+It's OK. Just give back the necklace.
+</line><line>Phoenix:
+... I ate it.
+</line><line>Mia:
+... You what?
+</line><line>Judge:
+You... You... You ate it...?
+</line><line>Phoenix:
+It was too big to swallow, so I had to chew it into little bits first, but yeah... ...Ugh. Aaaaaaaaahhhh!
+</line><line>Mia:
+What the...?
+</line><line>Payne:
+Wha--...?
+</line><line>Judge:
+What is he doing now!?
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Mia:
+Y-Your Honor!! You've got to stop the trial!! Mr. Wright! Mr. Wright! Are you feeling OK!? Does your stomach hurt!? That bottle you swallowed may have had some poison left in it!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Ehee hee... Hee, hee, hee, hee, hee... It seems the defendant has proven the prosecution's case for us. Clearly that bottle <textEffects>did not contain a deadly poison</textEffects>!
+</line><line>Mia:
+H-How can you be so sure!?
+</line><line>Payne:
+Hee, hee, hee... I think that's obvious... As you can see, the defendant is still very much alive. As for the poison? More like a fledgling defense attorney's overactive imagination!
+</line><line>Judge:
+Hmm... So it would seem.
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+No! There must be some mistake! The bottle must not have had any poison left in it! Either that or the poison must have lost its potency...
+</line><line>Payne:
+There, there... It's alright, rookie. Trusting your client is the most noble thing a defense attorney can do. And it's heartwarming to see that you placed this much faith in Mr. Wright.
+</line><line>Phoenix:
+...!
+</line><line>Payne:
+But that's how it is for us on the prosecution side, too! For example, I would trust the witness, Ms. Hawthorne, with my very life! Which is why I can state that your assessment of her is completely wrong!
+</line><line>Judge:
+That's enough! Unfortunately, Ms. Fey, I cannot accept your explanation of the events.
+</line><line>Mia:
+B-But why!?
+</line><line>Judge:
+This may be impossible for a beginner like you to understand... ...but in a court of law, <textEffects>evidence</textEffects> is everything.
+</line><line>Mia:
+Unngggh! <textEffects>(Even though I've proven so much, is she going to get away with everything...?)</textEffects>
+</line><line>Judge:
+Well, now that the suspicion surrounding Ms. Hawthorne has been cleared up... I would like to proceed with the trial.
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Mia:
+M... Mr. Wright!
+</line><line>Phoenix:
+I'm sorry, Miss Fey. It totally slipped my mind. I'm really, really sorry... I know you believed in me, and I feel like I really let you down.
+</line><line>Mia:
+Mr. Wright... What are you trying to say?
+</line><line>Phoenix:
+Um... There's something I forgot to tell you.
+</line><line>Judge:
+What is it!?
+</line><line>Phoenix:
+That day... The day I met Doug Swallow...
+</line>
+<hr />
+<line><textEffects>That girl... You shouldn't see her anymore.</textEffects>
+</line><line>Hey! It's none of your business!
+</line><line><textEffects>I'm telling you for your sake. If you continue to see her, it's going to be bad news.</textEffects>
+</line><line>Y-You're lying!
+</line><line><textEffects>Just listen to me. There's something you need to know about that girl... ...</textEffects>
+</line><line>Swallow:
+<textEffects>Last night, someone stole some <span style="color:#E16935">poison</textEffects> from our lab.</span>
+</line><line>Phoenix:
+P-<textEffects>Poison</textEffects>...?
+</line><line>Swallow:
+<textEffects>The same thing happened <span style="color:#E16935">eight months ago</textEffects>. A drug sample was stolen. <textEffects>She</textEffects> came to the lab that time, too. It could only have been <textEffects>her</textEffects>! That girl is a thief!</span>
+</line><line>Phoenix:
+Stop it! D-Don't talk about her like that!
+</line>
+<hr />
+<line>Mia:
+Is it true? Did he really say that?
+</line><line>Payne:
+Th-That's ridiculous!
+</line><line>Phoenix:
+There's one more thing... After I pushed him that day... I got worried and came back to have a look. And she was there... Dollie was right there. She was crouched down next to him...
+</line><line>Mia:
+What!?
+</line><line>Phoenix:
+She told me not to ever tell anyone about it, but... I'm sorry, Dollie!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Y-Your Honor! This is... The defendant is...
+</line><line>Phoenix:
+Miss Fey! You tell them! D-Dollie didn't do it... Sh-She's innocent!
+</line><line>Mia:
+<textEffects>(So Dahlia stole poison <span style="color:#E16935">eight months ago</textEffects> too, huh... If you put that together with Mr. Wright's testimony... ...then there's only one possible conclusion!)</span> The defense believes that Ms. Dahlia Hawthorne... ...stole some poison on the <textEffects>night before</textEffects> she killed Doug Swallow.
+</line><line>Judge:
+The night before...!?
+</line><line>Mia:
+Naturally, her motive for stealing it was to <textEffects>kill someone</textEffects>!
+</line><line>Phoenix:
+Miss Fey...
+</line><line>Judge:
+If you're so certain of your theory, then let me ask you this.
+</line><line>Mia:
+<textEffects>(Mia, this is your last chance. Think carefully now... There's <span style="color:#E16935">something</textEffects> that she desperately wanted to get back... Therefore...)</span>
+</line><line>Judge:
+<textEffects>Exactly who was Ms. Dahlia Hawthorne planning to kill?</textEffects>
+</line>
+
+
+
+<line>Mia:
+There was one person that was standing squarely in Ms. Dahlia Hawthorne's way... And that person was... Mr. Phoenix Wright!
+</line><line>Phoenix:
+... M-M-M-M-M-M-Meeee!?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Th-That's preposterous!! After all, it was Doug Swallow that was murdered!
+</line><line>Mia:
+Well, it's true that that's how things worked out... But, let's remember that Mr. Swallow died of <textEffects>electrocution</textEffects>, not <textEffects>poison</textEffects>. The person that Ms. Hawthorne was planning to poison was in fact... You, Phoenix Wright. There's no one else that it could be.
+</line><line>Judge:
+B-But how can that be!? I-I thought Mr. Wright and Ms. Hawthorne were in love!
+</line><line>Mia:
+<textEffects>(Poor Mr. Wright... This must be killing him... Hang in there... I'll bring her to justice... I swear it!)</textEffects> As I said before, the only thing Ms. Hawthorne truly cared about was... ...the one piece of evidence linking her to that incident eight months ago. That's right. The bottle necklace. That's all she cared about.
+</line><line>Judge:
+But even so... Why... Why would she go so far as to murder him!?
+</line><line>Mia:
+Eight months ago, just after the fall of that attorney in the basement cafeteria... Dahlia Hawthorne could think of only one thing. <textEffects>How to get rid of the bottle necklace as quickly as possible</textEffects>!
+</line><line>Phoenix:
+N-No... It-It can't be...
+</line><line>Mia:
+It was a pretty good move she made, too. The <textEffects>evidence</textEffects> was missing for a long time. But there was just one <textEffects>big problem</textEffects>. Although she got him to hide the evidence, Mr. Wright refused to return it to her. To him, the tiny little bottle was a cherished <textEffects>treasure</textEffects>. He even showed it to everyone he met!
+</line><line>Judge:
+Y-You mean... TH-THAT'S why she tried to kill Mr. Wright...?
+</line><line>Mia:
+Correct, Your Honor. It was to retrieve that piece of evidence.
+</line><line>Phoenix:
+... Th-Th-Th... That can't be trueeeeeeeee!!
+</line>
+<hr />
+<line>Dahlia:
+"Feenie"... What a joke you are. Honestly, how can any woman ever count on you for anything? I even told you time and time again to keep your trap shut about me and that necklace. ...You disgust me!
+</line><line>Judge:
+M-Ms. Hawthorne...?
+</line><line>Mia:
+It appears that this trial will be coming to an end soon...
+</line><line>Dahlia:
+Fine. I can tell you plan on making me into a criminal no matter what I say!
+</line><line>Mia:
+You ARE a criminal, Ms. Hawthorne!
+</line><line>Dahlia:
+We'll see about that. But first, where's your evidence? It seems your sniveling little crybaby of a client has eaten the bottle as a snack.
+</line><line>Mia:
+Urk...! W-Well, umm...
+</line><line>Dahlia:
+Hey! Old man! Are you senile or something!? Why don't you say something instead of sitting there with that dumb look on your face!
+</line><line>Judge:
+M-M-Ms. Hawthorne! What's happened to you...!?
+</line><line>Dahlia:
+Hmph! Are you really that shocked? ... Or do you prefer me... this way, Mr. Judge?
+</line><line>Judge:
+Nnnnggghh...!
+</line><line>Dahlia:
+With absolutely no proof, you treat a voluntary witness like she's a mass-murderer... Well, I have nothing more to say. I'll be heading home now, if you don't mind.
+</line><line>Judge:
+B-But y-you're not finished...
+</line><line>Dahlia:
+Fine! Then ask this nasty old hag to finish up already!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="image"><img alt="Holdit" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="261" height="195" data-image-name="Holdit.gif" data-image-key="Holdit.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/3/3b/Holdit.gif/revision/latest?cb=20080902204342" class="lazyload" /></a>
+</line><line>Mia:
+<textEffects>(I can't let her get away this time!)</textEffects>
+</line><line>Grossberg:
+Stop, Mia! If you keep on pushing without any evidence... ...you could pay the <textEffects>ultimate price</textEffects> as a lawyer!
+</line><line>Mia:
+The ultimate price...?
+</line><line>Judge:
+You'd be forced to take off your attorney's badge forever, I'm afraid.
+</line><line>Mia:
+N-No...!
+</line><line>Dahlia:
+You'd better think it over carefully, Ms. Fey... Or should I say, Ms. Gray.
+</line><line>Judge:
+Well, Ms. Fey? Can you provide evidence that would establish her guilt once and for all?
+</line><line>Mia:
+<textEffects>(If I mess up here, my career as a lawyer is over! But to be honest... at this point I don't have any evidence that's well-founded. Even so... I'd rather lose my attorney's badge than let her get away with murder!)</textEffects> Your Honor! The defense would like to present proof!
+</line><line>Payne:
+Im-Impossible! You can't possibly...
+</line><line>Dahlia:
+Stupid woman!
+</line><line>Judge:
+It is the opinion of the court that there has already been enough discussion. Therefore, I will allow only one piece of evidence to be presented.
+</line><line>Mia:
+J-Just one!?
+</line><line>Judge:
+If you are unable to establish her guilt... ...then I'm afraid that a very harsh verdict will immediately be handed down on Mr. Wright.
+</line><line>Mia:
+I understand, Your Honor.
+</line><line>Dahlia:
+I can just imagine the headlines for tomorrow's newspaper. Up-and-coming lawyer plummets to Earth before she gets the chance to soar...
+</line><line>Mia:
+<textEffects>(She was planning to <span style="color:#E16935">poison Mr. Wright</textEffects>... If that's the case, then the poison was probably in <textEffects>there</textEffects>!)</span>
+</line><line>Judge:
+Well then, Ms. Fey. Please present your evidence. <textEffects>Show to this court irrefutable proof that Ms. Hawthorne was planning to poison Mr. Wright!</textEffects>
+</line>
+
+
+<line>Mia:
+Here it is, Your Honor! The evidence that will prove her guilt once and for all.
+</line><line>Judge:
+Coldkiller X... Phoenix Wright's beloved cold medicine.
+</line><line>Payne:
+Hee, hee, hee, hee... Does our rookie defense attorney have a bit of a cold?
+</line><line>Mia:
+If I did, I still wouldn't take this cold medicine. After all... It's been <textEffects>poisoned</textEffects>.
+</line><line>Judge:
+Wh-What!?
+</line><line>Mia:
+Remember what the defendant said in his testimony.
+</line>
+<hr />
+<line>Phoenix:
+But I lost my bottle of it around lunchtime on the day of the accident.
+</line>
+<hr />
+<line>Phoenix:
+I always eat with Dollie... Just the two of us.
+</line>
+<hr />
+<line>Mia:
+She was the one who took his bottle of Coldkiller X. Then she poisoned it, knowing that Mr. Wright was going to take some.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+Now you're really grasping at straws! After all, it was the victim, Doug Swallow, that was holding the medicine.
+</line><line>Mia:
+I would like the court to recall the crime that happened here eight months ago. <textEffects>Where</textEffects> did Ms. Hawthorne <textEffects>hide the evidence</textEffects>?
+</line><line>Judge:
+Huh? What are you talking about?
+</line><line>Mia:
+Eight months ago, the poison was hidden <textEffects>in her bottle necklace</textEffects>... ...which she then gave to someone else for safekeeping. Someone she had accidentally run into in the reading room. My client, Mr. Phoenix Wright! Yes, that's right... She did the same thing this time as well. After shoving the victim, Mr. Phoenix Wright left the scene of the crime. That is when the murderer, Dahlia Hawthorne, appeared. With her, she was carrying the poisoned bottle of Coldkiller X. This, of course, was so she could carry out her plan to murder Mr. Wright.
+</line><line>Judge:
+Hmm, I believe she did testify that she was going to meet with the defendant.
+</line><line>Mia:
+Yes, and she heard and saw everything that happened at the scene of the crime. Including what the defendant and victim were arguing about, and the cut electrical cable.
+</line><line>That's when she realized, <textEffects>"I can't allow Doug Swallow to live!"</textEffects>
+</line><line>Mia:
+She used the severed electrical cable to silence him forever. Unfortunately for her, this is when the problem occurred. Mr. Wright, who she thought had left the scene, came back to check on the victim. And on top of that, because of the power outage, some students showed up as well. It's hardly any wonder that she was, as she put it, in a state of panic. Recall that she was carrying that bottle of poisoned cold medicine. She must have thought, "What if they search me like they did eight months ago?"
+</line><line>Payne:
+E-Eight months ago...?
+</line><line>Mia:
+Yes, she disposed of the evidence exactly the same way as she did back then! She had someone else hold it! In this case... Doug Swallow!
+</line>
+<captions aligned="center">............</captions>
+<line>
+Dahlia:
+Oh come on now, everyone. Surely you aren't fooled, are you? This stupid woman! She's nothing but a filthy, stinking liar! Right, Mr. Prosecutor...?
+</line><line>Payne:
+Huh...!? Y-Yes... Th-That's exactly right. It's just pure desperation!
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+Hmm... I wonder which one of us is the desperate one? So, Ms. Hawthorne. This cold medicine... I wonder if you wouldn't mind taking some?
+</line><line>Dahlia:
+...!?
+</line><line>Mia:
+Well, Mr. Wright ate that necklace of yours, right? Now it's your turn to prove your innocence. What do you say?
+</line><line>Dahlia:
+...!
+</line><line>Mia:
+If I'm just a filthy, stinking liar, then there's no need to worry. So come on! Show us! I dare you to take some of this medicine right now!
+</line><line>Dahlia:
+... ...Grr... Nngghh... Hnnn... MIA FEY...! MIA... FEYYYY...!! Do. You. Think. You've. Won? Well!? Do you, Mia Fey?
+</line><line>Mia:
+...!
+</line><line>Dahlia:
+Heh... Heh... Heh... Heheh... That's. Just. Fine! For the time being... For the time being, victory is yours.
+</line><line>Mia:
+"For the time being"?
+</line><line>Dahlia:
+Well... I have a very long memory, you know. You and I will meet again... I'm certain of it.
+</line><line>Mia:
+...?
+</line><line>Dahlia:
+Well then, Mr. Judge... I'll see you later too, OK?
+</line><line>Judge:
+Huh...!? Err, why, um... Y-Yes...
+</line><line>Dahlia:
+I'm going to go spend a little quality time with the men in blue now. I wish you all the best.
+</line>
+<hr />
+<line>Mia:
+<textEffects>(Whew... It's finally all over.)</textEffects>
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Payne:
+I... I refuse to accept this! The defense hasn't shown a scrap of evidence to support their outrageous claim!
+</line><line>Judge:
+B-But even so, your witness seems to have accepted it...
+</line><line>Payne:
+I don't care!! I'm Winston Payne! And I don't believe one word that this rookie lawyer has said!
+</line><line>Mia:
+Well then, Mr. Payne, let me ask you this.
+</line><line>Payne:
+Y-Yes!?
+</line><line>Mia:
+Would you care to try this cold medicine?
+</line><line>Payne:
+WHAT!?
+</line><line>Mia:
+Just a little earlier, I could've sworn you said...
+</line>
+<hr />
+<line>Payne:
+There, there... It's alright, rookie.
+</line>
+<hr />
+<line>Payne:
+For example, I would trust the witness, Ms. Hawthorne, with my very life!
+</line>
+<hr />
+<line>Mia:
+So, if she's so trustworthy... ...then I'm sure there <textEffects>couldn't possibly be any poison in here</textEffects>, right?
+</line><line>Payne:
+Err... Well... Ummm... You see... Umm... Y-Yes...
+</line><line>Mia:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="image"><img alt="Objection" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="192" data-image-name="Objection.gif" data-image-key="Objection.gif" data-relevant="0" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Objection.gif/revision/latest?cb=20080826215445" class="lazyload" /></a>
+</line><line>Mia:
+...And here comes the backpedal! Come on now, "Rookie Killer"! Show this rookie how it's done! How much <textEffects>trust</textEffects> do you really have for this woman? Are you willing to bet your life!?
+</line><line>Payne:
+Gggg... Nnngh... Unnngggggh... NNNNNNYYYYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA M-M-My HAAAAAAAAAAIIIIRRR!! IT-IT-IT'S FLYYYYYIIIIIIIING OOOOOFFFFFFFFFFFFFFFF!! MY BEAUUUUUUUTIFUL HAIR!! NOOOOOOO!!! NOOOOOOOOOOO!! WAAAAAHAAAAWAAAAHAAAA NO-NO-NO-NO-No-No-no-no noooooooooooooooooooooo...
+</line>
+<hr />
+<line>Judge:
+Umm, Mr. Payne? About Ms. Dahlia Hawthorne...?
+</line><line>Payne:
+Y-Y-Yes, Your Honor! I'll file papers for her immediate arrest...
+</line><line>Judge:
+Hmmm... Tragic... but not surprising. I knew there was something suspicious about her from the very beginning!
+</line><line>Mia:
+<textEffects>(Don't lie! Just admit you were wrong!)</textEffects>
+</line><line>Judge:
+By the way, Ms. Fey?
+</line><line>Mia:
+Y-Yes, Your Honor?
+</line><line>Judge:
+You said earlier that you and Ms. Dahlia Hawthorne knew each other...?
+</line><line>Mia:
+... Your Honor... How we knew each other had nothing to do with this case.
+</line><line>Judge:
+Hmmm... Very well... Err, Mr. Payne.
+</line><line>Payne:
+This can't be happening! It's a nightmare! It's like losing to my daughter!
+</line><line>Judge:
+...It appears Mr. Payne has lost his spirit along with his hair. Does the defendant have anything further to say?
+</line><line>Phoenix:
+It-It can't be true... My... Dear... Dollie... *achoo*
+</line><line>Judge:
+Hmm... Very well then... I believe I am ready to pass judgment and bring this trial to an end. The court finds the defendant, Phoenix Wright...
+</line>
+<captions aligned="center"><b>Not Guilty</b></captions>
+<line>
+Judge:
+This court is adjourned!
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 11, 3:16 PM
+District CourtDefendant Lobby No. 3</textEffects></captions>
+<line>
+Grossberg:
+Mia! You were wonderful in there!
+</line><line>Mia:
+Thank you for everything, Mr. Grossberg.
+</line><line>Grossberg:
+During the verdict, I thought my hemorrhoids were going to explode like Mt. Vesuvius!
+</line><line>Mia:
+Umm, Mr. Grossberg... Do you, um, maybe think you could stop talking about them?
+</line><line>Grossberg:
+Hmph! That's rather rude. Anyway, this case really made me think. What does it really mean to have a relationship of mutual trust with the client? Perhaps it is we veteran lawyers who have lost sight of this.
+</line><line>Phoenix:
+...
+</line><line>Mia:
+Oh! Mr. Wright...! Congratulations!
+</line><line>Phoenix:
+Th-Thanks... Um, you know... I was thinking...
+</line><line>Mia:
+Go on...
+</line><line>Phoenix:
+The Dollie that I saw up there on the witness stand... I don't think that was really her.
+</line><line>Mia:
+Um, what?
+</line><line>Phoenix:
+Yeah... The Dollie I know could NEVER have said those kinds of terrible things... Maybe... Maybe she was like... I don't know... A fake or something.
+</line><line>Mia:
+<textEffects>(Boy... This poor kid still hasn't got a clue...)</textEffects> You need to forget about her, Mr. Wright. For your own sake...
+</line><line>Phoenix:
+Yeah, you're right... That's probably for the best.
+</line><line>Mia:
+Also... You need to relax a bit more. Try to grow up a little.
+</line><line>Phoenix:
+B-But... Out of all my friends, everyone says I'm the most grown up!
+</line><line>Mia:
+<textEffects>(Eek! What kind of company must this guy keep!?)</textEffects>
+</line><line>Phoenix:
+... Right now I... I'm studying to become a lawyer myself.
+</line><line>Mia:
+That's what you keep saying... But I thought you were in the Art Department?
+</line><line>Phoenix:
+Well, yeah... I guess I am... But there's a friend that I desperately want to help! And if I hurry, then I should still be able to save him in time!
+</line><line>Mia:
+I see.
+</line><line>Phoenix:
+Say, Miss Fey? A lawyer is someone who can help people when they're in trouble, right?
+</line><line>Mia:
+Mr. Wright, I'm still new at this myself. But... I think that's exactly what a lawyer is.
+</line><line>Phoenix:
+OK... I'm going to do it. I'll study my butt off. I'll become a lawyer for sure! I hope... I hope we see each other again some day, maybe even in court.
+</line>
+<hr />
+<line>Phoenix:
+It's been five years since I was acquitted of all charges. I became a lawyer like I planned, and managed to save my friend. But Mia has passed on to a better place. For me, this trial brings up a lot of painful memories. But... it also brings up some very precious ones. And memories that I thought would never rise to the surface again... Mia is gone now. But even so... I can hear her in my mind.
+</line><line>Mia:
+Phoenix, no matter what, always believe in your client. In a court of law, your greatest weapon is your belief.
+</line><line>Phoenix:
+...Five long years... Something has happened that's made me think back to her words of wisdom... But that is a story for another day...
+</line>
+<div style="text-align: right;">Episode 1: Turnabout MemoriesTHE END</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+</xml>

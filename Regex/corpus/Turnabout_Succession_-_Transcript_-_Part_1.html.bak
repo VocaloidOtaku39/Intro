@@ -1,0 +1,904 @@
+<xml>
+
+<title>Turnabout Succession - Transcript - Part 1 | Ace Attorney Wiki | Fandom</title>
+
+<line>
+...And that is the whole truth of this case. In order to understand it myself... ...I had to know the story of these last seven long years. Nothing happens by chance... All is connected. And now... ..you stand ready to begin the final chapter of this story. Will the defendant be found guilty, or innocent? The decision is yours.
+</line>
+<hr />
+<center><textEffects>October 7, 10:37 AM
+Wright Anything Agency</textEffects></center>
+<line>
+Trucy:
+Hey, Apollo! Look, on TV! Look! Look!
+</line><line>Apollo:
+Yeah... uh, I'm kinda busy.
+</line><line>Trucy:
+Whoa! Look at that! He's the last Gramarye, alright! Amazing!
+</line><line>Apollo:
+......
+</line><line>Trucy:
+Apollo, you should be watching this!
+</line><line>Apollo:
+Ow ow ow! What? What!? ...I was writing about our last case in my journal.
+</line><line>Trucy:
+Lawyers are supposed to write things in "records", Apollo, not journals. And why now? That case was three months ago.
+</line><line>Apollo:
+Hey, it's a long story. ...I did a lot, you know. I want to vacuum pack the feel of the moment for later. Right now I'm wowing the crowd by figuring out how Lamiroir disappeared.
+</line><line>Trucy:
+That's right! Uncle Valant did that illusion, too! But you're missing him on TV right now!
+</line><line>Apollo:
+*sigh*... I was just getting to the good part. <textEffects>(I suppose I should watch a little TV with her. After all, her father's expecting me to look after her while he's away...)</textEffects>
+</line><line>Announcer:
+<textEffects>What you're now seeing is a rehearsal for the greatest magic show on Earth... ...happening right here at our very own Sunshine Coliseum!</textEffects>
+</line><line>Apollo:
+The Sunshine Coliseum? Hey, that's where the Gavinners concert was!
+</line><line>Announcer:
+<textEffects>...Only three more days until miracles happen here, right before your unbelieving eyes! The legendary <span style="color:#E16935">Troupe Gramarye</textEffects> is performing for the first time in seven years!</span>
+</line><line>Trucy:
+That's going to be great! I'm so there! You and Daddy are coming, too!
+</line><line>Apollo:
+<textEffects>(The legendary Gramaryes... ...If Trucy's real father were still alive... ...he'd be on that stage performing miracles.)</textEffects>
+</line><line>Trucy:
+I've got the tickets and everything! Here's yours, Apollo.
+</line><line><textEffects>Magic Show ticket received.</textEffects>
+</line>
+<center><textEffects>...*squeak*...</textEffects></center>
+<line>
+Phoenix:
+Ah, you are here. Working hard or hardly working? Hey! How have you been?
+</line><line>Trucy:
+Hi there, stranger!
+</line><line>Apollo:
+<textEffects>(Not exactly the kind of greeting I'd want to hear from my own kid. Though he has been gone a long time.)</textEffects>
+</line><line>Phoenix:
+Ah ha ha, how goes it, Trucy? Here, I got a present for you.
+</line><line>Trucy:
+Yay! Pudding! I love pudding! Ooh, it's farm-fresh! And not just one pudding, but three whole cups! I'll have to pace myself.
+</line><line>Phoenix:
+Well, I'm beat.
+</line><line>Trucy:
+That's right, Daddy. You're on a <textEffects>top secret mission</textEffects>! You've got to take it easy with the secrets, you know.
+</line><line>Phoenix:
+Ah ha ha. How right you are.
+</line><line>Apollo:
+So, you still can't tell us what your "<textEffects>mission</textEffects>" is?
+</line><line>Phoenix:
+...... Maybe it is time. It has something to do with you, anyway.
+</line><line>Apollo:
+Huh? With... me?
+</line><line>Trucy:
+Ooh! Maybe you're getting a top secret mission, too! Maybe you can be one of those guys! A spy!
+</line><line>Apollo:
+<textEffects>(Can't I just be a defense attorney...?)</textEffects>
+</line><line>Phoenix:
+Ah ha ha! To be honest... ...telling you about the mission was my whole reason for coming here today.
+</line><line>Apollo:
+What...?
+</line><line>Phoenix:
+Tell me... ...you've heard of the <textEffects>Jurist System</textEffects>, yes?
+</line><line>Trucy:
+The Jurist System...?
+</line><line>Phoenix:
+That's right. The new legal system everyone's talking about.
+</line><line>Trucy:
+Have you heard of it, Apollo?
+</line><line>Apollo:
+Huh? Uh... Maybe?
+</line><line>Phoenix:
+...... Maybe not as many people are talking about it as I thought.
+</line><line>Apollo:
+<textEffects>(The "<span style="color:#E16935">Jurist System</textEffects>", huh?)</span>
+</line>
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line><i>After clearing "The Jurist System", "The secret mission", and "Valant Gramarye" Talk options:</i> &lt;!- not sure about this trigger --&gt;
+</line><line>Apollo:
+So... what kind of case is the <textEffects>trial simulation</textEffects> about?
+</line><line>Phoenix:
+Well, since it is the first run through of a new system, I wanted something simple.
+</line><line>Trucy:
+Good thinking! No sense wearing yourself out on something too serious!
+</line><line>Phoenix:
+True. The case is a murder.
+</line><line>Apollo:
+That's not simple at all!!
+</line><line>Trucy:
+By "simple", did you mean that the defendant is...
+</line><line>Phoenix:
+...Guilty. Yes. Most likely. ...So, good luck, Apollo.
+</line><line>Apollo:
+Um... with what?
+</line><line>Phoenix:
+With the trial tomorrow. You're defending, of course. Recall that I said it had something to do with you.
+</line><line>Trucy:
+Go for it, Apollo! It's just a test case, anyway. No sweat!
+</line><line>Apollo:
+Yeah, but there's still a verdict to be decided.
+</line><line>Phoenix:
+...And a potentially serious sentence. The most serious, in a worst-case scenario.
+</line><line>Apollo:
+Ack! You mean... the verdict's for real!? That's not a "test" trial! That's a... real trial!
+</line><line>Phoenix:
+All the forms have been filed. There's no turning back now. The trial begins tomorrow at 10 AM. Hope you can make room in your schedule.
+</line><line>Apollo:
+Wh-Why am I only hearing about this now!?
+</line><line>Phoenix:
+...Ah, yes. There was a change this morning. ...I picked a new case.
+</line><line>Apollo:
+Eh...?
+</line><line>Phoenix:
+...Something that happened last night.
+</line>
+
+</td></tr></tbody></table>
+<line><i>After clearing "The trial simulation" Talk option:</i>
+</line><line>Phoenix:
+I'd recommend going down to the detention center. Your client's waiting for you. You can ask about the scene there.
+</line><line>Apollo:
+But you just said I couldn't talk to anyone involved...
+</line><line>Phoenix:
+...Oh, you can talk to your client. If... you can get her to talk.
+</line><line>Trucy:
+Well, time's a wasting!
+</line>
+<hr />
+<center><textEffects>October 7
+Detention CenterVisitor's Room</textEffects></center>
+<line>
+Apollo:
+......
+</line><line>Trucy:
+......
+</line><line>Apollo:
+That's 20 minutes we've been waiting here! 20 minutes!
+</line><line>Trucy:
+Maybe I should complain? I'm sure that guard has better things to do than stand there pretending he doesn't see us.
+</line><line>Apollo:
+You know the minute we get angry, the client will show. It always works that way.
+</line><line>Trucy:
+Like shouting, "Oh, waiter!" and they're standing right behind you? Oh, guaaaaard! Is our client going to be much longer?
+</line><line>Guard:
+What are you talking about!? Haven't you already started the meeting, yet!?
+</line><line>Trucy:
+...Huh? Eeeeeeeeeeeeeeek!
+</line><line>Apollo:
+Wh-Wh-Where'd you come from!?
+</line><line>???:
+......
+</line><line>Apollo:
+W-W-W-Well... ...Anyway! Please have a seat!
+</line>
+<hr />
+<line>???:
+......
+</line><line>Trucy:
+...... I'm nervous, Apollo.
+</line><line>Apollo:
+It's the silence. It builds suspense. Why don't you do something, Trucy? You're a magician, aren't you?
+</line><line>Trucy:
+Th-That's right. OK...
+</line><line>Mr. Hat:
+<textEffects>I'm the Amazing Mr. Hat!</textEffects>
+</line><line>???:
+......
+</line>
+<center><textEffects>...*thud*...</textEffects></center>
+<line>
+Trucy:
+Eeeeeeeeek! She passed out!
+</line><line>Apollo:
+Hmm. Ms. Magic Underwear might have been a better bet.
+</line><line>Trucy:
+That's "Magic Panties", Apollo!
+</line>
+
+
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line><i>After clearing all Talk options:</i>
+</line><line>Apollo:
+<textEffects>(Well, that was fruitless. Though I think I understand despair a little better now.)</textEffects>
+</line><line>Trucy:
+You did good, Apollo!
+</line><line>???:
+......
+</line><line>Trucy:
+L-Look! She's doing her nails!
+</line><line>Apollo:
+What? Are nails more important than defense? Is that it!? ...Let's go, Trucy.
+</line>
+<hr />
+<line>???:
+...Excuse me...
+</line><line>Apollo:
+...!
+</line><line>???:
+C-Could you... Could you read this?
+</line><line>Apollo:
+Um, sure.
+</line><line>Apollo:
+<textEffects>(I feel like a teenager on a first date! And this is the love letter we passed from desk to desk at school...)</textEffects>
+</line><line>Trucy:
+Stop looking so wistful and read it, Apollo!
+</line><line>Apollo:
+It... It's a business card. With a name and an address. The name is... Vera Misham? The address is for "<textEffects>Drew Studio</textEffects>".
+</line><line><textEffects>Vera's Card added to the Court Record.</textEffects>
+</line><line>Apollo:
+And you're giving me this card because...?
+</line><line>Vera:
+......
+</line><line>Apollo:
+...... Well, looks like we're finished here.
+</line><line>Trucy:
+I wonder if <textEffects>Drew Studio</textEffects> is the scene of the crime?
+</line><line>Apollo:
+Let's go find out.
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<hr />
+<center><textEffects>October 7
+Detention CenterVisitor's Room</textEffects></center>
+<line>
+Guard:
+Ah, you're here to see Vera Misham?
+</line><line>Apollo:
+Yes, that's right!
+</line><line>Guard:
+She's in the medical office at the moment.
+</line><line>Trucy:
+Medical office...? Is she OK?
+</line><line>Guard:
+She's just lying down. Said she didn't feel so good. I'm sorry but I can't allow any meetings at the moment.
+</line><line>Apollo:
+Most. Annoying. Client. Ever.
+</line><line>Trucy:
+Guess we should come back.
+</line>
+<hr />
+<center><textEffects>October 7
+Drew Studio</textEffects></center>
+<line>
+Apollo:
+Wow, this looks like... it looks like a studio.
+</line><line>Trucy:
+It's like life imitating art... Or, maybe, it's the other way around... Hmm. But the tape on the ground there... It's a bit jarring...
+</line><line>Apollo:
+Yeah... Looks like we found our crime scene...
+</line><line>Trucy:
+Apollo! Look at all those paintings!
+</line><line>Apollo:
+Hey, don't touch those.
+</line><line>Trucy:
+It's OK, I'm just looking. Huh? Apollo... Look at this one.
+</line><line>Apollo:
+...Looks half finished. <textEffects>(You can still see the rough sketch underneath.)</textEffects>
+</line><line>Trucy:
+But, that's odd. The rough part doesn't look like the rest of the painting at all.
+</line><line>Apollo:
+Yeah, good point. <textEffects>(That is odd...)</textEffects>
+</line><line><textEffects>Drew Misham's Paintings added to the Court Record.</textEffects>
+</line><line>Trucy:
+...All the paintings have a really different style, too.
+</line><line>???:
+Ah! I thought I might find you two here.
+</line><line>Trucy:
+Ema! Long time no see!
+</line><line>Ema:
+Oh? Seems like I run into you far too often. I'll bet I know why you're here, too.
+</line><line>Apollo:
+You know about the <textEffects>trial simulation</textEffects> tomorrow?
+</line><line>Ema:
+I've heard about it, sure. So Mr. Wright chose you, huh?
+</line><line>Apollo:
+We don't even know what the case is about.
+</line><line>Ema:
+Well, he was killed. The artist who owns this studio, that is. Mr. Drew Misham.
+</line><line>Trucy:
+Misham...
+</line><line>Ema:
+And his daughter was put under arrest.
+</line><line>Apollo:
+Yeah... We just saw her at the detention center.
+</line><line>Trucy:
+It was funny, though. She seemed more like a victim than the kind of person who could commit murder.
+</line><line>Ema:
+You don't say. Not even by <textEffects>poisoning</textEffects>? That's how it was done, you know. Poisoning's a common way to get the job done, when the murderer is a woman.
+</line><line>Trucy:
+P-Poisoning...?
+</line><line>Ema:
+Anyway, Mr. Wright told me you'd be coming. Feel free to take a look around. I'll just be over here. With my Snackoos.
+</line><line>Apollo:
+<textEffects>(We can't talk to anyone related to the case this time around... ...Which means we'd better find out as much as we can here at the scene. ...Or else.)</textEffects>
+</line>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+</td></tr></tbody></table>
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line><i>After clearing "Forensic science" Talk option, presenting Coffee Mug, and examining Coffee Mug:</i>
+</line><line>Apollo:
+Um, about <textEffects>poison analysis</textEffects>...
+</line><line>Ema:
+...I was afraid you were going to ask about that. See, this solution is used to test for atroquinine.
+</line><line>Trucy:
+Atro... huh?
+</line><line>Ema:
+Atroquinine! The deadly poison found in the autopsy!
+</line><line>Apollo:
+<textEffects>(...Uh oh, I know that spark in her eyes. She's getting excited. Best tread lightly.)</textEffects>
+</line><line>Ema:
+It's one of the most virulent poisons, but is absorbed into the body astonishingly slowly. It takes at least 15 minutes from the time of ingestion for adverse effects to show. Oh, and guess what!? Recent research has shown...
+</line><line>Apollo:
+Th-That's fine, really. We don't need to know all the gory details.
+</line><line>Trucy:
+I think I get it. You just spray this stuff on something you want to test, right?
+</line><line>Ema:
+Precisely! You can find even the slightest trace of poison with this!
+</line><line>Trucy:
+I wanna try, too, Ema! Pretty please?
+</line><line>Ema:
+You don't have to ask twice! ...I already used it on everything suspicious, of course.
+</line><line>Trucy:
+Yay! Let's give it a whirl, Apollo!
+</line><line>Apollo:
+Aaaaugh! What are you doing!?
+</line><line>Trucy:
+I was just seeing if I got a reaction off of you.
+</line><line>Apollo:
+How's this for a reaction: Never do that again! I'm not poisonous!
+</line><line>Trucy:
+Tell that to those hapless witnesses on the stand!
+</line><line>Apollo:
+<textEffects>(Let's just get down to checking for real poisons, shall we?)</textEffects>
+</line>
+
+<line>Trucy:
+Too bad. No reaction there.
+</line><line>Apollo:
+I'm sure Ema checked out all the likely spots. ...Wait a second.
+</line><line>Trucy:
+What is it, Apollo?
+</line><line>Apollo:
+Did you spray that little desk over there?
+</line><line>Trucy:
+I don't think so... The spray probably can't reach that far, you know?
+</line><line>Apollo:
+Let's check it out, just to be sure.
+</line>
+
+<line>Trucy:
+Eeeeeeeeeeeek! A reaction, Apollo!
+</line><line>Ema:
+Aaaaaaugh! Where, where!?
+</line><line>Trucy:
+The inside of that cute little frame! Look!
+</line><line>Ema:
+Well, would you look at that. Nice going, Trucy.
+</line><line>Trucy:
+I'm known to work magic!
+</line><line>Apollo:
+<textEffects>(Never mind that I was the one who found it.)</textEffects>
+</line><line><textEffects>Tiny Frame added to the Court Record.</textEffects>
+</line><line>Apollo:
+<textEffects>(Why would the inside of that frame have poison on it? ...It looks like we found the only other place that was poisoned, in any case.)</textEffects>
+</line>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<line><i>After clearing "Forensic science" Talk option and presenting Red Envelope:</i>)
+</line><line>Apollo:
+About that envelope we found... ...I was wondering if you could help us out with that "tool" you were mentioning?
+</line><line>Ema:
+Eh heh heh, you want to know about my tool do you? It's called an X-Ray Analyzer.
+</line><line>Trucy:
+X-Ray... like the x-rays you get at the dentist?
+</line><line>Ema:
+That's right! At least, that's what I call it.
+</line><line>Trucy:
+Huh?
+</line><line>Ema:
+It has a real name, but it's much more complicated: the X-Ray Spectraliziation... ...something. How am I supposed to remember all that?
+</line><line>Trucy:
+So, basically, it lets you see inside things... like envelopes?
+</line><line>Ema:
+That's right! You're sharp, Trucy! But it's a bit more complicated than that, in practice, of course. Actually, to tell the truth, I'm not really sure how it works, scientifically.
+</line><line>Trucy:
+Can I try it out, Ema? Please!?
+</line><line>Ema:
+Oh, I suppose. ...Of course, I've already checked out everything suspicious myself.
+</line><line>Trucy:
+Alright! Let's give it a spin, Apollo!
+</line><line>Apollo:
+Yeeeeargh! What are you doing!?
+</line><line>Trucy:
+Oh, just seeing if I could see through your hair... But it's like lead!
+</line><line>Apollo:
+Point that thing at me any more, and it might all fall out.
+</line><line>Trucy:
+Then I wouldn't need an x-ray machine to see through it!
+</line><line>Apollo:
+<textEffects>(Let's just get down to business, shall we?)</textEffects>
+</line><line>Ema:
+Right. Let's test it on a sample, first. It just so happens that I have a lottery ticket here. You set the sample in the device like so...
+</line><line>Apollo:
+...I don't see anything.
+</line><line>Ema:
+Patience. There's no need to get all antsy. Look at the right side of the screen. That's the "layer view" of the envelope.
+</line><line>Trucy:
+Layer view...?
+</line><line>Ema:
+You've got it set to display the outside of the envelope now, see? Actually, it's quicker to just have you give it a try. Turn that dial there for me, would you? That's right. That's how you choose what "depth" you want to scan.
+</line><line>Trucy:
+Hey! I got something!
+</line><line>Ema:
+See? That's how you can read the letters on the ticket inside. Cool, huh?
+</line><line>Apollo:
+Except... I can't read them.
+</line><line>Ema:
+Just turn the dial a little more. What you have to understand is that a sheet of paper isn't really flat at all. When you zoom in that much, you see that paper is like a bunch of hills and valleys.
+</line><line>Trucy:
+Wow! Really?
+</line><line>Ema:
+This x-ray device uses a beam with a wavelength of only 0.05 microns! It breaks cards down into thin layers, so it can only show what's written on that layer.
+</line><line>Apollo:
+I'm not entirely following you, but what good is it if you can't read anything?
+</line><line>Ema:
+That's why we go on to step two! Try rubbing the image a bit, if you would.
+</line><line>Trucy:
+"The image"? You mean rub the screen?
+</line>
+
+<line>Ema:
+There. That fixes the image on the screen. Now, turn the dial again, just a little. Good. Now you can rub this image to "fix" it, too.
+</line><line>Trucy:
+Hey, I get it! We just keep doing this until we've got the whole thing!
+</line><line>Ema:
+Exactly! Not bad!
+</line><line>Trucy:
+Neat! Let's do some more!
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line>
+
+
+
+<line>Ema:
+Now let's try it out on the real thing, shall we?
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line><line>Trucy:
+Someone deposited $100,000 into Mr. Misham's account? His paintings must be really valuable!
+</line><line>Ema:
+There's another page in there. ...Care to take a look?
+</line><line>Trucy:
+You bet I do! If you're going to read someone's mail you might as well read it all!
+</line><line>Ema:
+Here goes with the second page, then.
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line><line>Trucy:
+...So it was a letter about payment for one of his paintings.
+</line><line>Apollo:
+Why all the secrecy, though? And...
+</line><line>Trucy:
+...And what?
+</line><line>Apollo:
+...Why was this letter the only one in here? ...It's seven years old, right?
+</line><line>Trucy:
+Maybe it had some special significance to him? Well, Ema?
+</line><line>Ema:
+Well indeed. ......
+</line><line>Apollo:
+<textEffects>(She knows something she's not telling us. ...Looks like she's keeping mum about it.)</textEffects>
+</line><line><textEffects>Red Envelope updated in the Court Record.</textEffects>
+</line>
+
+</td></tr></tbody></table>
+<line>
+</line>
+
+<line>Trucy:
+I thought so.
+</line><line>Ema:
+I'll never forget that face, but what was his name...? Oh, right. Brushel.
+</line><line>Trucy:
+Brushel...
+</line><line>Ema:
+He's after a scoop to sell to the papers.
+</line><line>Apollo:
+So a reporter comes for an interview with a painter. His first interview ever, and that night, he's killed. Seem strange to you?
+</line><line>Trucy:
+Really strange.
+</line><line>Ema:
+It does raise a few questions.
+</line><line>Apollo:
+I'd like to speak with this reporter if I could.
+</line><line>Ema:
+Well, I hear he's on the beat today, too. ...He said something about covering a magician.
+</line><line>Apollo:
+Magician...? <textEffects>(Well, if it's not Trucy, that leaves only one other person.)</textEffects>
+</line><line>Trucy:
+It wasn't <textEffects>Valant Gramarye</textEffects>, by any chance, was it?
+</line><line>Ema:
+Yeah, something like that! He's got some big show lined up, I hear.
+</line><line>Apollo:
+<textEffects>(So, he's out interviewing Valant Gramarye... Looks like I'll be heading out to that coliseum again sooner than I thought.)</textEffects>
+</line><line>Ema:
+Here, I'll give you that reporter's card if you want.
+</line><line><textEffects>Brushel's Card added to the Court Record.</textEffects>
+</line>
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<hr />
+<center><textEffects>October 7
+Sunshine Coliseum</textEffects></center>
+<line>
+Trucy:
+Woo hoo! This is it, Apollo! The place where magic and dreams converge!
+</line><line>Apollo:
+Just a while ago it was the place where murder and nightmares converged.
+</line><line>Trucy:
+Let's go say hi to Uncle Valant!
+</line><line>Apollo:
+<textEffects>(What about the case...?)</textEffects>
+</line><line>???:
+Waaaah ha ha ha ha ha ha ha ha ha ha!
+</line><line>Trucy:
+Only a performer laughs like that...
+</line><line>Valant:
+The young Miss Trucy! How often I hoped we'd meet again only to tell myself it was an impossible dream!
+</line><line>Trucy:
+Tee hee, Uncle Valant! How's it going? I'm glad to see you, too!
+</line><line>Valant:
+Of course you are.
+</line><line>Apollo:
+<textEffects>(Humility is definitely NOT one of his stronger traits...)</textEffects>
+</line><line>Valant:
+Well, Miss Trucy, how does the day find you? If you've come to give me flowers, do it after the show, I beg you.
+</line><line>Trucy:
+Actually, we came to wish you good luck! And congratulations on your big magic show!
+</line><line>Valant:
+Oh? But it is I who wish to congratulate you! Not everyone is so lucky as to witness miracles such as I shall perform!
+</line><line>Apollo:
+<textEffects>(Yeah, yeah, you're amazing, we get the picture.)</textEffects>
+</line><line>Valant:
+The world will watch in wonderment as Magnifi's illusions are reborn! Here, on stage! By my hand!
+</line>
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+</td></tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+<line><i>After clearing "Mr. Brushel, Journalist" Talk option:)</i>
+</line><line>Valant:
+He was a rude individual. Might I see that card?
+</line><line>Apollo:
+Uh, sure...
+</line><line>Valant:
+...He would tear apart my respectability? I will tear apart him!
+</line><line>Trucy:
+Ooh! Here it comes, Apollo! Uncle Valant's big magic trick!
+</line><line>Apollo:
+Is he going to fix the card? <textEffects>(Not sure that qualifies as "big" magic...)</textEffects>
+</line><line>Trucy:
+......
+</line><line>Valant:
+......
+</line><line>Trucy:
+What happened to the big magic...?
+</line><line>Valant:
+Ah ha ha ha ha ha! Is it not more miraculous for it to stay ripped?
+</line><line>Apollo:
+<textEffects>(He must have really not liked that journalist...)</textEffects>
+</line><line><i>After clearing all Talk options and presenting Gramarye Envelope:</i>
+</line><line>Valant:
+Now, the time has come when I must return to make my prestidigitation preparations! By your leave, Miss Trucy.
+</line><line>Trucy:
+Thanks, Uncle Valant!
+</line><line>Valant:
+Three days from now... make ready for a miracle!
+</line><line>Apollo:
+What do you think that journalist was after? And why did Valant react like that to this envelope?
+</line><line>Trucy:
+I think it's time to pay the detention center another visit.
+</line>
+
+
+
+</td></tr></tbody></table>
+<hr />
+<center><textEffects>October 7
+Detention CenterVisitor's Room</textEffects></center>
+<line>
+???:
+...I think I hear what you're saying. "We're All Doing It For The Money", end quote.
+</line><line>Guard:
+No no no no! Not at all!
+</line><line>Apollo:
+...Looks like someone's already meeting here.
+</line><line>Trucy:
+Maybe that reporter?
+</line><line>???:
+Hey there! How ya doing? Who might you be?
+</line><line>Apollo:
+Ah, sorry, we didn't know someone was already here. I'm Apollo Justice, attorney at law. <textEffects>(Talk about a nervous monkey.)</textEffects>
+</line><line>???:
+You? You're Justice!? You?
+</line><line>Apollo:
+You... know me?
+</line><line>???:
+Do I know you? Of course I know you! "Stares Down Witnesses On Stand Till They Spill Beans", end quote.
+</line><line>Apollo:
+Th-That's not true! <textEffects>(What's he writing...?)</textEffects>
+</line><line>Trucy:
+Are you a reporter by any chance?
+</line><line>???:
+Woo! You! You're Trucy!
+</line><line>Trucy:
+Eh? Am I famous?
+</line><line>???:
+Oh yeah. Oh yeah! "Trucy Wright Hates Carrying A Bag: Puts Everything She Owns In Her Panties", end quote.
+</line><line>Trucy:
+Eeeeeeeeeeek! That's so not true!
+</line><line>???:
+Just hold on to your breeches, there. I'll wrap up this interview in a jiffy.
+</line><line>Trucy:
+Interview...?
+</line><line>???:
+So, guard. I think I know what's going on here. "Guarding Rooms Is My Life. What Else Could I Possibly Need?" end quote.
+</line><line>Guard:
+No! How many times do I have to tell you this? Look, I've got work to do. You deal with him.
+</line><line>Trucy:
+Um... did you come here to interview the guard?
+</line><line>???:
+Ooh wee, what a pickle! "Accused Wouldn't Talk, Had To Interview Someone Or Go Plum Crazy", end quote.
+</line><line>Trucy:
+Huh...
+</line><line>Apollo:
+...I should've guessed.
+</line><line>Brushel:
+Where're my manners!? Name's Brushel. Spark Brushel. "I'm Not Picky -- Journalist Just Closes Eyes, Writes", end quote.
+</line><line>Apollo:
+<textEffects>(What's that nauseatingly strong mint smell every time he grins?)</textEffects>
+</line><line>Brushel:
+Until you've been interviewed by me, you don't know what thrilling is! "Wild Romp Through Crossroads Of Mayhem, Madness", end quote.
+</line><line>Apollo:
+...I can see that. <textEffects>(He's writing something again! Well, if he's a reporter, maybe he knows something...)</textEffects>
+</line>
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line><i>After clearing all Talk options:</i>
+</line><line>Brushel:
+Well, there's nothing I can talk about really. "Walls Have Ears, Eyes -- Especially Glass Walls With Speakers", end quote.
+</line><line>Apollo:
+Right. Guess we'll leave then.
+</line><line>Brushel:
+Ah, but since you're here... ...might as well tell you a tidbit of news I saw. Just for the heck of it.
+</line><line>Trucy:
+Sure, tell us! ...Just for the heck of it.
+</line><line>Brushel:
+I remember it like it was yesterday... ...I'd seen a movie on a trip, and wandered into this burger place with amazing ketchup... ...when an article in a tabloid caught my eye. "Famous Oil Painting Stolen From Art Dealer's Gallery", end quote, I believe it was.
+</line><line>Apollo:
+An oil painting...?
+</line><line>Brushel:
+Happens every day, right? But, I thought I'd seen that painting somewhere before. ...A painting of a giant peach floating down a river.
+</line><line>Apollo:
+<textEffects>(Someone stole an oil painting... of a giant peach.)</textEffects>
+</line><line>Brushel:
+"Journalist Can Smell Scoop Better Than Burgers", end quote.
+</line>
+<hr />
+<center><textEffects>October 7
+Drew Studio</textEffects></center>
+<line>
+Ema:
+Well, how'd it go? Find anything out?
+</line><line>Apollo:
+Actually, there was one thing I wanted to check with you.
+</line><line>Ema:
+Wh-What's with that scary face you're making?
+</line><line>Apollo:
+<textEffects>(And what's with the "I know something but I'm not telling" face you've got going, Ema?)</textEffects>
+</line>
+
+
+
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+<line>Apollo:
+Um, I kind of wanted to see the rough sketch under this painting. And I was wondering if your "tool" there might do the trick?
+</line><line>Ema:
+Oh, fine. Fine! Just this time, though.
+</line><line>Trucy:
+Let's check it out!
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line><line>Apollo:
+What... What the heck?
+</line><line>Trucy:
+Wow, he really blows! The finished painting isn't anything like the rough!
+</line><line>Ema:
+Devices like mine didn't exist until recently. He probably thought he could draw any sort of thing he wanted to for the rough.
+</line><line>Trucy:
+What do you mean?
+</line><line>Ema:
+Well, in the past, you could only analyze the composition of a rough sketch.
+</line><line>Trucy:
+Composition?
+</line><line>Ema:
+In other words, the traces of charcoal between paint and canvas. So you could tell if there had been a rough sketch... ...but not what it looked like.
+</line><line>Apollo:
+Ah, I think I follow you. So, in essence, it wouldn't matter what was underneath the finished painting.
+</line><line>Ema:
+Some pros would actually paint out a rough sketch entirely. Then do a completely new painting on top of that.
+</line><line>Trucy:
+So Mr. Misham was drawing whatever he wanted before painting over them...?
+</line><line>Ema:
+Possibly. Is there a problem with that?
+</line><line>Apollo:
+<textEffects>(Not particularly... But something about the sketch itself is kind of... odd.)</textEffects>
+</line><line>Trucy:
+You're awfully silent all of a sudden, Apollo.
+</line><line>Apollo:
+You think we could check out one of the other paintings!?
+</line><line>Ema:
+Well, sure. You like this detection stuff, don't you?
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line><line>Apollo:
+This one, too!
+</line><line>Trucy:
+What's wrong, Apollo? You look so serious all of a sudden!
+</line><line>Apollo:
+Um, you think I could just look at the last of these?
+</line><line>Ema:
+Fine by me. Knock yourself out.
+</line>
+
+<line>Ema:
+OK, let's print this one out.
+</line><line>Apollo:
+Wh-Wh... What the heck is all this!?
+</line><line>Ema:
+...I hesitate to ask why you're getting so excited.
+</line><line>Trucy:
+You sure your device isn't leaking some kind of strange radiation?
+</line><line>Apollo:
+Trucy! Look at these three sketches! ...Do you notice anything?
+</line><line>Trucy:
+Aaaaaaaaaaaaaaaaaaaaaaaaaaah! Th-Th-They're...!!
+</line><line>Ema:
+Now you're both white as sheets! What's going on!?
+</line><line>Apollo:
+These sketches... are of the three cases I worked on!
+</line><line>Ema:
+What...?
+</line><line>Apollo:
+The murder in the poker room at the Borscht Bowl Club! The dead man pulling the noodle stand! And then... ...the events that transpired during the Gavinners concert!
+</line><line>Ema:
+...What could it mean? How could he have painted those things... and why!?
+</line><line>Apollo:
+That's what I want to know!
+</line><line>Ema:
+Wait! Is Drew Misham... ...your father?
+</line><line>Apollo:
+Give me a break! Does that seem even REMOTELY possible to you!?
+</line>
+<hr />
+<line>Apollo:
+<textEffects>(I'd never even heard of any Drew Misham before. I hadn't even seen a picture of him. But there were my cases, drawn on his canvas! ...Every single one of them. It couldn't have been a coincidence. Just who was this Drew Misham... and what did he have to do with me?)</textEffects>
+</line>
+<div style="text-align: right;">To be continued.</div>
+<hr />
+<hr />
+<hr />
+
+</xml>

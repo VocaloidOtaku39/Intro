@@ -1,0 +1,317 @@
+<xml>
+
+<title>In Mr. Natsume's Room</title>
+
+<line>
+Susato:
+So...Mr Natsume... ...are you really returning home? To Japan.
+</line><line>Soseki:
+Yes, indeed I am. Everything is arranged already.
+</line><line>Iris:
+We'll be sad to see you go. And after Runo worked so hard to prove your <textEffects>innocence</textEffects> as well. What a shame. It feels like it was all a wasted effort.
+</line><line>Soseki:
+DON'T SAY THAT! I, I know what you're suggesting!
+</line><line>Ryunosuke:
+Now calm down, Mr Natsume. It's all fine, really.
+</line><line>Sholmes:
+You are in good company here, sir. If you fear the Reaper, you needn't hide the fact.
+</line><line>Soseki:
+I am a proud citizen of the Empire of Japan! I'M NOT A SCAREDY-CAT!
+</line><line>Ryunosuke:
+<textEffects>(Talking of cats...Mr Sholmes just casually threw one among the pigeons there.)</textEffects>
+</line><line>Soseki:
+A man like me belongs in Japan, not here. That's what I've come to realise!
+</line><line>Sholmes:
+Hm, I wonder. A moustache such as yours is eminently suited to London, I would say.
+</line><line>Ryunosuke:
+<textEffects>(There goes Mr Sholmes throwing another cat in!)</textEffects>
+</line><line>Soseki:
+The moment I arrived in this city, I noticed. Everyone in London laughs at me behind my back! Like hyenas!
+</line>
+<center>Hysterical Hyenas Haha-ing Horribly!</center>
+<line>
+Susato:
+I'm, I'm sure that's not true, Mr Natsume.
+</line><line>Soseki:
+Oh but it is. Whenever I turn around and peer down the fog-filled streets, all I see is foreigners everywhere.
+</line><line>Iris:
+Well, there's you, Runo and Susie in here, so that's three foreigners out of five people... I take your point!
+</line><line>Soseki:
+Only the other day, I was taking a stroll through the fog as usual, when a young man approached me from ahead. He was pale and gaunt, his back arched like a cat. Observing his wretchedness moved me so deeply. 'Ah,' I thought to myself, 'I'm not the only one suffering in this hell!' But...do you know what? Can you imagine?! It was just my own reflection in a shop window.
+</line>
+<center>A Stunning, Stinging, Stupefying Surprise!</center>
+<line>
+Ryunosuke:
+...Don't forget 'Slap in the face'.
+</line><line>Soseki:
+Everyone started laughing at me. Gentlemen thereabouts, ladies passing by, even the man in the shop window!
+</line><line>Sholmes:
+Ah yes. And a certain great detective would like to be included among the mirthful.
+</line><line>Soseki:
+ARGH!
+</line><line>Ryunosuke:
+<textEffects>(Mr Sholmes is really going for Soseki-san today!)</textEffects>
+</line><line>Iris:
+Well, I for one think you're a very handsome man, Mr Natsume.
+</line><line>Ryunosuke:
+There, did you hear that? This ten-year-old girl thinks you're handsome. Isn't that wonderful?
+</line><line>Soseki:
+......... That makes me feel suspiciously warm inside.
+</line><line>Ryunosuke:
+<textEffects>(He looks genuinely delighted.)</textEffects>
+</line><line>Soseki:
+The point is...we Japanese are HUMBLE and MODEST! Studying on foreign soil, surrounded by foreign people... How could anyone POSSIBLY enjoy that?! No one could! It's impossible! ...If you're a genuine Japanese!
+</line><line>Iris:
+Hm, if you say so...
+</line><line>Susato:
+Actually, it would appear...that there IS someone. A Japanese man who studied in a foreign country and seems to have thrived on the experience.
+</line><line>Soseki:
+There is?
+</line><line>Susato:
+Mr <textEffects>Ogai Mori</textEffects>. I believe he studied in Germany.
+</line><line>Sholmes:
+Mr Mori? Pray, tell us more of the fellow.
+</line><line>Susato:
+Well today, he's a very successful author in Japan.
+</line><line>Ryunosuke:
+Oh, I've heard of him. He's the professor who wrote '<textEffects>Mai-hime</textEffects>', isn't he?
+</line><line>Iris:
+My...heemeh?
+</line><line>Ryunosuke:
+I suppose in English, the title would be...'<textEffects>Dancing Queen</textEffects>' maybe?
+</line><line>Iris:
+Oh, I see... A tale of a woman who waltzed her way through the world, perhaps?
+</line><line>Susato:
+You really needn't make up a silly translation, you know. It's already officially called '<textEffects>The Dancing Girl</textEffects>' in English. It seems Mr Mori greatly enjoyed his time in Germany. He became close with <textEffects>a local lady</textEffects> while he was there.
+</line><line>Soseki:
+C-Close, you say? With a l-l-local lady?
+</line>
+<center>A Compatriot's Criminally Contradictory Conduct!</center>
+<line>
+Ryunosuke:
+Well...I suppose your experience of studying abroad depends to a large extent on your character.
+</line><line>Soseki:
+Ugh. As they say...
+</line>
+<center>Many Men, Many Minds!</center>
+<line>
+Sholmes:
+Mr Mori has an open mind. Mr Natsume, a closed one.
+</line><line>Ryunosuke:
+...Possibly a slightly black-and-white view, do you think, Mr Sholmes?
+</line><line>Iris:
+Well anyway... ...if that's how you feel about being abroad, why did you choose to study here?
+</line><line>Ryunosuke:
+Wasn't it to further our nation's understanding of the English language or something?
+</line><line>Soseki:
+Yes, yes, that's right.
+</line><line>Ryunosuke:
+So what were you doing in Japan before you came to Great Britain then?
+</line><line>Soseki:
+I was a school teacher. Of English, of course.
+</line><line>Susato:
+A bit cursory, perhaps, but I've managed to discover some information about Mr Natsume's teaching days.
+</line><line>Ryunosuke:
+...That's just a little outside the field of law, isn't it, Miss Susato?
+</line><line>Susato:
+Well, let me pose you a question, Mr Naruhodo: If you had to translate the English phrase '<textEffects>I love you</textEffects>' into Japanese, what would it become?
+</line><line>Ryunosuke:
+That's easy. '<textEffects>Aishiteru</textEffects>' or '<textEffects>Suki desu</textEffects>'.
+</line><line>Susato:
+Wrong! ...According to Mr Natsume's teachings, at least.
+</line><line>Ryunosuke:
+What?
+</line><line>Susato:
+Would you like to explain, Mr Natsume?
+</line><line>Soseki:
+Yes, yes, of course. Your research was very thorough. I always used to tell my students... ...that we Japanese don't express ourselves that way. Rather, we might say, '<textEffects>Tsuki ga kirei desu ne.</textEffects>'
+</line><line>Sholmes:
+My dear Mr Natsume, I must interject! '<textEffects>Tsuki ga kirei desu ne</textEffects>' would translate as '<textEffects>The moon is beautiful, isn't it?</textEffects>'
+</line><line>Soseki:
+I KNOW THAT!
+</line><line>Susato:
+The point is that we Japanese are reticent when it comes to expressing our emotions. We prefer to show our feelings of adoration - our 'suki' - by approaching the beauty of the moon - the 'tsuki'.
+</line><line>Sholmes:
+Ah, using the '<textEffects>tsuki</textEffects>' to express '<textEffects>suki</textEffects>'! It's an amusing play on words, I see.
+</line><line>Soseki:
+No! ...Or in language YOU might understand better: BAD SHOLMES! It's not a play on words! It's subtle. It's humble. It's fleeting and beautiful. It's ART!
+</line><line>Iris:
+Isn't it just...being shy?
+</line><line>Soseki:
+Ah.
+</line><line>Sholmes:
+My dear fellow, the foreign 'dancing girl' will forever be out of your reach with such an attitude.
+</line><line>Soseki:
+Ugh...
+</line><line>Sholmes:
+Imagine how the great Mr Mori would act. He would win the lady's heart in a flash with a well-placed and unrestrained '<textEffects>I love you!</textEffects>'
+</line><line>Soseki:
+ARGH! That smooth Mr Mori! Am I destined to live in his shadow forever?!
+</line><line>Ryunosuke:
+...Just what sort of man is he in that imagination of yours?
+</line><line>Soseki:
+The fact is, I just can't settle in this foggy London town with all its foreign inhabitants. I've lost count of the number of different lodgings I tried before I found myself here. As it happens...I even lived on Baker Street at one time.
+</line><line>Iris:
+No! Really?
+</line><line>Soseki:
+A <textEffects>Sao</textEffects> scholar lives near there. A man by the name of William James Craig. His knowledge of <textEffects>Sao</textEffects> is unsurpassed. He's been a great inspiration to me over the-
+</line><line>Sholmes:
+Forgive the interruption, but...am I supposed to be familiar with this '<textEffects>Sao</textEffects>' of which you speak?
+</line><line>Soseki:
+It's <textEffects>Shakespeare</textEffects>, of course, <textEffects>Shakespeare</textEffects>! But in Japanese, we write it as '<textEffects>Sa</textEffects>' and '<textEffects>o</textEffects>'. It's a phonetic representation using kanji characters. So, 'England' is '<textEffects>I-gi-risu</textEffects>' and 'America' is '<textEffects>A-me-ri-ka</textEffects>'.
+</line><line>Ryunosuke:
+Come to think of it, we use the same character as '<textEffects>ri</textEffects>' in one word and '<textEffects>risu</textEffects>' in another. Talk about confusing!
+</line><line>Sholmes:
+Hm, so Shakespeare is '<textEffects>Sa-o</textEffects>' in Japanese... Presumably the '<textEffects>Sa</textEffects>' is a brutal attempt at the first '<textEffects>Sha</textEffects>'. In which case, where is the '<textEffects>-kespeare</textEffects>'?
+</line><line>Susato:
+I'd never thought of that. We only have the '<textEffects>o</textEffects>' left...
+</line><line>Sholmes:
+Which could, even in the most charitable interpretation, only be a brutal attempt at '<textEffects>old man</textEffects>'.
+</line><line>Iris:
+It seems to me that whoever had the job of deciding on the characters for his name got bored very early on.
+</line><line>Soseki:
+</line>
+<center>Complete Kanji Character Catastrophe!</center>
+<line>
+Sholmes:
+So then...on to the burning question! What about me? How do you write my name?
+</line><line>Ryunosuke:
+Sorry?
+</line><line>Sholmes:
+<textEffects>Herlock Sholmes</textEffects>, my dear fellow! There must be Japanese characters for my name!
+</line><line>Susato:
+Oh dear... I am sorry, Mr Sholmes, but none exist that I'm aware of.
+</line><line>Sholmes:
+WHAAAAAAAT?! Am I really NOTHING to you Japanese? In that case, it is a matter of paramount importance. You must construct my name in kanji at once!
+</line><line>Ryunosuke:
+Oh! Erm...well...we could use a kanji that's pronounced '<textEffects>So</textEffects>' to start with, and then use one more to give... ...'<textEffects>So-o</textEffects>', perhaps? I think that would be about right, <textEffects>Mr Sholmes</textEffects>.
+</line><line>Susato:
+But...that's almost the same as <textEffects>Sao</textEffects>, isn't it?
+</line><line>Sholmes:
+Yes! You employed the dreaded '<textEffects>o</textEffects>'! I don't want people to confuse me with <textEffects>an old man</textEffects> who died centuries ago!
+</line><line>Ryunosuke:
+...I'm sure the world's greatest literary figure would rather not be confused with you, either.
+</line><line>Sholmes:
+Well the world's greatest detective is still youthful and full of vigour. So how about '<textEffects>So-handsome</textEffects>'?
+</line><line>Susato:
+Oh yes, that sounds wonderful! I'm sure EVERYONE will be calling you that a hundred years from now!
+</line><line>Ryunosuke:
+<textEffects>(How can she say that with a straight face?)</textEffects>
+</line><line>Iris:
+What about me, then? Iris. Perhaps '<textEffects>Ai-hime</textEffects>'...since the second character doesn't seem to matter?
+</line><line>Susato:
+<textEffects>Ai-hime</textEffects>? Oh yes! 'Princess of Love'! That's an adorable name for you, Iris!
+</line><line>Soseki:
+STOP! PLEASE! With a name like that, Mr Mori is likely to turn up at any moment and rashly declare 'I love you!'
+</line><line>Ryunosuke:
+<textEffects>(This Mori-san has become quite a character in Soseki-san's mind.)</textEffects>
+</line><line>Sholmes:
+And you, Mr Naruhodo. Might I venture '<textEffects>Kuro-bozu</textEffects>' as a fitting name for you? As in 'the dark monk'.
+</line><line>Iris:
+Oh, that's very good. It describes you perfectly, Runo.
+</line><line>Ryunosuke:
+So you think I'll be wearing this black varsity uniform for the rest of my days, do you?
+</line><line>Susato:
+But Mr Naruhodo already has a Japanese name. I don't believe he needs another.
+</line><line>Iris:
+Well anyway... ...we were talking about your life here in London, weren't we, Mr Natsume? You should just get out and have fun!
+</line><line>Soseki:
+Ugh...the landlady has said as much to me, too.
+</line><line>Ryunosuke:
+Mrs Garrideb?
+</line><line>Soseki:
+But it wasn't fun at all. It was frightful.
+</line><line>Susato:
+Whatever do you mean?
+</line><line>Soseki:
+A <textEffects>CYCLE</textEffects> INCIDENT!
+</line><line>Ryunosuke:
+An incident? On a bicycle? Oh, yes, come to think of it... ...there's an old bicycle parked just outside, isn't there? It's in a sorry state, though.
+</line><line>Soseki:
+I tried to say '<textEffects>no</textEffects>' to her, but she insisted I took it for a ride. Perhaps my pronunciation was wrong... So I took my life in my hands and attempted to ride the steel, spider-webbed stallion to a nearby park.
+</line><line>Susato:
+I really don't think there's anything wrong with your pronunciation, Mr Natsume.
+</line><line>Ryunosuke:
+<textEffects>(Joan Garrideb just isn't the kind of woman to take no for an answer...)</textEffects>
+</line><line>Soseki:
+If you're going to die, you might as well die in beautiful surroundings. So the park was my first thought. After a whole day of dicing with death, I emerged with only relatively minor bruises.
+</line><line>Ryunosuke:
+So...you got the knack of it?
+</line><line>Soseki:
+Don't be silly! Dying...isn't something you can learn to do!
+</line><line>Susato:
+......... Um, Mr Natsume, you keep talking about <textEffects>dicing with death</textEffects> and <textEffects>dying</textEffects> and so forth, but... ...riding a bicycle is supposed to be fun.
+</line><line>Soseki:
+Oh no, that's just what people tell you. But it's an old wives' tale.
+</line><line>Susato:
+Is it?
+</line><line>Soseki:
+I mean, just consider <textEffects>the real name</textEffects> of the vehicle... It's not called <textEffects>a die-cycle</textEffects> for nothing! How anyone expects to use such an aptly named vehicle to move forwards is beyond me!
+</line>
+<center>Pedal Power Promises Pain!</center>
+<line>
+Susato:
+...I didn't think it was possible to get worse with practice.
+</line><line>Soseki:
+I'm lucky to be alive! Although, I must say... ...after looking death in the eye for a whole week, I did at least manage to mount the steed reliably. And notwithstanding a few wobbles, I found I could make progress in the forward direction.
+</line><line>Ryunosuke:
+Haah...what a triumph...
+</line><line>Sholmes:
+Deduction is much the same. When first presented with a problem, the mental exertion of trying to solve it leads only to bitter disappointment. But after a week of picking one's way carefully along the path of reasoning and thought, one begins to see results.
+</line><line>Ryunosuke:
+So...is that why all of your off-the-cuff deductions always seem half-baked?
+</line><line>Susato:
+What a wonderful insight into your extraordinary mind, Mr Sholmes!
+</line><line>Soseki:
+Unfortunately, after wobbling down the street, I noticed there were little stones everywhere. Deathtraps. 'Not that way!' I said to myself. But the wild vehicle wouldn't listen... It wobbled me on and on down the street... So OF COURSE! I hit one of those DEADLY stones, and the crazy colt threw me! It's just my luck. Die-cycles are the epitome of my pitiful life...
+</line><line>Ryunosuke:
+I...wish I could disagree...
+</line><line>Iris:
+On the same subject... ...I'm sure there's a famous American author who's written about having a similar experience.
+</line><line>Susato:
+Oh yes. I've read that essay, too, Iris.
+</line><line>Ryunosuke:
+<textEffects>(...Some of us are better read than others.)</textEffects>
+</line><line>Soseki:
+Well no more die-cycles for me.
+</line><line>Susato:
+Oh, Mr Natsume, at least you have an interesting anecdote to take with you back to Japan, if nothing else.
+</line><line>Ryunosuke:
+...You always manage to put a positive spin on things, don't you, Miss Susato?
+</line><line>Sholmes:
+Personally, I haven't mounted a bicycle for some time.
+</line><line>Iris:
+No, me neither.
+</line><line>Soseki:
+That's good.
+</line><line>Sholmes:
+So how about a jaunt? We shall all ride out together!
+</line><line>Soseki:
+Huh?
+</line><line>Ryunosuke:
+That sounds great. I'll perch behind Miss Susato.
+</line><line>Soseki:
+But...but...THE SUN IS GOING DOWN! It will be pitch-black before long!
+</line><line>Iris:
+London's streetlamps are very bright, you know. And the fog isn't too thick today.
+</line><line>Soseki:
+AND MY BELOVED RIDE IS ALL BENT OUT OF SHAPE!
+</line><line>Sholmes:
+My dear fellow, if you are bound to topple the vehicle anyway, it's fitting that it's already bent out of shape.
+</line><line>Iris:
+It's settled then! Come along, Mr Natsume! Shall we go?
+</line><line>Soseki:
+......... Tsuki ga kirei desu ne.
+</line><line>Ryunosuke:
+<textEffects>(...Don't tell me that's his translation of '<span style="color:#E16935">No, thank you</textEffects>', as well?)</span>
+</line><line>Sholmes:
+Indeed, Mr Natsume. The moon is at its most beautiful at precisely this time in the evening!
+</line><line>Soseki:
+Oh.
+</line><line>Iris:
+We're not Japanese. You can't beat around the bush with us!
+</line><line>Soseki:
+.........
+</line>
+<center>What a Weird and Wonderful World!</center>
+</xml>

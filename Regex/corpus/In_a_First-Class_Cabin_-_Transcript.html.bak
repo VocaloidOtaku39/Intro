@@ -1,0 +1,324 @@
+<xml>
+
+<title>In a First-Class Cabin</title>
+
+<line>
+Kazuma:
+Who's there? <textEffects>(Who could it be at this hour?)</textEffects>
+</line><line>???:
+...<textEffects>A detective</textEffects>.
+</line><line>Kazuma:
+'A detective'? Who?
+</line><line>???:
+...<textEffects>A great detective</textEffects>.
+</line><line>Kazuma:
+<textEffects>(...I don't get it. What's a great detective-)</textEffects>
+</line><line>???:
+If you would just be so kind as to open the door?
+</line><line>Kazuma:
+Oh, yes, sorry. Of course.
+</line>
+<center>*Click clack*</center>
+<line>
+Kazuma:
+Is something wrong, detective? Are you investigating a case?
+</line><line>???:
+Wherever a great detective goes, great cases occur. Indeed, I am the root of all evil.
+</line><line>Kazuma:
+S-Sorry? <textEffects>(Then I don't think I want you in my cabin.)</textEffects>
+</line><line>???:
+Under our very noses on this steamship, a <textEffects>terrible</textEffects> theft has just occurred.
+</line><line>Kazuma:
+What?!
+</line><line>???:
+You noticed, I presume, the brief power failure a short while ago?
+</line><line>Kazuma:
+Oh yes. The power couldn't have been out for more than ten minutes, though.
+</line><line>???:
+Indeed. Yet that was ample time for this wicked crime to be perpetrated.
+</line><line>Kazuma:
+I see... Well, clearly it's a case that needs investigating.
+</line><line>???:
+Precisely. The culprit ran away in this direction. Down the first-class cabin passageway here.
+</line><line>Kazuma:
+Really? The thief came this way?
+</line><line>???:
+I'm quite sure of it, It may have escaped the attention of the dim-witted crew, but not of the great detective. To that end, I would be obliged if you would allow me to investigate here in this cabin.
+</line><line>Kazuma:
+...! Um...well...
+</line><line>???:
+How curious. Is there some reason why it would inconvenience you to have your cabin searched?
+</line><line>Kazuma:
+<textEffects>(<span style="color:#E16935">Inconvenience me</textEffects>? Well... I'd be lying if I said no. After all... ...there's <textEffects>a stowaway</textEffects> in that wardrobe right over there!)</span> It's just me in here, you see. No one else. So you might perhaps want to focus your attention on one of the other first-class cabins.
+</line><line>???:
+As it happens... ...you are the only first-class passenger at present. The other cabins are vacant.
+</line><line>Kazuma:
+Oh!
+</line>
+<center>.........*Groan*</center>
+<line>
+Kazuma:
+.........
+</line><line>???:
+Did that rather tragic rumbling of the stomach arise from within you, my good fellow?
+</line><line>Kazuma:
+...Of course. As I said, I'm the only person in here. It's not long until dinner time now, so...perhaps we could do this afterwards?
+</line><line>???:
+I do apologise, sir, but it is of the first importance that the investigation is not delayed. Now...if you'll excuse me.
+</line><line>Kazuma:
+<textEffects>(Wait... Where did he go? How did he suddenly move all the way over there?!)</textEffects>
+</line><line>???:
+Yes, without a doubt. If the culprit were to be hiding in this cabin... ...it would have to be inside this <textEffects>wardrobe</textEffects>. I shall need to examine this wardrobe thoroughly. I presume you have no objection?
+</line><line>Kazuma:
+...I'm sorry, but I'm going to have to decline. Really, you won't find any-
+</line>
+<center>Achoo! Achoo!</center>
+<line>
+Kazuma:
+.........
+</line><line>???:
+Did those two rather tragic sneezes...arise from your good self?
+</line><line>Kazuma:
+Of, of course they did! As I said, I'm the only person in here!
+</line><line>???:
+You have a curious knack of talking while sneezing, then? Twice, no less.
+</line><line>Kazuma:
+...! <textEffects>(This is going to be a tough one to argue...)</textEffects>
+</line><line>???:
+I was watching you quite intently, sir. And I assure you I saw no signs of a sneeze.
+</line><line>Kazuma:
+<textEffects>(Argh! Couldn't Ryunosuke have held his nose?!)</textEffects>
+</line><line>???:
+...As I was saying, I shall need to examine this <textEffects>wardrobe</textEffects>.
+</line><line>Kazuma:
+<textEffects>(We've had it now then. The game's up...)</textEffects>
+</line>
+<center>*Click creeeeeeak*
+<line>.........
+.........
+</line>
+.........</center>
+<line>
+???:
+Hm...nobody hiding in there, it seems.
+</line><line>Kazuma:
+Wh...WHAT?!
+</line><line>???:
+You seem surprised.
+</line><line>Kazuma:
+No! Not! At all! <textEffects>(YES I AM! <span style="color:#E16935">He</textEffects> was in there, for sure! I shut the doors on him myself!)</span>
+</line>
+<center>*Knock knock knock*</center>
+<line>
+Kazuma:
+<textEffects>(More visitors? Who's this now?)</textEffects>
+</line>
+<center>*Click clack*</center>
+<line>
+Strogenov:
+Excusing me!
+</line><line>Kazuma:
+Oh, Seaman Strogenov?
+</line><line>Strogenov:
+Sorry for disturbing, but crime has been committed on board ship.
+</line><line>Kazuma:
+Yes, I heard. A terrible theft, apparently.
+</line><line>Strogenov:
+How do you know this?!
+</line><line>Kazuma:
+Ah, well, the detective here just informed me, you see.
+</line><line>Strogenov:
+Detective?
+</line><line>Kazuma:
+Yes, I assumed you must have asked him to investigate. Detective, could you...? <textEffects>(Wh-Where did he go?)</textEffects>
+</line><line>Strogenov:
+I must ask you to cooperate with investigation into this crime. Fully.
+</line><line>Kazuma:
+<textEffects>(Uh-oh, he's glaring at the wardrobe already.)</textEffects>
+</line>
+<center>*Click creeeeeeak*</center>
+<line>
+Strogenov:
+Aaaaargh!
+</line><line>???:
+Ah ha ha ha ha hah! Well done, you found me!
+</line><line>Kazuma:
+Wh-What are you doing hiding in my wardrobe?
+</line><line>???:
+My good man, I was merely assessing the practicality of concealment in such a place. And I would say that, at a push, a human could survive for up to five minutes in that cramped space.
+</line><line>Kazuma:
+<textEffects>(Ryunosuke's been in there for a fortnight. ...Is he not human?)</textEffects>
+</line><line>Strogenov:
+Who are you?
+</line><line>???:
+Ssh! This is the moment of truth! The great detective is about to unveil the sordid details of this wretched crime.
+</line><line>Kazuma:
+You, you mean to say...?
+</line><line>???:
+Yes, there can be no doubt that the culprit of this terrible theft... ...did indeed conceal himself within this <textEffects>wardrobe</textEffects>!
+</line><line>Strogenov:
+WHAT?!
+</line><line>Kazuma:
+But, but that's impossible! He couldn't have done. <textEffects>(Because <span style="color:#E16935">my best friend</textEffects> was in there the entire time. Or at least, I thought he was...)</span>
+</line><line>Strogenov:
+How can you be sure of this?
+</line><line>???:
+Elementary, my dear fellow. The criminal left behind the most revealing <textEffects>evidence</textEffects>. How else could you explain...these <textEffects>three bones</textEffects>?!
+</line><line>Strogenov:
+Ah!
+</line><line>Kazuma:
+<textEffects>(What the...? He's right. look at those gnawed</textEffects> <textEffects>bones </textEffects><textEffects>in there. And</textEffects> <textEffects>three</textEffects> <textEffects>of them...!)</textEffects>
+</line><line>Strogenov:
+Argh! The kriminal has escaped this time! But I will find him...and crush him!
+</line><line>Kazuma:
+...Um, could I ask you something, detective?
+</line><line>???:
+Why yes, of course. I am always delighted to answer an enquiring mind.
+</line><line>Kazuma:
+In this 'terrible theft', what exactly was stolen?
+</line><line>???:
+Ah-ha! What else...but some steaks on the rib bone!
+</line><line>Kazuma:
+Huh? Did...did you say, 'steaks on the rib bone'?
+</line><line>Strogenov:
+For this evening's dinner. Three rib steaks were stolen from ship's kitchen only short time ago. There was malfunction with generator and ship was without lights for ten minutes. Chef who saw kriminal said that he ran away down first-class passageway. And now I am on his tail!
+</line><line>???:
+I'm afraid to say, dear fellow, that your man is no longer in this cabin.
+</line><line>Strogenov:
+But...how?
+</line><line>???:
+Through the cabin door, no less. Having devoured his haul in this wardrobe, the culprit discarded the bones... ...and concealed himself behind the cabin door as you came inside. Then... ...when attention was turned to the wardrobe, he seized his chance to escape through the open door!
+</line><line>Strogenov:
+What?!
+</line><line>???:
+Make haste, my good man! After the culprit! I shall follow presently.
+</line><line>Strogenov:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest?cb=20210426133548" class="image"><img alt="Hold it Ryunosuke" src="https://static.wikia.nocookie.net/aceattorney/images/6/60/Hold_it_Ryunosuke.png/revision/latest/scale-to-width-down/260?cb=20210426133548" decoding="async" loading="lazy" width="260" height="146" data-image-name="Hold it Ryunosuke.png" data-image-key="Hold_it_Ryunosuke.png" data-relevant="1" /></a>
+</line><line>???:
+...Something troubles you, sir?
+</line><line>Strogenov:
+I think maybe...kriminal is not running away at all!
+</line><line>Kazuma:
+...! What are you suggesting?
+</line><line>Strogenov:
+Now I know where the dog is buried. ...Mr Asogi.
+</line><line>Kazuma:
+M-Me?
+</line><line>Strogenov:
+Da! When I think that you are culprit, everything is falling in places.
+</line><line>Kazuma:
+...!
+</line><line>Strogenov:
+The kriminal that disappeared in first-class passageway... The bones in the wardrobe... All clues are pointing their fingers at you!
+</line><line>Kazuma:
+D-Don't be ridiculous! I would never...
+</line><line>???:
+Yes, yes, of course. I established at once that you couldn't be the perpetrator of this crime.
+</line><line>Kazuma:
+You did?
+</line><line>Strogenov:
+Why? How are you so sure?
+</line><line>???:
+My dear fellow... ...there are but <textEffects>two</textEffects> things in this world on which one can rely with total certainty.
+</line><line>Strogenov:
+What two things?
+</line><line>???:
+The first, is the word of a great detective. And the second...
+</line>
+<center>*Groan*</center>
+<line>
+???:
+The second is the tragic rumbling of <textEffects>an empty belly</textEffects>.
+</line><line>Kazuma:
+Ah! <textEffects>(Not again!)</textEffects>
+</line><line>???:
+When I first entered this cabin... ...there did arise from this gentleman a belly rumbling so odiously tragic, that it confirmed beyond all doubt... ...that the man had not eaten a single rib steak in some time, let alone three!
+</line>
+<center>*Groan*</center>
+<line>
+Kazuma:
+<textEffects>(Why do I have to suffer this humiliation? When I've done nothing wrong!)</textEffects>
+</line><line>Strogenov:
+......... Curses! I will catch this thief! He cannot have gone far!
+</line><line>???:
+Indeed. Assuming he decided against a post-meal constitutional swim. Well, if you will excuse me now. My apologies for upsetting your evening.
+</line><line>Kazuma:
+Detective! One moment, please.
+</line><line>???:
+Yes?
+</line><line>Kazuma:
+That was...a most remarkable deduction. Perhaps you'd be kind enough to tell me your name?
+</line><line>???:
+Ah, it quite slipped my mind. You have been talking with the one and only...
+</line><line>Sholmes:
+...Herlock Sholmes!
+</line><line>Kazuma:
+I see. Well, I'm Kazuma Asogi. I'm a student, on my way to Great Britain.
+</line><line>Sholmes:
+Pleased to make your acquaintance, Mr Asogi. Oh, and before I forget...
+</line><line>Kazuma:
+Yes?
+</line><line>Sholmes:
+...I feel I should warn you. Live cargo is strictly forbidden on this vessel. So you would do well to conceal <textEffects>the stowaway</textEffects> currently lying low under your bed as carefully as possible.
+</line><line>Kazuma:
+Oh... <textEffects>(Under the bed...?)</textEffects>
+</line><line>Sholmes:
+I bid you farewell then...Mr Asogi.
+</line><line>Kazuma:
+<textEffects>(He's uncovered our secret! I supposed I should have expected nothing less...of <span style="color:#E16935">a great detective</textEffects>.)</span>
+</line>
+<hr />
+<line>Kazuma:
+Now then... ...when did you move in under the bed? I thought we'd had it when he opened the wardrobe door.
+</line><line>Ryunosuke:
+Ah, well, it was thanks to that split-second chance you engineered.
+</line><line>Kazuma:
+That I what?
+</line><line>Ryunosuke:
+You distracted him for a moment, remember? When you suggested that he investigated the other cabins instead.
+</line><line>Kazuma:
+Oh yes. He turned to look towards the corridor, didn't he?
+</line><line>Ryunosuke:
+Well, I couldn't see what he was doing, of course. But I thought to myself, '<textEffects>It's now or never!</textEffects>' and the next thing I knew, I was under the bed!
+</line><line>Kazuma:
+You really know how to give me a scare, don't you? Anyway... ...what's all this about <textEffects>the rib steaks</textEffects>, eh?
+</line><line>Ryunosuke:
+Ugh...sorry about that. I've, I've just been so hungry!
+</line><line>Kazuma:
+.........
+</line><line>Ryunosuke:
+Ever since we left Japan, stuck in that tiny wardrobe... Well, you should know! You've been splitting all your meals with me, You must be starving, too, surely?
+</line><line>Kazuma:
+*Grooooan* <textEffects>(Right on cue...)</textEffects>
+</line><line>Ryunosuke:
+And there was that power cut before, wasn't there? For about ten minutes.
+</line><line>Kazuma:
+So it was then...
+</line><line>Ryunosuke:
+I caught a whiff of the most delicious smell. And I thought to myself, '<textEffects>It's now or never!</textEffects>' The next thing I knew, I had the steak in my hands.
+</line><line>Kazuma:
+<textEffects>(This man just <span style="color:#E16935">can't help getting himself into trouble</textEffects>.)</span> Well alright, you were hungry. But three steaks? Thanks to you, three crewmen are going to go without tonight, I imagine.
+</line><line>Ryunosuke:
+No, it was <textEffects>just the one</textEffects>.
+</line><line>Kazuma:
+What?
+</line><line>Ryunosuke:
+I only took one rib steak from the kitchen, that's all.
+</line><line>Kazuma:
+But...I don't understand.
+</line><line>Ryunosuke:
+Hey, I'm not that selfish! If I'd stolen three steaks, I'd at least have tossed one your way.
+</line><line>Kazuma:
+...I'm not your pet dog. Well in that case...who stole the other two?
+</line><line>Ryunosuke:
+......... Ah! Do you think...? C-Could there be a g-g-ghost on board? A m-m-meat-loving g-g-g-ghost?
+</line><line>Kazuma:
+</line>
+<line><textEffects>(There can only have been a single bone in the wardrobe when Ryunosuke moved to hide under the bed. Which means that the other two bones can only have been put there by <span style="color:#E16935">one very flesh-and-blood person</textEffects>...)</span> </line><center>...Haha...</center>
+<line>
+Ryunosuke:
+Wh-What's so funny? We're on a h-h-haunted g-ghost ship!
+</line><line>Kazuma:
+A great detective...or a great mischief-maker? <textEffects>(Either way...I think I'd like to spend a little more time getting to know that man. The great</textEffects> <textEffects>Herr Lock Sholmes</textEffects><textEffects>...)</textEffects>
+</line>
+</xml>

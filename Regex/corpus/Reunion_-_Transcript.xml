@@ -1,0 +1,264 @@
+<xml>
+
+<title>Reunion</title>
+
+<line>
+<i>Layton's Office</i>
+</line><line>Luke:
+Professor... Shall I make the tea?
+</line><line>Layton:
+Not just yet... They should be arriving soon. Let's wait until they get here, Luke.
+</line><line>Luke:
+Right you are, Professor!
+</line><line>???:
+</line>
+<captions aligned="center">...Hello? Sorry I'm late...</captions>
+<line>
+Luke:
+Wow, you're here! Please, come on in!
+</line><line>Layton:
+Good day, Mr Wright.
+</line><line>Phoenix:
+Hey there, Professor! Luke! It's been a long time!
+</line><line>Layton:
+Indeed it has. I'm delighted you were able to come.
+</line><line>Luke:
+Hang on... Mr Wright...where's Maya?
+</line><line>Phoenix:
+Oh, um... She's... How can I put this? She's on a "culinary quest".
+</line><line>Layton:
+A quest, you say...?
+</line><line>Phoenix:
+She's checking out <textEffects>fish &amp; chips</textEffects> here in London. "Mystic Maya's quest for the best of the best"...as she put it.
+</line><line>Luke:
+...You don't say?
+</line><line>Phoenix:
+She said she wanted to check out all the different places she can find one by one, so she's going to be a little late. She probably has about two or three more left to try before she gets here.
+</line><line>Luke:
+I'm starting to think Maya enjoys eating almost as much as I do!
+</line><line>Layton:
+Well, why don't we all have a nice cup of tea while we wait? Would you mind making it, Luke?
+</line><line>Luke:
+No problem, Professor!
+</line>
+<hr />
+<line>Phoenix:
+I've gotta say, you both seem to be doing well.
+</line><line>Luke:
+Thanks! We definitely keep ourselves busy, don't we, Professor?
+</line><line>Phoenix:
+I can imagine you guys have been up to your necks in adventures and swamped with puzzles. Business as usual, huh?
+</line><line>Layton:
+I must admit, that's fairly close to the truth.
+</line><line>Luke:
+Are things pretty much the same with you, Mr Wright? ...Still up to your neck in objections and swamped with contradictions?
+</line><line>Phoenix:
+Uhh... Sure... I guess so... Say, my job sounds really...underwhelming when you put it that way.
+</line><line>???:
+</line>
+<captions aligned="center">Hey! What gives?!</captions>
+<line>
+Maya:
+You're all having tea without me?!
+</line><line>Luke:
+Oh! Hiya, Maya!
+</line><line>Layton:
+Ah, Miss Fey. A pleasure to see you again.
+</line><line>Maya:
+Long time no see, Luke! And I see you're still wearing that classy hat, Professor. How are you guys?
+</line><line>Layton:
+All the better for your presence, Miss Fey.
+</line><line>Luke:
+So, did you find it? The best <textEffects>fish &amp; chip</textEffects> shop in London?
+</line><line>Maya:
+Even better! I bought a takeout from each one of the places I visited. I hope you guys are hungry!
+</line><line>Layton:
+Now that Miss Fey has joined us, I suggest another pot of tea is in order.
+</line><line>Luke:
+I'll second that, Professor!
+</line>
+<hr />
+<line>Layton:
+I see... So, once again you're here courtesy of the Legal League of Attorneys?
+</line><line>Phoenix:
+That's right... We have a technical exchange trial starting tomorrow morning.
+</line><line>Maya:
+Time sure flies... It's hard to believe an entire year has passed since we left Labyrinthia.
+</line><line>Luke:
+I wonder how everyone there is doing...
+</line><line>Maya:
+It would be just great to see Espella again, wouldn't it?
+</line><line>Phoenix:
+Yeah, and Patty. I wonder how they're both doing... I'm curious as to how Barnham's been keeping himself busy.
+</line><line>Maya:
+Hey, Nick... I bet you're just DYING to see Barnham's dog <textEffects>Constantine</textEffects> again, huh?
+</line><line>Phoenix:
+Uuuurgh... And I bet he's just DYING to take another bite out of me...
+</line><line>Luke:
+Hm...?! Professor, I think we have a visitor.
+</line><line>Layton:
+At this late hour? I can't say I've been expecting anybody.
+</line><line>Luke:
+I'll go and see who it is.
+</line>
+<hr />
+<line>???:
+Are you...Mr Hershel Layton?
+</line><line>Layton:
+Yes, indeed I am. My dear young lady, how may I be of assistance?
+</line><line>???:
+I have been asked...to give you a letter. Please, could you read this?
+</line>
+<hr />
+<line>Layton:
+This letter...it's from Carmine.
+</line><line>Espella:
+Um...what was my next line? I forgot! Hee hee! How have you been, Mr Layton?
+</line><line>Luke:
+That was a perfect performance, Espella! I felt like we'd gone back in time!
+</line><line>Phoenix:
+<textEffects>(Wow, guys... Talk about putting on a show...)</textEffects>
+</line><line>Espella:
+Mr Wright, Maya! It's so good to see you both again! So how did you like the <textEffects>re-enactment</textEffects> of our first meeting?
+</line><line>Phoenix:
+Err, yeah... You totally had me fooled... I thought for sure Labyrinthia had come down with another case of "magic water"...
+</line><line>Maya:
+What are you saying, Nick? They just re-enacted the <textEffects>fateful scene</textEffects> from when they first met!
+</line><line>Luke:
+I bet the fans could <textEffects>recognise</textEffects> that scene in an instant!
+</line><line>Phoenix:
+<textEffects>(...How was I supposed to know? I wasn't even there... Hey, wait! Neither were you, Maya!)</textEffects>
+</line><line>Layton:
+Incidentally...where is Carmine? I invited him to join us too.
+</line><line>Espella:
+Oh, that's right... He won't be able to make it tonight.
+</line><line>Luke:
+Really? That's a bit of a shame...
+</line><line>Espella:
+Speaking of Carmine, that letter I just gave you is actually a message from him.
+</line><line>Luke:
+Let's read it, Professor!
+</line>
+<captions aligned="center">Dear Professor,
+<line>It has been a long time. There's so much I would like to tell you, but at present I do not have the time. I am currently lying in a hospital bed. It all happened two months ago. I had just received a new assignment and set off towards town, when suddenly... I was hit by an oncoming car that crossed into my lane without warning. This evening, I tried to sneak out of the hospital... ...but before I could, they found me. I'm sorry to say that I won't be able to make it to yours tonight after all. Alas, the lights in the ward have been turned off already... As such, I am forced to leave you with the only words appropriate for such a situation. ...Goodnight, Professor.
+</line>
+Your faithful student,Carmine Accidenti</captions>
+<line>
+Luke:
+...Who'd have thought Carmine would get involved in another car accident?
+</line><line>Layton:
+Indeed, he seems to be making rather a habit of it...
+</line><line>Phoenix:
+Hmm... <textEffects>(That's one dangerous habit...)</textEffects>
+</line><line>Maya:
+I say he should just <textEffects>change his name</textEffects>. Clearly it's totally jinxed!
+</line><line>Phoenix:
+<textEffects>(I don't think that's how it works, Maya...)</textEffects>
+</line><line>Layton:
+Right, then. Now that everyone's here, what do you all say to some tea? Care to do the honours, Luke?
+</line><line>Phoenix:
+I... Uh...
+</line><line>Layton:
+What is it, Mr Wright?
+</line><line>Phoenix:
+Oh, um...it's nothing!
+</line>
+<hr />
+<line>Maya:
+Wow, that's great! I'm so glad to hear everyone's doing fine back in Labyrinthia.
+</line><line>Espella:
+Everyone's working very hard to create a new town: Labyrinthia 2.0.
+</line><line>Luke:
+So, Mrs Eclaire and Mr Barnham weren't able to come today?
+</line><line>Espella:
+I'm afraid not. They really wanted to, but they just couldn't take the time off.
+</line><line>Layton:
+Well, there's no rush. Apparently, these <textEffects>Special Episodes</textEffects> are set to continue for a while yet.
+</line><line>Luke:
+That's right! I'm sure we'll have the chance to see them all again soon.
+</line><line>Layton:
+Now then, everybody... Shall we begin?
+</line><line>Phoenix:
+Um...<textEffects>begin</textEffects>? Begin what, Professor?
+</line><line>Layton:
+Why, that should go without saying, Mr Wright... Now that we're all here, it can only mean one thing...
+</line><line>Phoenix:
+Uhh...I think I know where this is going.
+</line><line>Luke:
+Ah...I've got it! You mean <textEffects>puzzles</textEffects>, don't you, Professor?
+</line><line>Maya:
+...Puzzles?
+</line><line>Layton:
+Yes, puzzles dropped from the main game... Ahem...I mean, specially prepared for our further enjoyment.
+</line><line>Espella:
+Oh! It's been so long... May I have a try?
+</line><line>Luke:
+I'm always ready for a new puzzle or two!
+</line><line>Maya:
+Me too! I'm up for this!
+</line><line>Layton:
+Well then, puzzle time it is. Although, before we start... why don't we all have another cup of tea? If you would, Luke.
+</line><line>Phoenix:
+...Huh?!
+</line><line>Luke:
+Is something the matter, Mr Wright?
+</line><line>Phoenix:
+Um... N-no, nothing at all...
+</line><line>Maya:
+...Nick? Can we, uh...talk for a sec? We've had SO much <textEffects>tea</textEffects>... One more drop and I think I'm gonna burst!
+</line><line>Phoenix:
+Tell me about it... Any more <textEffects>tea</textEffects> and we're gonna end up with a water problem of our own...
+</line><line>Espella:
+Hee hee... You know, you two can take a little break if you need it.
+</line><line>Layton:
+How right you are, Espella. Speaking of a <textEffects>break</textEffects>, how about a nice, leisurely puzzle to relax ourselves? Can you blend this, Espella?
+</line>
+
+<line>
+Luke:
+She did it, Professor!
+</line><line>Maya:
+Y'know, I think I'd rather be full of puzzles than full of tea any day!
+</line><line>Luke:
+Speaking of tea... Now that we've solved the puzzle, let's all celebrate... with another cuppa! Right, Professor?
+</line><line>Layton:
+............ Not this time, Luke. I think we've all had enough tea for now.
+</line><line>Luke:
+Oh... Have we, Professor?
+</line><line>Layton:
+I think it might be time to try some of those <textEffects>fish &amp; chips</textEffects> instead. Wouldn't you agree, Luke?
+</line>
+<hr />
+<line>Maya:
+I'm so full...I couldn't eat another fry-uhh... I mean, "chip"! By the way, Nick... Just <textEffects>how many</textEffects> cups of tea do you think we all got through tonight?
+</line><line>Phoenix:
+Let's see, now... We all had a cup when I got here. That makes for a total of... <textEffects>three cups</textEffects>, altogether...
+</line><line>Maya:
+Then, we all had another one each when I got here, which is <textEffects>another four cups</textEffects>. That makes <textEffects>seven cups</textEffects> in total.
+</line><line>Espella:
+And when I arrived, we all drank one more, which is another <textEffects>five cups</textEffects>. ...That brings the total to <textEffects>twelve</textEffects>.
+</line><line>Phoenix:
+And finally, we all had another cup right before solving that puzzle just now... That's another <textEffects>five cups</textEffects>, bringing the grand total to <textEffects>seventeen</textEffects> cups of tea.
+</line><line>Maya:
+<textEffects>Seventeen cups</textEffects>, huh... ............ Say, Nick... Maybe the professor has a <textEffects>rule</textEffects> when it comes to drinking tea.
+</line><line>Phoenix:
+...What do you mean?
+</line><line>Maya:
+You know, something like... "I never drink more than <textEffects>17 cups</textEffects> of tea during any given puzzle".
+</line><line>Phoenix:
+............ Maya... You might want to think twice about using that kind of <textEffects>Ace Attorney reference</textEffects> here...
+</line>
+<hr />
+<line>Luke:
+Well, that's about it for <textEffects>Episode 1</textEffects>! Until next time!
+</line><line>Layton:
+In the next episode, we'll be inviting along more of the characters you all came to know and love...
+</line><line>Phoenix:
+Hey, Professor. Is it really okay for everyone to be so, err...<textEffects>self-aware</textEffects> like this?
+</line><line>Maya:
+Ease up, Nick! Sometimes a little self-awareness is fun. Isn't that right, <textEffects>avid video game player</textEffects>?
+</line><line>Luke:
+We'll see you all again next time, then!
+</line>
+<captions aligned="center">To Be Continued...</captions>
+</xml>

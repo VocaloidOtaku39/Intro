@@ -1,0 +1,2782 @@
+<xml>
+
+<title>The Foreign Turnabout</title>
+
+<line>
+</line>
+<captions aligned="center">Here in Khura'in, death is not the end. Even after death, the soul lives on in the Twilight Realm... ...and priestesses can commune with the spirits of the dead. Fear not death. In the name of the Holy Mother... ...fear only impurities of your soul.</captions>
+<line>
+???:
+This blight on my soul... I'll have the child take the blame...
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 23, 4:26 PMKingdom of Khura'in</textEffects></captions>
+<line>
+Phoenix:
+<textEffects>(Whew! I'm finally here. So this is the <span style="color:#E16935">Kingdom of Khura'in</textEffects>, huh? What a long trip. I wonder how many hours I was in the air. But just look at this place! Get a load of this street! It really feels like I'm in another world here! And that gorgeous temple! I read that's the center of town. Wow! An ox right in the middle of the street! I have to get a picture of that!)</span>
+</line><line>???:
+E-Excuse me, sir.
+</line><line>Phoenix:
+<textEffects>(I wonder what kind of bird that is. I've never seen anything like it. That's quite a crest it has on its head!)</textEffects>
+</line><line>???:
+Excuse me, sir!
+</line><line>Phoenix:
+What? Oh! Yes?
+</line><line>???:
+Pardon me, but are you Mr. Wright?
+</line><line>Phoenix:
+Uh, yes, that's right. <textEffects>(Oops. Hope he hasn't been trying to get my attention all this time...)</textEffects> Wait a minute. Are you...?
+</line><line>Ahlbi:
+That's right! <textEffects>Ahlbi Ur'gaid</textEffects>, at your service! I'm a monk-in-training at Tehm'pul Temple, and I'll be your guide around town. It's very nice to meet you. Hap'piraki!
+</line><line>Phoenix:
+"H-Happy" what, now...?
+</line><line>Ahlbi:
+"Hap'piraki"! That's how we greet people here in Khura'in. It's like "Hello!" or "How do you do?" It's a pretty handy expression to know!
+</line><line>Phoenix:
+Okay, let me give it a try. Hello. I'm Phoenix Wright. Hap'piraki!
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(My name is Phoenix Wright. And I run a small law office. Well, that's what I do back home, anyway. Right now, I'm just a traveler; a stranger in a strange land.)</textEffects>
+</line>
+<hr />
+<line>Ahlbi:
+Welcome to our country! Welcome to the Kingdom of Khura'in, land of spirit mediums and mystery! This is for you! To celebrate your arrival!
+</line><line>Phoenix:
+S-Speaking of mystery, what is this mysterious green lump, exactly?
+</line><line>Ahlbi:
+Allow me to explain! This is a famous Khura'inese sweet bun. It's called a "<textEffects>magatah'man</textEffects>," or "<textEffects>soul bun</textEffects>"! It's shaped like a magatama. It's so yummy it'll send your soul right to the Twilight Realm!
+</line><line>Phoenix:
+<textEffects>(That... doesn't exactly make me eager to try it...)</textEffects> Th-Thanks. <textEffects>(I think I'll indulge later.)</textEffects>
+</line><line>Ahlbi:
+That will be twenty dahmas. Thank you for your patronage!
+</line><line>Phoenix:
+<textEffects>(I have to pay?)</textEffects>
+</line><line>Ahlbi:
+I always have plenty of those on hand, so just let me know if you ever want any more!
+</line><line>Phoenix:
+<textEffects>(No wonder his bag looks so heavy. It's stuffed with all the tools of his trade.)</textEffects>
+</line><line>Ahlbi:
+Oops! I almost forgot to tell you something really important. It's about <textEffects>Miss Maya</textEffects>. She can't come to see you for a few days yet.
+</line><line>Phoenix:
+Yeah. When I called her from the airport, she said she was still training up in the mountains. I told her I'd wait for her here. Either way, I was glad to hear she's in good spirits. <textEffects>(Maya Fey. She's a spirit medium who used to work as my assistant. I came all the way out here to celebrate the end of her ascetic training with her.)</textEffects> Ahlbi, this is my first time in this country, so I'll be counting on you, okay?
+</line><line>Ahlbi:
+You got it, sir! Please don't hesitate if you need anything at all!
+</line><line>Phoenix:
+Maya was right when she told me I could leave everything in your capable hands.
+</line><line>Ahlbi:
+Aww shucks, she said that? That sure was nice of her! I had a chance to show Miss Maya around a little bit, too.
+</line><line>Phoenix:
+<textEffects>(If there's one person Maya WAS worried about, it's me. "Because we both know trouble likes to follow you wherever you go," she said. Hmph! That girl worries too much.)</textEffects>
+</line><line>Ahlbi:
+But you sure came early to the party, Mr. Wright, sir! I mean, Miss Maya won't be done with her training for another two weeks.
+</line><line>Phoenix:
+<textEffects>(Ugh. I hate to admit it, but I came early because I was worried about her, too...)</textEffects> Oh, well, you know. Ha ha! I thought I'd get in a little sightseeing first.
+</line><line>Ahlbi:
+Ooh, sightseeing?! Well, I'm your man for that! I'll show you all the best sights this country has to offer!
+</line><line>Phoenix:
+Th-Thanks. That would be great. <textEffects>(I guess Ahlbi takes his job very seriously.)</textEffects>
+</line><line>Ahlbi:
+Well?! What are we waiting for? Those sights aren't going to see themselves!
+</line><line>Phoenix:
+Yikes! You don't have to shove!
+</line><line>Ahlbi:
+First stop, <textEffects>Tehm'pul Temple</textEffects>, right there in the center of town! There's something there I really want to show you!
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 23, 4:45 PMTehm'pul Temple Plaza</textEffects></captions>
+<line>
+Phoenix:
+<textEffects>(Wow! It's even more impressive up close!)</textEffects>
+</line><line>Ahlbi:
+Allow me to explain! This is the heart of our town, Tehm'pul Temple. It was created by the founder of <textEffects>Khura'inism</textEffects>, the <textEffects>Holy Mother</textEffects>, herself! I'm training right here at this temple to be a monk someday.
+</line><line>Phoenix:
+<textEffects>(I read that the people of this country are all adherents of Khura'inism. According to my guidebook, it's a religion in which ancestral spirits are venerated.)</textEffects>
+</line><line>Ahlbi:
+The Holy Mother was a great <textEffects>spirit medium</textEffects> who could commune with our ancestors' souls. And spirit mediums become <textEffects>queen</textEffects> to this day, direct descendants of the Holy Mother.
+</line><line>Phoenix:
+<textEffects>(A spirit medium rules the entire country, huh. Talk about power and influence...)</textEffects>
+</line><line>Ahlbi:
+The main thing you'll want to see when you come to Tehm'pul Temple is... ...the <textEffects>Dance of Devotion</textEffects> rite! The Dance of Devotion takes place twice, one in the morning and once in the afternoon. This dance, along with the <textEffects>Song of Ceremony</textEffects>, is performed in offering to the Holy Mother! The Dance of Devotion has the power to summon forth souls from the Twilight Realm! In Khura'inism, we believe the soul is carried by the sacred Khura'inese butterfly! Its wings form a loop that wraps around the soul to transport it--
+</line><line>Phoenix:
+Hold it! Slow down! I can't remember all of that at once.
+</line><line>Ahlbi:
+Oh! I'm sorry! I guess I got a little overexcited.
+</line><line>Phoenix:
+Anyway, the main thing I got from all that is that you really, really love your country.
+</line><line>Ahlbi:
+Heh heh. Well, that's sure true!
+</line><line>Phoenix:
+<textEffects>(I like this kid. He pours his heart into everything he does.)</textEffects>
+</line><line>Ahlbi:
+Let's see. I guess I just explained about half of what I usually explain... so I'll give you a special discount and only charge you ten dahmas for the tour fee. Thank you for your patronage!
+</line><line>Phoenix:
+<textEffects>(I guess he pours his heart into aggressive salesmanship, too.)</textEffects>
+</line><line>Ahlbi:
+Come to think of it, Miss Maya told me she could tell I love my country, too. We stood here for about an hour while I told her all about the Holy Mother.
+</line><line>Phoenix:
+Really?! An hour?! <textEffects>(Hope that counted as patience training...)</textEffects>
+</line><line>Ahlbi:
+And she seemed really interested, too. She listened to my whole speech!
+</line><line>Phoenix:
+<textEffects>(Huh. That doesn't sound like the Maya I know.)</textEffects>
+</line><line>Ahlbi:
+Miss Maya is so kind and nice! She treats me really well, like a little brother. She's kinda like a big sister to me!
+</line><line>Phoenix:
+<textEffects>(This IS Maya Fey you're talking about, right? Maybe she's grown up since I last saw her...)</textEffects>
+</line>
+<captions aligned="center"><textEffects>Clang! Clang! Clang!</textEffects></captions>
+<line>
+Ahlbi:
+Oh, nooooooooooo!
+</line><line>Phoenix:
+What's the matter?
+</line><line>Ahlbi:
+Is it that time already?! We have to hurry into the temple right away! But first... let me give you this lyrics card for the Song of Ceremony I told you about. There's an English translation of the lyrics there, too, so give it a read, okay? Let's go!
+</line><line>Phoenix:
+B-But why the big rush?
+</line><line>Ahlbi:
+If we don't hurry, we'll miss the beginning of <textEffects>Her Benevolence</textEffects>'s Dance of Devotion!
+</line><line>Phoenix:
+<textEffects>("Her Benevolence"?)</textEffects>
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Singer:
+♪ When dragon and tiger battle ♪
+♪ The founder offers divine protection ♪
+♪ When the butterfly embraces the mitamah ♪
+♪ The favor of the orb is bestowed ♪
+</line><line>Guard:
+- Ahlbi Ur'gaid, you're under arrest for treason!
+</line><line>
+</line>
+<hr />
+<captions aligned="center"><textEffects>April 24, 10:10 AMHigh Court of Khura'in - Accused Lobby</textEffects></captions>
+<line>
+Phoenix:
+Let me in! Why won't you let me in?!
+</line><line>Bailiff:
+'Cause you're a foreigner! What business could you have with this court?!
+</line><line>Phoenix:
+I told you! My friend is on trial in there! <textEffects>(The police raided the temple in the middle of the dance performance yesterday... and arrested Ahlbi on suspicion of <span style="color:#E16935">treason</textEffects>. I was worried about Ahlbi, so I just had to come see his trial.)</span>
+</line><line>Bailiff:
+A trial isn't a tourist attraction! So, clear off! If you want a picture for your scrapbook, take one of me, and get outta here!
+</line><line>Phoenix:
+Look, you've got it all wrong! <textEffects>(Just great... Well, I guess there's only one thing to do!)</textEffects>
+</line>
+
+
+<line>Phoenix:
+Yes, I'm a foreigner, but I'm not your average foreigner.
+</line><line>Bailiff:
+What?
+</line><line>Phoenix:
+I'm actually a lawyer! <textEffects>(Back at home, anyway.)</textEffects>
+</line><line>............
+</line><line>Bailiff:
+What...? A... lawyer...? I can't... That's not possible...!
+</line><line>Phoenix:
+<textEffects>(What's he so shocked about? Well, whatever... Now's my chance!)</textEffects> Nothing wrong with a lawyer entering the courtroom, right?
+</line><line>Bailiff:
+Wait! Get back here, you!
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(So this is a Khura'inese courtroom... Wait. Isn't that..."Her Benevolence"? What's she doing here in court?)</textEffects>
+</line><line>Judge:
+The <textEffects>Divination Séance</textEffects> has been performed. I will now hand down my verdict against the accused.
+</line>
+<captions aligned="center"><b>Guilty</b></captions>
+<line>
+Phoenix:
+<textEffects>(What? A verdict already? But the trial only just started!)</textEffects>
+</line><line>Ahlbi:
+G-Guilty?! There's gotta be some kind of mistake! Please take another look!
+</line><line>Judge:
+Séances performed by Princess Rayfa are infallible. They show only the truth. What right do you have to question her abilities?
+</line><line>Ahlbi:
+But I... I didn't...!
+</line><line>Payne:
+Isn't it ironic that you, a devout adherent of Khura'inism, would dare doubt her Insight? Heh heh. Nonbelievers will only be met with suffering in the Twilight Realm, you know.
+</line><line>Ahlbi:
+But... I didn't do it! Your Benevolence! Allow me to explain, I beg of you!
+</line><line>Rayfa:
+......Be silent, impudent whelp! There is no merit to be had in indulging the ramblings born of a criminal's unclean soul.
+</line><line>Ahlbi:
+B-But...
+</line><line>Phoenix:
+<textEffects>(What in the world is going on here? The judge made his ruling based on something called a "<span style="color:#E16935">Divination Séance</textEffects>"? What is Ahlbi's attorney doing? Wait a minute! Where IS Ahlbi's attorney?!)</span>
+</line><line>Ahlbi:
+Why is this happening...? I didn't do anything wrong!
+</line><line>Rayfa:
+Foolish child. Doubting the Divination Séance is tantamount to doubting the Holy Mother herself. Your Magistry! As royal priestess and in the name of the Holy Mother, I command you! Impose the highest penalty against this unclean soul!
+</line><line>Judge:
+As you command, so shall it be done, Your Benevolence. May Her Holiness grant us her divine favor! Ur dihara Khura'in!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Ur dihara Khura'in! Ur dihara Khura'in! Ur dihara Khura'in!</captions>
+<line>
+Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" /></a>
+</line><line>Judge:
+What?
+</line><line>Rayfa:
+!
+</line><line>Payne:
+!
+</line><line>Phoenix:
+Wait just one moment!
+</line><line>Payne:
+Y-You're...!
+</line><line>Phoenix:
+<textEffects>(Ugh. Me and my big mouth. Now what?)</textEffects>
+</line><line>Ahlbi:
+Mr. Wright...? What are you doing here, sir?
+</line><line>Phoenix:
+<textEffects>(Well, I'm in it now! So I have to do this right!)</textEffects> Your Honor! It's too soon to give your verdict! This trial has only been underway for a few minutes!
+</line><line>Judge:
+E-Excuse me? Who on earth are you?!
+</line><line>Phoenix:
+I'm... well... ...an ordinary tourist, Your Honor -- just passing through.
+</line><line>Judge:
+Ah, a tourist, are you? Hap'piraki.
+</line><line>Phoenix:
+But, more importantly, where is this boy's defense attorney?!
+</line><line>Judge:
+Defense... attorney...? Ha ha ha ha! What ever are you talking about? He doesn't need a defense attorney!
+</line><line>Phoenix:
+Wait. What?
+</line><line>Judge:
+Of course you wouldn't be aware, being a foreigner and all... ...but we have no need for defense attorneys here in the Kingdom of Khura'in. We leave it all up to Her Benevolence's sacred power of Spirit Communion. Her <textEffects>Divination Séances</textEffects> determine all.
+</line><line>Phoenix:
+What?! But surely you see how unfair that is! <textEffects>(What kind of insane court system are they running here?!)</textEffects>
+</line><line>Rayfa:
+You would dare mock me, you barb-headed buffoon? If you value your life, you will leave posthaste... Or shall I summon the bailiff?
+</line><line>Phoenix:
+<textEffects>(The bailiff is that big, scary dude with the big, scary gun, isn't he...?)</textEffects>
+</line><line>Rayfa:
+I'm sure he would be happy to oblige you with a bullet or two as a souvenir of your travels.
+</line><line>Phoenix:
+<textEffects>(At the cost of an arm and a leg, no doubt...)</textEffects>
+</line><line>Ahlbi:
+N-Now, hold on! Mr. Wright has nothing to do with any of this!
+</line><line>Phoenix:
+Ahlbi!
+</line><line>Ahlbi:
+I appreciate what you're trying to do, Mr. Wright, but never mind about me. You just go ahead and see Miss Maya.
+</line><line>Phoenix:
+But...
+</line><line>Ahlbi:
+Forget about me! You have to go, now! I'm sure you can find another guide. There were lots more places I wanted to show you... ...but it looks like I won't get a chance now. I'm sorry.
+</line><line>Phoenix:
+<textEffects>(......The poor kid. He's trying to put on a brave face, but look how terrified he is. What can I do? What should I do?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(I can't just let a verdict be handed down with nobody standing in Ahlbi's corner!)</textEffects> If Ahlbi doesn't have a defense attorney, then I'll do it. I'll defend him!
+</line><line>Judge:
+D-Defend him?! You can't be serious!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Did you hear that?! Is he out of his mind? Heaven forbid!</captions>
+<line>
+Ahlbi:
+Defend me?! Mr. Wright! What are you saying? You can't do that!
+</line><line>Phoenix:
+I most certainly can. Don't worry, I'm quite used to tackling all sorts of trials. Besides, can you imagine how furious Maya would be if I let anything happen to you?
+</line><line>Ahlbi:
+Mr. Wright...
+</line><line>Judge:
+You are but a naïve tourist, ignorant of our ways. But if you are smart, you will heed my advice. Do not pursue this matter any further.
+</line><line>Phoenix:
+<textEffects>(Looks like defending somebody is easier said than done in this country.)</textEffects>
+</line><line>Judge:
+Bailiff, throw this man out!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/4/48/SoJ_Hold_it%21.png/revision/latest?cb=20220419202855" class="image"><img alt="SoJ Hold it!" src="https://static.wikia.nocookie.net/aceattorney/images/4/48/SoJ_Hold_it%21.png/revision/latest/scale-to-width-down/260?cb=20220419202855" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Hold it!.png" data-image-key="SoJ_Hold_it%21.png" data-relevant="1" /></a>
+</line><line>Payne:
+Your Magistry, if you please...
+</line><line>Judge:
+You have something to say, Mr. Payne?
+</line><line>Payne:
+Heh heh heh. Why not allow it, Your Magistry? Why not have him defend the accused? It could prove very interesting. Right, Mr. Phoenix Wright...?
+</line><line>Phoenix:
+Right... <textEffects>(Mr. Whoever-You-Are...)</textEffects>
+</line><line>Judge:
+Prosecutor, are you acquainted with this traveler?
+</line><line>Payne:
+That's "<textEffects>Chief Prosecutor</textEffects>"... Your Magistry. And yes, I am acquainted with him. He's a <textEffects>defense attorney</textEffects> from my native land. I've had dealings with him in the courtroom before.
+</line><line>Rayfa:
+Heavens to Betsy!
+</line><line>Ahlbi:
+What?! Mr. Wright! You're a... defense attorney?
+</line><line>Judge:
+A defense attorney! Well! This is a shock!
+</line><line>Phoenix:
+You may be surprised to hear that I have more than ten years of experience. <textEffects>(I guess there aren't all that many lawyers around here.)</textEffects>
+</line><line>Payne:
+Your Magistry, would you kindly allow us to proceed in the manner of my old country?
+</line><line>Judge:
+But, Mr. Payne! I've already made a ruling in this case.
+</line><line>Payne:
+Heh heh heh. Call it nostalgia, if you will, but I am most eager to give it a try.
+</line><line>Judge:
+Hmm... But I have a previous engagement, you see. A class together with the missus.
+</line><line>Rayfa:
+Your Magistry, I agree we should have a whack at it. It sounds amusing. A score of years have passed since we last saw a defense attorney in this courtroom.
+</line><line>Phoenix:
+<textEffects>(A score... As in twenty years?! What's the deal with this country?!)</textEffects>
+</line><line>Rayfa:
+Mr. Payne, I want that barbed head brought to me on a stick.
+</line><line>Payne:
+As you wish, Your Benevolence! I, Chief Prosecutor Payne, will see to it myself.
+</line><line>Judge:
+Very well, Mr. Payne. If that is what you and Her Benevolence want, I will acquiesce. As for the defense, I hope you are prepared for <textEffects>every eventuality</textEffects>.
+</line><line>Phoenix:
+<textEffects>("Every eventuality"? What is he talking about?)</textEffects>
+</line><line>Payne:
+There. Are you satisfied now, Mr. Wright?
+</line><line>Phoenix:
+Yes. Thank you, Mr. Payne. <textEffects>(And sorry for not remembering you earlier.)</textEffects>
+</line><line>Payne:
+That's "Chief Prosecutor"... or "<textEffects>The Incredible Payne</textEffects>" as I'm also known in this country. And you'll see soon enough just why that is... ...when you're forced to capitulate to me before this very court of law! Heh heh heh.
+</line><line>Phoenix:
+<textEffects>(Why is he so strangely confident? And not only that, but... ...what's with the gallery?)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">Just you watch! That defense attorney will try and twist the truth! You can bet on it! Get him, Chief Prosecutor! Crush that defense devil!</captions>
+<line>
+Phoenix:
+<textEffects>(This is way more lawyer hate than even back home.)</textEffects>
+</line><line>Judge:
+Now, if you would please give your opening argument once again, Mr. Payne.
+</line><line>Payne:
+Certainly, Your Magistry. The accused is charged with two crimes: <textEffects>larceny</textEffects>... and <textEffects>murder</textEffects>. Yesterday, the <textEffects>Founder's Orb</textEffects> was stolen from the treasure room of Tehm'pul Temple. In addition to the theft, two other things were discovered in the treasure room: the <textEffects>dead body</textEffects> of Mr. Paht Rohl, temple security guard, and... ...the empty <textEffects>treasure box</textEffects> that housed the orb which Mr. Rohl was in charge of guarding. We believe that Mr. Rohl was murdered by the thief who stole the treasure.
+</line><line>Judge:
+To kill a guard armed with a gun... What a terrifyingly bold act!
+</line><line>Payne:
+I couldn't agree more, Your Magistry. Please allow me to submit as evidence the victim's autopsy report and crime photo.
+</line><line><textEffects>Rohl's Autopsy Report added to the Court Record.</textEffects>
+</line><line><textEffects>Crime Photo added to the Court Record.</textEffects>
+</line><line>Judge:
+Hmm... It's been a long time since we had evidence presented in court as well. It's kind of refreshing, actually. Ha ha ha!
+</line><line>Payne:
+We may rely on the power of the Séances, but our police still carry out investigations. Thus, any proof I provide is indisputable!
+</line><line>Phoenix:
+<textEffects>(Oh, really? Well, forgive me if I don't just take your word for it. I can check the evidence out myself by looking at them in the <span style="color:#E16935">Court Record</textEffects>. We'll see just how thorough you and your police were, Mr. Payne.)</span>
+</line><line>Judge:
+Such a deplorable crime! The audacity of stealing the sacred treasure of Her Holiness, our founding mother... It's a crime that strikes at the very heart of our nation!
+</line><line>Payne:
+Exactly, Your Magistry! We mustn't let the culprit get away with these heinous deeds. Indeed, such deeds are best described as "treason against the crown."
+</line><line>Phoenix:
+Is this treasure really such a valuable object?
+</line><line>Judge:
+H-How can you even ask such a thing?! Of course it is! Why, sealed within this treasure is the very soul -- the mitamah -- of the Holy Mother!
+</line><line>Phoenix:
+Her soul is sealed within the treasure? <textEffects>(I think I'll take that with a grain of salt.)</textEffects>
+</line><line>Judge:
+Grrr. You don't believe it, do you?!
+</line><line>Phoenix:
+O-Of course I believe it! <textEffects>(Something tells me I'd better play along.)</textEffects>
+</line><line>Judge:
+Hmph. This kind of irreverence is exactly why I dislike defense attorneys so much.
+</line><line>Phoenix:
+Your Honor-- Er, Your Magistry?
+</line><line>Judge:
+What is it now?
+</line><line>Phoenix:
+This treasure... I've never seen it, so it's a little hard for me to imagine. Could I see a photo of it or something?
+</line><line>Judge:
+Of all the outlandish requests! You defense attorneys are truly beyond the pale!
+</line><line>Phoenix:
+<textEffects>(He's been getting awfully angry with me. And are those veins popping out of his forehead?!)</textEffects>
+</line><line>Payne:
+It's forbidden for anyone outisde of the royal family to view the treasure itself. They say that anyone without the proper spiritual power would be blinded instantly. That is why the average person has never seen the treasure, Mr. Wright.
+</line><line>Phoenix:
+<textEffects>(I guess there are national treasures that are off-limits to the public back home, too.)</textEffects>
+</line><line>Payne:
+For the benefit of the shamelessly uninformed defense, let me share this newspaper article. It includes photos taken about eight years ago when the treasure was unearthed. These are the only public photos of the outer box in existence. What's more, the treasure box only leaves the temple's treasure room but once a year... ...for a special New Year's rite that takes place at the palace. Therefore, this treasure box has only ever been seen by a handful of people.
+</line><line><textEffects>Treasure Box added to the Court Record.</textEffects>
+</line><line>Judge:
+I hear there's been a string of thefts lately of historic artifacts from the temple.
+</line><line>Payne:
+Right, Your Magistry. Inexcusable thievery of precious national treasures for personal gain. And the culprit is the accused.
+</line><line>Judge:
+So he used his position as monk-in-training to get his hands on the treasure, is that it?
+</line><line>Payne:
+The accused's family is by no means wealthy. To help with family finances, he works as a tour guide in addition to his ascetic training.
+</line><line>Judge:
+Thank you for giving an excellent outline of the case, Mr. Payne. Now, then. No more questions from the defense, I presume?
+</line><line>Phoenix:
+What? No, I DO have questions!
+</line><line>Judge:
+Even more? But you just asked a bunch. Well, make it snappy. My class starts in just a few short minutes.
+</line><line>Phoenix:
+<textEffects>(What?! He's still planning on going to that thing...? There's still a lot I don't know about the case. I should ask now while I have the chance. Let's see. What else do I need to know more about?)</textEffects>
+</line>
+
+
+
+<line>Phoenix:
+Mr. Payne, what was the murder weapon?
+</line><line>Payne:
+The murder weapon was... the <textEffects>treasure box</textEffects> itself. The empty treasure box left at the scene had a large bloodstain on it.
+</line><line>Judge:
+How utterly reprehensible, using the sacred treasure box for murder!
+</line><line>Payne:
+The accused came to the treasure room with the express purpose of stealing the treasure. He climbed the altar stairs and snatched the box, ready to abscond with the treasure. But he was discovered by Mr. Rohl, who had come to the room in the course of his rounds. After walloping Mr. Rohl on the head with the treasure box... ...the accused forced the bloodied housing open and made off with the treasure inside.
+</line><line><textEffects>Treasure Box updated in the Court Record.</textEffects>
+</line><line>Phoenix:
+But the defendant is just a little boy. I hardly think he would be able to hit the victim -- a grown man -- on the head.
+</line><line>Payne:
+Ah, a very good point, Mr. Wright... but I'm afraid that won't help you. At the time of the crime, the accused was on the stairs leading up to the altar. The accused's elevated position would more than make up for their difference in stature.
+</line><line>Phoenix:
+<textEffects>(Yeah... I guess that makes sense...)</textEffects>
+</line><line>Judge:
+Ha ha ha ha! Mr. Payne, your reasoning is flawless. What an elegant argument! Hats off to you, Chief Prosecutor! Your title is obviously well-earned! Well, the accused's guilt is certainly conclusive. Unless there is anything else, I am ready to announce my verdict. Very well. In that case, I find the accused...
+</line><line>Phoenix:
+J-Just one moment, Your Magistry! Don't-- Don't you think you're rushing the verdict just a little bit?!
+</line><line>Judge:
+I told you. I have plans to attend to, and... AAAAAAAAAAAAAAAAAAAAAAHHH! I'm late! It's already started! How did the time fly by so fast?!
+</line><line>Phoenix:
+<textEffects>(He's STILL stuck on that...?)</textEffects> We haven't even heard the defendant's side of the story yet! Your Magistry, the defense asserts its right to cross-examine the defendant!
+</line><line>............
+</line><line>Phoenix:
+<textEffects>(Huh? Did I say something funny?)</textEffects>
+</line><line>Judge:
+"Cross-examine the"...? What do you mean by that?
+</line><line>Phoenix:
+What?! What do you mean, "what do I mean"?!
+</line><line>Judge:
+I seem to have some dim recollection of the process, but I can't quite recall...
+</line><line>Payne:
+And little wonder! A so called "defendant" hasn't been questioned in over twenty years.
+</line><line>Phoenix:
+<textEffects>(Should I even be surprised anymore?)</textEffects> Anyway, I demand we let the defendant -- or the "accused" -- tell his side of the story!
+</line><line>Judge:
+......Is that really necessary?
+</line><line>Phoenix:
+Of course it's necessary, Your Magistry!
+</line><line>Payne:
+Heh heh heh. What harm could it do? I say we allow the boy to speak, Your Magistry. Though I doubt he'll have anything of relevance to say... Heh heh heh heh heh heh.
+</line><line>Phoenix:
+<textEffects>(Oh, how kind of you, Your Royal Payne-ness.)</textEffects>
+</line><line>Judge:
+Hmm... Very well. As long as it's okay with you, Mr. Payne. I'm already hopelessly late for my class, anyway.
+</line><line>Payne:
+In that case, the prosecution calls the accused back to the witness stand.
+</line><line>Judge:
+Oh! But before we do, I'd better call my wife and apologize for missing that class. Any objections...?
+</line><line>Phoenix:
+...Go for it, Your Magistry.
+</line>
+<hr />
+<line>Payne:
+Accused, state your name and occupation again, if you would.
+</line><line>Ahlbi:
+Ahlbi Ur'gaid... I'm in training to be a monk... and I'm a tour guide, too.
+</line><line>Judge:
+*sigh*... Why me...? Now, where were we?
+</line><line>Phoenix:
+Cross-examining the defendant, Your Magistry.
+</line><line>Judge:
+Right, right. Let's do that, then. At the defense attorney's insistence, I might add. *sigh*...
+</line><line>Phoenix:
+<textEffects>(He sounds a little dispirited. His wife must've given him a piece of her mind.)</textEffects>
+</line><line>Judge:
+Well, the defense had better get to it. And make it quick, if you please.
+</line><line>Ahlbi:
+"Th-The defense"... Mr. Wright... I didn't know you were a lawyer...
+</line><line>Phoenix:
+Well, I am, and I'm here to defend you, Ahlbi. Don't worry. All you have to do is tell the truth, and you'll be all right.
+</line><line>Ahlbi:
+You... You tricked me!
+</line><line>Phoenix:
+What?
+</line><line>Ahlbi:
+If I knew you were a lawyer, I wouldn't have given you that tour! Give back that magatah'man I gave you yesterday!
+</line><line>Phoenix:
+A-Ahlbi, what's gotten into you?
+</line><line>Ahlbi:
+Don't talk to me. You... You disgust me!
+</line><line>Phoenix:
+<textEffects>(Now even Ahlbi's against me! But why?!)</textEffects>
+</line><line>Payne:
+Heh heh heh. This must be a new experience for you, Mr. Wright, being loathed by a client.
+</line><line>Ahlbi:
+............
+</line><line>Payne:
+Now, then, accused, please give the court your testimony. The incident occurred around noon... ...during the break between the morning and afternoon Dances of Devotion. I want you to tell the court what you were doing around that time.
+</line><line>Ahlbi:
+All right...
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects>
+<textEffects>-- The Accused's Account --</textEffects></captions>
+<line>Ahlbi:
+I didn't kill Mr. Rohl, and I didn't steal the treasure.
+I'm not allowed to go anywhere near the treasure room.
+I've never even seen that treasure box with the green Khura'inese butterfly on it!
+When the incident happened, I was in the hallway, planning out my tour route.
+</line>
+<hr />
+<line>Judge:
+Were you well-acquainted with the victim?
+</line><line>Ahlbi:
+Yes. He used to chat with me whenever we ran into each other in the temple. Mr. Rohl was a monk-in-training when he was a kid, too, you know.
+</line><line>Phoenix:
+<textEffects>(I bet Ahlbi looked up to him.)</textEffects>
+</line><line>Ahlbi:
+But he had to give that up and go work when his family needed money... That's why he became a guard. But at least that way, he could still stay on at the temple. He was so proud when he was put in charge of guarding the treasure box! He even got to carry the box to the palace for the New Year's rite!
+</line><line>Payne:
+The victim's parents apparently both died relatively young. So Mr. Rohl had to support his younger brothers and sisters as well. But even with his job as a security guard, I'm sure things couldn't have been easy for him.
+</line><line>Phoenix:
+<textEffects>(It sounds like his circumstances and Ahlbi's were very similar.)</textEffects>
+</line><line>Ahlbi:
+Mr. Rohl encouraged me to never give up. "Ahlbi, you train hard and make sure you become a monk one day! Don't end up like me," he'd say. He was always cheering me on, in my training, and in my tour guide business, too. Why in the world would I kill a nice man like that?!
+</line><line>Judge:
+Yes, yes. I see. You expressed yourself well. Defense, now that you've heard the accused's account, are you finally satisfied? If so, let's draw this to an expeditious conclusion...
+</line><line>Phoenix:
+But, Your Magistry! I haven't even cross-examined the defendant yet!
+</line><line>Judge:
+Hm? That wasn't the end of it? It's been so long, I don't rightly recall what this "cross-examining" thing is all about.
+</line><line>Phoenix:
+<textEffects>(A judge who doesn't know what a "cross-examination" is... What fresh hell is this?)</textEffects>
+</line><line>Judge:
+I really do wish I could remember how it works...
+</line><line>Phoenix:
+<textEffects>(Should I give the judge a refresher on cross-examination?)</textEffects>
+</line>
+
+
+<hr />
+<captions aligned="center"><textEffects>Cross-Examination</textEffects>
+<textEffects>-- The Accused's Account --</textEffects></captions>
+<line>Ahlbi:
+<textEffects>I didn't kill Mr. Rohl, and I didn't steal the treasure.</textEffects>
+</line>
+
+<line>Ahlbi:
+<textEffects>I'm not allowed to go anywhere near the treasure room.</textEffects>
+</line>
+
+<line>Ahlbi:
+<textEffects>I've never even seen that treasure box with the green Khura'inese butterfly on it!</textEffects>
+</line>
+
+
+<line>Ahlbi:
+<textEffects>When the incident happened, I was in the hallway, planning out my tour route.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(I certainly don't think Ahlbi committed murder. However...)</textEffects>
+</line><line>Ahlbi:
+Don't talk to me. You... You disgust me!
+</line><line>Phoenix:
+<textEffects>(...That outburst earlier makes me wonder if he'd willingly tell me the truth. I'd better compare his <span style="color:#E16935">statements</textEffects> and the <textEffects>Court Record</textEffects> carefully. If I find an <textEffects>inconsistency</textEffects>, I can <textEffects>Present some evidence</textEffects> and maybe get him to open up.)</span>
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Oh, Ahlbi... Why would you lie to me...?)</textEffects> So, you say you've never laid eyes on the treasure box. Is that right?
+</line><line>Ahlbi:
+That's right. It's forbidden, so I'd never do that.
+</line><line>Phoenix:
+In that case... how did you know there was a <textEffects>green butterfly</textEffects> on it?
+</line><line>Ahlbi:
+Huh? B-Because... I saw the picture of it... in that newspaper article.
+</line><line>Phoenix:
+Nope. Take another look. These photos are in <textEffects>black and white</textEffects>. You couldn't possibly tell what color the butterfly is from these pictures!
+</line><line>Ahlbi:
+Aaaaagh!
+</line><line>Phoenix:
+<textEffects>(Hold on. His bag... Did it just... move?)</textEffects>
+</line><line>Judge:
+P-P-Pohlkunka!
+</line><line>Phoenix:
+I beg your pardon?
+</line><line>Payne:
+"Pohlkunka" is a word in Khura'inese that people use when they're surprised.
+</line><line>Judge:
+Y-You just exposed a lie! So this is the power of "cross-examination," is it?!
+</line><line>Phoenix:
+<textEffects>(I should be the one shocked here by your shocking lack of understanding...)</textEffects>
+</line><line>Judge:
+But, just a moment. If the accused was lying...then that just makes him more suspicious than ever!
+</line><line>Phoenix:
+<textEffects>(Ugh... And this just makes things worse for me than ever...)</textEffects> Ahlbi, are you hiding something? Please give only true statements. I can't help you if you don't tell the truth.
+</line><line>Ahlbi:
+............
+</line><line>Phoenix:
+<textEffects>(Darn. I just can't seem to get him to open up to me.)</textEffects>
+</line><line>Payne:
+Heh heh heh. So, accused, you HAVE seen the treasure box with your own eyes after all, haven't you?
+</line><line>Ahlbi:
+Well... Maybe I did take a peek one time a long time ago, when I was cleaning the treasure room.
+</line><line>Phoenix:
+But you weren't in the treasure room at the time of the incident, right?
+</line><line>Ahlbi:
+......O-Of course I wasn't.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Hmph. That is a lie. You were most definitely inside the treasure room on the day of the incident. And I have proof.
+</line><line>Phoenix:
+<textEffects>(He does?!)</textEffects>
+</line><line>Payne:
+This was found on the floor of the treasure room. It's a scroll entitled "<textEffects>Notice</textEffects>," and contains a list of temple monk duties. These instructions pertain to the day of the incident.
+</line><line>Phoenix:
+A-And what exactly is that supposed to prove?!
+</line><line>Payne:
+The <textEffects>accused's fingerprints</textEffects> were found on the scroll.
+</line><line>Phoenix:
+Wh-Whaaaaaaaaaaat?!
+</line><line>Ahlbi:
+Oh, no! Where is it? It's not here! I must've dropped it somewhere...
+</line><line>Payne:
+Indeed. You must've dropped it when you were busy murdering the victim!
+</line><line>Ahlbi:
+Ngh!
+</line><line><textEffects>Notice added to the Court Record.</textEffects>
+</line><line>Phoenix:
+<textEffects>(No, no, no, no, no... Then that means... ...Ahlbi was there on the day of the incident?)</textEffects>
+</line><line>Judge:
+Ha ha ha ha! So this is the power of "cross-examination"! The more the accused talks, the guiltier he paints himself.
+</line><line>Payne:
+Yes, it would seem so, Your Magistry. Heh heh heh.
+</line><line>Phoenix:
+<textEffects>(Argh! He predicted my argument and had evidence ready to refute it!)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">How was any of that supposed to help the accused? See?! I told you you can't trust lawyers and their lies! Her Benevolence already said the kid's guilty! Just declare him guilty and get it over with!</captions>
+<line>
+Ahlbi:
+Ngh... No... Everything's going all wrong... Shah'do... What do I do?
+</line><line>Judge:
+As I suspected, this "cross-examination" session has served no purpose whatsoever.
+</line><line>Phoenix:
+<textEffects>(No...! You're wrong!)</textEffects>
+</line><line>Judge:
+But armed as we are with Her Benevolence's Insight, there's no reason to doubt his guilt.
+</line><line>Phoenix:
+<textEffects>(Then I guess I'll just have to poke holes in this "Insight" of hers!)</textEffects>
+</line><line>Judge:
+By the way, this didn't prove to be "very interesting" at all, Mr. Payne. Nevertheless, I will now finally announce my verdict.
+</line><line>Phoenix:
+Wait just one moment, Your Magistry! I haven't seen this <textEffects>Divination Séance</textEffects> for myself yet. As the defense, I have the right to check it!
+</line><line>Judge:
+Hmm... Is that really necessary? I have to get home and apologize to my wife...
+</line><line>Phoenix:
+<textEffects>(I guess she really did give him the business...)</textEffects>
+</line><line>Payne:
+Your Magistry, I enthusiastically support having Mr. Wright see the Séance.
+</line><line>Judge:
+You do? And why is that, Mr. Payne?
+</line><line>Payne:
+Don't you want to see it? See the lawyer being utterly crushed by the power of the Séance... ...and then watch him tearfully beg for mercy?
+</line><line>Judge:
+Well, now!
+</line><line>Payne:
+I'm sure it'll make up for not getting to go to that class with your wife.
+</line><line>Judge:
+It certainly does sound worth seeing! And it'd give me a juicy tidbit to tell the missus. Ha ha ha ha!
+</line><line>Phoenix:
+<textEffects>(I've been reduced to a "juicy tidbit"...?)</textEffects>
+</line><line>Judge:
+Well, foreign interloper, I imagine you do have to see it for yourself to be convinced. It's certainly unprecedented, but let's have the Divination Séance performed again. But, then, right after the tearful begging, I really do have to be going.
+</line><line>Phoenix:
+<textEffects>(The only "tearful begging" is going to come from the prosecution when we're through!)</textEffects>
+</line><line>Payne:
+Heh heh heh. How pitiful the defense looks, still scrambling desperately for a foothold... ...blissfully unaware that defeat and despair are all that await him.
+</line>
+<hr />
+<line>Rayfa:
+............
+</line><line>Phoenix:
+<textEffects>(There she is: "Her Benevolence"...)</textEffects>
+</line><line>Judge:
+Your Benevolence, Rayfa Padma Khura'in. Thank you for coming all this way once again.
+</line><line>Rayfa:
+Your gratitude is unnecessary. This is simply my duty. ......Barb-headed attorney!
+</line><line>Phoenix:
+Y-Yes?
+</line><line>Rayfa:
+I am told you question the veracity of the sacred Divination Séance. It would seem the depths of your irreverence and blasphemy are lost on you.
+</line><line>Phoenix:
+I'm just a foreigner, ignorant in the ways and customs of this country. I apologize in advance for anything rude I might say or do, Your Benevolence. All I want is a fair trial for Ahlbi.
+</line><line>Rayfa:
+You would imply that the trials of this country are unfair? Do explain, outsider... ...how verdicts founded on truths imparted by the very souls of the dead lack impartiality.
+</line><line>Phoenix:
+What's fair about trials with no defense and no chance for the accused to tell their story?!
+</line><line>Judge:
+H-How dare you speak to Her Benevolence in that manner?!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Did you hear that?! Did you hear how he talked to Her Benevolence?! What does he know about anything?! Ignorant outsider! We won't stand for it! He must be punished!</captions>
+<line>
+Phoenix:
+<textEffects>(Yikes. Looks like I really stuck my foot in it this time...)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">Punish him! Punish him! Punish him! Punish him!</captions>
+<line>
+Rayfa:
+Silence, one and all!
+</line><line>Phoenix:
+<textEffects>(Is she... standing up for me?)</textEffects>
+</line><line>Rayfa:
+Be not disquieted, my people. He merely expresses his opinion.
+</line><line>Phoenix:
+<textEffects>(Well, well. Looks like "Her Benevolence" is going to be more reasonable than I thought.)</textEffects>
+</line><line>Rayfa:
+Attorneys are ghastly creatures, with souls stained black by brazen untruths. The words of a lowly worm such as that are not worth troubling yourselves over.
+</line><line>Phoenix:
+<textEffects>(All right, I take that back...)</textEffects>
+</line><line>Rayfa:
+None of his prattling can sway the truth of my Insights. Rest assurred, he will soon see the error of his foolish ways!
+</line><line>Judge:
+Now then, Your Benevolence. The <textEffects>Divination Séance</textEffects>, if you would.
+</line><line>Rayfa:
+Certainly. Nayna, my robe... O Holy Mother! We hold this <textEffects>Divination Séance</textEffects> in your name! Let the eyes of everyone here be clear, and our ears be unstopped! O Dance of Devotion! Guide the victim's soul to me! So that we may receive their <textEffects>final memories</textEffects> in the <textEffects>Pool of Souls</textEffects>!
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(What just happened?! An image appeared in the pool!)</textEffects>
+</line><line>Judge:
+A final message from the victim's soul, the last communication of his mitamah... The Divination Séance has revealed this to us.
+</line><line>Payne:
+Her Benevolence can use her power of Spirit Communion... ...to project a victim's memories of <textEffects>the last few moments before their demise.</textEffects>
+</line><line>Phoenix:
+<textEffects>(So what we saw in the pool is what Mr. Rohl actually experienced?!)</textEffects>
+</line><line>Payne:
+In the victim's memories, we see the accused raising a weapon up over his head. This is consistent with the findings of the police investigation.
+</line><line>Ahlbi:
+Th-There has to be some kind of mistake! I didn't do it!
+</line><line>Phoenix:
+<textEffects>(This looks bad for Ahlbi... Really, really bad...)</textEffects>
+</line><line>Payne:
+Heh heh heh. Now do you see why I'm "The Incredible Payne"?!
+</line><line>Phoenix:
+<textEffects>(More than I can express... But even if those are the victim's last memories, what can I do with them?)</textEffects>
+</line><line>Payne:
+Heh heh heh! There it is! There's the face of a man being utterly crushed! Oh, how long I've waited to see it! Isn't it wonderfully gratifying, Your Magistry?!
+</line><line>Judge:
+Oh, yes. Very satisfying, indeed! Now are you finally convinced, traveler? The accused is most assuredly guilty.
+</line><line>Phoenix:
+<textEffects>(Am I really the only unbiased one here...?)</textEffects>
+</line><line>Judge:
+Now, then, I think we've all been "amused" enough. If you give up now, I won't even invoke the <textEffects>Defense Culpability Act</textEffects> against you. You'd be free to slink back to your own country with your tail between your legs.
+</line><line>Phoenix:
+The Defense Culpability Act? What's that?
+</line><line>Judge:
+What?! You mean you honestly don't know?!
+</line><line>Phoenix:
+I, uh... No...? <textEffects>(What's with all the hubbub?)</textEffects>
+</line><line>Rayfa:
+Well, well. Not only is he a lying, black-hearted lawyer, he's also an imbecile. Your Magistry, I think you'd better explain the Defense Culpability Act to him.
+</line><line>Judge:
+Yes, I think I'd better. The Defense Culpability Act -- or "DC Act" for short -- is as follows. "In the name of Her Eminence, those who would support criminals... ...will be deemed just as <textEffects>guilty</textEffects>." In other words, if you help the accused by defending him and he is found guilty... ...you will receive the <textEffects>same sentence</textEffects> as he.
+</line><line>Phoenix:
+<textEffects>(What?! What kind of insane law is that?!)</textEffects>
+</line><line>Judge:
+Under the DC Act, many an attorney has been convicted and met with a grim fate. Some went to prison. Others received the death penalty. That's why there are so few in our country today who admit to being an attorney.
+</line><line>Rayfa:
+Hmph. That's as it should be. The history of our courts proves that... ...attorneys are black-souled creatures who will tell any lie to save the accused. Thus, attorneys deserve to be exterminated!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Exterminate! Annihilate!</captions>
+<line>
+Phoenix:
+<textEffects>(I've never felt so much hostility coming at me from so many sides! What could've happened to make everyone feel this way?)</textEffects>
+</line><line>Payne:
+Heh... heh heh heh... Ha ha ha ha ha! You fell right into my trap, Phoenix Wright! Your win streak against me and my brother ends today! With the <textEffects>Séance</textEffects> and the <textEffects>DC Act</textEffects> on my side, I'll finally get my revenge!
+</line><line>Phoenix:
+<textEffects>(So that's why he was so eager to have me defend Ahlbi!)</textEffects>
+</line><line>Payne:
+Chased out and humiliated back home, fate brought me to the foothills of Khura'in. I thank my lucky stars that I'm chief prosecutor here now! 
+</line><line>Judge:
+Defense, know that if I rule the accused guilty, you will go to prison, too. 
+</line><line>Phoenix:
+<textEffects>(That explains Ahlbi's reaction earlier...)</textEffects>
+</line>
+<hr />
+<line>Ahlbi:
+Defend me?! Mr. Wright! What are you saying? You can't do that!
+</line>
+<hr />
+<line>Payne:
+Your Magistry, isn't a prison sentence a bit lenient? After all, we're talking about treason. One should pay for such a crime with one's life. 
+</line><line>Judge:
+Hmm, yes. I believe the <textEffects>death penalty</textEffects> might be appropriate under these circumstances.
+</line><line>Phoenix:
+TH-THE DEATH PENALTY?! <textEffects>(N-No way...)</textEffects> Y-You're k-kidding, right, Your Magistry...?
+</line><line>Judge:
+Ha ha ha ha! ...Do I look like I'm kidding? I'll have you put your life and your dark, tainted soul on the line here. 
+</line><line>Phoenix:
+<textEffects>(D-Death...? This can't be happening...)</textEffects>
+</line><line>Rayfa:
+"<textEffects>The Courts of Resignation</textEffects>." Our courts are well-known as thus. In this land where my Séances provide the truth and no attorneys can intervene... ...criminals know that all they can do is resign themselves to their fate. 
+</line><line>Judge:
+O foreign lawyer, I ask you once more: Are you still sure you want to defend the accused?
+</line><line>Phoenix:
+<textEffects>(*gulp* ...There's Maya to think of in all of this, too... I can't just lay down my life... What in the world should I do?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(Isn't this why I became a lawyer in the first place? To help those with no one on their side... I can't just abandon everything I believe in. All I can do now... is stand firm and fight!)</textEffects>
+</line><line>Payne:
+Well? Don't hold your tears back on MY account, Phoenix Wright! Admit your defeat and grovel before me -- the chief prosecutor -- for your life!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+Even if it means being subject to the Defense Culpability Act... ...I will defend Ahlbi!
+</line><line>Payne:
+Wh-Whaaaaaaat?!
+</line><line>Ahlbi:
+B-But, Mr. Wright!
+</line><line>Phoenix:
+The defendant insists he's innocent. And not even a Divination Séance should be accepted without examination.
+</line><line>Judge:
+P-P...Pohlkunkaaa!
+</line><line>Ahlbi:
+But if I'm found guilty, you'll get the death penalty, too... Even knowing that, you still want to defend me?
+</line><line>Phoenix:
+I don't know what happened in the past... ...but it looks like everyone in this country considers lawyers to be liars. So I can understand if you don't believe me. But... I still believe in you, and your innocence.
+</line><line>Ahlbi:
+!
+</line><line>Phoenix:
+So all I have to do is keep believing, and find the truth. That's all there is to it.
+</line><line>Ahlbi:
+............
+</line><line>Rayfa:
+Hah hah hah. Barb-headed attorney, you continue to amuse me. Though your barbed jabs are proving to be more than mere jokes.
+</line><line>Phoenix:
+Your Benevolence. Believe me when I say that this attorney will knock your Insights out.
+</line><line>Rayfa:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/77/SoJ_That%27s_enough%21.png/revision/latest?cb=20220420132131" class="image"><img alt="SoJ That&#39;s enough!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="163" data-image-name="SoJ That&#39;s enough!.png" data-image-key="SoJ_That%27s_enough%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/7/77/SoJ_That%27s_enough%21.png/revision/latest/scale-to-width-down/260?cb=20220420132131" class="lazyload" /></a>
+</line><line>Rayfa:
+Insolent, disrespectful attorney! You'll have plenty of time to regret your folly in the Twilight Realm!
+</line><line>Judge:
+Not a wise move, traveler. Not wise at all... You should have taken the chance I offered to save your life. But you made your choice. The Defense Culpability Act will be applied in this case. And with this verdict, you'll both soon be parting with your heads!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death! Death!</captions>
+<line>
+Rayfa:
+The souls of the departed speak only the truth, and I but give their messages a voice. If you think my Insights contain falsehood, I challenge you to prove it!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Insight</textEffects>
+<textEffects>-- Rayfa's Insight --</textEffects></captions>
+<line>Rayfa:
+The accused swung whatever he was holding down on the victim's head!
+With the pain, the victim's vision went dark. This is when he lost his life.
+Still, I can't believe it -- a murder after the morning Dance of Devotion?
+</line>
+<hr />
+<line>Rayfa:
+These are the victim's experiences just before his death.
+</line><line>Phoenix:
+<textEffects>(As the victim's final memories, we can assume they aren't lies. So how do I break this down?)</textEffects>
+</line><line>Rayfa:
+Allow me to relieve you of your ignorance, defense. Did you notice the <textEffects>words</textEffects> that appeared in the Séance vision?
+</line><line>Phoenix:
+<textEffects>(Come to think of it, I did see words... like "<span style="color:#E16935">Song of Ceremony</textEffects>" and "<textEffects>Incense</textEffects>.")</span>
+</line><line>Rayfa:
+The victim's final memories are not limited to sight alone. Sight, smell, taste, sound, touch -- all is laid bare in the Pool of Souls.
+</line><line>Phoenix:
+So <textEffects>what Mr. Rohl experienced with his five senses</textEffects> appears in the vision as words, right?
+</line><line>Rayfa:
+Precisely. And by examining these <textEffects>sensations</textEffects>... ...we can perceive the victim's final moments with unparalleled clarity.
+</line><line>Phoenix:
+<textEffects>(Works for me! I can use all the extra information I can get! Now, to find a contradiction between her Insights and the Séance vision!)</textEffects> Your Benevolence, I ask that you please show me the Séance vision again!
+</line><line>Rayfa:
+Very well.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Wait a minute. Her Benevolence said "after the morning Dance of Devotion" earlier, didn't she? Isn't there something off about that? I'll use these arrows (D-Pad or Circle Pad) to select the <span style="color:#E16935">Insight</textEffects> I think is off.</span>
+</line><line>Rayfa:
+<textEffects>The accused swung whatever he was holding down on the victim's head!</textEffects>
+</line><line><textEffects>With the pain, the victim's vision went dark. This is when he lost his life.</textEffects>
+</line><line><textEffects>Still, I can't believe it -- a murder after the morning Dance of Devotion?</textEffects>
+</line><line>Phoenix:
+<textEffects>(Yes, this is the <span style="color:#E16935">Insight</textEffects> that sounded funny. Now I'll just carefully compare this Insight with the Séance vision. If I notice a sensation that seems contradictory, I'll tap "<textEffects>Select</textEffects>" (X)!)</span>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(This is it -- this is the part of the vision that contradicts the Insight. Now I just select the sensation I think is inconsistent and then "<span style="color:#E16935">Present</textEffects>" (X) it!)</span>
+</line>
+
+<hr />
+<line>Phoenix:
+Wait just a moment!
+</line><line>Rayfa:
+Yes? What is it, Barbed Head?
+</line><line>Phoenix:
+You're saying the incident occurred AFTER the morning Dance of Devotion, right?
+</line><line>Rayfa:
+That's right. What of it?
+</line><line>Phoenix:
+Then isn't it strange that Mr. Rohl could still hear the Song of Ceremony?
+</line><line>Judge:
+Oh, my! You're absolutely right!
+</line><line>Rayfa:
+............Hmph. Is that all that troubles you?
+</line><line>Phoenix:
+Huh?
+</line><line>Rayfa:
+What the victim heard was just a practice run of the Song of Ceremony.
+</line><line>Phoenix:
+Practice run? What are you talking about?
+</line><line>Rayfa:
+Mr. Payne, if you would?
+</line><line>Payne:
+Certainly! Allow me to explain. The incident occurred in the interval between the morning and afternoon Dances. During that time, the singers were practicing in the performance hall.
+</line><line>Rayfa:
+Precisely! I was there as well, so I can corroborate this statement.
+</line><line>Judge:
+I see. So what the victim hears was that practice session.
+</line><line>Phoenix:
+<textEffects>(Ugh. There goes my contradiction... Okay, so they were practicing in this "performance hall"... That must be the room where Ahlbi and I saw Her Benevolence dancing.)</textEffects>
+</line><line>Judge:
+However, Mr. Payne, I admit one detail troubles me.
+</line><line>Payne:
+Ask away, Your Magistry.
+</line><line>Judge:
+It's a big temple. The performance hall and treasure room are quite far from eachother. Could the song really be heard all the way in the treasure room?
+</line><line>Phoenix:
+<textEffects>(He's right. It is a very big temple.)</textEffects> Well? How about it, Mr. Payne?!
+</line><line>Payne:
+Your Magistry, have you forgotten? There are <textEffects>speakers</textEffects> in every room of Tehm'pul Temple, including the treasure room.
+</line><line>Judge:
+Oh, that's right!
+</line><line>Phoenix:
+Speakers? For what purpose?
+</line><line>Payne:
+Are you serious, Mr. Wright? They're to broadcast the sacred music of the performance hall throughout the temple.
+</line><line>Rayfa:
+That's why the victim could hear the Song of Ceremony in the Séance vision. It was the practice run going on in the performance hall, heard over the speakers.
+</line><line>Judge:
+Thank you for your explanation, You're Benevolence. That makes perfect sense even to a feeble-minded old man like me.
+</line><line>Rayfa:
+Think nothing of it.
+</line><line>Judge:
+Now if you wouldn't mind, could you please alter your Insights for us?
+</line><line>Rayfa:
+Very well.
+</line>
+<captions aligned="center">Insight Revised</captions>
+<line><s>Still, I can't believe it -- a murder after the morning Dance of Devotion?</s>
+The Song of Ceremony the victim head was of a practice run through the temple speakers.
+</line><line>Phoenix:
+<textEffects>(I think I'm getting the hang of this. If I point out an inconsistency, she'll update her Insights accordingly. So if I keep pointing things out, maybe I can knock all of her Insights out after all! I'd better find another inconsistency, no matter how small!)</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Hmm... It's a bit hard to focus on the <span style="color:#E16935">Insights</textEffects> with the Séance vision going. I'll try using the "<textEffects>Pause</textEffects>" (L) to temporarily stop the vision. There! I paused the vision! I think I can touch the flashing panels (Y/A) to jump to different parts of the vision. I'll try moving the mitamah mark to the flashing red panel there. Okay, now that I know how to get around in the Séance visions... ...it's time to find inconsistencies between the Insights and the vision!)</span>
+</line>
+<hr />
+<line>Rayfa:
+<textEffects>The accused swung whatever he was holding down on the victim's head!</textEffects>
+</line><line><textEffects>With the pain, the victim's vision went dark. This is when he lost his life.</textEffects>
+</line>
+
+<line><textEffects>The Song of Ceremony the victim head was of a practice run through the temple speakers.</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+You're saying the victim's field of vision went dark right after he was struck, correct?
+</line><line>Rayfa:
+Of course, as anyone with eyes can see.
+</line><line>Phoenix:
+Well, pardon me, but I must disagree.
+</line><line>Rayfa:
+What?
+</line><line>Phoenix:
+Your Benevolence, please take another look at the exact moment the victim felt pain.
+</line><line>Rayfa:
+Hm...? ......Oh!
+</line><line>Phoenix:
+Everything goes black and then -- only <textEffects>after</textEffects> that -- the victim feels pain.
+</line><line>Rayfa:
+I-Inconceivable!
+</line><line>Phoenix:
+This places the order of events at odds with what you say happened!
+</line><line>Rayfa:
+My word!
+</line><line>Judge:
+Pohlkunka! Your Benevolence! What is the meaning of this?
+</line><line>Rayfa:
+I c-cannot be wrong! My Insights are beyond fallacy!
+</line><line>Judge:
+If what the defense says is true, this is very grave matter indeed! Please forgive me, Your Benevolence, but... ...I'm afraid this contradiction is something we simply can't ignore!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Heh, heh. Now now. Let's not be too hasty, Your Magistry. I think I can clear this up.
+</line><line>Judge:
+You have something to add, Mr. Payne?
+</line><line>Payne:
+A thousand apologies. It seems the prosecution has failed to make one tiny thing clear.
+</line><line>Phoenix:
+And that would be...?
+</line><line>Payne:
+On the day of the incident, there was a power outage -- a <textEffects>blackout</textEffects> in one part of the temple. And, as I recall, the crime scene was in that sector. The power outage must be why the victim's field of vision went dark. I apologize for neglecting to tell the court this detail. I'm afraid it slipped my mind.
+</line><line>Phoenix:
+<textEffects>(Or rather, you knew all along and are only letting it slip now that it's convenient, Payne!)</textEffects>
+</line><line>Payne:
+The power outage knocked out both the lights and the speakers.
+</line><line>Rayfa:
+Oh! There was a blackout there, was there?! Well now... That explains everything, does it not?
+</line><line>Judge:
+Wh-What do you men, Your Benevolence? Please share your thoughts with us, if you would.
+</line><line>Rayfa:
+The blackout occurred when the accused and the victim were faced with one another. Fearing the victim would flee under the cover of darkness... ...the accused swiftly brought his weapon down on the victim's head.
+</line><line>Judge:
+I see! That makes perfect sense, Your Benevolence.
+</line><line>Payne:
+So the victim was struck after the lights went out. The depth of your insight is awe-inspiring, Your Benevolence! Give her a hand, everyone!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Well done! Long may you live and prosper!</captions>
+<line>
+Phoenix:
+<textEffects>(Hey! I want to live long and prosper, too!)</textEffects>
+</line><line>Rayfa:
+Enough applause. You flatter me.
+</line><line>Judge:
+............Now, Your Benevolence, in light of this new information...
+</line><line>Rayfa:
+Yes, of course. I will alter my Insight.
+</line>
+<captions aligned="center">Insight Revised</captions>
+<line><s>With the pain, the victim's vision went dark. This is when he lost his life.</s>
+One can safely assume the accused struck the victim the moment after the blackout began!
+</line><line>Phoenix:
+<textEffects>(So much for my inconsistency. At least I was able to draw out some new info. And with new info comes a chance to find <span style="color:#E16935">new inconsistencies</textEffects>. Now to compare the Insights with the vision again, and see what else I can dig up!)</span>
+</line>
+<hr />
+<line>Rayfa:
+<textEffects>The accused swung whatever he was holding down on the victim's head!</textEffects>
+</line><line><textEffects>One can safely assume the accused struck the victim the moment after the blackout began!</textEffects>
+</line><line><textEffects>The Song of Ceremony the victim head was of a practice run through the temple speakers.</textEffects>
+</line>
+
+<hr />
+<line>Phoenix:
+<textEffects>(Yes, I've finally found it! This is the gaping hole I've been looking for!)</textEffects> Your Benevolence, as impressive as your Spirit Communion power is, it's not infallible.
+</line><line>Rayfa:
+You never know when to stop talking, do you? I hope you realize your words are an insult to all adherents of Khura'inism.
+</line><line>Judge:
+Defense! Watch what you say! If you don't mind that tongue of yours, you won't have one left to mind!
+</line><line>Phoenix:
+It's certainly not my intention to insult spirit mediums. But maybe I'm not the one who needs to learn when to stop talking.
+</line><line>Rayfa:
+What malarkey.
+</line><line>Phoenix:
+I believe you said a few moments ago... ...that the victim could hear the Song of Ceremony thanks to the temple's <textEffects>speakers</textEffects>. But then, how do you explain... ...how the victim could still hear the Song of Ceremony, even after the power went out!
+</line><line>Rayfa:
+Oh!
+</line><line>Phoenix:
+This contradiction of facts can only mean...  ...that the Song of Ceremony Mr. Rohl heard was NOT coming from the speakers!
+</line><line>Payne:
+What?! Impossible!
+</line><line>Judge:
+Wh-What are you saying?! That the song he heard was coming directly from the <textEffects>performance hall</textEffects>?
+</line><line>Phoenix:
+That's exactly what I'm saying. It's the only possible explanation.
+</line><line>Judge:
+But the scene of the crime was nowhere near the performance hall!
+</line><line>Phoenix:
+Right. The song couldn't make it all the way to the <textEffects>treasure room</textEffects>... Not unless...
+</line><line>Rayfa:
+Y-You mean to say...?
+</line><line>Phoenix:
+Yes, the treasure room was NOT the actual scene of the crime. It must have been <textEffects>somewhere else</textEffects> -- somewhere closer to the performance hall!
+</line><line>Payne:
+Wh-Whaaaaaat?!
+</line><line>Judge:
+Y-You can't be serious!
+</line><line>Phoenix:
+There is a glaring contradiction in the claims of Her Benevolence and the prosecution. Therefore, the defense insists that this case be thoroughly re-examined!
+</line><line>Rayfa:
+What? N-No...
+</line><line>Judge:
+Th-This is completely unprecedented! An inconsistency in Her Benevolence's Insights...? Unbelievable...
+</line><line>Rayfa:
+H-Head not his forked tongue, Your Magistry! These are but the claims of a corrupt lawyer! A feeble ruse from a feeble mind!
+</line><line>Judge:
+B-B-But... But the contradiction revealed by the defense... is undeniable... I-I can't... We can't... We can't just turn a blind eye to it!
+</line><line>Payne:
+B-But the defense's assertion is, in the end, meaningless! Even if the location of the murder turned out to be different... ...it doesn't change what we've seen of the moment of the murder!
+</line><line>Rayfa:
+I-Indeed! The accused is standing right there in front of the victim! Furthermore, the murder weapon remains raised above his head! My Insights still stand!
+</line><line>Phoenix:
+<textEffects>(I hate to admit it, but she's right. The Séance vision still makes the situation look really grim for Ahlbi.)</textEffects>
+</line><line>Payne:
+Heh heh heh. I doubt even the defense can dream up an explanation as to why... ...the accused had his hands up over his head.
+</line><line>Phoenix:
+Well, this defense dares to dream! <textEffects>(Of making it out of this nightmare alive...)</textEffects>
+</line><line>Payne:
+You what?!
+</line><line>Rayfa:
+You still insist on trying to tear down my Insights, do you? You'd better be prepared to back up your claim. Remember what will happen to that tongue of yours if we find you are just wagging it.
+</line><line>Phoenix:
+Of course I can back up my claim! <textEffects>(Just as soon as I think of something...)</textEffects>
+</line><line>Judge:
+............ You appear to be fully prepared, defense. As the embodiment of this court, I give you permission to try and prove your claim. As long as you're willing to stake your life on it.
+</line><line>Rayfa:
+I concur, Your Magistry. Prepare the tongue shears! Chop-chop!
+</line><line>Phoenix:
+Ch-Chop-chop?
+</line><line>Judge:
+Yes, let's have the bailiff fetch them. I think I saw a suitable pair in the basement. Chop, chop.
+</line><line>Phoenix:
+<textEffects>(Stop, stop...!)</textEffects>
+</line><line>Payne:
+Heh heh heh. I hear that lying lawyers have several tongues to spare. I'm sure he won't miss one.
+</line><line>Phoenix:
+<textEffects>(Yikes! These people are actually serious! I'm rather attached to my tongue... Think, Phoenix! Think! Other than to raise a weapon, why would Ahlbi have held his hands up like that? Aha! So that's why!)</textEffects> The reason the defendant had his hands up over his head... ...can be explained by something in the crime photo! <textEffects>(What explains why Ahlbi had his hands raised above his head?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+As in the Séance vision... ...I witnessed the defendant raise both of his hands over his head yesterday.
+</line><line>Judge:
+You did? Where did you see such a thing?
+</line><line>Phoenix:
+When the police had their guns trained on him as they made their arrest.
+</line><line>Judge:
+Oh! Are you saying...?!
+</line><line>Phoenix:
+The victim was a security guard, and an armed one at that. The defense proposes that the victim had pointed his firearm at Ahlbi. And that's why the defendant's hands were raised in the air!
+</line><line>Rayfa:
+P-P-Pohlkunkaaaaaaa!
+</line><line>Payne:
+Who would have thought that the Séance vision could be interpreted that way...!
+</line><line>Rayfa:
+This is not possible! I-It... can't be!
+</line><line>Phoenix:
+<textEffects>(Not bad for a total knockout!)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">How dare that lawyer-devil go against Her Benevolence?! He's no better than that <textEffects>traitorous snake</textEffects>, <textEffects>Dhurke</textEffects>!</captions>
+<line>
+Phoenix:
+<textEffects>(<span style="color:#E16935">Traitorous snake</textEffects>? <textEffects>Dhurke</textEffects>? Who's that?)</span>
+</line><line>Rayfa:
+N-No... I can't believe it... A contradiction in one of my Insights...? There has to be some kind of mistake... I... I won't accept it...!
+</line><line>Payne:
+That's right, Your Benevolence! And I won't accept it, either! It goes against all we hold sacred! Throw him in jail immediately for lese-majesty!
+</line><line>Phoenix:
+What?!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Yeah! You said it! Throw him in jail! Yes! Make him pay for the way he disrespected Her Benevolence!</captions>
+<line>
+Phoenix:
+<textEffects>(Ugh... These people are definitely NOT my fans right now...)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">That's right! Exterminate him! Exterminate! Annihilate!</captions>
+<line>
+Judge:
+Peace! Give me peace! I said peeeeeeaaace! Now, everyone, please calm down.
+</line><line>Phoenix:
+<textEffects>(Hm...? Is he...?)</textEffects>
+</line><line>Payne:
+Your Magistry, please assign this black-hearted attorney a suitable punishment.
+</line><line>Judge:
+............ No. I can't charge him with lese-majesty.
+</line><line>Rayfa:
+What?
+</line><line>Payne:
+Wh-What?! But, why not, Your Magistry?!
+</line><line>Judge:
+He was simply following the proper procedure for defending the accused. There's nothing unlawful about that.
+</line><line>Payne:
+B-But, Your Magistry... Don't you want to wrap this trial up quickly? Why not just give your verdict? Then you can go home and make it up to your wife...
+</line><line>Judge:
+We can't end the trial now, not when we just learned new information about the case.
+</line><line>Payne:
+Wh-Whaaaaaat?!
+</line><line>Rayfa:
+Your Magistry! Not you, too! You would honestly entertain the idea that my Insight contains a contradiction?!
+</line><line>Judge:
+...Truly, it is shocking. In the twenty-plus years since the DC Act went into effect, such a thing has never occurred. To be honest... I didn't want to believe it, either. But with his life on the line, the defense pointed out an inconsistency. And it is our duty to scrutinize it to the satisfaction of the law.
+</line><line>Rayfa:
+You dare go against the royal priestess, you... NON-BELIEVER?
+</line><line>Judge:
+No, my faith is as strong as ever. But I have a duty to make a fair ruling in this trial. If you insist on interfering with that process, Your Benevolence... ...I'm afraid I must request your removal from this courtroom, royal priestess or not.
+</line><line>Rayfa:
+WHAAAT? I'll have you know--!
+</line><line>Judge:
+Your Benevolence!
+</line><line>Rayfa:
+!
+</line><line>Judge:
+Please acquiesce in this, Your Benevolence.
+</line><line>Rayfa:
+Nngh... Grrrrrrr!
+</line><line>Phoenix:
+<textEffects>(If looks could kill...)</textEffects>
+</line><line>Rayfa:
+I won't forget this offense, Barbed Head! I do not admit defeat! I won't!
+</line><line>Judge:
+Bailiff, please see Her Benevolence out.
+</line><line>Rayfa:
+Y-Your mitamah will face due retribution in the Twilight Realm! The demons there will... They'll pluck the barbs right off your stupid head! Ha ha ha ha ha! I hope your suffering will be super-duper painful! And, and! I hope they throw you into a lake of burning fire, yeah! And then, and then...!
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(I guess she's still just a teenager after all...)</textEffects>
+</line><line>Judge:
+Now then, defense. Mister... Light, was it...?
+</line><line>Phoenix:
+That's "Wright," Your Magistry. Phoenix Wright.
+</line><line>Judge:
+Of course. Mr. Wright. My apologies. Well, now that we have this newly uncovered fact, I suggest we proceed with arguments.
+</line><line>Phoenix:
+Thank you, Your Magistry.
+</line><line>Judge:
+Yes, yes... But do not misunderstand me. This doesn't mean I trust you completely. I'll be keeping a close eye on you, so don't even think about lying to this court.
+</line><line>Phoenix:
+I understand, Your Magistry. <textEffects>(Whew! Maybe NOW we can finally run a real trial!)</textEffects>
+</line><line>Payne:
+Heh heh heh. Arguments, Your Magistry? Very well. I accept your challenge.
+</line><line>Phoenix:
+<textEffects>(Huh? What's with him?)</textEffects>
+</line><line>Payne:
+Hee hee hee! Oh, the look on your face, Mr. Wright! It's just... Heh heh! It's just too hilarious!
+</line><line>Judge:
+What's so funny, Mr. Payne?
+</line><line>Payne:
+The defense still doesn't get it. The "truth" he unearthed is going to bury him and his case instead.
+</line><line>Phoenix:
+What do you mean by that, prosecutor?!
+</line><line>Payne:
+I told you! It's "Chief Prosecutor"!
+</line><line>Phoenix:
+<textEffects>(Yes... Because that's the point to focus on right now...)</textEffects>
+</line><line>Payne:
+The defense is digging its own grave. Consider this, Your Magistry. Why would the victim -- a security guard -- point a gun at the accused?
+</line><line>Judge:
+Oh!
+</line><line>Payne:
+"Oh," indeed! Because the accused was about to commit a theft. It's the only logical explanation!
+</line><line>Phoenix:
+Whaaaaaaaa?! <textEffects>(That... does sound pretty logical, actually...)</textEffects>
+</line><line>Payne:
+It doesn't help the accused's situation at all! If anything, it makes him look even more guilty!
+</line><line>Judge:
+Yes, I have to agree.
+</line><line>Payne:
+Allow me spell out this "truth" the defense didn't bother to think through. Mr. Rohl came across the accused, just as he was trying to steal the treasure. The guard pointed his gun at the accused, and, just when the power went out... ...the accused murdered the victim and hid his body in the treasure room.
+</line><line>Phoenix:
+Gnrk!
+</line><line>Payne:
+A hand truck for moving heavy treasure around is stored in the treasure room. The accused could have easily moved the body with that.
+</line><line>Phoenix:
+<textEffects>(And after all that hard work to knock down those <span style="color:#E16935">Insights</textEffects>... Ahh, backed into the ol' familiar corner once more...)</span>
+</line><line>Judge:
+Mr. Wright, do you have a rebuttal?
+</line><line>Phoenix:
+............ <textEffects>(Ugh. I'm drawing a total blank here...)</textEffects>
+</line><line>Payne:
+Heh heh heh. I hope you're ready to climb that scaffold...
+</line><line>Phoenix:
+I... Uh...
+</line><line>Judge:
+I asked you a question, defense!
+</line><line>Phoenix:
+<textEffects>(......I've got nothing. I can't think of any grounds for an objection... The only thing to do at this point is ask the defendant himself what happened. But I don't know if Ahlbi will cooperate with me or not...)</textEffects> Ahlbi?
+</line><line>Ahlbi:
+!
+</line><line>Phoenix:
+Will you tell us what really happened?
+</line><line>Ahlbi:
+............
+</line><line>Payne:
+You don't have to say anything, accused. Fall for his evil trap and you'll only dirty your own soul.
+</line><line>Phoenix:
+Ahlbi, you have to tell me the truth! I can't help you unless you do!
+</line><line>Ahlbi:
+Ungh...... Nngh... Mr. Wright... I'm sorry...
+</line><line>Phoenix:
+<textEffects>(Why?! Why won't he trust me?! Is this it? Is this the end... for both of us...? Maya... I'm sorry...)</textEffects>
+</line>
+<captions aligned="center">I-I never met a real <textEffects>lawyer</textEffects> before...</captions>
+<line>
+Ahlbi:
+Everybody always told me they're bad, bad people who help dirty criminals go free. I never thought a lawyer would actually try to help me... would actually believe in me... Would risk his own life for me... I never would've even imagined it.
+</line><line>Phoenix:
+A-Ahlbi...!
+</line><line>Ahlbi:
+So... that's why I lied. To try and save myself. But I'm not going to lie anymore! If you believe in me enough to put your life on the line... then I'm going to believe in you, too!
+</line><line>Payne:
+Wh-Whaaaaat?!
+</line><line>Ahlbi:
+Allow me... Allow me to explaaaaaaaaaaaaaaaaaain!
+</line><line>Phoenix:
+<textEffects>(Now we're talking! Time to finally get to the bottom of things!)</textEffects>
+</line><line>Ahlbi:
+To be honest, I went into the treasure room lots of times to look at the treasure box.
+</line><line>Judge:
+Even though the temple told you you weren't allowed to go anywhere near it?!
+</line><line>Ahlbi:
+Yes. I'm sorry... Mr. Rohl even saw me once and scolded me. But that box is so beautiful! The way it glows in the dark... I couldn't help myself.
+</line><line>Phoenix:
+Wait. It glows in the dark?
+</line><line>Ahlbi:
+That's right. It's covered in this special mineral called "<textEffects>fluorenite</textEffects>" that makes it glow. It's absolutely breathtaking. It's really a shame they don't put it on display for the public! Can't you imagine how many people would go on night tours if they did?!
+</line><line>Phoenix:
+<textEffects>(If only he applied such passion to telling me the truth earlier...)</textEffects>
+</line><line><textEffects>Treasure Box updated in the Court Record.</textEffects>
+</line><line>Ahlbi:
+On the day of the incident, I was on my way to the treasure room again... ...when I ran into Mr. Rohl on the <textEffects>great stairs</textEffects>.
+</line><line>Judge:
+So those were not the treasure room stairs in the Séance vision...?
+</line><line>Ahlbi:
+No, they were the great stairs that connect the hallway.
+</line><line>Phoenix:
+<textEffects>(Makes sense. The vision wasn't clear enough to show us what was at the top of those stairs...)</textEffects>
+</line><line><textEffects>Temple Diagram added to the Court Record.</textEffects>
+</line><line>Ahlbi:
+All of a sudden, Mr. Rohl drew his gun and threatened me with it. I quickly put my hands up. Mr. Rohl... He acted so scary... For some reason, he had his scarf over his mouth. I couldn't read his expression at all. Just then, the power went out. So I took that chance to hightail it out of there! I ran for my life! Even now, when I try to think back on it... ...all I can remember are the gun and the piercing look in Mr. Rohl's eyes... That must've been when I dropped the <textEffects>notice</textEffects> scroll.
+</line><line>Phoenix<textEffects><span class="explain" style="text-decoration: underline dotted" title="inner monologue incorrectly displayed as Ahlbi in-game">*</textEffects></span><textEffects> (inner monologue incorrectly displayed as Ahlbi in-game)</textEffects>:
+<textEffects>(Which means someone else brought it to the treasure room, along with Mr. Rohl's body.)</textEffects> Did Mr. Rohl say anything to you when you ran into him on on the stairs?
+</line><line>Ahlbi:
+Nngh...
+</line><line>Phoenix:
+<textEffects>(What is it, Ahlbi...?)</textEffects>
+</line><line>Ahlbi:
+I have no idea why, but... ...he asked me a strange question. "Did you steal it?" he said.
+</line><line>Phoenix:
+What?!
+</line><line>Ahlbi:
+I'm sorry... I'm sorry I didn't say all this before. I didn't think anybody would believe me.
+</line><line>Payne:
+Heh heh heh. A grand speech. One that confirmed my suspicions that... you were the thief!
+</line><line>Ahlbi:
+Nnnnngh...
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+But that might have just been the victim's misunderstanding!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Where there's smoke, there's fire, as they say. The victim must have had good reason to be suspicious of the accused.
+</line><line>Phoenix:
+<textEffects>(Why does every new piece of information have to seem so incriminating...?)</textEffects>
+</line><line>Ahlbi:
+Nnngh... Shah'do... What do I do, Shah'do...?
+</line><line>Payne:
+And what better reason to suspect the boy than <textEffects>seeing the treasure box in his hands</textEffects>? In the course of his rounds, the victim must've noticed that the treasure had been stolen. And then, just after that... ...he ran into the accused, Ahlbi Ur'gaid.
+</line><line>Ahlbi:
+Nnngh... No... Th-That's not what happened...
+</line><line>Payne:
+Therefore, the one who stole the treasure and killed the victim... ...can be none other than the accused!
+</line><line>Ahlbi:
+Nnngh... Aaaaaaaaagh!
+</line><line>Phoenix:
+<textEffects>(Wh-What now?)</textEffects>
+</line><line>Shah'do:
+Rrr... Ruff, ruff! Ruff, ruff!
+</line><line>Ahlbi:
+H-Hey! Shah'do! Down, boy!
+</line><line>Judge:
+Well! What do we have here?!
+</line><line>Ahlbi:
+I-I'm sorry about this. This is my dog, <textEffects>Shah'do</textEffects>.
+</line><line>Shah'do:
+Ruff, ruff, ruff!
+</line><line>Judge:
+You nearly gave me a heart attack!
+</line><line>Phoenix:
+<textEffects>(So that's what was making his bag move...)</textEffects>
+</line><line>Shah'do:
+Ruff, ruff! Ruff, ruff!
+</line><line>Payne:
+Can't you quiet that yappy mutt down?
+</line><line>Ahlbi:
+Shah'do says that Mr. Rohl made a mistake.
+</line><line>Phoenix:
+<textEffects>(You can understand him?!)</textEffects>
+</line><line>Payne:
+Heh heh heh! Don't tell me this a surprise witness for the defense?
+</line><line>Judge:
+I-I beg your your pardon? You're not thinking of cross-examining an animal, are you?!
+</line><line>Phoenix:
+O-Of course not, Your Magistry! <textEffects>(Not this time, anyway...)</textEffects>
+</line><line>Judge:
+Phew. Well, I'm glad to hear that. I thought I'd have to reassess my assessment of your sanity for a second there...
+</line><line>Phoenix:
+<textEffects>(I think I'D better reassess my strategy... and fast! I have to somehow show that somebody else could've struck the victim, or we're sunk.)</textEffects> Wh-While it's true that the defendant was standing in front of the victim when he died... ...it doesn't mean somebody else couldn't have struck the victim at that time!
+</line><line>Judge:
+If you're going to go that far... ...then I hope this means you have another angle of approach ready.
+</line><line>Payne:
+Exactly! I mean, who but the accused -- standing front and center -- could've done it? Unless you can back up your claim, it's nothing more than conjecture.
+</line><line>Phoenix:
+<textEffects>(Okay... Come on, Phoenix! I know I can think up something convincing... Where else could the victim have been struck from?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+With the defendant standing in front of the victim... ...isn't it possible that the victim could've been struck from behind?
+</line><line>Judge:
+From behind, you say? Hmm... I see. Yes, I suppose it's not outside the realm of possibility.
+</line><line>Phoenix:
+<textEffects>(Good. Now at least I have some breathing room.)</textEffects>
+</line><line>Judge:
+But who do you suppose it could have been?
+</line><line>Phoenix:
+Oh, uh... The true culprit, naturally -- the one who actually committed the theft and murder!
+</line><line>Judge:
+The true culprit? And I suppose you have a true timeline of events to go along with that?
+</line><line>Phoenix:
+<textEffects>(I should've known I'd have to explain everything... All right. If we assume the true culprit struck the victim from behind, then that means...)</textEffects> After going to the treasure room and stealing the treasure, the true culprit tried to escape. But then Mr. Rohl appeared, making his rounds. I imagine the culprit then quickly hid in the storeroom at the other end of the hallway.
+</line><line>Payne:
+Heh heh heh. You're grasping at straws, Mr. Wright. Admit it. You have nothing but baseless conjecture.
+</line><line>Phoenix:
+I-I'm going to look for something to base it on right now! Ahlbi? When you ran into Mr. Rohl in the hallway, was there anyone around the storeroom area?
+</line><line>Ahlbi:
+...I don't know. There might've been somebody there, but I couldn't see... I was only halfway down the stairs, so I couldn't see the ends of that hallway.
+</line><line>Phoenix:
+I see... <textEffects>(Swing and a miss.)</textEffects>
+</line><line>Shah'do:
+Ruff, ruff! Ruff, ruff!
+</line><line>Ahlbi:
+Oh! Shah'do says that someone was there.
+</line><line>Phoenix:
+I-I see. Thank you for that. <textEffects>(Too bad his testimony is inadmissible...)</textEffects>
+</line><line>Payne:
+Heh heh heh.
+</line><line>Phoenix:
+<textEffects>(You think this is a joke?)</textEffects> Maybe the defendant didn't happen to see this other person... ...but that doesn't mean the true culprit couldn't have been there in the hallway!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Your desperate floundering is getting hard to watch. But I will enjoy watching you sink.
+</line><line>Phoenix:
+What are you talking about?
+</line><line>Payne:
+Unfortunately for you... ...only the accused and the victim were there in that hallway at the time of the incident.
+</line><line>Phoenix:
+How can you continue to make that assertion?!
+</line><line>Payne:
+Because there was a witness. A very reliable eyewitness.
+</line><line>Phoenix:
+Wh-What?!
+</line><line>Payne:
+Your Magistry, the prosecution would like to call its witness to the stand.
+</line><line>Judge:
+Calling an eyewitness to the stand, hm? It's been decades since that's happened.
+</line><line>Payne:
+And unlike the defense's witness, you can rest assured that there are no pets involved.
+</line><line>Phoenix:
+<textEffects>(That was a low blow...)</textEffects>
+</line><line>Shah'do:
+Rrr... Ruff!
+</line><line>Judge:
+Very well. I'll allow it. And now, for something we've not heard in quite some time: Bring the witness to the stand!
+</line>
+<hr />
+<line>Payne:
+Witness, please state your name and occupation.
+</line><line>Andistan'dhin:
+<textEffects>Pees'lubn Andistan'dhin</textEffects>'s the name. I'm, like, Tehm'pul Temple's head monk. Can ya dig?
+</line><line>Judge:
+Oh! If it isn't Instructor Andistan'dhin! You're the eyewitness?
+</line><line>Phoenix:
+<textEffects>("Instructor"?)</textEffects>
+</line><line>Payne:
+Not only is Mr. Andistan'dhin Tehm'pul Temple's head monk... ...but he's also a renowned dahmalan expert.
+</line><line>Phoenix:
+Sorry to have to ask, but what's a "dahmalan"?
+</line><line>Andistan'dhin:
+Check it! Here she is, my sweet serenader, my one and only. Groovy, right? But you heard our sultry sounds once before, brother... When dragon and tiger battle...
+</line><line>Phoenix:
+That's the song from the <textEffects>Dance of Devotion</textEffects>!
+</line><line>Andistan'dhin:
+Right on, brother. The Song of Ceremony. Playing this tune together is a precious gig for me and my girl here, ya dig?
+</line><line>Phoenix:
+<textEffects>(The Song of Ceremony, the song that was playing at the time of the murder...)</textEffects>
+</line><line>Andistan'dhin:
+O Holy Mother! May the righteous sounds of my dahmalan serve as my offering to you!
+</line><line>Judge:
+Wonderful! A great performance, as always!
+</line><line>Andistan'dhin:
+This is my thing, ya know? My bag. I make instruments speak, baby. By the by, Magistry Pops... ...no dahmalan class today?
+</line><line>Judge:
+No. I'm afraid this trial has gone into overtime... thanks to this lawyer over there.
+</line><line>Phoenix:
+<textEffects>(The class the judge wanted to attend was a dahmalan lesson?)</textEffects>
+</line><line>Andistan'dhin:
+Well, ya know what they say, baby. Never trust the lawyer-man! But transgressors against the Holy Mother have to be brought to justice.
+</line><line>Payne:
+Thank you for your cooperation, Mr. Andistan'dhin. As the treasure's keeper... ...you must've been shocked to learn that it had been stolen.
+</line><line>Andistan'dhin:
+Yeah, man... That was not cool.
+</line><line>Phoenix:
+Keeping the treasure safe is one of your duties, Mr. Andistan'dhin?
+</line><line>Andistan'dhin:
+That's right, brother. This here's the one and only treasure box key... ...and I keep it on me at all times. Can ya dig? But the sneaky thief went and cracked open that sucker anyway... Total bummer, man.
+</line><line>Phoenix:
+So that's the key to the treasure box, is it?
+</line><line>Andistan'dhin:
+You know it, baby! It's called the "<textEffects>Magatama Key</textEffects>," and it's a historical artifact, to boot. It's been passed down from head monk to head monk at Tehm'pul Temple.
+</line><line>Phoenix:
+<textEffects>(The <span style="color:#E16935">Magatama Key</textEffects>, huh?)</span>
+</line><line><textEffects>Magatama Key added to the Court Record.</textEffects>
+</line><line>Andistan'dhin:
+And now someone's jacked the treasure, on my watch... It's a real buzzkill, man... How am I ever gonna face Her Holiness again! O Holy Mother! Please find it in your infinite mercy to forgive me! Please guide this lost and humble lamb!
+</line><line>Phoenix:
+<textEffects>(Why do I always get the faaaaar out ones...?)</textEffects>
+</line><line>Payne:
+Mr. Andistan'dhin, you witnessed the accused and the victim heading to the treasure room?
+</line><line>Andistan'dhin:
+You know it, baby! Best believe I scoped that tiny transgressor...
+</line><line>Judge:
+Would you please give the court your testimony regarding what you saw?
+</line><line>Andistan'dhin:
+To bring justice against the transgressor, man, yes, of course, I'll do all I can. In the name of Her Holiness, I vow to sing, naught but the truth, I swear to bring! Hit me!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects>
+<textEffects>-- What I Saw, Baby --</textEffects></captions>
+<line>Andistan'dhin:
+After morning Dance of Devotion, to go back to my chamber, I got the notion.
+Don't you know my chamber's on the way, to the temple's treasure room, hey, hey.
+Any small footsteps I can quite clearly hear, if anyone to the treasure room goes near.
+Ahlbi was the only one. Ahlbi was the only one.
+Before the blackout, one other than Rohl, only Ahlbi to the treasure room did stroll.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Tell me I was hallucinating just now...)</textEffects>
+</line><line>Andistan'dhin:
+Like, can you believe Mr. Rohl bit the big one after that? Harsh, man.
+</line><line>Payne:
+I share your sentiments. You were the one who discovered the victim's body, weren't you, Mr. Andistan'dhin?
+</line><line>Phoenix:
+What? You found the body as well? <textEffects>(He really is a key witness, then.)</textEffects>
+</line><line>Andistan'dhin:
+That's right, brother. After the blackout, I went to reset the breaker and give power back to the people. The circuit box is near my chamber, so I'm always the man for the job, ya feel me?
+</line><line>Payne:
+The breakers are in the first floor hallway, in front of the storeroom.
+</line><line>Andistan'dhin:
+On the way, I got a whiff of something funky -- blood, man. Really harsher my mellow. I knew something wasn't kosher, so I swung by the treasure room to see what's what. And it was like, whoa, man! There was poor Mr. Rohl, dead as a doornail!
+</line><line><textEffects>Temple Diagram updated in the Court Record.</textEffects>
+</line><line>Payne:
+In the interval between the end of the Dance of Devotion and the blackout... ...the only ones who went to the scene of the crime were the victim and the accused. So you see, Mr. Andistan'dhin's unassailable account is what led to the accused's arrest.
+</line><line>Phoenix:
+Hold it! Isn't it possible that the murder took place before the end of the Dance of Devotion?
+</line><line>Payne:
+Heh heh heh. I'm afraid that's not possible. The victim was in the performance hall until the very end of the dance.
+</line><line>Phoenix:
+He was?
+</line><line>Payne:
+Would you like some proof? How's this -- a photo, taken by a tourist, of the morning Dance of Devotion.
+</line><line>Judge:
+My! What graceful dancing! I can almost hear the sound of Mr. Andistan'dhin's dahmalan now!
+</line><line>Phoenix:
+<textEffects>(Payne's right. There's Mr. Rohl, on duty.)</textEffects>
+</line><line>Payne:
+Heh heh heh. Never underestimate The Incredible Payne!
+</line><line>Phoenix:
+<textEffects>(Nrgh. So in addition to Rayfa's Insights, he had backup evidence lined up, too, huh?)</textEffects>
+</line><line><textEffects>Dance of Devotion photo added to the Court Record.</textEffects>
+</line><line>Andistan'dhin:
+As head monk, my monks-in-training are like my own kids -- like family -- can ya dig it? I should've taught Ahlbi better, man... Before Her Holiness, the Holy Mother, O Ahlbi, confess your sins, my young brother.
+</line><line>Ahlbi:
+H-Head Monk Andistan'dhin... I-I didn't kill Mr. Rohl... So I don't have anything to confess to the Holy Mother...
+</line><line>Andistan'dhin:
+What?! ...Bogus, little man. Your faith is weak, like a wet paper bag. Are ya feeling me? Spare the rod, hey baby, Spoil the child, not maybe. Her Holiness is magnanimous, son. If you confess your guilt... ...she'll forgive you in the Twilight Realm.
+</line><line>Phoenix:
+<textEffects>(I don't suppose she could forgive him in this realm first...?)</textEffects>
+</line><line>Judge:
+Defense, please begin your cross-examination.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross-Examination</textEffects>
+<textEffects>-- What I Saw, Baby --</textEffects></captions>
+<line>Andistan'dhin:
+<textEffects>After morning Dance of Devotion, to go back to my chamber, I got the notion.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Don't you know my chamber's on the way, to the temple's treasure room, hey, hey.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Any small footsteps I can quite clearly hear, if anyone to the treasure room goes near.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Through the window, I did spy, little Ahlbi with my own eye.</textEffects>
+</line>
+
+
+<line>Andistan'dhin:
+<textEffects>Ahlbi was the only one. Ahlbi was the only one.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Andistan'dhin:
+<textEffects>Before the blackout, one other than Rohl, only Ahlbi to the treasure room did stroll.</textEffects>
+</line>
+
+<line>
+</line>
+
+
+<hr />
+<line>Phoenix:
+There's something off about that, Mr. Andistan'dhin.
+</line><line>Andistan'dhin:
+My music is off? I'm sorry ya feel that way, man. Maybe this vibe ain't topping the charts where you're from. What's your poison? Orchestra? Jazz Soul?
+</line><line>Phoenix:
+There's nothing wrong with my ears, witness. But something's not quite right with your eyes. Mr. Andistan'dhin, you've been lying to this court.
+</line><line>Andistan'dhin:
+Now why would I lie? I got nothing to hide. Truth and truth alone is all I sing. Lying, y'all? Now, lying ain't my thing.
+</line><line>Phoenix:
+I contend otherwise. Do you recognize this object, Mr. Andistan'dhin?
+</line><line>Andistan'dhin:
+It's a temple notice, man. What of it?
+</line><line>Phoenix:
+In this notice, the following instruction to the temple monks is written: "...all of the hallway shutters will <textEffects>remain shut</textEffects> for today's Dance of Devotion."
+</line><line>Andistan'dhin:
+Whatchoo talkin' bout, Phoenix?
+</line><line>Phoenix:
+I'm talkin' about the fact that from your chamber... ...you couldn't have seen ANYONE going into the treasure room through those shutters!
+</line><line>Andistan'dhin:
+Gaaaaah!
+</line><line>Phoenix:
+Looks like you didn't get the memo.
+</line><line>Andistan'dhin:
+...No way! I don't believe it, man!
+</line><line>Phoenix:
+If you don't believe it, why don't you read the notice for yourself?
+</line><line>Andistan'dhin:
+Umm... Let's see... Something, something, "will," something, "for," something, something...
+</line><line>Phoenix:
+Is that your idea of "reading"?
+</line><line>Andistan'dhin:
+I'm not so hot at reading Khura'inese, man. I usually get one of the other monks to read stuff for me, ya know?
+</line><line>Phoenix:
+Doesn't that make your duties as head monk a little difficult?
+</line><line>Andistan'dhin:
+Hey, cut me some slack, man! I only moved to this country six months ago.
+</line><line>Phoenix:
+That's quite recent, isn't it? So... how did someone who's only been here six months become head monk of a temple?
+</line><line>Payne:
+How little you understand. Religious faith can't be measured in months or years. I've only been an adherent of Khura'inism for three months, myself. The Holy Mother's teachings really spoke to me, prompting me to stay in this country.
+</line><line>Phoenix:
+<textEffects>(...Or was it the fact that there are no lawyers here that spoke to you, hm?)</textEffects>
+</line><line>Andistan'dhin:
+Mr. Payne, I know just how you feel, my man. Her Holiness's teachings spoke to me, too.
+</line><line>Phoenix:
+<textEffects>(Ladies and gentlemen, I present: Brother Dumb, and Brother Dumber... Well, I know why Payne suddenly became a believer in Khura'inism... ...but could Andistan'dhin have had an ulterior motive for becoming a believer, too?)</textEffects> Mr. Andistan'dhin. Were you really in your chamber as you claim?
+</line><line>Andistan'dhin:
+Wh-What? Hey, be chill, brother...
+</line><line>Phoenix:
+Weren't you, instead, somewhere else?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+M-Mr. Wright, what kind of nonsense are you spouting now?
+</line><line>Phoenix:
+According to Mr. Andistan'dhin's testimony, he saw Ahlbi with his own eyes. Therefore, is it really "nonsense" to suggest he could've seen Ahlbi from somewhere else?
+</line><line>Payne:
+W-Well...
+</line><line>Judge:
+Do you have a theory, defense? Do you know where Mr. Andistan'dhin was, if not in his chamber?
+</line><line>Phoenix:
+<textEffects>(If he wasn't in his room, then... If Ahlbi had gone down the hallway towards the treasure room... ...there are only a few places he could've seen Ahlbi from.)</textEffects> I do have a theory, Your Magistry. Let's say the witness really did see Ahlbi going towards the treasure room. What then? <textEffects>The defense proposes this is the only place he could've been to see Ahlbi go down that hall!</textEffects>
+</line>
+
+
+<line>Judge:
+Th-There?! But you just suggested earlier... ...that that's where the true culprit might have been!
+</line><line>Phoenix:
+<textEffects>(True. But, no matter how I look at it, this is the only place Andistan'dhin could've been.)</textEffects>
+</line><line>Judge:
+Mr. Foreign Lawyer... D-Don't tell me... <textEffects>Are you accusing Mr. Andistan'dhin of being the true culprit in this case?!</textEffects>
+</line>
+
+
+<line>Phoenix:
+Yes, Your Magistry. I contend there's a strong possibility this witness is the murderer.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+H-How dare you be so disrespectful?! First you criticize Her Benevolence's Insights. Now you accuse the head monk of murder?!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+This is the only place the witness could have been. If he was here, he could have struck the victim down from behind... ...and moved his body to the treasure room!
+</line><line>Payne:
+Th-That's nothing but groundless conjecture!
+</line><line>Phoenix:
+And there's one more thing. Do you remember what was said in the opening argument?
+</line><line>Judge:
+The opening argument?
+</line><line>Phoenix:
+During that argument, it was suggested that Ahlbi... ..."used his position as <textEffects>monk-in-training</textEffects> to get his hands on the treasure."
+</line><line>Payne:
+That's right! And what of it?!
+</line><line>Phoenix:
+Well, why don't we try this twist on for size? The thief used his position as <textEffects>head monk of the temple</textEffects> to get a hold of the treasure!
+</line><line>Payne:
+WHAT?!
+</line><line>Judge:
+WH-WHAT?!
+</line><line>Andistan'dhin:
+Y-You joshin' me, man...?
+</line><line>Phoenix:
+The key to the treasure box has been passed down from head monk to head monk. What better position to be in if you want to steal the treasure?
+</line><line>Payne:
+Y-Y-You can't possibly be serious!
+</line><line>Judge:
+Does this mean you're claiming that Mr. Andistan'dhin's oath of faith... ...is nothing but a <textEffects>lie</textEffects> designed to get him close to the treasure?!
+</line><line>Phoenix:
+The witness hasn't been truthful in his testimony to this court. So clearly, he isn't above lying!
+</line><line>Andistan'dhin:
+Nnngh...
+</line><line>Phoenix:
+Didn't you swear to the Holy Mother that "naught but the truth" would you bring?! In light of that, I don't think it's unfair to call your faith into question!
+</line><line>Andistan'dhin:
+Nnnghaaaaaaagh...!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Th-This is ridiculous! Are there no limits to what this lawyer will say?! I mean, "lie" is such a strong word. Maybe it was just a mistake...?
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/4/48/SoJ_Hold_it%21.png/revision/latest?cb=20220419202855" class="image"><img alt="SoJ Hold it!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Hold it!.png" data-image-key="SoJ_Hold_it%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/4/48/SoJ_Hold_it%21.png/revision/latest/scale-to-width-down/260?cb=20220419202855" class="lazyload" /></a>
+</line><line>Andistan'dhin:
+Enough with the nervous wreck routine, prosecutor. You're just embarrassing yourself, man.
+</line><line>Payne:
+What?
+</line><line>Judge:
+What was that, Mr. Andistan'dhin...?
+</line><line>Andistan'dhin:
+Lawyer-man... You really are the lowest of the low. You've gone and said something I can't forgive... You called my belief into question, my faith in the Holy Mother... And nobody... NOBODY gets away with that!
+</line><line>Judge:
+Wh-What on earth?! That music! It's making my ears bleed!
+</line><line>Andistan'dhin:
+This is the music of my SOUL! DEATH TO THE LAWYER! I'm the twilight messenger. Can't ya tell?! Gonna take this lying lawyer straight to hell! He's drippin' with lies, runnin' with philistines. I'm gonna send that lawyer to the guillotines!
+</line><line>Phoenix:
+<textEffects>(And now for something completely different...)</textEffects>
+</line><line>Andistan'dhin:
+That plinkity-plunk music just wouldn't let me express my RAGE!
+</line><line>Phoenix:
+Your rage, huh? Isn't the real source of your anger having your lie exposed?
+</line><line>Andistan'dhin:
+You just don't get it. If I lied, it's 'cause you drove me to it! All sniffin' around and suspicious and throwin' out false accusations!
+</line><line>Phoenix:
+Sorry, but as a lawyer, I'm afraid that's my job.
+</line><line>Andistan'dhin:
+Yeah, well, lawyers are crap! Keep making noise and I'll have to use my partner on you!
+</line><line>Phoenix:
+<textEffects>(I'M the one making noise...?)</textEffects>
+</line><line>Andistan'dhin:
+Hey! So you wanna know the truth, huh? Think you can handle the truth, do ya? Fine. Let's see you try! Feel the heat of my brutal death beat! Savage, right? Sweatin' bullets, ain'tcha? The screams of my soul are gonna make a mosh pit outta this peanut gallery!
+</line><line>Phoenix:
+<textEffects>(Did he really just win the court over with that performance...?)</textEffects>
+</line><line>Andistan'dhin:
+Yo, geezer! I got something to testify! Get ready for the howling of my SOUL! I call this chart-topper: Soul-Screaming Truth!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects>
+<textEffects>-- Soul-Screaming Truth! --</textEffects></captions>
+<line>Andistan'dhin:
+The priestess's dance had come to an end. To the music storeroom my way I did wend.
+Death truth is what you DREAD! Hear me shred!
+From my spot in front of the storeroom, I saw Ahlbi creep to the treasure room.
+And trailing from behind, hound on the scent, I saw Paht Rohl. After Ahlbi he went.
+Me and my girl here, innocent and sweet, back by the storeroom. Can't be beat!
+Then out went the power. Ticket to the midnight. Blacker than blackest black, robbing all sight.
+Yeah baby! Let that soul metal FLOW!
+</line>
+<hr />
+<line>Judge:
+What is that music? I've never heard anything like it! And it's so fast, it's making my head spin!
+</line><line>Andistan'dhin:
+THIS IS DAHMALAN METAL! Hey yo, geezer, how're those ears ringin'?!
+</line><line>Phoenix:
+<textEffects>(I don't know much about music... ...but I've got chills, and they're multiplying...)</textEffects>
+</line><line>Andistan'dhin:
+Hey, you scared, lawyer-man? Run away, run away, fast as ya can!
+</line><line>Payne:
+What a wonderful rhythm! The perfect accompaniment for further deliberations! Now, Mr. Andistan'dhin, what did you go to the music storeroom for?
+</line><line>Andistan'dhin:
+Hey, I went to put my dahmalan away. She's my precious partner. Gotta give her a good rest after playin' in the rite.
+</line><line>Phoenix:
+But then why did you lie before?!
+</line><line>Andistan'dhin:
+BECAUSE YOU'D SEND ME TO HELL!
+</line><line>Phoenix:
+Huh?
+</line><line>Andistan'dhin:
+We all know about lawyers and their lying, lawyerly ways! Am I right, people?! If I admitted I went to the storeroom, he'd have drummed up a false charge on me! I didn't want to get sent to hell. Whadaya say?
+</line><line>Gallery:
+</line>
+<captions aligned="center">He's right! That sooo would've happened!</captions>
+<line>
+Andistan'dhin:
+Now I see why that Defense Culpability Act was passed! You feel me, Khura'in?!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Yeah! You said it!</captions>
+<line>
+Phoenix:
+<textEffects>(Is it too much to ask for a low-key trial...?)</textEffects>
+</line><line>Andistan'dhin:
+Now, are you punks ready to rock or what?!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Yeaaaaaaah!</captions>
+<line>
+Andistan'dhin:
+I can't hear you! I said, ya ready to teach this lying lawyer how we do things around here?!
+</line><line>Payne:
+Yeaaaaaaah!
+</line><line>Andistan'dhin:
+All right! Then I'm gonna lay it on ya one more time! The screaming truth of my SOUL!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross-Examination</textEffects>
+<textEffects>-- Soul-Screaming Truth! --</textEffects></captions>
+<line>Andistan'dhin:
+<textEffects>The priestess's dance had come to an end. To the music storeroom my way I did wend.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Death truth is what you DREAD! Hear me shred!</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>From my spot in front of the storeroom, I saw Ahlbi creep to the treasure room.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>And trailing from behind, hound on the scent, I saw Paht Rohl. After Ahlbi he went.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Me and my girl here, innocent and sweet, back by the storeroom. Can't be beat!</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Then out went the power. Ticket to the midnight. Blacker than blackest black, robbing all sight.</textEffects>
+</line>
+
+<line>Phoenix:
+<textEffects>(I only understood about half of what this guy's saying... I suppose I should press his statements, but I'm not really looking forward to it...)</textEffects>
+</line>
+<hr />
+<line><i>After pressing first and sixth statements:</i>
+</line><line>Judge:
+Hmm... You've made your assertions clear, defense, but your argument is rather unsubstantiated.
+</line><line>Phoenix:
+<textEffects>(That's not good...)</textEffects>
+</line><line>Andistan'dhin:
+Heh heh heh!
+</line><line>Phoenix:
+<textEffects>(What's so funny, Pees'lubn Andistan'dhin?)</textEffects> Nevertheless, the possibility is still there! You can't deny the witness could have killed the victim under cover of darkness!
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+You're forgetting one very important thing.
+</line><line>Phoenix:
+Huh?
+</line><line>Payne:
+Heh heh heh. It seems you've forgotten that the outage happened by chance, not design.
+</line><line>Judge:
+Oh, that's right!
+</line><line>Phoenix:
+Oh, that's right... <textEffects>(I did forget about that...)</textEffects>
+</line><line>Payne:
+It's not like the witness planned the outage so he could take advantage of the darkness. And, without darkness, it would've been hard to sneak up behind Mr. Rohl and kill him.
+</line><line>Judge:
+You're right. Even I would notice someone coming up behind me. Well, defense? What do you have to say about that?
+</line><line>Phoenix:
+<textEffects>(What CAN I say about that?)</textEffects>
+</line><line>Payne:
+Mr. Wright, your claim is completely without merit... ...unless you want to argue that the witness somehow magically made the outage happen!
+</line><line>Phoenix:
+<textEffects>(Well, maybe not "magically," but... Wait, that's it!)</textEffects> I contend the witness could have made the power outage happen... ...with no magic necessary.
+</line><line>Payne:
+What?
+</line><line>Judge:
+You have a theory, defense?
+</line><line>Phoenix:
+All he had to do was make use of something shown on this diagram. <textEffects>(What did the witness use to make the power outage happen?)</textEffects>
+</line>
+
+
+<line>Phoenix:
+The witness was in the storeroom. The circuit box is on the storeroom end of the hallway. There's nothing really magical about turning off the breaker, wouldn't you say?
+</line><line>Payne:
+Gnrk!
+</line><line>Andistan'dhin:
+Nice try, but that theory doesn't hold water, lawyer-man.
+</line><line>Phoenix:
+And why not?!
+</line><line>Andistan'dhin:
+You're saying I turned the breaker off, and then snuck up on Mr. Rohl and hit him? In pitch-black darkness, with no source of light whatsoever? That what you're saying?
+</line><line>Phoenix:
+Um...
+</line><line>Andistan'dhin:
+Ha ha ha! With the lights off, that hallway is blacker than a hundred midnights. You can't see the hand in front of your face! How could anybody commit murder like that? Unless it was somebody standing right in front of the victim -- like the accused!
+</line><line>Phoenix:
+<textEffects>(I hate when he's right... But I can't just let his point stand!)</textEffects> W-Well, maybe the victim was holding something that served as a guide?
+</line><line>Judge:
+A guide through the darkness?
+</line><line>Payne:
+"<textEffects>Something</textEffects>"? That's more than a little vague, wouldn't you agree?
+</line><line>Andistan'dhin:
+You ain't gonna move this room with a half-baked hunch like that, bro! You gotta hit 'em hard, really make 'em feel it, you hear me?! Just like my verse, baby! Woo!
+</line><line>Judge:
+Hmm... Well, I'm afraid I don't understand the witness's lyrics very well, either... But, in a trial, your arguments have to be clear and precise. Let's see some of that clarity and precision now, defense.
+</line><line>Phoenix:
+<textEffects>(Uh-oh. What do I do?)</textEffects>
+</line><line>Judge:
+<textEffects>Can you present to us something that could have served as a guide through the darkness?</textEffects>
+</line>
+
+
+<line>Phoenix:
+Yes, I can! <textEffects>(Because there HAS to be something!)</textEffects>
+</line><line>Judge:
+All right. Let's see what you have, defense. <textEffects>What could the victim have been holding that served as a guide through the darkness?</textEffects>
+</line>
+
+
+<line>Phoenix:
+I believe the victim was holding... the <textEffects>treasure box</textEffects>.
+</line><line>Judge:
+Hm?
+</line><line>Payne:
+Huh?
+</line><line>Andistan'dhin:
+Huuuh?
+</line><line>Payne:
+Have you gone mad?
+</line><line>Phoenix:
+Well, the box glows in the dark, so you could use it as a sort of beacon.
+</line><line>Judge:
+Hmm... Well. I guess you're right.
+</line><line>Payne:
+But why in the world would the victim be holding the treasure box?
+</line><line>Phoenix:
+O-Oh, well... because... <textEffects>(Your guess is as good as mine...)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">What is this lawyer talking about? Nonsense and lies yet again! Just give him the death penalty already!</captions>
+<line>
+Phoenix:
+<textEffects>(Is there no way to win them over...?)</textEffects>
+</line><line>Judge:
+Defense... ...are we going to be needing those tongue shears after all?
+</line><line>Phoenix:
+No, You're Magistry...
+</line><line>Andistan'dhin:
+Yeah, man! Do it, do it! Then we can jam out to this lawyer's shrieks of pain! Ha ha ha! Better get those screams of agony out now, lawyer-man... ...while you still have a tongue to scream with!
+</line><line>Phoenix:
+<textEffects>(I, uh, guess I'd better come up with a reason. No pressure or anything...)</textEffects> A-As to why the victim was holding the treasure box... ...it can easily be explained as thus! <textEffects>(Brain, don't fail me now. What reason could the victim possibly have had to be holding that treasure box?)</textEffects> <textEffects>The victim was holding the treasure box because he was...</textEffects>
+</line>
+
+
+
+<line>Phoenix:
+<textEffects>(It's an idea I just happened to stumble upon... ...but I think it might just be the answer. And... it would <span style="color:#E16935">turn this whole trial upside-down</textEffects>!)</span>
+</line><line>Judge:
+Hello? Defense? Are you still with us? Let's hear this "easy explanation" you promised!
+</line><line>Phoenix:
+Isn't it possible that it was because <textEffects>the victim himself</textEffects> was the thief?
+</line><line>Judge:
+The victim?
+</line><line>Payne:
+The thief...?
+</line><line>Andistan'dhin:
+Ha ha ha ha! What kind of bull are you spewing now?! Your Magistry, this guy's off his rocker.
+</line><line>Phoenix:
+If the victim was the thief, everything we've learned so far would all make sense. And it would give us <textEffects>a completely new way</textEffects> to interpret the victim's actions! After the morning Dance of Devotion, Mr. Rohl went to the treasure room. He grabbed the box that contained the treasure and started to take off with it. But then he ran into Ahlbi on the great stairs. That's why Mr. Rohl pulled his gun on Ahlbi. Then, when the blackout occurred... ...Mr. Rohl was bludgeoned to death in the darkness. This explains why the victim would be holding the glowing treasure box in the dark. And how it would've been possible for someone other than the accused to kill him!
+</line><line>Payne:
+Do you have any idea what you're saying?!
+</line><line>Andistan'dhin:
+You're unbelievable, lawyer-man! I think you've lost it! Ha ha! That's the craziest thing I've ever heard! Rohl, trying to roll the temple?! That devout believer?! That pious Khura'inist?!
+</line><line>Judge:
+I won't allow you to disparage the victim's departed soul with unfounded allegations. I hope you're prepared to back up your claim.
+</line><line>Phoenix:
+O-Of course, Your Magistry.
+</line><line>Payne:
+Oh, really? In that case, can we assume you have <textEffects>proof</textEffects>?
+</line><line>Phoenix:
+<textEffects>(Uh-oh. Proof, huh? Do I have any proof? But I can't back down now!)</textEffects> Yes, I have proof! <textEffects>(In my dreams...)</textEffects> The proof that Mr. Rohl was the thief... ...may have been left behind on a certain piece of evidence.
+</line><line>Judge:
+Very well. Let's see your evidence, and be ready to stand behind it.
+</line><line>Phoenix:
+<textEffects>(Footprints, fingerprints -- I'll take anything at this point! I need proof... <span style="color:#E16935">something that would've been involved with the theft</textEffects>... ...and that might still have some <textEffects>trace evidence</textEffects> on it...)</span>
+</line><line>Judge:
+<textEffects>What proof do you have that the victim might have been the thief?</textEffects>
+</line>
+
+
+<line>Phoenix:
+The defense would like to examine the treasure box! There might be trace evidence on it that would show that the victim had held it.
+</line><line>Judge:
+"Might"? You'd better hope you turn up something more definitive than that, defense.
+</line><line>Phoenix:
+Y-Yes, sir, Your Magistry!
+</line><line>Judge:
+Very well... Bailiff! Bring the treasure box!
+</line>
+<hr />
+<line>Judge:
+There you are, defense. You're free to examine it.
+</line><line>Phoenix:
+<textEffects>(If I don't find something now, my entire argument up to this point will be blown. Plus... there's that little matter of the ol' tongue shears... I have to find something! I just have to!)</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(Now, to make sure I remember how to do this... I can rotate the evidence by <span style="color:#E16935">sliding</textEffects> the Touch Screen. I can zoom in and out with <textEffects>the slider on the left</textEffects>, too, to get a better look. And if I ever get too turned around... ...I can always touch "<textEffects>Reset</textEffects>" to return things to this initial state. I'd better search every inch of this box carefully... ...and <textEffects>touch</textEffects> anything of interest to check it out in detail.)</span>
+</line>
+
+
+
+
+
+
+<line>Phoenix:
+<textEffects>(Th-This bloodstain...! It shows the outline of a hand! Could the be what I've been looking for...?)</textEffects> Your Magistry, take a look at this! There's a bloodstain here that outlines the shape of a hand!
+</line><line>Judge:
+Really? Let me see that... Oh, my! Y-You're right!
+</line><line>Phoenix:
+<textEffects>(Now I'm getting somewhere!)</textEffects> I believe the bloodstain is an outline of the victim's hand as he was holding the box.
+</line><line>Judge:
+Wh-What?!
+</line><line>Phoenix:
+Even as he was being struck, he held on tight to the precious treasure box. After all, he'd gone through a lot of trouble to steal it. The blood from his head wound splattered across his hand and onto the box.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+Your Magistry, don't let yourself be taken in! It's just more of his lawyerly deceit.
+</line><line>Judge:
+What do you mean?
+</line><line>Payne:
+Heh heh heh. Mr. Wright, where is your <textEffects>proof</textEffects> that the outline is that of the victim's hand?
+</line><line>Phoenix:
+What...? <textEffects>(I should've seen this coming.)</textEffects>
+</line><line>Payne:
+Either show proof, or prepare to meet the shears. Or you could save us all some time and bite your tongue out now and submit it instead.
+</line><line>Phoenix:
+<textEffects>(That... I did NOT see coming...)</textEffects>
+</line><line>Judge:
+Well, defense? How about it? Do you have proof that the outline is of the victim's hand?
+</line><line>Phoenix:
+<textEffects>(Where would proof of something like that even be?)</textEffects>
+</line><line>Judge:
+Please submit your evidence at this time. <textEffects>What evidence shows that the outline on the treasure box is that of the victim's hand?</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(I've got it! This is the evidence that's going to save my beloved tongue!)</textEffects> Mr. Payne, despite your claims about my "forked tongue"... ...it just so happens I have the proof you require.
+</line><line>Payne:
+You do?!
+</line><line>Phoenix:
+It's right here in this crime photo.
+</line><line>Judge:
+It is? Where? Defense, please point it out!
+</line><line>Phoenix:
+<textEffects>What proves that the bloodstain outline on the box is that of the victim's hand, you ask?</textEffects>
+</line>
+
+
+<line>Phoenix:
+Mr. Payne, take a good look at the victim's hand. See this? That's blood.
+</line><line>Payne:
+What...?
+</line><line>Phoenix:
+If we place Mr. Rohl's hand inside the bloody outline...
+</line><line>Payne:
+Y-You think the blood on his hand would complete the splatter?!
+</line><line>Phoenix:
+Exactly! <textEffects>(Here goes nothing...)</textEffects> And if they do form one complete splatter, it would prove my theory correct!
+</line><line>Judge:
+Then... Then... the victim really was holding the box...?
+</line><line>Phoenix:
+I'm willing to bet my life on it. The defense reasserts that the victim was the thief who stole the treasure box!
+</line><line>Payne:
+Y-You can't be serious! I-I protest! There's... There's no way they would ever match up! I assert that it's patently impossible for-- --OWWWWWWWWWWWWWWWWWWWWW!
+</line><line>Phoenix:
+<textEffects>(Talk about tongue karma... Sounds like he just bit his.)</textEffects> What's the matter, Mr. Payne? Did your forked tongue get tangled up in there? Or were you trying to submit your own tongue to the court?
+</line><line>Payne:
+Whai, yuuuu...! Nnnnnnnnnngh!
+</line><line>Judge:
+I can hardly believe it. Apparently, not everything out of the defense's mouth is a bluff.
+</line><line>Phoenix:
+Of course not, Your Magistry. This tongue doesn't lie. And I'd like to continue to use my tongue in the future, too, if you wouldn't mind. <textEffects>(He never has to know it really WAS a bluff...)</textEffects>
+</line><line>Ahlbi:
+No! Not Mr. Rohl! I can't believe it!
+</line><line>Phoenix:
+I'm sorry, Ahlbi. I know it's upsetting news... He must've needed the money badly, probably to support his family. After all, he even gave up his dream of becoming a monk to help them...
+</line><line>Ahlbi:
+Oh! So that thing Mr. Rohl would say to me...
+</line>
+<hr />
+<line>Ahlbi:
+"Ahlbi, you train hard and make sure you become a monk one day! Don't end up like me," he'd say.
+</line>
+<hr />
+<line>Phoenix:
+Yeah, he was probably warning you not to end up like a thief...
+</line><line>Ahlbi:
+*sniffle*... Mr. Rohl...
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+N-Now wait just one minute! If the victim was the thief, and he was holding the treasure box... ...then that means Mr. Rohl was holding the murder weapon when he was killed!
+</line><line>Judge:
+O-Oh! That's a very good point. It doesn't make much sense, does it?
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+If the victim was holding the treasure box, it couldn't have been the murder weapon. Which means the real murder weapon must've been something else.
+</line><line>Judge:
+The real murder weapon...?
+</line><line>Payne:
+...Was something else...?
+</line><line>Phoenix:
+The blood was thought to have gotten on the box when the box was used as a weapon. But it turns out that wasn't the case. The blood splattered onto the treasure box the victim was holding... ...when he was struck with the real weapon. THAT'S what really happened! Isn't that right, Mr. Andistan'dhin?!
+</line><line>Andistan'dhin:
+............ Are you insinuating I'm the one who used this "real weapon"?!
+</line><line>Phoenix:
+Are you saying I'm wrong in my "Andistan'dhin"?
+</line><line>Andistan'dhin:
+Ha ha ha ha ha ha! You got me riled up, lawyer-man! I feel a song comin' on! Looking for a weapon that just don't exist. Pathetic lawyer-man, drop into the abyss! Despicable lawyer-man, yo you make me sick! You can disappear, just like a magic trick! Worthless lawyer-man, done in by a weapon. For you, miserable wretch, hell doth beckon! Yeaaah!
+</line><line>Judge:
+I know I don't need to remind you, defense... ...that your life is on the line.
+</line><line>Phoenix:
+I know, You're Magistry.
+</line><line>Judge:
+Yet you're prepared to risk it on this mere idea of a "<textEffects>real murder weapon</textEffects>"?
+</line><line>Andistan'dhin:
+DEATH TO THE LAWYER!
+</line><line>Phoenix:
+<textEffects>(This is it! The moment of truth... I can't back down! Not now!)</textEffects> Yes, Your Magistry, I am. I'm confident the <textEffects>real murder weapon</textEffects> does indeed exist!
+</line><line>Payne:
+That's a bold claim, Mr. Wright. Now let's see you back it up. Show us which <textEffects>piece of evidence</textEffects> points to this "real murder weapon!"
+</line><line>Phoenix:
+Gladly! <textEffects>(...If I knew which one it was... What would somebody like Andistan'dhin use to bludgeon someone...?)</textEffects>
+</line><line>Judge:
+Now, then, defense. Please submit your evidence to the court.
+</line><line>Andistan'dhin:
+Heh heh heh! Yeah! Let's see it, lawyer-man! <textEffects>Let's see this thing that shows the "real murder weapon" you say I used!</textEffects>
+</line>
+
+
+<line>Phoenix:
+<textEffects>(What I'm about to present is really nothing more than a possibility... But this thin thread is all I've got!)</textEffects> Allow me to direct the court's attention to this photo of the morning Dance of Devotion.
+</line><line>Payne:
+That photo? How is that going to help you, Mr. Wright?
+</line><line>Phoenix:
+There's something about it that doesn't sit right with me.
+</line><line>Andistan'dhin:
+............Oh, yeah? And what's this "something," hmm?
+</line><line>Phoenix:
+<textEffects>This thing here is odd, to say the least.</textEffects>
+</line>
+
+
+<line>Phoenix:
+Mr. Andistan'dhin. Why is the instrument you're holding different from the one you're playing in the photo?
+</line><line>Andistan'dhin:
+............
+</line><line>Judge:
+Would you look at that? They're completely different shapes!
+</line><line>Phoenix:
+I believe you said your dahmalan was your "one and only"...?
+</line><line>Judge:
+Well, Mr. Andistan'dhin? What do you have to say to that?
+</line><line>Andistan'dhin:
+...Heh heh. I got nothin' to say.
+</line><line>Phoenix:
+Then allow me to answer for you. They're different because the one in the photo is no longer in playable condition. Not after you used it to bludgeon Mr. Rohl to death!
+</line><line>Andistan'dhin:
+............ Ha ha ha ha! My old partner wasn't doing so hot, so I brought her sister along. That's all! Not a big deal, lawyer-man.
+</line><line>Phoenix:
+In that case, please submit your old dahmalan to this court as evidence!
+</line><line>Andistan'dhin:
+Too bad. You're too late. I got rid of her yesterday.
+</line><line>Phoenix:
+You what?
+</line><line>Andistan'dhin:
+Burned her up with the rest of the trash! Ashes to ashes, baby! Ha ha!
+</line><line>Phoenix:
+NOOOOOOOOOOOOOOOOOOOO! <textEffects>(He's already destroyed the evidence...?)</textEffects>
+</line><line>Andistan'dhin:
+And I see more trash right here in this court that needs to burn in the fires of hell! Lawyer-trash! Ha ha ha ha ha ha!
+</line><line>Phoenix:
+Nnnrgh... <textEffects>(Now there's no proof to show...!)</textEffects>
+</line><line>Andistan'dhin:
+Oh, come on! That was pathetic. Your agony can sound better than that! Where's that great scream of yours?
+</line><line>Phoenix:
+<textEffects>(This... This can't be how it ends!)</textEffects>
+</line><line>Judge:
+I think I've heard enough. It seems the defense is unable to produce the evidence it needs to prove its assertion.
+</line><line>Phoenix:
+B-But, Your Magistry! That's only because the witness destroyed it!
+</line><line>Payne:
+"Evidence is everything in court." Don't tell me you've forgotten this most fundamental principle of our profession?
+</line><line>Judge:
+Without sufficient proof... ...your claim that Mr. Andistan'dhin is the murderer is no more than conjecture.
+</line><line>Phoenix:
+Aaaaaarrrgghh!
+</line><line>Payne:
+Heh heh heh. There's the pained expression I've been looking for. By the way, there seems to be one more thing you're forgetting.
+</line><line>Phoenix:
+What is it now?
+</line><line>Payne:
+You accused Mr. Andistan'dhin of being the thief. But the real thief turned out to be the victim.
+</line><line>Phoenix:
+Uh-oh...
+</line><line>Payne:
+And, with that, Mr. Andistan'dhin's purported motive for murder goes out the window.
+</line><line>Phoenix:
+Aaaaaaaaaaaaaaaaaaaaaaah!
+</line><line>Andistan'dhin:
+Great point, Prosecutor! You tell 'im! If I had been there, I would've just collared Rohl and gotten the treasure back. There wasn't any reason for me to kill him, now, was there?
+</line><line>Phoenix:
+I-- <textEffects>(There's no good counterargument to that...)</textEffects>
+</line><line>Judge:
+It sounds to me like Mr. Andistan'dhin has been completely wrongfully accused. Unfortunate as it may be, I think it's time to hand down the verdict in this case.
+</line><line>Phoenix:
+<textEffects>(Not good! Not good!)</textEffects>
+</line><line>Judge:
+Defense, I trust you understand what you yourself will receive for taking on this case.
+</line><line>Gallery:
+</line>
+<captions aligned="center">Death! Death! Death! Death! Death! Death! Death! Death!</captions>
+<line>
+Phoenix:
+<textEffects>(Aaaaagh... Wh-What do I do? The murder weapon's been destroyed, and now I've got no motive... Poor Ahlbi will be convicted, and I'll lose my life, too!)</textEffects>
+</line><line>Payne:
+Mr. Wright, you've wasted this court's time and disparaged everything we hold sacred. We should charge you with lese-majesty, in addition to the crime of abetting the accused.
+</line><line>Andistan'dhin:
+......Yeah. You should pay for desecrating my good name! Buh-bye, lawyer-man. Time for you to do some repentin'... in the Twilight Realm!
+</line><line>Phoenix:
+<textEffects>(This guy is guilty as sin. I just know it! He must've had SOME reason to kill Mr. Rohl... but what?)</textEffects>
+</line><line>Andistan'dhin:
+C'mon, people! Lemme hear ya scream and shout! Time to take this lawyer-trash OUT!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Exterminate! Annihilate! Exterminate! Annihilate!</captions>
+<line>
+Phoenix:
+<textEffects>(The thing to do at a time like this to <span style="color:#E16935">turn my thinking around</textEffects>! I shouldn't be trying to figure out what Andistan'dhin's motive was. I should be thinking about what kind of situation would GIVE him a motive!)</span>
+</line>
+<hr />
+<line>Ahlbi:
+"Did you steal it?" he said.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(We know that Mr. Rohl was the thief, and that he had gotten his hands on the box. So then, why... Why in the world did he ask Ahlbi that question? What about the treasure box would've prompted him to...)</textEffects> ......AAAAAAAAAAAAAAH!
+</line><line>Judge:
+Defense! What's gotten into you?!
+</line><line>Phoenix:
+Now I get it! Now it all makes sense!
+</line><line>Andistan'dhin:
+Like, Pohlkunka, man! Whatcha tryin' to say?! Mutterin' and squealing' to yourself! Sounds like you knocked something loose upstairs!
+</line><line>Phoenix:
+Your Magistry! Please hold off on your ruling for just a little while longer!
+</line><line>Judge:
+Don't tell me you're going to start begging for your life now?
+</line><line>Phoenix:
+No, You're Magistry. That's not it. It's just that I realized something more important. We've been operating under a serious misconception this whole time.
+</line><line>Judge:
+A misconception, you say?
+</line><line>Phoenix:
+That's right. A mistaken notion about the treasure box. <textEffects>(But could this really be true? If so, there's still a lot to figure out...)</textEffects>
+</line><line>Judge:
+............ Very well. Let's hear what you have to say.
+</line><line>Phoenix:
+Thank you, Your Magistry!
+</line><line>Payne:
+Your Magistry! This is just more of his nonsense! He's just stalling for time.
+</line><line>Judge:
+This is your last chance, defense. The second I find it really IS nothing but nonsense... ...no amount of begging will stay my hand. Understand?
+</line><line>Phoenix:
+Yes, Your Magistry.
+</line><line>Payne:
+Hmph...! We all know this is just going to be another one of your stupid bluffs...!
+</line><line>Judge:
+Now, then, defense. What is this misconception you mentioned?
+</line><line>Phoenix:
+<textEffects>The thing we didn't realize about the treasure box was that...</textEffects>
+</line>
+
+
+
+<line>Phoenix:
+What if the treasure box was already empty from the start?
+</line><line>Payne:
+What?
+</line><line>Judge:
+What?
+</line><line>Andistan'dhin:
+............
+</line><line>Phoenix:
+Please recall... ...that when Mr. Rohl ran into Ahlbi on the great stairs, he asked the boy a question.
+</line>
+<hr />
+<line>Ahlbi:
+"Did you steal it?" he said.
+</line>
+<hr />
+<line>Phoenix:
+Also recall that Mr. Rohl was holding the treasure box at the time. So why, then, did he ask Ahlbi the question that he did?
+</line><line>Judge:
+That IS a bit peculiar, isn't it!
+</line><line>Phoenix:
+Not at all, Your Magistry. Not once you realize that... ...by the time Mr. Rohl got to the treasure room... the treasure box was already empty.
+</line><line>Judge:
+I-I beg your pardon?!
+</line><line>Phoenix:
+Mr. Rohl suspected that Ahlbi had gotten to it first... ...which is why he confronted Ahlbi when he ran into to the boy on the stairs.
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+But how would the victim have known the treasure box was empty?! He didn't have any way of opening it!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+Once a year, the victim had the duty of carrying the treasure box to the palace.
+</line>
+<hr />
+<line>Ahlbi:
+He was so proud when he was put in charge of guarding the treasure box! He even got to carry the box to the palace for the New Year's rite!
+</line>
+<hr />
+<line>Phoenix:
+He would've been able to tell by the weight when he lifted it that the box was empty!
+</line><line>Judge:
+Ah, I see! I suppose he would've been able to tell, wouldn't he!
+</line><line>Phoenix:
+Mr. Rohl most likely decided to at least steal the empty box. It's an important historical artifact in and of itself, after all.
+</line><line>Payne:
+Gah... But what's your point, Mr. Wright? What does any of this have to do with Mr. Andistan'dhin?
+</line><line>Phoenix:
+My point is this. It gave Mr. Andistan'dhin a motive to murder the victim.
+</line><line>Andistan'dhin:
+!
+</line><line>Payne:
+A motive?!
+</line><line>Phoenix:
+Mr. Andistan'dhin, keeping the treasure safe is one of your duties, isn't it? So if anyone had found out that the treasure was missing... ...you would've been accused of <textEffects>incompetence</textEffects>.
+</line><line>Andistan'dhin:
+............
+</line><line>Phoenix:
+From the moment Mr. Rohl discovered that the treasure was gone, his fate was sealed. Because you decided then that he had to be silenced forever!
+</line><line>Payne:
+But that's absurd!
+</line><line>Andistan'dhin:
+Ha ha ha ha ha ha ha! Aha ha ha ha ha ha ha! Can ya believe the stuff that comes outta this guy's mouth?! This is all just a colossal joke!
+</line><line>Judge:
+So then, what really happened to the treasure?!
+</line><line>Phoenix:
+It had been stolen long before this incident occurred.. ...by Mr. Pees'lubn Andistan'dhin himself!
+</line><line>Andistan'dhin:
+............
+</line><line>Payne:
+Mr. Wright, will you stop at nothing to accuse Mr. Andistan'dhin?! Your Magistry, please don't listen to these trumped-up charges. The defense is grasping!
+</line><line>Phoenix:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Phoenix:
+The treasure box can only be opened with the key Mr. Andistan'dhin holds. Who else could have stolen the treasure?
+</line><line>Payne:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest?cb=20210615182206" class="image"><img alt="SoJ Objection!" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="260" height="183" data-image-name="SoJ Objection!.png" data-image-key="SoJ_Objection%21.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/aceattorney/images/f/f9/SoJ_Objection%21.png/revision/latest/scale-to-width-down/260?cb=20210615182206" class="lazyload" /></a>
+</line><line>Payne:
+As I said, the accused stole the treasure by forcing open the box! Your Magistry, I call for a swift ruling!
+</line><line>Judge:
+............ I'm not ready to give my verdict yet.
+</line><line>Payne:
+WHAAAAAAAAAAAAAAAAAT?!
+</line><line>Judge:
+The defense has successfully presented a new possibility in this case.
+</line><line>Phoenix:
+<textEffects>(Yes! Finally, a tiny shred of hope!)</textEffects>
+</line><line>Judge:
+Mr. Andistan'dhin... Would you care to make any statements in response to the defense's claims?
+</line><line>Andistan'dhin:
+............ GRAAAAAAAAAAAAAAAAAAAAAAAAAGH! This is all BULL! My noggin's a rage cage and it's ready to EXPLODE, baby!
+</line><line>Judge:
+Instructor Andistan'dhin! Please calm yourself!
+</line><line>Andistan'dhin:
+I'm not gonna take it! No, I ain't gonna take it! I dutifully watched over that treasure with pride... ...and now I'm getting accused of stealin' it?! THIS LAWYER IS A LYING SCUMBAG!
+</line><line>Phoenix:
+<textEffects>(Eep!)</textEffects>
+</line><line>Andistan'dhin:
+You better believe I got something to say! Open up your ear holes, sheeple! LET'S ROCK! DEATH TO THE LYING LAWYER!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects>
+<textEffects>-- Lying Lawyer --</textEffects></captions>
+<line>Andistan'dhin:
+Steal the Founder's Orb? Me?! I did it?! This lying lawyer's insults know no limit!
+All this time, I guarded the orb faithfully. Sacred duty to the Holy Mother, easy to see.
+Hands unclean, the accused did the deed. Forced the box open. No key did he need.
+Lying lawyer! Condemn him to hell! Kick him, throw him, into a prison cell!
+</line>
+<hr />
+<line>Judge:
+All right. We've now heard from both sides. Either the treasure box was forced open by the accused, as the witness claims... ...or, Mr. Andistan'dhin opened it... ...as the defense claims. Defense. This is your last chance to cross-examine the witness.
+</line><line>Phoenix:
+Yes, Your Magistry.
+</line><line>Judge:
+If you are unsable to prove your assertions by the end of this cross-examination...
+</line><line>Payne:
+...Then the <textEffects>DC Act</textEffects> will come into play, and both you and the accused will lose your lives.
+</line><line>Phoenix:
+I understand. <textEffects>(Life or death! It all comes down to this!)</textEffects>
+</line><line>Ahlbi:
+Mr. Wright...
+</line><line>Phoenix:
+Don't worry, Ahlbi. I'm here to defend you! I promise it'll be all right.
+</line><line>Ahlbi:
+Thank you. I believe in you, Mr. Wright! I know you can win this for us! And, after we win... we can go see Miss Maya... together!
+</line><line>Phoenix:
+It's a deal! <textEffects>(I can't let Ahlbi down. I have to win this trial! Somehow, I have to prove that only Andistan'dhin could've stolen the treasure!)</textEffects>
+</line><line>Andistan'dhin:
+Do your worst, lawyer-trash! This is your requiem! The last song you'll ever hear on this mortal coil!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross-Examination</textEffects>
+<textEffects>-- Lying Lawyer --</textEffects></captions>
+<line>Andistan'dhin:
+<textEffects>Steal the Founder's Orb? Me?! I did it?! This lying lawyer's insults know no limit!</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>The real method to open the lock, you say?! Delusional, man! There ain't no other way!</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Andistan'dhin:
+<textEffects>All this time, I guarded the orb faithfully. Sacred duty to the Holy Mother, easy to see.</textEffects>
+</line>
+
+<line>Andistan'dhin:
+<textEffects>Hands unclean, the accused did the deed. Forced the box open. No key did he need.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Andistan'dhin:
+<textEffects>Khura'inese butterfly from the 7th century, Carries the mitamah -- so elementary.</textEffects>
+</line>
+
+
+</td></tr></tbody></table>
+<line>Andistan'dhin:
+<textEffects>Only the Mitamah Key unlocks the treasure. Force it, and reap the founder's displeasure!</textEffects>
+</line>
+
+
+<line>Andistan'dhin:
+<textEffects>Lying lawyer! Condemn him to hell! Kick him, throw him, into a prison cell!</textEffects>
+</line>
+
+<line>
+</line>
+
+
+
+<hr />
+<line>Phoenix:
+Just a minute, Mr. Andistan'dhin. You just called your key the "<textEffects>Mitamah Key</textEffects>," didn't you?
+</line><line>Andistan'dhin:
+Ah!
+</line><line>Phoenix:
+But didn't you originally say it's called the "<textEffects>Magatama Key</textEffects>"?!
+</line><line>Andistan'dhin:
+Gaaaaagh!
+</line><line>Judge:
+The <textEffects>Mitamah Key</textEffects>? What's that?
+</line><line>Phoenix:
+I don't know, Your Magistry. But, apparently, it's a rather crucial question.
+</line><line>Andistan'dhin:
+Wh-What? What's the big deal? S-So I said the wrong thing. So what? Simple slip of the tongue!
+</line><line>Payne:
+An "A" for effort, Mr. Wright, but your grandstanding betrays your desperation. I'm afraid a small slip of the tongue like that adds absolutely nothing to your argument.
+</line><line>Judge:
+What say you, defense? Is it an important detail?
+</line><line>Phoenix:
+<textEffects>(Judging by Andistan'dhin's reaction... ...I'd say it's everything my argument needs!)</textEffects> Yes, Your Magistry. It's very important. This key is apparently not the "Magatama Key," but rather, the "<textEffects>Mitamah Key</textEffects>." And I believe this discrepancy holds great significance for the defense!
+</line><line>Andistan'dhin:
+Naw, man. Just a meaningless mistake. Insignificant! Hmph. You're riding the crazy train to nowhere, lawyer-man!
+</line><line>Payne:
+Your Magistry, please don't pay the defense any heed. It's all nonsense.
+</line><line>Judge:
+Hmm... To tell the truth, I'm not really clear on what the defense is driving at myself. However... I am eager to find out.
+</line><line>Payne:
+What?!
+</line><line>Judge:
+Defense, you will explain yourself like your life literally depends on it... because it does. Now, then. Is the name of the key an important detail?
+</line><line>Phoenix:
+Yes, it's an absolutely important detail! <textEffects>(...I think.)</textEffects> Because the Mitamah Key is connected to the Founder's Orb!
+</line><line>Judge:
+I see. Very well. In that case... ...please show the court the grounds on which you are basing this claim.
+</line><line>Phoenix:
+Th-The grounds, Your Magistry...?
+</line><line>Judge:
+You can of course show grounds, can you not, defense?
+</line><line>Phoenix:
+O-Of course! <textEffects>(What else can I say? Nngh... I have to come up with something! Anything! Even if it's just a bluff... The Mitamah Key... "Mitamah"... Hmm... There has to be something somewhere that ties "mitamah" and the orb together...)</textEffects>
+</line><line>Judge:
+Don't keep me waiting, defense. <textEffects>What evidence shows a connection between the Mitamah Key and the Founder's Orb?</textEffects>
+</line>
+
+
+<line>Judge:
+What's that? The <textEffects>Song of Ceremony</textEffects>...?!
+</line><line>Phoenix:
+<textEffects>(All this time... The answer was right there in front of me! It's right there in the Song of Ceremony performed during the Dance of Devotion!)</textEffects> Your Magistry! The Song of Ceremony tells of the treasure of the founder of Khura'inism. But hidden within its lyrics... ...is the secret behind <textEffects>how to really open the treasure box</textEffects>!
+</line><line>Judge:
+O...
+</line><line>Payne:
+Holy...
+</line><line>Judge:
+MOTHEEEEEERRRR!
+</line><line>Andistan'dhin:
+Nngh...
+</line><line>Judge:
+But how can that be, defense?!
+</line><line>Phoenix:
+The Song of Ceremony contains the following lyrics: "When the butterfly embraces the <textEffects>mitamah</textEffects> The favor of the orb is bestowed." I believe the "mitamah" here refers to the "Mitamah Key."
+</line><line>Judge:
+W-Well, yes, it is the same word, but that doesn't mean...
+</line><line>Phoenix:
+We've been calling this key the "<textEffects>Magatama Key</textEffects>." And that's why I inserted the key into the lock with the magatama design on it. But that was obviously not the right way to use it.
+</line><line>Judge:
+And I suppose you know the "right" way?
+</line><line>Phoenix:
+<textEffects>I do, Your Magistry. To use this key properly, you have to first...</textEffects>
+</line>
+
+
+<line>Phoenix:
+If we turn the magatama shape upside-down like this... ...it becomes the Khura'inese symbol of the soul -- in other words, a <textEffects>mitamah</textEffects>!
+</line><line>Judge:
+Oh, my! You're absolutely right! But now what? What do you do with it? It's too big to fit into the lock that way!
+</line><line>Phoenix:
+Oh... Um...
+</line><line>Payne:
+Heh heh heh. I knew he was just bluffing. Bluffs and lies are the only tools of his trade after all!
+</line><line>Phoenix:
+<textEffects>(There must be some other place this key fits... but where? Let's see... What were the words to the Song of Ceremony again? "When the butterfly embraces the mitamah The favor of the orb is bestowed.")</textEffects> <textEffects>Where should the Mitamah Key actually be used?</textEffects>
+</line>
+
+
+<hr />
+<line>Judge:
+M-My goodness! The treasure box! It really opened!
+</line><line>Andistan'dhin:
+No way, man!
+</line><line>Payne:
+Wh-What?! NOOOOOOOOOOOOOOOOOO!
+</line><line>Phoenix:
+And that, ladies and gentlemen, is the real secret behind the Song of Ceremony. It's the true key to opening the treasure box! It's all over, Mr. Payne.
+</line><line>Payne:
+H-How so...?
+</line><line>Phoenix:
+Let's say someone was fooled into trying to force the front-facing lock open. Sadly for them, it won't budge. That's because the lock is, after all, just a decoy.
+</line><line>Judge:
+Th-Then, what you're saying is...
+</line><line>Phoenix:
+Neither the victim nor the defendant would've been able to open the box! They therefore had no way of stealing the treasure. The only one who could have stolen it is the one man who knew about the <textEffects>Mitamah Key</textEffects>: Pees'lubn Andistan'dhin!
+</line><line>Payne:
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!
+</line><line>Phoenix:
+But I'm not done yet! Please recall the scene of the crime! On the floor by Mr. Rohl's body... ...was the very unlocked, and very open treasure box! Only someone who knew how to open the box could've left it in that state.
+</line><line>Andistan'dhin:
+Mmmrrrrrgh!
+</line><line>Phoenix:
+And so! There can only be one true culprit. Admit it, Mr. Andistan'dhin! You're the one who killed Mr. Rohl!
+</line><line>Andistan'dhin:
+I-I... Uh... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH! GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH! Hah! Yah! Gragh! ...Huh? Cuckoo... Cuckoo...
+</line>
+<hr />
+<line>Andistan'dhin:
+Curse him... It's all his fault! Why'd he have to try and steal the treasure...?! Why'd I have to spot him with that box... ...on my way to the storeroom after the morning dance? It's his fault I had to cause that blackout and clock him good! I couldn't let my secret get out! Nobody could know the treasure box was empty! I'd lose my position as head monk... Who knows what else they'd do to me?! I couldn't let...! I had to... I had to stop him...!
+</line>
+<hr />
+<line>Judge:
+............ What a shocking development... I can scarcely believe it... Nothing like this has ever happened since the DC Act was enacted twenty-three years ago.
+</line><line>Payne:
+Nngh... No... My perfect, unblemished record... destroyed... ...The Incredible Payne... ruined... NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!
+</line><line>Gallery:
+</line>
+<captions aligned="center">Did that lawyer really win? I can't believe it! No way! This can't be happening!</captions>
+<line>
+Judge:
+Peace! I said peace! Honestly speaking, I'm just as shocked as everyone else. But the truth has been made known, so it's time for me to give my verdict. In the name of the Holy Mother... ...this court finds the accused, Ahlbi Ur'gaid...
+</line>
+<captions aligned="center"><b>Not Guilty</b></captions>
+<hr />
+<captions aligned="center"><textEffects>April 24, 1:36 PMHigh Court of Khura'in - Accused Lobby</textEffects></captions>
+<line>
+Phoenix:
+<textEffects>(Hmm... There's still quite a commotion... The people in the gallery show no sign of clearing out.)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">I can't believe it... "Not guilty"! I'm still in shock... Can you believe that guy?</captions>
+<line>
+Phoenix:
+<textEffects>(I can feel everybody's eyes on me...)</textEffects>
+</line><line>Gallery:
+</line>
+<captions aligned="center">This can't be happening! It's impossible! O Holy Mother, preserve us!</captions>
+<line>
+Phoenix:
+<textEffects>(I've never been in a defendant lobby quite this uncomfortable...)</textEffects>
+</line><line>Ahlbi:
+Mr. Wright!
+</line><line>Phoenix:
+Oh, Ahlbi!
+</line><line>Ahlbi:
+Thank you! Thank you so much for what you did for me!
+</line><line>Shah'do:
+Ruff! Ruff!
+</line><line>Phoenix:
+I'm just glad it turned out okay! <textEffects>(It was touch and go there for a while...)</textEffects>
+</line><line>Ahlbi:
+I'm really sorry, Mr. Wright. I... I had a really hard time trusting you at first...
+</line><line>Phoenix:
+That's okay, Ahlbi. I know how unpopular lawyers are in this country. But how did it ever get this way in the first place?
+</line><line>Ahlbi:
+Allow me to explain...! At least, I wish I could explain... But I don't really know why. I never even questioned it before today. By the time I was born, all the lawyers were already gone. As far back as I can remember, verdicts have been based on Her Benevolence's Insights.
+</line><line>Phoenix:
+<textEffects>(Right... Rayfa... the royal priestess...)</textEffects>
+</line>
+<hr />
+<line>Rayfa:
+You would imply that the trials of this country are unfair? Do explain, outsider... ...how verdicts founded on truths imparted by the very souls of the dead lack impartiality.
+</line>
+<hr />
+<line>Phoenix:
+<textEffects>(For her part, I'm sure she really believes in what she says, but...)</textEffects> Even with Her Benevolence's Divination Séances, lawyers are still necessary. Without proper defense, people could easily wind up receiving wrongful convictions.
+</line><line>Ahlbi:
+Mr. Wright! Shhhhh!
+</line><line>Phoenix:
+Huh?
+</line><line>Ahlbi:
+Don't say that so loud! People might think you're a <textEffects>rebel</textEffects>! You could be arrested!
+</line><line>Phoenix:
+A rebel?
+</line><line>Ahlbi:
+That's right. One of those people going against our queen and the court system! They call themselves the <textEffects>Defiant Dragons</textEffects>. And they're led by a scary guy named <textEffects>Dhurke</textEffects>. They'll do anything to overthrow Her Eminence -- even commit crimes!
+</line><line>Phoenix:
+<textEffects>(Dhurke... I remember people in the gallery mentioning that name...)</textEffects>
+</line><line>Ahlbi:
+The things you're saying sound a lot like the stuff they say. But you're not scary like that Dhurke guy!
+</line><line>???:
+Pardon the intrusion. You. Yeah, you. I wanna talk to you, see? Flight, is it?
+</line><line>Phoenix:
+Wright, sir, Phoenix Wright. And you are...?
+</line><line>???:
+I'm the Khura'inese Minister of Justice. The name's <textEffects>Inga Karkhuul Khura'in</textEffects>.
+</line><line>Inga:
+I oversee the whole legal shebang. I was watching that three-ring circus in there.
+</line><line>Phoenix:
+You were? <textEffects>(Wow. The Minister of Justice... So he's in charge of the entire court system -- Defense Culpability Act and all...)</textEffects>
+</line><line>Ahlbi:
+M-Minister Inga... How are you, sir?
+</line><line>Inga:
+Run along, mini-monk. Grownups are talking here.
+</line><line>Ahlbi:
+Y-Yes, sir. Very sorry, sir...
+</line><line>Phoenix:
+M-May I help you with something?
+</line><line>Inga:
+Just wanted a good look at you. Guys like you aren't exactly a dime-a-dozen around here! Huh... Well, then.
+</line><line>Phoenix:
+<textEffects>(He's eyeing me like I'm some kind of exotic creature in a cage...)</textEffects>
+</line><line>Inga:
+Oh yeah, might as well share this little morsel with you. Turns out Rohl was a seasoned thief -- a repeat offender, see. Had my men look into it, and they found all the booty he'd pilfered right there in his digs.
+</line><line>Ahlbi:
+But he seemed like such a nice man... Why, Mr. Rohl, why...?
+</line><line>Inga:
+Guess he was doing it for the family. What a mook.
+</line><line>Ahlbi:
+A-A "mook"?! How can you say that...?!
+</line><line>Inga:
+Hmph. Guess that kind of sob story gets you common folk all misty-eyed, huh. Anyway, another thing... I had my men check out that Andistan'dhin fella, too. He wasn't the one with the sticky fingers. It's the insurgents.
+</line><line>Ahlbi:
+What?!
+</line><line>Inga:
+They put the squeeze on our head monk, apparently. So he gave up the Founder's Orb and tried to keep it hush-hush.
+</line><line>Phoenix:
+Wow. I see. Thank you for letting me know.
+</line><line>Inga:
+Yeahhhh... Say, White. That was a cute li'l number you pulled in my courtroom today, wasn't it? First "not guilty" ruling in twenty-three years... You're making waves, see? Stirring the pot. Catch my drift?
+</line><line>Phoenix:
+Oh... Well, I... <textEffects>(Yikes! I'm in for it now!)</textEffects>
+</line><line>Inga:
+Hmph. But thanks to that song and dance, we know our precious national treasure got nicked. So I'm gonna call it a wash, and let it slide this time.
+</line><line>Phoenix:
+<textEffects>(But all I did was defend the accused...)</textEffects>
+</line><line>Inga:
+You'd do best to read between the lines here, chump... Yer standing on thin ice, you get my drift? Even a dirty, no-goodnik punk knows to cash in his chips before the house steps in.
+</line><line>Phoenix:
+!
+</line><line>Inga:
+Do us both a favor, and keep an eye on the path you're walking down... You never know whose toes you might be steppin' on. This ain't your turf, buddy. Never forget whose soil it is you're standin' on.
+</line><line>Ahlbi:
+Yikes! He was kind of scary, wasn't he?
+</line><line>Phoenix:
+Yeah, well, no use worrying about it. We have more important things to think about. Such as when can we continue the sightseeing tour?
+</line><line>Ahlbi:
+Tour?! Ooh, anytime, sir! We still have plenty of time until Miss Maya's training ends! And there are still lots more temples to see, and all kinds of local foods to eat! I can show you the natural beauty of the area, and the waterfalls used for training! And I haven't shown you the breathtaking mountain view from the Plaza of Devotion yet! And there's this place where they dangle you off a really steep cliff that offers your soul a great view of the Twilight Realm! And walking on a bed of nails doubles as a foot massage!
+</line><line>Phoenix:
+All right! All right! Slow down, Ahlbi! There's plenty of time!
+</line><line>Ahlbi:
+And when we're done with all that, we can go see Miss Maya together!
+</line><line>Phoenix:
+Yeah, you bet! <textEffects>(Maya... I wonder how she's doing. Hope she's okay...)</textEffects>
+</line>
+<hr />
+<line><i>Anime cutscene</i>
+Man:
+So, how about that "not guilty," Dhurke?
+</line><line>Dhurke:
+I heard. Sounds like the winds of change are beginning to stir.
+</line>
+<hr />
+<div style="text-align: right;">End</div>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+</xml>

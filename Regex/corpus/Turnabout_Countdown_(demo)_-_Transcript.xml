@@ -1,0 +1,271 @@
+<xml>
+
+<title>Turnabout Countdown (demo)</title>
+
+<line>
+</line>
+</th></tr>
+<tr>
+<td class="navbox1rowname">
+</td>
+<td colspan="2" class="navbox1rowdata">
+<line>Phoenix:
+Um, Athena, you remember how to conduct a cross-examination, right?
+</line><line>Athena:
+What?! Of course I do! What kind of lawyer would I be if I didn't?!
+</line><line>Phoenix:
+Now, now! Don't get upset! But why don't you humor me with a little review...?
+</line><line>Athena:
+You got it! Basically, we examine a witness's <textEffects>testimony</textEffects>... and compare it against the <textEffects>Court Record</textEffects>, searching carefully for any <textEffects>inconsistencies</textEffects>. This <textEffects>green text</textEffects> represents a witness's testimony. Touch the right arrow to advance to the next statement of the testimony. Touch the left arrow to go back to the previous statement. Pay close attention to the testimony, and when you've found an inconsistency... touch "<textEffects>Present</textEffects>" (R) to open the Court Record! The Court Record contains information on all the evidence we have at our disposal. You can use it to look for facts that conflict with what the witness has said. When you find something, "<textEffects>Present</textEffects>" (X) that evidence to refute the witness's statement!
+</line><line>Phoenix:
+What if nothing conflicts with the witness's testimony?
+</line><line>Athena:
+Well, that's when you "<textEffects>Press</textEffects>" (L) the witness for more information. Find any <textEffects>inconsistencies</textEffects> or <textEffects>lies</textEffects> in the testimony and reveal them to the court. That's what <textEffects>cross-examination</textEffects> is all about!
+</line><line>Phoenix:
+Looks like you remember it just as I taught it. <textEffects>(And, thanks to you, I remember it now, too!)</textEffects>
+</line><line><i>Leads to:</i>
+"Your Honor, I'm ready to cross-examine the witness now!"
+</line>
+</td></tr></tbody></table>
+<line>
+</line>
+
+<line>Phoenix:
+Your Honor, I'm ready to cross-examine the witness now!
+</line>
+<hr />
+<captions aligned="center"><textEffects>Cross-Examination</textEffects></captions>
+<captions aligned="center"><textEffects>-- When the Bomb Went Off --</textEffects></captions>
+<line>Tonate:
+<textEffects>THE BOMB WAS ORIGINALLY DISARMED BY ME, THEN TRANSPORTED HERE AS EVIDENCE.</textEffects>
+</line>
+
+<line>Tonate:
+<textEffects>BOMB NAME: HH-3000 OPERATED BY TIMER OR WITH A REMOTE</textEffects>
+</line>
+
+<line>Tonate:
+<textEffects>I WAS WATCHING FROM THE GALLERY WHEN I SUDDENLY BECAME ALARMED.</textEffects>
+</line>
+
+<line>Tonate:
+<textEffects>I SAW THAT THE BOMB'S TIMER WAS COUNTING DOWN.</textEffects>
+</line>
+
+
+<line>Athena:
+So you're trying to find testimony that conflicts with the evidence, right?
+</line><line>Phoenix:
+That's right. So the first step is listening carefully to Mr. Tonate's testimony. Then, it's a matter of taking a look at any evidence that seems relevant.
+</line><line>Athena:
+Remember that you can touch "<textEffects>Present</textEffects>" (R) to check the evidence in the Court Record! If you find evidence that conflicts with the testimony, "<textEffects>Present</textEffects>" (X) it! Let's see... This testimony is about when the bomb went off... So the state of the bomb at that time must be pretty important!
+</line><line>Phoenix:
+<textEffects>(Hmm... A bomb that didn't look like a bomb because it was inside a stuffed animal...)</textEffects>
+</line>
+<hr />
+<line>Phoenix:
+So you could see the bomb's timer counting down, is that right?
+</line><line>Tonate:
+<textEffects>OF COURSE. I CLEARLY SAW IT COUNTING DOWN TO ZERO.</textEffects>
+</line><line>Phoenix:
+And I say... that you are CLEARLY lying!
+</line><line>Tonate:
+<textEffects>WHAT ARE YOU TALKING ABOUT?</textEffects>
+</line><line>Phoenix:
+There is no way you could have seen the bomb's timer. After all, the bomb was concealed inside a stuffed animal.
+</line><line>Tonate:
+!
+</line><line>Phoenix:
+Mr. Tonate! How can you claim to know the bomb was about to go off... when you couldn't even see the timer?!
+</line><line>Tonate:
+<textEffects>WELL... I... I...</textEffects>
+</line><line>Athena:
+Ooh! That was great, Mr. Wright! You found a contradiction right off the bat!
+</line><line>Phoenix:
+Aw, it was nothing. <textEffects>(Nothing short of amazing, that is! All right, I'm starting to feel like I'm in the zone here. I can do this!)</textEffects>
+</line><line>Judge:
+Very impressive, Mr. Wright. I see the great "Turnabout Terror" is back! Ah, this brings back memories...! Now those days were the stuff of legends! Oh, how you would tear through trials with wild accusations and unabashed bluffing!
+</line><line>Phoenix:
+Uh... that actually doesn't sound like such a flattering legend, Your Honor...
+</line><line>Judge:
+Witness! How do you explain the contradiction in your testimony?
+</line><line>Tonate:
+<textEffects>WELL, LET ME SEE... I... UH... OH, YES! YES, OF COURSE! I REMEMBER NOW! THE SOUND! I KNEW BECAUSE OF THE SOUND! WHEN THE TIMER OF THIS TYPE OF BOMB IS SWITCHED ON, IT MAKES A BEEPING SOUND. BEEP... BEEP... BEEP... IT IS THE SOUND OF THE COUNTDOWN.</textEffects>
+</line><line>Judge:
+I suppose it would be possible to notice that, even with the bomb inside the stuffed animal.
+</line><line>Tonate:
+<textEffects>I SIMPLY MADE A MISTAKE. MY BAD.</textEffects>
+</line><line>Phoenix:
+What? No way! <textEffects>(Why am I not surprised...?)</textEffects>
+</line><line>Payne:
+The prosecution believes it's time to hear from the defendant herself, Your Honor.
+</line><line>Judge:
+Very well. Please show the defendant to the witness stand.
+</line>
+<hr />
+<line>Woods:
+............ I... I don't really remember much... about when the bomb went off... I... think it's probably... the shock of it all...
+</line><line>Payne:
+Hmph! What a convenient excuse!
+</line><line>Athena:
+Mr. Wright... Can I go and give that prosecutor a smack?!
+</line><line>Phoenix:
+Wh-What?! Of course not! Do we have to review Courtroom Manners 101 again?!
+</line><line>Athena:
+But this is so painful for Junie! She's so scared... so very scared!
+</line><line>Phoenix:
+<textEffects>(Looks like Athena's picking something up with her heightened sense of hearing... And it sounds like this time, it's the pain in Ms. Woods's voice.)</textEffects>
+</line><line>Payne:
+If you would, Ms. Woods, please testify to this court about when the bomb went off.
+</line>
+<hr />
+<captions aligned="center"><textEffects>Witness Testimony</textEffects></captions>
+<captions aligned="center"><textEffects>-- When the Bomb Went Off --</textEffects></captions>
+<line>Woods:
+Well, that day... *cough* I was watching from the gallery... *cough, cough* The bomb went off... *cough* *cough* And rubble started falling... It fell on top of me... *cough, cough*
+</line><line>Athena:
+Junie looks like she's in pain, being forced to recall the bombing like this... Why can't the prosecution see that she can't even get her words out?!
+</line><line>Phoenix:
+<textEffects>(This isn't working... Hey, wait a minute! If she can't tell us what she wants to say, there's only one thing to do! Yes, now's the perfect time to use Athena's power! Athena has a unique ability, you see. With her special sense of hearing, she can discover a witness's true feelings. In essence, she can discern <span style="color:#E16935">emotions</textEffects> from the tone of a person's voice. At a time like this, all I can do is leave it to Athena and her special ability.)</span> Athena, I need you to do something for me. I want you to use the analytical psychology you studied... and listen to Ms. Woods's <textEffects>TRUE testimony</textEffects>.
+</line><line>Athena:
+...Okay, Mr. Wright! I'll give it a try!
+</line><line>Phoenix:
+So your holographic thingamabob can show us <textEffects>how Ms. Woods is feeling</textEffects>, right?
+</line>
+<hr />
+<line>Athena:
+In a nutshell, yes. The <textEffects>emotions</textEffects> and <textEffects>images</textEffects> that I picked up on just now while listening to her testimony... I can enter them into my computer and use its Mood Matrix program to analyze them. These <textEffects>mood markers</textEffects> here reflect fluctuations in Junie's emotions. When she feels happy or is enjoying the memory, the "<textEffects>Happy</textEffects>" marker will light up. When she feels angry or frustrated, the "<textEffects>Angry</textEffects>" marker will react. When she feels sadness or is frightened by a memory, the "<textEffects>Sad</textEffects>" marker will blink. And when she feels surprised or confused, the "<textEffects>Surprised</textEffects>" marker will let us know.
+</line><line>Phoenix:
+So, basically, with your special ability and that computer's Mood Matrix program... you can let me know the emotions Ms. Woods is feeling during her testimony. Is that how it works?
+</line><line>Athena:
+You've got it!
+</line><line>Phoenix:
+<textEffects>Okay! It's time to listen to Ms. Woods's <span style="color:#E16935">true testimony</textEffects>!)</span>
+</line>
+<captions aligned="center"><b>NOISE LEVEL</b><b>100%</b></captions>
+<hr />
+<line>Woods:
+<textEffects>Well, that day... *cough*</textEffects>
+</line><line>Woods:
+<textEffects>I was watching from the gallery... *cough, cough*</textEffects>
+</line><line>Woods:
+<textEffects>The bomb went off... *cough*</textEffects>
+</line><line>Woods:
+<textEffects>*cough* And rubble started falling...</textEffects>
+</line><line>Woods:
+<textEffects>It fell on top of me... *cough, cough*</textEffects>
+</line><line>Athena:
+I think I have a good grasp on Junie's emotional state now.
+</line><line>Phoenix:
+<textEffects>(This power of Athena's is incredible...)</textEffects>
+</line><line>Athena:
+And I'm seeing an <textEffects>unexpected emotion</textEffects> that's inconsistent with her testimony!
+</line><line>Phoenix:
+What?! Already?!
+</line><line>Athena:
+Look at this! When she says, "It fell on top of me," the "<textEffects>Happy</textEffects>" marker is reacting!
+</line><line>Phoenix:
+Well, look at that. That IS odd!
+</line><line>Athena:
+There must be a reason for this contradictory emotion! We just need to do some digging! When you find an unexpected emotion... touch "<textEffects>Pinpoint</textEffects>" (L)... and then select the unexpected emotion or reaction from the four mood markers.
+</line><line>Woods:
+<textEffects>It fell on top of me... *cough, cough*</textEffects>
+</line>
+
+<hr />
+<line>Phoenix:
+Ms. Woods! As the rubble was falling, was there something that made you feel happy?
+</line><line>Woods:
+What?! *cough*
+</line><line>Phoenix:
+Take your time and see if you can remember what happened.
+</line><line>Woods:
+Um... Let's see... Just as I was about to escape the courtroom... rubble started falling! I thought I was done for...! And then... Oh, I remember! Just then... Apollo came and rescued me!
+</line><line>Phoenix:
+<textEffects>(So that's when Apollo got hurt...)</textEffects> It looks like we were able to make Ms. Woods recall something after all.
+</line><line>Athena:
+I'll just input this new information and make an update. Now, let's continue with Junie's true testimony!
+</line><line>Phoenix:
+So when I find an unexpected emotion, I should touch "<textEffects>Pinpoint</textEffects>" (L), right?
+</line><line>Athena:
+That's right! And then you select the unexpected emotion from the mood markers. If we can find the reason for the discord in her voice... Then we should be able to draw new testimony out!
+</line>
+<hr />
+<line>Woods:
+<textEffects>I tried to run, but I was too slow.</textEffects>
+</line><line>Woods:
+<textEffects>Before I could get away, the bomb went off.</textEffects>
+</line><line>Woods:
+<textEffects>I was so startled I tripped! Then rubble started falling on me.</textEffects>
+</line><line>Woods:
+<textEffects>I thought I was done for...</textEffects>
+</line><line>Woods:
+<textEffects>But then Apollo came and rescued me!</textEffects>
+</line>
+
+<line>Athena:
+I can sense some discord in Junie's voice when I listen to her testimony. There must be an unexpected emotion here somewhere! When you find an unexpected emotion... touch "<textEffects>Pinpoint</textEffects>" (L)... and then select the unexpected emotion from the four mood markers.
+</line>
+<hr />
+<line>Phoenix:
+You were happy when Mr. Justice rescued you, weren't you?
+</line><line>Woods:
+Yes... I was happy and relieved.
+</line><line>Phoenix:
+But was there also something you felt sad about at the same time?
+</line><line>Woods:
+Sad?
+</line><line>Phoenix:
+The reason I ask is... when you were describing how you were rescued, we sense a little sadness, too.
+</line><line>Woods:
+......Oh! I think it was probably because of Bum Rap Rhiny.
+</line><line>Phoenix:
+Bum Rap Rhiny? <textEffects>(Well, what do you know? Something new!)</textEffects>
+</line><line>Woods:
+That's right. I... I brought my stuffed animal, Bum Rap Rhiny, to watch the trial with me. Bum Rap Rhiny and Phony Phanty are brothers.
+</line><line>Phoenix:
+<textEffects>(Don't tell me those things are part of some kind of "collectible" craze...)</textEffects>
+</line><line>Woods:
+I had Bum Rap Rhiny with me while I was watching the trial... But it wasn't until Apollo saved me that I realized I'd lost him as I was running away... My poor Rhiny! A victim of that terrible bomb!
+</line><line>Athena:
+Mr. Wright! I don't sense any discord in Junie's voice anymore! I think we managed to draw out all of her testimony!
+</line><line>Woods:
+Oh, I know! You can see what he looks like in this poster! This little guy is Bum Rap Rhiny.
+</line><line>Phoenix:
+<textEffects>(Say, that tail looks mighty familiar... Aha! It's all starting to make sense now!)</textEffects> Your Honor! The defendant has just made a very important new statement! I assert that the existence of this "Bump Rap Rhiny" negates the prosecution's evidence!
+</line><line>Judge:
+Wh-What's this?!
+</line><line>Phoenix:
+<textEffects>(Well, it might've taken a little longer than ten minutes... but it looks like I'm taking you out after all, Payne.)</textEffects>
+</line><line>Judge:
+I'm afraid I don't follow, Mr. Wright. Perhaps you could clarify your assertion for us. <textEffects>Which of the prosecution's pieces of evidence does the existence of Bum Rap Rhiny negate?</textEffects>
+</line>
+
+
+<line>Phoenix:
+Ms. Woods, I know this trial has been very hard for you. But you can relax now. You are, without a doubt, innocent.
+</line><line>Judge:
+Mr. Wright! What wild assertion are you making now?!
+</line><line>Phoenix:
+My "wild assertion" is simply this: the two stuffed animals were mixed up. The tail the defendant's fingerprints were found on wasn't that of Phony Phanty. It was the tail of her gallery companion, Bum Rap Rhiny!
+</line><line>Payne:
+WHAAAAAAAAAAAT?!
+</line><line>Athena:
+You did it! You did it, Mr. Wright! You turned it right around!
+</line><line>Phoenix:
+It's too early to celebrate, Athena. We still have a long road of refuting ahead of us!
+</line><line>Athena:
+Oh. *ahem* Right, Mr. Wright. But I just know we'll win this thing for Junie! We'll crush anyone who even doubts her innocence!
+</line><line>Phoenix:
+Let's get Ms. Woods that not guilty verdict together, you and me! <textEffects>(And reclaim the legendary title of "Ace Attorney"!)</textEffects>
+</line>
+<hr />
+<hr />
+<hr />
+
+
+
+
+
+
+</xml>

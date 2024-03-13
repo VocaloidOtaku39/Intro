@@ -1,0 +1,219 @@
+<xml>
+
+<title>Flour Everywhere</title>
+
+<line>
+<i>E. Shopping Area</i>
+</line><line>Maya:
+Hey...it's Patty's shop! Maaaaan, this place really brings back some memories!
+</line><line>Luke:
+Mmmm... I recognise this yummy smell!
+</line><line>Espella:
+I want to surprise Aunt Patty today, so I've kept our visit a <textEffects>secret</textEffects>.
+</line><line>Layton:
+Ah, Mrs Eclaire's bakery... It has been a while. I hope she's as jovial as ever.
+</line><line>Constantine:
+Woof! Woof!
+</line><line>Phoenix:
+Hey, look! It's Constantine. I wonder what he's doing here.
+</line><line>Constantine:
+Grrrrr...
+</line><line>Maya:
+Hey, Nick! Check out those pearly whites. He looks really happy to see you!
+</line><line>Phoenix:
+<textEffects>Happy</textEffects> to see me? More like happy to have his favourite blue chew toy...
+</line><line>Eve:
+Meow...
+</line><line>Luke:
+Oh, look! Eve's here too. And looking as cute as ever!
+</line><line>Maya:
+I wonder if Constantine and Eve are <textEffects>friends</textEffects> now... Hey, Luke. Why don't you ask and find out?
+</line><line>Luke:
+Umm...okay. But you do realise these things are pretty personal questions, Maya. Even for a dog... So, Constantine... Are you and Eve on friendly terms now?
+</line><line>Constantine:
+Woof! Ruff...woof!
+</line><line>Luke:
+He said: "Friendship has no place on the battlefield! 'Tis nothing more than a fool's errand for a dog of knightly honour!"
+</line><line>Maya:
+Affectionate as ever, Constantine! Not sure I'd call this place a "battlefield", exactly...
+</line><line>Phoenix:
+Did anyone else notice that Eve is chewing on an éclair?
+</line><line>Espella:
+Oh, Eve... You can't go eating Aunt Patty's pastries like that!
+</line><line>Eve:
+...Meow.
+</line><line>Luke:
+Just a moment, Espella! Eve said that the éclair was a <textEffects>present</textEffects> from Constantine!
+</line><line>Maya:
+Wow! Really...? Luke, do that "animal whisper" thing again, and dig up some more dirt!
+</line><line>Luke:
+Uhh... Okay, Maya. You've really taken quite an interest in their personal lives, haven't you? Is it true, Constantine? Did you give Eve that éclair as a present?
+</line><line>Constantine:
+Woof, ruff!
+</line><line>Luke:
+Constantine said that he doesn't recall having given anyone a present.
+</line><line>Maya:
+Hear that, Nick? Constantine gave Eve a present. You could learn a thing or two from him...
+</line><line>Phoenix:
+Huh...? What could I possibly learn from a dog?!
+</line><line>Constantine:
+Grrrrr...rrrrr... Ruff ruff ruff...woof!
+</line><line>Phoenix:
+AAAAAAARGH! AAAAAAHH! Why me?! Why does he always bite me...?!
+</line><line>Layton:
+Perhaps he's merely expressing a fondness for you... Now then, shall we all go on in and see Mrs Eclaire?
+</line>
+<hr />
+<line><i>Bakery</i>
+</line><line>Luke:
+Wow...the smell of freshly baked bread!
+</line><line>Layton:
+This must be the work of a true artisan, Luke.
+</line><line>???:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/0/07/Shout_irassyai.xi_uk.png/revision/latest?cb=20170916223411" class="image"><img alt="Shout irassyai.xi uk" src="https://static.wikia.nocookie.net/aceattorney/images/0/07/Shout_irassyai.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170916223411" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout irassyai.xi uk.png" data-image-key="Shout_irassyai.xi_uk.png" data-relevant="1" /></a>
+</line><line>Barnham:
+Buy it. Take it. Eat it.
+</line><line>Layton:
+Hmm... It would appear we have found a baker quite proficient in the use of cutting-edge methods, Luke.
+</line><line>Luke:
+...He has such a fearsome expression as he's kneading that dough.
+</line><line>Layton:
+Rather than "kneading" the dough, I'd say he's "punishing it into submission", Luke.
+</line><line>Phoenix:
+I can almost hear the agonising screams of that poor, defenceless dough...
+</line><line>Maya:
+Yeah. I bet the poor lump is wishing it had never been made...
+</line><line>Espella:
+Um... Excuse me...Mr Barnham. ...The guests have arrived.
+</line><line>Barnham:
+Hm...? Well, well, well... If it isn't Sir Blue Knight, the daunting defender of justice! ...And the intrepid Sir Top Hat, no less! I welcome you back to Labyrinthia, and insist that you enjoy your stay.
+</line><line>Phoenix:
+I'd appreciate it if you wouldn't "insist" while drawing your sword and waving it in our faces...
+</line>
+<hr />
+<line>Barnham:
+Ah, the <textEffects>witch trials</textEffects>... They seem like but a dream from long ago... 'Tis hard to believe they truly happened.
+</line><line>Layton:
+Indeed, it is. Especially given how peaceful the town now seems.
+</line><line>Luke:
+But then... Why are you still wearing your <textEffects>armour</textEffects>, Mr Barnham?
+</line><line>Barnham:
+According to the mistress of the bakery, a baker's apron is his armour. Thus, I choose to wear my armour as my apron, while doing battle with the dough both fairly and squarely.
+</line><line>Maya:
+I've gotta admit, I'd expect nothing less from "Ex-Inquisitor" Barnham. He's baking Barnham-style, I guess.
+</line><line>Phoenix:
+You're not wrong, Maya... But I've gotta say...I never pictured you becoming a baker, Barnham.
+</line><line>Espella:
+Well, actually, Mr Barnham is only a <textEffects>part-time</textEffects> baker.
+</line><line>Maya:
+Just a little side job, huh?
+</line><line>Espella:
+He's kindly agreed to stay here for a while and help out in the shop.
+</line><line>Barnham:
+I, err...have recently found myself in need of some extra coin. What little I make here helps out a bit. And living here also means that Constantine gets to eat all the fresh éclair he desires.
+</line><line>Phoenix:
+<textEffects>(So that "present" to Eve was a leftover...)</textEffects>
+</line><line>Maya:
+Anyway, how come you need money so bad? Are you paying back a loan on that armour or something?
+</line><line>Layton:
+As fearlessly direct as ever, Miss Fey.
+</line><line>Barnham:
+Well, in truth...I am planning to use the extra money to buy something special. You could say...a <textEffects>gift</textEffects>, of sorts...
+</line><line>Maya:
+What?! Did you say "gift"? So, who's the lucky lady, Barnham?
+</line><line>Phoenix:
+...L-lucky lady? Assuming it IS for a girl, I wouldn't get your hopes up, Maya...
+</line><line>Barnham:
+........................ I-I have just noticed the dough for the bread rolls is now prime and ready for the flames! I-if you will excuse me...
+</line><line>Maya:
+Hey! Barnham...
+</line><line>Barnham:
+Soft doughy rolls, delight of Labyrinthia! May the fire's embrace bake you!
+</line><line>Luke:
+Professor! There goes that agonising scream from the dough again...and it's intensified!
+</line><line>Layton:
+Well, my boy, I'm sure it's all part and parcel of the roll-making process.
+</line><line>Maya:
+But I wonder... is Patty even <textEffects>paying</textEffects> him for any of this?
+</line><line>Phoenix:
+Well...since he's staying at the bakery too, I guess he's like a live-in <textEffects>apprentice</textEffects>.
+</line><line>Luke:
+An...apprentice? Is that normal for a bakery?
+</line><line>Layton:
+Hmm... Well, the apprenticeship system has been around since the Middle Ages...albeit not generally in the field of bread-making.
+</line><line>Maya:
+Anyway, worst-case scenario, I guess she'll at least be <textEffects>paying him in bread</textEffects>, right?
+</line><line>Phoenix:
+I suppose bread would be <textEffects>better than nothing</textEffects>...
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>Hold it right there... Did my ears deceive me...or did you just say "worst-case scenario"...?</textEffects></captions>
+<line>
+Phoenix:
+Th-that voice... I know that voice...
+</line><line>???:
+</line>
+<captions aligned="center"><textEffects>And what's more... ...I could have sworn I just heard the words "better than nothing".</textEffects></captions>
+<line>
+Maya:
+B-b-b-b-b-b-b-<textEffects>boss</textEffects>!
+</line><line>Phoenix:
+YIKES! I mean...h-hey there, <textEffects>Patty</textEffects>!
+</line><line>Patty:
+Now, I'm sure you both know what happens in MY bakery... when you belittle the importance of bread, do you not?
+</line><line>Maya:
+No... Not the rolling pin! Quick, Barnham! Help us! H-he's gone!
+</line><line>Patty:
+Right, you two... Prepare yourselves... Because there's no backing away now... from this delightfully challenging <textEffects>puzzle</textEffects> that has absolutely nothing to do with bread!
+</line>
+
+<line>
+Patty:
+Really, Espella... You should have let me know in advance that you were planning to invite everyone here! If I'd known, I could have prepared a big batch of my best hot buns!
+</line><line>Espella:
+I'm sorry, Aunt Patty... I wanted to surprise you.
+</line><line>Patty:
+Phoenix, Maya, how have you both been? I bet you're really rolling in the dough these days, aren't you?
+</line><line>Phoenix:
+Yeah, we can't complain, I mean, we make enough to get by. Unless...I wonder if we're talking about the same thing here...
+</line><line>Maya:
+I, uhh...don't think it matters either way, Nick.
+</line><line>Luke:
+Phew...looks like that puzzle helped calm Mrs Eclaire down a bit.
+</line><line>Layton:
+Indeed, Luke. I'm delighted to see that friendly smile once again.
+</line><line>Espella:
+Oh! I almost forgot...
+</line><line>Phoenix:
+What's up, Espella?
+</line><line>Espella:
+I need to prepare a <textEffects>present</textEffects> too...
+</line><line>Luke:
+Really? You too, Espella?
+</line><line>Maya:
+So...who's your present for, Espella?
+</line><line>Espella:
+It's for Eve... Her birthday's coming up soon.
+</line><line>Maya:
+Wow, no kidding? ...Eve's <textEffects>birthday</textEffects>, huh... ...Wait! Didn't Barnham say something about a super-special <textEffects>gift</textEffects>?
+</line><line>Phoenix:
+You don't mean...he's been baking a present for Eve's birthday?
+</line><line>Luke:
+Now that's a surprise! Do you think maybe Mr Barnham has a soft spot for Miss Eve?
+</line><line>Layton:
+I must confess, this is rather intriguing.
+</line><line>Maya:
+Aww! That's so <textEffects>romantic</textEffects>! Wouldn't you say, Nick?
+</line><line>Phoenix:
+Uh, y-yeah... I guess so.
+</line><line>Barnham:
+<a href="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest?cb=20170905154731" class="image"><img alt="Shout matta.xi uk" src="https://static.wikia.nocookie.net/aceattorney/images/7/75/Shout_matta.xi_uk.png/revision/latest/scale-to-width-down/260?cb=20170905154731" decoding="async" loading="lazy" width="260" height="156" data-image-name="Shout matta.xi uk.png" data-image-key="Shout_matta.xi_uk.png" data-relevant="1" /></a>
+</line><line>Barnham:
+I will say this but one time... Romance has no place on the battlefield. 'Tis nothing more than a fool's errand for a baker of knightly honour!
+</line><line>Phoenix:
+........................
+</line><line>Maya:
+........................ Boy... Like <textEffects>master</textEffects>, like <textEffects>dog</textEffects>...
+</line>
+<captions aligned="center">To Be Continued...</captions>
+</xml>

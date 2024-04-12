@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <title>My sample SVG</title>
+    <desc>My sample SVG</desc>
+    <text x="250" y="600">My sample SVG</text>
+    <text x="195" y="650">It's like drawing by programming!</text>
+    <text x="220" y="700">Created by Alyssa Hopple</text>
+    <text x="255" y="750">April 12, 2024</text>
+    
+    <!-- <g alignment-baseline="baseline">
+        
+        <line x1="20" y1="30" x2="500" y2="30" stroke="purple" stroke-width="5"/>
+        
+        <line x1="20" y1="30" x2="50" y2="500" stroke="green" stroke-width="5"/>
+        
+        <line x1="20" y1="30" x2="20" y2="500" stroke="green" stroke-width="5"/>
+        
+        
+        <line x1="20" y1="500" x2="500" y2="500" stroke="purple" stroke-width="50"/>
+        
+        <g class="specialShapes"> 
+            <line x1="100" y1="200" x2="100" y2="500" stroke="orange" stroke-width="5"/>
+            <circle cx="100" cy="200" r="80" fill="black" />
+            <circle cx="100" cy="200" r="70" fill="yellow" />
+        </g>
+        
+    </g> -->
+    
+    <g transform="translate(50, 500)">
+     <desc>ebb: transform="translate(x, y)" moves 0,0 over and own by the x and y value you input.
+      You can use this to move 0,0 down the screen to make it easier to plot things above it.
+      What goes *above* 0,0 can just be expressed using negative values.</desc>
+        
+      <line x1="0" y1="0" x2="500" y2="0" stroke="purple" stroke-width="10"/>
+        
+      <circle cx="250" cy="-250" r="70" fill="black" />
+        
+      <line x1="0" y1="0" x2="0" y2="-500" stroke="green" stroke-width="5"/>
+    </g>
+    
+    
+</svg>

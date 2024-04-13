@@ -3,11 +3,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <desc>My name, but progammed in SVG</desc>
     <g alignment-baseline="baseline">
-        
+        <!-- Uppercase A -->
         <line x1="20" y1="500" x2="150" y2="150" stroke="#8c00ff" stroke-width="5"/>
         <line x1="150" y1="150" x2="260" y2="500" stroke="#8c00ff" stroke-width="5"/>
         <line x1="85" y1="325" x2="205" y2="325" stroke="#8c00ff" stroke-width="5"/>
+        <!-- L -->
         <line x1="300" y1="150" x2="300" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <!-- Y -->
         <line x1="350" y1="300" x2="425" y2="400" stroke="#8c00ff" stroke-width="5"/>
         <line x1="450" y1="300" x2="375" y2="600" stroke="#8c00ff" stroke-width="5"/>
         <!-- First S -->
@@ -19,9 +21,16 @@
         <!-- Second S -->
         <line x1="625" y1="350" x2="725" y2="350" stroke="#8c00ff" stroke-width="5"/>
         <line x1="625" y1="350" x2="625" y2="425" stroke="#8c00ff" stroke-width="5"/>
-        <line x1="475" y1="425" x2="575" y2="425" stroke="#8c00ff" stroke-width="5"/>
-        <line x1="625" y1="425" x2="725" y2="500" stroke="#8c00ff" stroke-width="5"/>
-        <line x1="475" y1="500" x2="575" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="725" y1="425" x2="725" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="625" y1="425" x2="725" y2="425" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="625" y1="500" x2="725" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <!-- Lowercase A -->
+        <line x1="750" y1="350" x2="900" y2="350" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="750" y1="350" x2="750" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="750" y1="500" x2="900" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="900" y1="350" x2="900" y2="500" stroke="#8c00ff" stroke-width="5"/>
+        <line x1="900" y1="350" x2="950" y2="550" stroke="#8c00ff" stroke-width="5"/>
+        
         
     </g>
 </svg>
